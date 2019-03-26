@@ -48,3 +48,15 @@
   letter-spacing: 2px;
   text-transform: uppercase;
 }
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
