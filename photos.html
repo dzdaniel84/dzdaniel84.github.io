@@ -8,36 +8,223 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Teaching</title>
+    <title>Photography</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/personal.css" rel="stylesheet">
+    <link href="css/photos.css" rel="stylesheet">
 
   </head>
 
   <body>
-    <div class="home">
-
-    <h1 class="page-heading">Posts</h1>
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-        {% if post.layout != 'album' %}
-          <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-            <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h2>
+    <div class = "wrapper">
+      <nav id = "sidebar">
+        <ul class="list-unstyled components">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home //</a>
           </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About //</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="teaching.html">Teaching //</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link selected" href="photos.html">Photography //</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Other Projects //</a>
+          </li>
+        </ul>
+      </nav>
 
-  </div>
+      <div id = "content" class="container">
+        <h1 class = "header">Photography</h1>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/2632.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Lawrence Hall of Science</div>
+                <div class = "location">Berkeley, California</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/2294.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Street Signs</div>
+                <div class = "location">Zurich, Switzerland</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/4311.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Beaux Arts</div>
+                <div class = "location">Paris, France</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/0676.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Windy Day on Mount Tamalpais</div>
+                <div class = "location">Stinson Beach, California</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/0577.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Fiat Lux</div>
+                <div class = "location">Berkeley, California</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/0943.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">On Top of the Fortress</div>
+                <div class = "location">Salzburg, Austria</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/1488.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Belvedere Palace</div>
+                <div class = "location">Vienna, Austria</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/1496.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Tahoe Sunset I</div>
+                <div class = "location">Kings Beach, California</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/1522.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">4/20</div>
+                <div class = "location">Berkeley, California</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/1713.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Tahoe Sunset II</div>
+                <div class = "location">Sand Harbor, Nevada</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/1757.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Early Morning Fog</div>
+                <div class = "location">Morgan Hill, California</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/2037.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Over the City</div>
+                <div class = "location">Manhattan, New York</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/3877.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Tree and Butte</div>
+                <div class = "location">Grand Canyon, Arizona</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/2431.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Peter, on the American River</div>
+                <div class = "location">Colfax, California</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/3606.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Eyes of the Tiger</div>
+                <div class = "location">Clearlake, California</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/0638.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Maximilianeum</div>
+                <div class = "location">Munich, Germany</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/2580.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Volleyball Courts</div>
+                <div class = "location">Santa Monica, California</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="img/photography/3934.jpg" style="width:100%">
+              <div class="caption">
+                <div class = "maincaption">Lanterns at Westfield</div>
+                <div class = "location">San Francisco, California</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+      </div>
+    </div>
 
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>

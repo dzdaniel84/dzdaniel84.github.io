@@ -1,0 +1,20 @@
+
+
+.about-container {
+	margin-top: 40px;
+}
+
+.about-header {
+	font-family: "Lato";
+	font-weight: 700;
+	font-size: 32pt;
+	margin-top: 80px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+
+.about-subheader {
+	margin-bottom: 20px;
+}
