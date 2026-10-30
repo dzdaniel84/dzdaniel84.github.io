@@ -1,0 +1,3957 @@
+{
+  "mexico-001": {
+    "id": "mexico-001",
+    "src": "assets/photos/countries/mexico/283A4607-248f2446-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 01",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "d9cb2a56504ea74b47a1d8821fe64ca0aeb68fd92c8cba3d6e4f7b3f6c1d7883",
+    "_atlasOrder": 730
+  },
+  "mexico-002": {
+    "id": "mexico-002",
+    "src": "assets/photos/countries/mexico/283A4735-f3447116-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 02",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "2d01555b57491084a258377b46e999b92c5cc9e72bfacc197d063d049381fb35",
+    "_atlasOrder": 731
+  },
+  "mexico-003": {
+    "id": "mexico-003",
+    "src": "assets/photos/countries/mexico/283A5090-01f3f3e5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 03",
+    "country": "Mexico",
+    "location": "Palacio Postal, Mexico City",
+    "lat": 19.43569,
+    "lng": -99.1404,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palacio_de_Correos_de_M%C3%A9xico"
+    ],
+    "_imageSha256": "87aa6da688bbc6d174317e1b8489e08da527fad63553310216fa66921f6d1d54",
+    "_atlasOrder": 732
+  },
+  "mexico-004": {
+    "id": "mexico-004",
+    "src": "assets/photos/countries/mexico/283A5086-a036b5f5-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 04",
+    "country": "Mexico",
+    "location": "Palacio Postal, Mexico City",
+    "lat": 19.43569,
+    "lng": -99.1404,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palacio_de_Correos_de_M%C3%A9xico"
+    ],
+    "_imageSha256": "76d89a63225dbb07a06e5b1612f21d4bd4629e7d2fb5a6bb16398f34b750ff4b",
+    "_atlasOrder": 733
+  },
+  "mexico-005": {
+    "id": "mexico-005",
+    "src": "assets/photos/countries/mexico/283A5116-52813706-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 05",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "ba9fb97ff9984b24de4d45d31a9df6bbe18091180b17ca6886a7322e7a8a00d9",
+    "_atlasOrder": 734
+  },
+  "mexico-006": {
+    "id": "mexico-006",
+    "src": "assets/photos/countries/mexico/283A5119-e2bd38d5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 06",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "40810ee356d35d145e3c46bad8ecdc05cf8e5a08afd0e55f6c695c949d47acaf",
+    "_atlasOrder": 735
+  },
+  "mexico-007": {
+    "id": "mexico-007",
+    "src": "assets/photos/countries/mexico/283A5272-c28b59aa-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 07",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "2b22c0849aec29d1bad89d2e8d3be65466a89075b48fb6a3e929f18b684b5537",
+    "_atlasOrder": 736
+  },
+  "mexico-008": {
+    "id": "mexico-008",
+    "src": "assets/photos/countries/mexico/283A5312-303cdb59-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 08",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "e86c91ee92036337029b2b7c3176c2bf6e4aaf81c2844f94917da351bac7219d",
+    "_atlasOrder": 737
+  },
+  "mexico-009": {
+    "id": "mexico-009",
+    "src": "assets/photos/countries/mexico/283A5341-8000d48a-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Mexico · 09",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "1fd65a99355396245032cbbe1437504458fc4046fac4605e1e98ae9bee9866f3",
+    "_atlasOrder": 738
+  },
+  "mexico-010": {
+    "id": "mexico-010",
+    "src": "assets/photos/countries/mexico/283A5535-72b75679-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Mexico · 10",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "78454c7c6b84384ab614fb0a9e8eb7ea6fea37a87817bb5557cb9e7f5308f22d",
+    "_atlasOrder": 739
+  },
+  "mexico-011": {
+    "id": "mexico-011",
+    "src": "assets/photos/countries/mexico/283A5716-d3721069-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 11",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "2b9b717fb1c048fea2923576f384f90776f91af57aa448c552969dde768ca5c6",
+    "_atlasOrder": 740
+  },
+  "mexico-012": {
+    "id": "mexico-012",
+    "src": "assets/photos/countries/mexico/283A5708-21c5929a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 12",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "09e274721d52e70407736c7781e385117e0645285faf0e99e754002242a61501",
+    "_atlasOrder": 741
+  },
+  "mexico-013": {
+    "id": "mexico-013",
+    "src": "assets/photos/countries/mexico/283A5798-7f65012b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 13",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "e51ffbe9ec114006e1e9b3e0f140dd9cf70f9bb243e38dd000952bf9deb23988",
+    "_atlasOrder": 742
+  },
+  "mexico-014": {
+    "id": "mexico-014",
+    "src": "assets/photos/countries/mexico/283A5860-8dd283d8-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 14",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "3a6052d17f9fef6b329b4642c02c374c7b08a9518205c72125642a258cdf622a",
+    "_atlasOrder": 743
+  },
+  "mexico-015": {
+    "id": "mexico-015",
+    "src": "assets/photos/countries/mexico/283A5868-2c17c5c8-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 15",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "430424c53ad0aa39604b1d93827116fff6e9eb2a4f084b8494cb5d52a0a6fd89",
+    "_atlasOrder": 744
+  },
+  "mexico-016": {
+    "id": "mexico-016",
+    "src": "assets/photos/countries/mexico/283A5911-dea0473b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 16",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 15
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "cfc95d786d96ac0ac7880fc99f84e1c0ca292c4a0839208666889d7970b0786c",
+    "_atlasOrder": 745
+  },
+  "mexico-017": {
+    "id": "mexico-017",
+    "src": "assets/photos/countries/mexico/283A5918-fb731a6a-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 17",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "87002a034637bea2c2e7fae368e80e40f7eec2e6c93918a61c63353c28e15ac6",
+    "_atlasOrder": 746
+  },
+  "mexico-018": {
+    "id": "mexico-018",
+    "src": "assets/photos/countries/mexico/283A5925-09c49899-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 18",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "e27c0bcd0475d0fdbad8907b1792b87edfb47faa86964ec44f6066d963ecbc56",
+    "_atlasOrder": 747
+  },
+  "mexico-019": {
+    "id": "mexico-019",
+    "src": "assets/photos/countries/mexico/283A6272-99f043ab-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 19",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 18
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "ae860afbb6ac0b1f917c484ac82214d3c2c28fe5422f2efee2ddfd5292430d76",
+    "_atlasOrder": 748
+  },
+  "mexico-020": {
+    "id": "mexico-020",
+    "src": "assets/photos/countries/mexico/283A6404-383505bb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 20",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 19
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "67ccf2c03383a0647216f651af3aaa664603f95776681f308e84f98241dd348b",
+    "_atlasOrder": 749
+  },
+  "mexico-021": {
+    "id": "mexico-021",
+    "src": "assets/photos/countries/mexico/283A6424-ca828748-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Mexico · 21",
+    "country": "Mexico",
+    "location": "Santa Prisca, Taxco",
+    "lat": 18.55639,
+    "lng": -99.60472,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 20
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Church_of_Santa_Prisca_de_Taxco"
+    ],
+    "_imageSha256": "280666fbc9b40085ad46047bd6055fe7ada44dbf8afb8d4d4fa2c9c4c4258f6c",
+    "_atlasOrder": 750
+  },
+  "mexico-022": {
+    "id": "mexico-022",
+    "src": "assets/photos/countries/mexico/283A6407-ef51da19-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 22",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 21
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "2cb17fce337deca736076b657fa8f684577516d8cf48085c4a43d7c55ed3e639",
+    "_atlasOrder": 751
+  },
+  "mexico-023": {
+    "id": "mexico-023",
+    "src": "assets/photos/countries/mexico/283A6445-1de658ea-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 23",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 22
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "ecd9b00705584d09b4a9e9b21c78f606bdd70dbfae282a88904404ccfce93e50",
+    "_atlasOrder": 752
+  },
+  "mexico-024": {
+    "id": "mexico-024",
+    "src": "assets/photos/countries/mexico/283A6472-aa97c49d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 24",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 23
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "f0f949b26a8f8716f3bd057da62cd626e9dff0ee29098b9e87f7b12e07b420e7",
+    "_atlasOrder": 753
+  },
+  "mexico-025": {
+    "id": "mexico-025",
+    "src": "assets/photos/countries/mexico/283A6497-871232e1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 25",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 24
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "3417fc20197ff4ce4bd54e0504159077b7c7de35d511cafd05f57fc67efb3800",
+    "_atlasOrder": 754
+  },
+  "mexico-026": {
+    "id": "mexico-026",
+    "src": "assets/photos/countries/mexico/283A6476-75a5b012-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 26",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 25
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "b40ec96e9cebdb8bc1c7473d24a596a3221a090fe985a15230374239f972eb55",
+    "_atlasOrder": 755
+  },
+  "mexico-027": {
+    "id": "mexico-027",
+    "src": "assets/photos/countries/mexico/283A6696-HDR-22208470-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 27",
+    "country": "Mexico",
+    "location": "Museo Nacional de Arte",
+    "lat": 19.43639,
+    "lng": -99.13944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte"
+    ],
+    "_imageSha256": "7bc632ded864426e57bad97d20536ba65a5075d642fa0dd4f14190814590e696",
+    "_atlasOrder": 756
+  },
+  "mexico-028": {
+    "id": "mexico-028",
+    "src": "assets/photos/countries/mexico/283A6651-d0970683-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 28",
+    "country": "Mexico",
+    "location": "Museo Nacional de Arte",
+    "lat": 19.43639,
+    "lng": -99.13944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte"
+    ],
+    "_imageSha256": "91c0b34ed60124269eece35d2d37530c05f855c4d4764a5571fc74c75a294869",
+    "_atlasOrder": 757
+  },
+  "mexico-029": {
+    "id": "mexico-029",
+    "src": "assets/photos/countries/mexico/283A6839-71524093-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 29",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "da83015b0c3539c2ed0695ee4ae4736ee77d27eb38f10c4562a9625ecbd25d48",
+    "_atlasOrder": 758
+  },
+  "mexico-030": {
+    "id": "mexico-030",
+    "src": "assets/photos/countries/mexico/283A6750-HDR-83e5c260-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 30",
+    "country": "Mexico",
+    "location": "Palacio Postal, Mexico City",
+    "lat": 19.43569,
+    "lng": -99.1404,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palacio_de_Correos_de_M%C3%A9xico"
+    ],
+    "_imageSha256": "6157a7c00660d346eb7b73233ddc10f704dd4cfc9a260250bc9b8d1876dfd8ba",
+    "_atlasOrder": 759
+  },
+  "mexico-031": {
+    "id": "mexico-031",
+    "src": "assets/photos/countries/mexico/283A4502-c7c8b1ba-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Mexico · 31",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "f730b894833413c047f1f16adaaa8aa2aabd4b74fde10cd6c338edd12dbca9da",
+    "_atlasOrder": 760
+  },
+  "mexico-032": {
+    "id": "mexico-032",
+    "src": "assets/photos/countries/mexico/283A4514-357f3349-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 32",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "19dcdc3e276b15e72d72ce41d95447a296076066ba230fc5a7eeb41a3cab2700",
+    "_atlasOrder": 761
+  },
+  "mexico-033": {
+    "id": "mexico-033",
+    "src": "assets/photos/countries/mexico/283A4523-820eaf3e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 33",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "23242b7af59f6c0bb705f517fe7666ff436c6460c01997f4f1f1eda8c67798f8",
+    "_atlasOrder": 762
+  },
+  "mexico-034": {
+    "id": "mexico-034",
+    "src": "assets/photos/countries/mexico/283A4527-70b92dcd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 34",
+    "country": "Mexico",
+    "location": "Museo Nacional de Arte",
+    "lat": 19.43639,
+    "lng": -99.13944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte"
+    ],
+    "_imageSha256": "b80b1fc51c6d6e9f2318608b3188b84bef6045f7a981b3bae0c102ec24af252a",
+    "_atlasOrder": 763
+  },
+  "mexico-035": {
+    "id": "mexico-035",
+    "src": "assets/photos/countries/mexico/283A4545-d17c6bdd-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 35",
+    "country": "Mexico",
+    "location": "Palacio Postal, Mexico City",
+    "lat": 19.43569,
+    "lng": -99.1404,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palacio_de_Correos_de_M%C3%A9xico"
+    ],
+    "_imageSha256": "554e2434f5b41b6236548d31e5d24ed820e7eb03a8ff1186df000244a5b3fd87",
+    "_atlasOrder": 764
+  },
+  "mexico-036": {
+    "id": "mexico-036",
+    "src": "assets/photos/countries/mexico/283A4574-23cbe92e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 36",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "70f341ba5759ac03209eedf6e9ba7b08ed3bfe25d1c3e75d79a9e1ff4d7883a0",
+    "_atlasOrder": 765
+  },
+  "mexico-037": {
+    "id": "mexico-037",
+    "src": "assets/photos/countries/mexico/283A4560-f4a44a60-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 37",
+    "country": "Mexico",
+    "location": "Palacio Postal, Mexico City",
+    "lat": 19.43569,
+    "lng": -99.1404,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 36
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palacio_de_Correos_de_M%C3%A9xico"
+    ],
+    "_imageSha256": "7a903b4598ef4feaf587ddb0730efb8eef852b7c1dc3e8f87ede09ffdb2252f2",
+    "_atlasOrder": 766
+  },
+  "mexico-038": {
+    "id": "mexico-038",
+    "src": "assets/photos/countries/mexico/283A4636-0613c893-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 38",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 37
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "77014ef76e54a302b1211d156fcc1c760c0d1f808563f3edc9aaaaf5ff84237b",
+    "_atlasOrder": 767
+  },
+  "mexico-039": {
+    "id": "mexico-039",
+    "src": "assets/photos/countries/mexico/283A4648-23c095c2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 39",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 38
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "dfbbd6a14be2f368062351790cb09a6a94e246d6b30a5b6c37feef4abc110ae4",
+    "_atlasOrder": 768
+  },
+  "mexico-040": {
+    "id": "mexico-040",
+    "src": "assets/photos/countries/mexico/283A4675-d1771731-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 40",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 39
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "5cc99a551e554576e6e98eea140c669c9feed7af5d360fd5117f567fd172f1ff",
+    "_atlasOrder": 769
+  },
+  "mexico-041": {
+    "id": "mexico-041",
+    "src": "assets/photos/countries/mexico/283A4677-c655134a-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 41",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 40
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "f4b9140faed9c4002fbb58421983cc3271e12894a887db8c1ae693adfca9d20f",
+    "_atlasOrder": 770
+  },
+  "mexico-042": {
+    "id": "mexico-042",
+    "src": "assets/photos/countries/mexico/283A4702-34e291b9-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 42",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 41
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "df9a466a3d64a9504584d25fea926eeb710262c107ad59122706c5f2a689c19c",
+    "_atlasOrder": 771
+  },
+  "mexico-043": {
+    "id": "mexico-043",
+    "src": "assets/photos/countries/mexico/283A4684-8c8de1fe-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 43",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 42
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "2df84538a5d4fd5644d10efa11321a0febb9a0f80cd066c6be0c4935ca56e983",
+    "_atlasOrder": 772
+  },
+  "mexico-044": {
+    "id": "mexico-044",
+    "src": "assets/photos/countries/mexico/283A4750-2d48a7ee-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 44",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 43
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "5fa359e7edf3b56f4ceb806dd404c9acfae78bb73a37b1e3f198785b792d4d24",
+    "_atlasOrder": 773
+  },
+  "mexico-045": {
+    "id": "mexico-045",
+    "src": "assets/photos/countries/mexico/283A4728-dfff251d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 45",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 44
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "6411a74a047d032983618e16cb7854542d2a41ef843a5eea77422cd9ced2f083",
+    "_atlasOrder": 774
+  },
+  "mexico-046": {
+    "id": "mexico-046",
+    "src": "assets/photos/countries/mexico/283A4773-fa2c784c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 46",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 45
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "75fc15060c75f97a99692a198a0870c463d4f3f6de71ff5bf4caf93f9674510a",
+    "_atlasOrder": 775
+  },
+  "mexico-047": {
+    "id": "mexico-047",
+    "src": "assets/photos/countries/mexico/283A4794-089bfabf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 47",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 46
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "b5df353d395e0f5c3afa237f32877f6237196eb4fe18fdc580098747b72d617c",
+    "_atlasOrder": 776
+  },
+  "mexico-048": {
+    "id": "mexico-048",
+    "src": "assets/photos/countries/mexico/283A4785-bfea66c8-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 48",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 47
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "fc1f20bcc0a007c6d349445523f9bbf40d83cb5c345de9c60e1c608cd0f27cb3",
+    "_atlasOrder": 777
+  },
+  "mexico-049": {
+    "id": "mexico-049",
+    "src": "assets/photos/countries/mexico/283A4810-7ab1f854-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 49",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 48
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "66f6bda9950e11dcbe20e53b8d307465932e266378e971cd53df02b699d3b3eb",
+    "_atlasOrder": 778
+  },
+  "mexico-050": {
+    "id": "mexico-050",
+    "src": "assets/photos/countries/mexico/283A4804-5f62a505-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 50",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 49
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "59a0717325d1fc434a8f53e89ccb8fbf1667538d41be0b8bfff92ca75d501d35",
+    "_atlasOrder": 779
+  },
+  "mexico-051": {
+    "id": "mexico-051",
+    "src": "assets/photos/countries/mexico/283A4816-add527f6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 51",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 50
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "37b8df1e64f5604a931a4a400595dff4b295f6ceb83473a14d7275e56752fc48",
+    "_atlasOrder": 780
+  },
+  "mexico-052": {
+    "id": "mexico-052",
+    "src": "assets/photos/countries/mexico/283A4824-7a1e72a6-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 52",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 51
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "fcc5f6d2877fd10f4155eb6db50a162ea23362b340a65a322ba539eb96c158b6",
+    "_atlasOrder": 781
+  },
+  "mexico-053": {
+    "id": "mexico-053",
+    "src": "assets/photos/countries/mexico/283A4945-88a9f055-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 53",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 52
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "4ea980094f92cb283037a7ff2f1992843865da7ca8e1ca799f1dbe9ede12291d",
+    "_atlasOrder": 782
+  },
+  "mexico-054": {
+    "id": "mexico-054",
+    "src": "assets/photos/countries/mexico/283A4837-296cb645-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 54",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 53
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "ad4217b4fdc4ddc4d5275356fdf586527fa5db50f8a3de86c7d444e9d3390560",
+    "_atlasOrder": 783
+  },
+  "mexico-055": {
+    "id": "mexico-055",
+    "src": "assets/photos/countries/mexico/283A4955-3521dacd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 55",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 54
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "076b47cf416094150601aa30d0fb0e58a82a6456aef01c7dfbd82b83179682f6",
+    "_atlasOrder": 784
+  },
+  "mexico-056": {
+    "id": "mexico-056",
+    "src": "assets/photos/countries/mexico/283A4958-94e49cdd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 56",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 55
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "2b2f9bdb94bd0d04628d2f833b0525f3b47bee92bfff3d9db5840c0ab23fe774",
+    "_atlasOrder": 785
+  },
+  "mexico-057": {
+    "id": "mexico-057",
+    "src": "assets/photos/countries/mexico/283A4967-66531e2e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 57",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 56
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "ef254f47194ca57f7a9d67bb40c39e821e6896b82be6b3cdac61a9dd86b4a4f5",
+    "_atlasOrder": 786
+  },
+  "mexico-058": {
+    "id": "mexico-058",
+    "src": "assets/photos/countries/mexico/283A4980-4380437f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 58",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 57
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "b1aa876c75f65085bfde50b26e95268087cbfac85d10e9ea6bf47f1624c482dc",
+    "_atlasOrder": 787
+  },
+  "mexico-059": {
+    "id": "mexico-059",
+    "src": "assets/photos/countries/mexico/283A5000-b137c18c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 59",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 58
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "c8db3a5e228de967433460f388eb7b9f545b18e6c921de920789248df7206cd2",
+    "_atlasOrder": 788
+  },
+  "mexico-060": {
+    "id": "mexico-060",
+    "src": "assets/photos/countries/mexico/283A5029-06465dfb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 60",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 59
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "6ed6fd580f26a91d92658f54c14a74eb316f92a2f0bfff55610f2f0d09080b90",
+    "_atlasOrder": 789
+  },
+  "mexico-061": {
+    "id": "mexico-061",
+    "src": "assets/photos/countries/mexico/283A5053-8233ecef-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 61",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 60
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "9cc24117cbaa3cb256e3c38807a2423bc3259b0d6f6a88199d2678a0bb4b0517",
+    "_atlasOrder": 790
+  },
+  "mexico-062": {
+    "id": "mexico-062",
+    "src": "assets/photos/countries/mexico/283A5148-320fe33c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 62",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 61
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "a022008e98a006333cab38b47113eb5367aea838e7d99e51f7b55790adec0ffb",
+    "_atlasOrder": 791
+  },
+  "mexico-063": {
+    "id": "mexico-063",
+    "src": "assets/photos/countries/mexico/283A5070-c0b861cf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 63",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 62
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "66ca9ea16da043092700093ab95e471642d434f537fffaa37eb13466460d033e",
+    "_atlasOrder": 792
+  },
+  "mexico-064": {
+    "id": "mexico-064",
+    "src": "assets/photos/countries/mexico/283A5185-617d27df-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 64",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 63
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "c5224b09f412eca244442c7da8bc720c9ad551132779f5753f703c03513d0007",
+    "_atlasOrder": 793
+  },
+  "mexico-065": {
+    "id": "mexico-065",
+    "src": "assets/photos/countries/mexico/283A5158-93caa52c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 65",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 64
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "15b919dbaa82091c78377e47b1e88eb3de650d98ddc7a9fe0ea6eccacb9d8dec",
+    "_atlasOrder": 794
+  },
+  "mexico-066": {
+    "id": "mexico-066",
+    "src": "assets/photos/countries/mexico/283A5219-b619f87d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 66",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 65
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "39fa3ff97010e5d7f5310af7aedaf632a048ab86ad635b53d6076b726751198f",
+    "_atlasOrder": 795
+  },
+  "mexico-067": {
+    "id": "mexico-067",
+    "src": "assets/photos/countries/mexico/283A5210-442bb0a7-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 67",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 66
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "161d79df56fd6f8da7b13026b51994260795d5a9e5ce4445e038eaadd923cec0",
+    "_atlasOrder": 796
+  },
+  "mexico-068": {
+    "id": "mexico-068",
+    "src": "assets/photos/countries/mexico/283A5222-b69c3254-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 68",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 67
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "635df4f70f78fd790bad4ae0548f815c719e09f0513919299292f8f6f4e17cc3",
+    "_atlasOrder": 797
+  },
+  "mexico-069": {
+    "id": "mexico-069",
+    "src": "assets/photos/countries/mexico/283A5226-17597444-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Mexico · 69",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 68
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "dfd843826f8afd38d428588e3fde5a51cc1fb777ddfa86aaec5d96c9420045e6",
+    "_atlasOrder": 798
+  },
+  "mexico-070": {
+    "id": "mexico-070",
+    "src": "assets/photos/countries/mexico/283A5235-e5eef6b7-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Mexico · 70",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 69
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "4f2ee5d1d85a40d7135a0de93a58857bc76b47f577cccc6f43efaf31c13bd2b9",
+    "_atlasOrder": 799
+  },
+  "mexico-071": {
+    "id": "mexico-071",
+    "src": "assets/photos/countries/mexico/283A5236-55d2f964-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 71",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 70
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "ceecb7c57512741613981134c99de69b4ea3ac931e3eeb0d9068000564bd3458",
+    "_atlasOrder": 800
+  },
+  "mexico-072": {
+    "id": "mexico-072",
+    "src": "assets/photos/countries/mexico/283A5266-a7657b97-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 72",
+    "country": "Mexico",
+    "location": "Museo Nacional de Arte",
+    "lat": 19.43639,
+    "lng": -99.13944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 71
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte"
+    ],
+    "_imageSha256": "0cf17513f14265fe4e1d8eeec8b9dd6c0410dcd7f721372fbbbc1b9a8fa10cb0",
+    "_atlasOrder": 801
+  },
+  "mexico-073": {
+    "id": "mexico-073",
+    "src": "assets/photos/countries/mexico/283A5302-493b00ed-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 73",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 72
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "0fdfc57e247847d69f1a5a6907595018e1f4a951596b45b34f0bd6f9eb2f2f6e",
+    "_atlasOrder": 802
+  },
+  "mexico-074": {
+    "id": "mexico-074",
+    "src": "assets/photos/countries/mexico/283A5356-f9070f3e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 74",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 73
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "7f99f9b0862466a5daef954fa31ff0a192ab3a64b861a97b9f990ebb0da33329",
+    "_atlasOrder": 803
+  },
+  "mexico-075": {
+    "id": "mexico-075",
+    "src": "assets/photos/countries/mexico/283A5368-0bb08dcd-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 75",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 74
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "ab31147bf8ae3d601d79988e9cd8db89dd823b03124f99187f1314e9273bcbf6",
+    "_atlasOrder": 804
+  },
+  "mexico-076": {
+    "id": "mexico-076",
+    "src": "assets/photos/countries/mexico/283A5389-aa75cbdd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 76",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 75
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "a302e7ecd4cbbf44de1e892c3460d9d4ac4a4a0314da783a8857c7a628b913bf",
+    "_atlasOrder": 805
+  },
+  "mexico-077": {
+    "id": "mexico-077",
+    "src": "assets/photos/countries/mexico/283A5390-58c2492e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 77",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 76
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "6220328b5dfb78db25dff44a6b65453226733fd97bdb7ff842156c0b86649bf2",
+    "_atlasOrder": 806
+  },
+  "mexico-078": {
+    "id": "mexico-078",
+    "src": "assets/photos/countries/mexico/283A5418-7d11147f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 78",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 77
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "316398df3618f1aa1a560c092bb4b25fc13f743b556f3f135e053234283749bc",
+    "_atlasOrder": 807
+  },
+  "mexico-079": {
+    "id": "mexico-079",
+    "src": "assets/photos/countries/mexico/283A5401-45c20081-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 79",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 78
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "4f9b7a8176f374776609482407652504d9b59d82a00a97e153c7b1c703d1d69f",
+    "_atlasOrder": 808
+  },
+  "mexico-080": {
+    "id": "mexico-080",
+    "src": "assets/photos/countries/mexico/283A5430-b7758272-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 80",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 79
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "8a901a2c5a6a00b19f04441f26b68ebb268253a136df3017780a30dfa410541d",
+    "_atlasOrder": 809
+  },
+  "mexico-081": {
+    "id": "mexico-081",
+    "src": "assets/photos/countries/mexico/283A5427-07498da1-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 81",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 80
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "03d2f5bb1ac14d23806b2384182491e4d25ab79bdb6fd96c77c2746933dac8a8",
+    "_atlasOrder": 810
+  },
+  "mexico-082": {
+    "id": "mexico-082",
+    "src": "assets/photos/countries/mexico/283A5755-f5fe0f52-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 82",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 81
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "c9118aca320f2dfeeed15898c48a5fa2bc7a8b5b9bd0c0121e2124c41f88e9e1",
+    "_atlasOrder": 811
+  },
+  "mexico-083": {
+    "id": "mexico-083",
+    "src": "assets/photos/countries/mexico/283A5470-543b4942-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 83",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 82
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "e021e165722d45cebf929a3a0f7e2e931cb6bd2b0fdd38b20550218504ebf62e",
+    "_atlasOrder": 812
+  },
+  "mexico-084": {
+    "id": "mexico-084",
+    "src": "assets/photos/countries/mexico/283A5802-a68ccbb1-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 84",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 83
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "6ae49fe33a53d54160f9595e1084ba728f59cb4232f88520812f40f67d79baad",
+    "_atlasOrder": 813
+  },
+  "mexico-085": {
+    "id": "mexico-085",
+    "src": "assets/photos/countries/mexico/283A6019-20af2260-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 85",
+    "country": "Mexico",
+    "location": "Mexico",
+    "lat": 23.63,
+    "lng": -102.55,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 84
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "81d4080e51c006d37b0df10e9443812b6c0d30fe5752daf146c3a808bb9d0b91",
+    "_atlasOrder": 814
+  },
+  "mexico-086": {
+    "id": "mexico-086",
+    "src": "assets/photos/countries/mexico/283A6130-d218a093-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 86",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 85
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "845b22003e243e86b24b436a7e85490492c1159d84f385e77481fcfc46061254",
+    "_atlasOrder": 815
+  },
+  "mexico-087": {
+    "id": "mexico-087",
+    "src": "assets/photos/countries/mexico/283A6164-6224af40-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 87",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 86
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "763aefba90a686cf25925b29b1a6f34720e5e8e2cc6a73e9bdc9bba8130ad969",
+    "_atlasOrder": 816
+  },
+  "mexico-088": {
+    "id": "mexico-088",
+    "src": "assets/photos/countries/mexico/283A6176-90932db3-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 88",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 87
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "029039701672a55c450693984eb115eeec344845dd0ecc78446d2430c18a4441",
+    "_atlasOrder": 817
+  },
+  "mexico-089": {
+    "id": "mexico-089",
+    "src": "assets/photos/countries/mexico/283A6191-31566ba3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 89",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 88
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "dd47c8deb81841a32cc9ae50fa7bcc3b6240d8303a3b862cbd33251333da4ae8",
+    "_atlasOrder": 818
+  },
+  "mexico-090": {
+    "id": "mexico-090",
+    "src": "assets/photos/countries/mexico/283A6268-1ac7aa5d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 90",
+    "country": "Mexico",
+    "location": "Santa Prisca, Taxco",
+    "lat": 18.55639,
+    "lng": -99.60472,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 89
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Church_of_Santa_Prisca_de_Taxco"
+    ],
+    "_imageSha256": "e67e488966af080c5c76b042d3a50fee356d96c6a294298136d3f1141065d9b2",
+    "_atlasOrder": 819
+  },
+  "mexico-091": {
+    "id": "mexico-091",
+    "src": "assets/photos/countries/mexico/283A6227-9ef5863a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 91",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 90
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "e00600ddda3c643415fb06410c6e5e130f1af35726614d931ad4a9d1b434214f",
+    "_atlasOrder": 820
+  },
+  "mexico-092": {
+    "id": "mexico-092",
+    "src": "assets/photos/countries/mexico/283A6428-6c4204c9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 92",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 91
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "5676e510179fe262b35b4393cfb16be3213e01eded1dd6b68d8d3317d5d712fb",
+    "_atlasOrder": 821
+  },
+  "mexico-093": {
+    "id": "mexico-093",
+    "src": "assets/photos/countries/mexico/283A6336-cd8742d9-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 93",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 92
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "7a7464ecd11762193e82ca07caee2a3a2e086ea8d7db4a6f2299223e468ba3c6",
+    "_atlasOrder": 822
+  },
+  "mexico-094": {
+    "id": "mexico-094",
+    "src": "assets/photos/countries/mexico/283A6455-3f30c02a-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Mexico · 94",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 93
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "f0479de516614ad8b0acbc344ec9b150367ab449a5d0023adbe83dd9e2249297",
+    "_atlasOrder": 823
+  },
+  "mexico-095": {
+    "id": "mexico-095",
+    "src": "assets/photos/countries/mexico/283A6558-1ae39d7b-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Mexico · 95",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 94
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "ebbe782a822874eac474a93b00d7d91c2544a7ab77c1dbc322498b6de2cdd96b",
+    "_atlasOrder": 824
+  },
+  "mexico-096": {
+    "id": "mexico-096",
+    "src": "assets/photos/countries/mexico/283A6493-e8541f88-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 96",
+    "country": "Mexico",
+    "location": "Taxco",
+    "lat": 18.55708,
+    "lng": -99.60512,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 95
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3516225"
+    ],
+    "_imageSha256": "379b9a61101e33032f278dc99c311d3bfea6aeaa8bcd2c0b0ea6c232161eef0c",
+    "_atlasOrder": 825
+  },
+  "mexico-097": {
+    "id": "mexico-097",
+    "src": "assets/photos/countries/mexico/283A6572-ed45658d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 97",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 96
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "28fbb4e527b7c912a48c3271d94ed8635c33437d373129663acf93084618fa37",
+    "_atlasOrder": 826
+  },
+  "mexico-098": {
+    "id": "mexico-098",
+    "src": "assets/photos/countries/mexico/283A6607-1ff2e77e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 98",
+    "country": "Mexico",
+    "location": "Casa de los Azulejos",
+    "lat": 19.43422,
+    "lng": -99.14021,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 97
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Casa_de_los_Azulejos"
+    ],
+    "_imageSha256": "892cc1444457dc04983ab55f51358d04beba43bd72c1160b05f26d784e49d483",
+    "_atlasOrder": 827
+  },
+  "mexico-099": {
+    "id": "mexico-099",
+    "src": "assets/photos/countries/mexico/283A6611-be37a16e-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 99",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 98
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "79e25b195a7bb19f6944e020069dd5d5039685deff83f1d7306599957394f4fc",
+    "_atlasOrder": 828
+  },
+  "mexico-100": {
+    "id": "mexico-100",
+    "src": "assets/photos/countries/mexico/283A6622-4c80239d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 100",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 99
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "79cd2ca83024e8986f111cc2486f867d2cb6bd0fa56a2648a3302dbde7b00ad7",
+    "_atlasOrder": 829
+  },
+  "mexico-101": {
+    "id": "mexico-101",
+    "src": "assets/photos/countries/mexico/283A6647-fcbc2c4e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 101",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 100
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "af09ddab98ba4fbf2fac17c66a9874f9348feaa6d4ea360c49f9bf1d959caa5e",
+    "_atlasOrder": 830
+  },
+  "mexico-102": {
+    "id": "mexico-102",
+    "src": "assets/photos/countries/mexico/283A6634-0e0baebd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 102",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 101
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "c4be5270119252fbfa464610fa077f7295b8909ddcf62623ca6112dbacc5f970",
+    "_atlasOrder": 831
+  },
+  "mexico-103": {
+    "id": "mexico-103",
+    "src": "assets/photos/countries/mexico/283A6661-c63f55d8-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 103",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 102
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "4fa8e316ad5ae70f47a1582b745630a01b7a22cc3ea4e1af3b8e025eb6c7d113",
+    "_atlasOrder": 832
+  },
+  "mexico-104": {
+    "id": "mexico-104",
+    "src": "assets/photos/countries/mexico/283A6663-3488d72b-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 104",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 103
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "e48554e9113c1df239a35be19c9a2b4162041fd0f1a80dfd61fc86a3fbefce69",
+    "_atlasOrder": 833
+  },
+  "mexico-105": {
+    "id": "mexico-105",
+    "src": "assets/photos/countries/mexico/283A6724-ba2ba044-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 105",
+    "country": "Mexico",
+    "location": "Museo Nacional de Arte",
+    "lat": 19.43639,
+    "lng": -99.13944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 104
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte"
+    ],
+    "_imageSha256": "9c73dfe02532d2904b23a135c5cb240c8be6becd92fa3f997f2d85957f716c03",
+    "_atlasOrder": 834
+  },
+  "mexico-106": {
+    "id": "mexico-106",
+    "src": "assets/photos/countries/mexico/283A6733-489c22b7-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 106",
+    "country": "Mexico",
+    "location": "Palacio Postal, Mexico City",
+    "lat": 19.43569,
+    "lng": -99.1404,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 105
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palacio_de_Correos_de_M%C3%A9xico"
+    ],
+    "_imageSha256": "9fc53b8c7e85b4d30058a2c34d88e2eb6fba68beb1f7ca28af04974e9fc96855",
+    "_atlasOrder": 835
+  },
+  "mexico-107": {
+    "id": "mexico-107",
+    "src": "assets/photos/countries/mexico/283A6806-e95964a7-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 107",
+    "country": "Mexico",
+    "location": "Museo Nacional de Arte",
+    "lat": 19.43639,
+    "lng": -99.13944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 106
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte"
+    ],
+    "_imageSha256": "aa01df9c3d4ab0aac327e80f0676d379d6ece786e4b22b2921ad6b03ca846e67",
+    "_atlasOrder": 836
+  },
+  "mexico-108": {
+    "id": "mexico-108",
+    "src": "assets/photos/countries/mexico/283A6837-1beee654-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 108",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 107
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "bcc0b6171e202a4f9fe52390d772c3aa09488dc3b4ae043a1b53e95c813bea38",
+    "_atlasOrder": 837
+  },
+  "mexico-109": {
+    "id": "mexico-109",
+    "src": "assets/photos/countries/mexico/283A6815-f0556ecd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 109",
+    "country": "Mexico",
+    "location": "Museo Nacional de Arte",
+    "lat": 19.43639,
+    "lng": -99.13944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 108
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Museo_Nacional_de_Arte"
+    ],
+    "_imageSha256": "d8a26dac152ad5f0d4eeb7901f4868e2dd8a3f883cfe4acd7397082456e6e7bc",
+    "_atlasOrder": 838
+  },
+  "mexico-110": {
+    "id": "mexico-110",
+    "src": "assets/photos/countries/mexico/283A6848-02e2ec3e-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 110",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 109
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "3b1192b858e7afcf0d394fc1e5d499d9186659a4850485f60e7aeb767bf49b9d",
+    "_atlasOrder": 839
+  },
+  "mexico-111": {
+    "id": "mexico-111",
+    "src": "assets/photos/countries/mexico/283A6841-b2dee3ed-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 111",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 110
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "5dd4895a003576d635f6f7eb1beb684a8e46a6f238347ab872fc404e5e5afb3e",
+    "_atlasOrder": 840
+  },
+  "mexico-112": {
+    "id": "mexico-112",
+    "src": "assets/photos/countries/mexico/283A6852-4069611e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 112",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 111
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "4fe8d74b5db18948d847e0694f9f4dcf62df630513ede66034a77ef7e683ab62",
+    "_atlasOrder": 841
+  },
+  "mexico-113": {
+    "id": "mexico-113",
+    "src": "assets/photos/countries/mexico/283A4466-e1ac270e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 113",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 112
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "14d15c83e99ac532614fefa574b8605879acef450ca6aa98e61477045e5290cf",
+    "_atlasOrder": 842
+  },
+  "mexico-114": {
+    "id": "mexico-114",
+    "src": "assets/photos/countries/mexico/283A4553-131ba5fd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 114",
+    "country": "Mexico",
+    "location": "Palacio de Bellas Artes",
+    "lat": 19.4353,
+    "lng": -99.1414,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 113
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes"
+    ],
+    "_imageSha256": "533372df528ab7a33bf4531e3d3f7a440c9ad9ae5da0749dfed30489cae8242d",
+    "_atlasOrder": 843
+  },
+  "mexico-115": {
+    "id": "mexico-115",
+    "src": "assets/photos/countries/mexico/283A4519-17350532-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 115",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 114
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "4d1a04a1fd4ceb9b2a63bb5235d3bc2307e512d96b4563b5435a10186bec2a7e",
+    "_atlasOrder": 844
+  },
+  "mexico-116": {
+    "id": "mexico-116",
+    "src": "assets/photos/countries/mexico/283A5006-e58287c1-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 116",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 115
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "481d3a7abb4c7916840760d444e6a81b697a5beaff0fabac6e8804a8fc524d35",
+    "_atlasOrder": 845
+  },
+  "mexico-117": {
+    "id": "mexico-117",
+    "src": "assets/photos/countries/mexico/283A5847-55be8812-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 117",
+    "country": "Mexico",
+    "location": "Palacio de Bellas Artes",
+    "lat": 19.4353,
+    "lng": -99.1414,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 116
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes"
+    ],
+    "_imageSha256": "326f6d0c6dfe16cb3c2ccc54fb55fb096fa8ae6c72eea44d061d8e32cc2f24e4",
+    "_atlasOrder": 846
+  },
+  "mexico-118": {
+    "id": "mexico-118",
+    "src": "assets/photos/countries/mexico/283A5245-a7090ae1-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Mexico · 118",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 117
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "b610f0f8a9bd167dbf4518f97b00298c213005bcc2524fbde94141b5aa10d615",
+    "_atlasOrder": 847
+  },
+  "mexico-119": {
+    "id": "mexico-119",
+    "src": "assets/photos/countries/mexico/IMG_4303-06cc4cf1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Mexico · 119",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "lat": 19.430105,
+    "lng": -99.133608,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
+    "albums": [
+      "Mexico"
+    ],
+    "albumOrder": {
+      "Mexico": 118
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 19.430105,
+      "lng": -99.133608
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3530597"
+    ],
+    "_imageSha256": "ae71a0b77b7d0510a1452708b0da771694a8ae9ff7abe60d8dc195edd562ec66",
+    "_atlasOrder": 848
+  }
+}

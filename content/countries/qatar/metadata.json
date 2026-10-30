@@ -1,0 +1,512 @@
+{
+  "qatar-001": {
+    "id": "qatar-001",
+    "src": "assets/photos/countries/qatar/283A4541-a1b0289d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 01",
+    "country": "Qatar",
+    "location": "Hamad International Airport",
+    "lat": 25.27306,
+    "lng": 51.60806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 0
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Hamad_International_Airport"
+    ],
+    "_imageSha256": "54d195b5a14552294c84d4a97f277912bfec4fa27617e045edda771aa0425328",
+    "_atlasOrder": 1019
+  },
+  "qatar-002": {
+    "id": "qatar-002",
+    "src": "assets/photos/countries/qatar/283A7761-b6922ce6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 02",
+    "country": "Qatar",
+    "location": "Doha",
+    "lat": 25.28545,
+    "lng": 51.53096,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 1
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/290030"
+    ],
+    "_imageSha256": "8eea6228686e93bf180ab9fdb526ca14433b364e4f5123c5ae02f7e7658811d8",
+    "_atlasOrder": 1020
+  },
+  "qatar-003": {
+    "id": "qatar-003",
+    "src": "assets/photos/countries/qatar/283A7804-4425ae15-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 03",
+    "country": "Qatar",
+    "location": "National Museum of Qatar",
+    "lat": 25.28847,
+    "lng": 51.54926,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 2
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q3084218"
+    ],
+    "_imageSha256": "aa3c861c63ff35e42c0ea80af9c44fe0133894ff52f9fdefd01e13d62835d69b",
+    "_atlasOrder": 1021
+  },
+  "qatar-004": {
+    "id": "qatar-004",
+    "src": "assets/photos/countries/qatar/283A7820-e5e0e805-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 04",
+    "country": "Qatar",
+    "location": "Doha",
+    "lat": 25.28545,
+    "lng": 51.53096,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 3
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/290030"
+    ],
+    "_imageSha256": "8f13dee98598b01f7f890c72fc069e5f7c4da40d7882e5873c1327da791df38a",
+    "_atlasOrder": 1022
+  },
+  "qatar-005": {
+    "id": "qatar-005",
+    "src": "assets/photos/countries/qatar/283A7855-17576af6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 05",
+    "country": "Qatar",
+    "location": "Doha",
+    "lat": 25.28545,
+    "lng": 51.53096,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 4
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/290030"
+    ],
+    "_imageSha256": "c5f221dbf4f1bae38babdd4eabc723a0692bca60d40f4c083466f7ec2acf1f62",
+    "_atlasOrder": 1023
+  },
+  "qatar-006": {
+    "id": "qatar-006",
+    "src": "assets/photos/countries/qatar/283A7852-a76b6525-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 06",
+    "country": "Qatar",
+    "location": "Doha",
+    "lat": 25.28545,
+    "lng": 51.53096,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 5
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/290030"
+    ],
+    "_imageSha256": "9d57a11b92ee64f97a05cf7e008bda586f5fee71ae1c19fe1865a8b613901fdf",
+    "_atlasOrder": 1024
+  },
+  "qatar-007": {
+    "id": "qatar-007",
+    "src": "assets/photos/countries/qatar/283A7890-61823904-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 07",
+    "country": "Qatar",
+    "location": "Museum of Islamic Art, Doha",
+    "lat": 25.29528,
+    "lng": 51.53917,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 6
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/11874036"
+    ],
+    "_imageSha256": "52e781ea47d7f635150b9a7cbb9774353919f02e69ca20d4960c4a1100847cc1",
+    "_atlasOrder": 1025
+  },
+  "qatar-008": {
+    "id": "qatar-008",
+    "src": "assets/photos/countries/qatar/283A7904-775abe10-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 08",
+    "country": "Qatar",
+    "location": "Doha",
+    "lat": 25.28545,
+    "lng": 51.53096,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 7
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/290030"
+    ],
+    "_imageSha256": "58e8e3a49c05d3192745df5cbf0e7eda75b13068fcd1454b6682fa75c3ec58a6",
+    "_atlasOrder": 1026
+  },
+  "qatar-009": {
+    "id": "qatar-009",
+    "src": "assets/photos/countries/qatar/283A7925-35d13330-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Qatar · 09",
+    "country": "Qatar",
+    "location": "Souq Waqif",
+    "lat": 25.28738,
+    "lng": 51.53321,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 8
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q4117959"
+    ],
+    "_imageSha256": "a4f2b8610eb51bb6d76ad9f8e1aac178147e2f3cc0f55f8f520ea40047256514",
+    "_atlasOrder": 1027
+  },
+  "qatar-010": {
+    "id": "qatar-010",
+    "src": "assets/photos/countries/qatar/283A7934-4370aa82-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Qatar · 10",
+    "country": "Qatar",
+    "location": "Souq Waqif",
+    "lat": 25.28738,
+    "lng": 51.53321,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q4117959"
+    ],
+    "_imageSha256": "24dc1cc9ba81862e63b4aa0469eb861283e0e40d7129ec3cb03861c124d70b98",
+    "_atlasOrder": 1028
+  },
+  "qatar-011": {
+    "id": "qatar-011",
+    "src": "assets/photos/countries/qatar/283A7947-f40136f5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 11",
+    "country": "Qatar",
+    "location": "Souq Waqif",
+    "lat": 25.28738,
+    "lng": 51.53321,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 10
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q4117959"
+    ],
+    "_imageSha256": "8e088929a3e280704ab018afd00f2b78adb1df4496318ff3a8cf452c573682c6",
+    "_atlasOrder": 1029
+  },
+  "qatar-012": {
+    "id": "qatar-012",
+    "src": "assets/photos/countries/qatar/283A7966-a773f216-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 12",
+    "country": "Qatar",
+    "location": "Souq Waqif",
+    "lat": 25.28738,
+    "lng": 51.53321,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 11
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q4117959"
+    ],
+    "_imageSha256": "3881f818d9c511f804123a74d47c188839e9d4e28e02db4cd38ea54718d2afac",
+    "_atlasOrder": 1030
+  },
+  "qatar-013": {
+    "id": "qatar-013",
+    "src": "assets/photos/countries/qatar/283A7977-def0ed3b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 13",
+    "country": "Qatar",
+    "location": "Hamad International Airport",
+    "lat": 25.27306,
+    "lng": 51.60806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 12
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Hamad_International_Airport"
+    ],
+    "_imageSha256": "14dac7a13803dd0997ea271a687f195257f42b5616ebea5e048465105fba8f8b",
+    "_atlasOrder": 1031
+  },
+  "qatar-014": {
+    "id": "qatar-014",
+    "src": "assets/photos/countries/qatar/283A8002-fb23b06a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 14",
+    "country": "Qatar",
+    "location": "Hamad International Airport",
+    "lat": 25.27306,
+    "lng": 51.60806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 13
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Hamad_International_Airport"
+    ],
+    "_imageSha256": "5490751004d3083555ef0ae295434c46d59300e9359e2d9f5d1a68170ac174ce",
+    "_atlasOrder": 1032
+  },
+  "qatar-015": {
+    "id": "qatar-015",
+    "src": "assets/photos/countries/qatar/283A7971-09943299-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Qatar · 15",
+    "country": "Qatar",
+    "location": "Hamad International Airport",
+    "lat": 25.27306,
+    "lng": 51.60806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Hamad_International_Airport"
+    ],
+    "_imageSha256": "5a06782a620e9fd20381d258f94076c00895039c86ae6b57897087d8b46690d9",
+    "_atlasOrder": 1033
+  },
+  "qatar-016": {
+    "id": "qatar-016",
+    "src": "assets/photos/countries/qatar/283A8014-bee5aeee-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Qatar · 16",
+    "country": "Qatar",
+    "location": "Hamad International Airport",
+    "lat": 25.27306,
+    "lng": 51.60806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 15
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Hamad_International_Airport"
+    ],
+    "_imageSha256": "e1146fa6ada520cf7a77eea7a67839bf7525d26152eded62f0292a275079d4c9",
+    "_atlasOrder": 1034
+  },
+  "qatar-017": {
+    "id": "qatar-017",
+    "src": "assets/photos/countries/qatar/283A8063-4c522c1d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Qatar · 17",
+    "country": "Qatar",
+    "location": "Doha",
+    "lat": 25.28545,
+    "lng": 51.53096,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/qatar/",
+    "albums": [
+      "Qatar"
+    ],
+    "albumOrder": {
+      "Qatar": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/290030"
+    ],
+    "_imageSha256": "f8798c2262a84d6acae5fab6716a9b5b7d8afbb2e749d02a1583faa2ba4b15a3",
+    "_atlasOrder": 1035
+  }
+}

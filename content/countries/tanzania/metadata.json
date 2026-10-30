@@ -1,0 +1,722 @@
+{
+  "tanzania-001": {
+    "id": "tanzania-001",
+    "src": "assets/photos/countries/tanzania/283A1770-093e14c5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 01",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 0
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "f0949ae8a0050019e211b0721b454e682331abc00d901e260348321b3e7d574b",
+    "_atlasOrder": 1244
+  },
+  "tanzania-002": {
+    "id": "tanzania-002",
+    "src": "assets/photos/countries/tanzania/283A2109-a8fb52d5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 02",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 1
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "724a0970e9318331a5dc6294b9c49b070eadfd8936a57a6a80b4b08bba5f07d9",
+    "_atlasOrder": 1245
+  },
+  "tanzania-003": {
+    "id": "tanzania-003",
+    "src": "assets/photos/countries/tanzania/283A2717-ed511122-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 03",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 2
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "08ee0c577a062213719d5c480b6d047eee2885d1fcfb833a0f2f01d1fd79d633",
+    "_atlasOrder": 1246
+  },
+  "tanzania-004": {
+    "id": "tanzania-004",
+    "src": "assets/photos/countries/tanzania/283A2913-c8824c73-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 04",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 3
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "074903dc0961fc3f5a1523e97e9557343648583094cab45fed3e58c31cd2709a",
+    "_atlasOrder": 1247
+  },
+  "tanzania-005": {
+    "id": "tanzania-005",
+    "src": "assets/photos/countries/tanzania/283A2287-3a35ce80-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 05",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 4
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "dc97bac949f117a4541a7922fdf9c30e1b7ad7f029b1032cf3a6c3a05ea72469",
+    "_atlasOrder": 1248
+  },
+  "tanzania-006": {
+    "id": "tanzania-006",
+    "src": "assets/photos/countries/tanzania/283A2931-8d4452f7-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 06",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 5
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "15b66a8997f20f4cab27212ed2b471e7566d9f29c9ceb95bbc4e74e0221efe3e",
+    "_atlasOrder": 1249
+  },
+  "tanzania-007": {
+    "id": "tanzania-007",
+    "src": "assets/photos/countries/tanzania/283A3146-cb708fb9-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 07",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 6
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "0ba75e57cd79d6f893e7e76366cc8eebd300c748ea7c123c524bcf19e6978bd2",
+    "_atlasOrder": 1250
+  },
+  "tanzania-008": {
+    "id": "tanzania-008",
+    "src": "assets/photos/countries/tanzania/283A3794-eea3d2e8-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 08",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 7
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "90e7aba05c3615dd7e5159366a61c6f72508c87db2808048a45648fc41f7185c",
+    "_atlasOrder": 1251
+  },
+  "tanzania-009": {
+    "id": "tanzania-009",
+    "src": "assets/photos/countries/tanzania/283A3860-1c14501b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 09",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 8
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "e0c8e36e780ad0599faa83e65900ac62e0dda3de42549a484efb58aa68716137",
+    "_atlasOrder": 1252
+  },
+  "tanzania-010": {
+    "id": "tanzania-010",
+    "src": "assets/photos/countries/tanzania/283A3880-ab65cc6c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 10",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "270bc4899c42ff55c204e154218047068c01bd4470036651743632a54d7237ed",
+    "_atlasOrder": 1253
+  },
+  "tanzania-011": {
+    "id": "tanzania-011",
+    "src": "assets/photos/countries/tanzania/283A3894-59d24e9f-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 11",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 10
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "9b1a75264c78f9082c075883ae71a000c5cbe3b987697288bba350096689cc2b",
+    "_atlasOrder": 1254
+  },
+  "tanzania-012": {
+    "id": "tanzania-012",
+    "src": "assets/photos/countries/tanzania/283A3934-f817088f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 12",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 11
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "687cfa6ec5d33e6abc3ab18a7000cdef42a5d9127185839af51997359a80ee89",
+    "_atlasOrder": 1255
+  },
+  "tanzania-013": {
+    "id": "tanzania-013",
+    "src": "assets/photos/countries/tanzania/283A3925-20233ca4-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 13",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 12
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "1288299b6c28a7f369ae7e810046bf943cdd388536018717f2921fbb3c14130f",
+    "_atlasOrder": 1256
+  },
+  "tanzania-014": {
+    "id": "tanzania-014",
+    "src": "assets/photos/countries/tanzania/283A4031-d294be57-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 14",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 13
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "c033db4c91b22ffbd63a0bcf9c3c1fe9ddbcf7e79f3804f0f48790a8c60c45ae",
+    "_atlasOrder": 1257
+  },
+  "tanzania-015": {
+    "id": "tanzania-015",
+    "src": "assets/photos/countries/tanzania/283A4178-c5b6ba2c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 15",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "8255a9bc2549475ea6f48f5758ff8d5783a1ea1987bb87723ad2ad6790136a40",
+    "_atlasOrder": 1258
+  },
+  "tanzania-016": {
+    "id": "tanzania-016",
+    "src": "assets/photos/countries/tanzania/283A3968-370138df-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 16",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 15
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "1083755e4a4ea2d9093a4e27a006109d386c2eeb34ac39c4b641d52111a969d9",
+    "_atlasOrder": 1259
+  },
+  "tanzania-017": {
+    "id": "tanzania-017",
+    "src": "assets/photos/countries/tanzania/283A4275-96c47ecf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 17",
+    "country": "Tanzania",
+    "location": "Zanzibar",
+    "lat": -6.16176,
+    "lng": 39.19128,
+    "coordinatePrecision": "Region",
+    "locationStatus": "located",
+    "locationEvidence": "Zanzibar island setting; beach location not confirmed, so only an island-region pin is used.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/149734"
+    ],
+    "_imageSha256": "91a5af1b85da6bfbc151197ea2bd2370ded02073154ee55e58bd236e278a851f",
+    "_atlasOrder": 1260
+  },
+  "tanzania-018": {
+    "id": "tanzania-018",
+    "src": "assets/photos/countries/tanzania/283A4447-6473fc3c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 18",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "93688f6425e7f521a3bc9bd78191f30c103222bf141653b3852989f1027ea1e0",
+    "_atlasOrder": 1261
+  },
+  "tanzania-019": {
+    "id": "tanzania-019",
+    "src": "assets/photos/countries/tanzania/283A4488-fe6e016d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 19",
+    "country": "Tanzania",
+    "location": "Stone Town, Zanzibar",
+    "lat": -6.1624,
+    "lng": 39.1913,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 18
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Stone_Town"
+    ],
+    "_imageSha256": "6a7e5a3da5a8d73608c9f04e55c3fe7e5cc43534747cf53c68076c0db4665868",
+    "_atlasOrder": 1262
+  },
+  "tanzania-020": {
+    "id": "tanzania-020",
+    "src": "assets/photos/countries/tanzania/283A8337-0cd9839e-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Tanzania · 20",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 19
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "bc71c39f2e145dfa9e94ef64f7d48a7f99f6e6193fecab7de62355f7a6a6119a",
+    "_atlasOrder": 1263
+  },
+  "tanzania-021": {
+    "id": "tanzania-021",
+    "src": "assets/photos/countries/tanzania/283A8169-bce58c4d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 21",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 20
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "aa20c1ae871683363e96408cefa6f1279c5c7bf6b4ae11dfcb182f287fe2dd98",
+    "_atlasOrder": 1264
+  },
+  "tanzania-022": {
+    "id": "tanzania-022",
+    "src": "assets/photos/countries/tanzania/283A8656-4e520ebe-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 22",
+    "country": "Tanzania",
+    "location": "Mount Kilimanjaro",
+    "lat": -3.07583,
+    "lng": 37.35333,
+    "coordinatePrecision": "Region",
+    "locationStatus": "located",
+    "locationEvidence": "Lava Tower Camp sign explicitly names Kilimanjaro; distinctive alpine terrain in accompanying photographs. Approximate mountain-region pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 21
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/157452"
+    ],
+    "_imageSha256": "e0bfc12ee9e2b713a2b9ed1b0af05d167ea6725ca69c8c32432c391023aa94dd",
+    "_atlasOrder": 1265
+  },
+  "tanzania-023": {
+    "id": "tanzania-023",
+    "src": "assets/photos/countries/tanzania/283A9039-ef9748ae-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 23",
+    "country": "Tanzania",
+    "location": "Mount Kilimanjaro",
+    "lat": -3.07583,
+    "lng": 37.35333,
+    "coordinatePrecision": "Region",
+    "locationStatus": "located",
+    "locationEvidence": "Lava Tower Camp sign explicitly names Kilimanjaro; distinctive alpine terrain in accompanying photographs. Approximate mountain-region pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 22
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/157452"
+    ],
+    "_imageSha256": "6df779a8437b81aaf88a7db250e273e9a76576ec6b44e70beae467e6fd2728ef",
+    "_atlasOrder": 1266
+  },
+  "tanzania-024": {
+    "id": "tanzania-024",
+    "src": "assets/photos/countries/tanzania/283A8692-1d20ca5d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 24",
+    "country": "Tanzania",
+    "location": "Mount Kilimanjaro",
+    "lat": -3.07583,
+    "lng": 37.35333,
+    "coordinatePrecision": "Region",
+    "locationStatus": "located",
+    "locationEvidence": "Lava Tower Camp sign explicitly names Kilimanjaro; distinctive alpine terrain in accompanying photographs. Approximate mountain-region pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 23
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/157452"
+    ],
+    "_imageSha256": "26d8542f75f6d72f09b2220a441174108e183cb02d55f1800c355fd7052981f5",
+    "_atlasOrder": 1267
+  },
+  "tanzania-025": {
+    "id": "tanzania-025",
+    "src": "assets/photos/countries/tanzania/283A9329-cf1452e1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tanzania · 25",
+    "country": "Tanzania",
+    "location": "Tanzania",
+    "lat": -6.37,
+    "lng": 34.89,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/tanzania/",
+    "albums": [
+      "Tanzania"
+    ],
+    "albumOrder": {
+      "Tanzania": 24
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "98c2103aef8ca5c2ee24ca77c7e19f9712803ac9a59193d939844a9ad36f7f8a",
+    "_atlasOrder": 1268
+  }
+}

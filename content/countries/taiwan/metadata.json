@@ -1,0 +1,602 @@
+{
+  "taiwan-001": {
+    "id": "taiwan-001",
+    "src": "assets/photos/countries/taiwan/283A7391-bb7c0b46-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 01",
+    "country": "Taiwan",
+    "location": "Longshan Temple (Taipei)",
+    "lat": 25.03722,
+    "lng": 121.49944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 0
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Longshan_Temple_%28Taipei%29"
+    ],
+    "_imageSha256": "2db4f31a4071ae3e80f91d3ce07b953b3abffd3660c95c70944b92b60318d9aa",
+    "_atlasOrder": 1224
+  },
+  "taiwan-002": {
+    "id": "taiwan-002",
+    "src": "assets/photos/countries/taiwan/283A7388-49cb89b5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Taiwan · 02",
+    "country": "Taiwan",
+    "location": "Longshan Temple (Taipei)",
+    "lat": 25.03722,
+    "lng": 121.49944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 1
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Longshan_Temple_%28Taipei%29"
+    ],
+    "_imageSha256": "da45da0650de8c46b6c1d3b9c9cd4161422542f8bd00ed29cf88b9de7fc9f91b",
+    "_atlasOrder": 1225
+  },
+  "taiwan-003": {
+    "id": "taiwan-003",
+    "src": "assets/photos/countries/taiwan/283A7575-e80ecfa5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Taiwan · 03",
+    "country": "Taiwan",
+    "location": "National Theater, Taipei",
+    "lat": 25.035,
+    "lng": 121.51806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 2
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/National_Theater_and_Concert_Hall"
+    ],
+    "_imageSha256": "6addb4ee09908dd4b64a33d00645789487e7c7c9490cf95d4c259da4f94f0f17",
+    "_atlasOrder": 1226
+  },
+  "taiwan-004": {
+    "id": "taiwan-004",
+    "src": "assets/photos/countries/taiwan/283A7636-1ab94d56-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 04",
+    "country": "Taiwan",
+    "location": "Taipei",
+    "lat": 25.05306,
+    "lng": 121.52639,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 3
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1668341"
+    ],
+    "_imageSha256": "756af4e4c9cd7575fa176f4e7c361a4f0a6fc3c20a9aa0c3a5c707d82ddd277a",
+    "_atlasOrder": 1227
+  },
+  "taiwan-005": {
+    "id": "taiwan-005",
+    "src": "assets/photos/countries/taiwan/283A7660-3f6a1007-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Taiwan · 05",
+    "country": "Taiwan",
+    "location": "Taipei",
+    "lat": 25.05306,
+    "lng": 121.52639,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 4
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1668341"
+    ],
+    "_imageSha256": "9eeec1d39c4f27ef77dd501743ca431e9111696ebe41e2f21c16788d7bc5f001",
+    "_atlasOrder": 1228
+  },
+  "taiwan-006": {
+    "id": "taiwan-006",
+    "src": "assets/photos/countries/taiwan/283A7750-cddd92f4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Taiwan · 06",
+    "country": "Taiwan",
+    "location": "Taipei 101",
+    "lat": 25.0336,
+    "lng": 121.5647,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 5
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Taipei_101"
+    ],
+    "_imageSha256": "85437d145eea2eac43af84d0a4bf8cf8fc4556a74c4f026b45857d7811fa0542",
+    "_atlasOrder": 1229
+  },
+  "taiwan-007": {
+    "id": "taiwan-007",
+    "src": "assets/photos/countries/taiwan/283A7912-79768b0d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 07",
+    "country": "Taiwan",
+    "location": "Taipei",
+    "lat": 25.05306,
+    "lng": 121.52639,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 6
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1668341"
+    ],
+    "_imageSha256": "47b9a4c2ef1e70d7c072eda4164f2e54750f9e6b800ff3a984e54dade10dd3c4",
+    "_atlasOrder": 1230
+  },
+  "taiwan-008": {
+    "id": "taiwan-008",
+    "src": "assets/photos/countries/taiwan/283A7802-c94a84de-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Taiwan · 08",
+    "country": "Taiwan",
+    "location": "Taipei 101",
+    "lat": 25.0336,
+    "lng": 121.5647,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 7
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Taipei_101"
+    ],
+    "_imageSha256": "f46442a3180fc2db20805794da7599d59dd00b4497c85a0772085d030f06cb90",
+    "_atlasOrder": 1231
+  },
+  "taiwan-009": {
+    "id": "taiwan-009",
+    "src": "assets/photos/countries/taiwan/283A7937-3bfd062d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 09",
+    "country": "Taiwan",
+    "location": "Taipei",
+    "lat": 25.05306,
+    "lng": 121.52639,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 8
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1668341"
+    ],
+    "_imageSha256": "9d0e2d78131fd488e988e03ecd5d0ada27e73e796cdcbc172dc74fb1412371e5",
+    "_atlasOrder": 1232
+  },
+  "taiwan-010": {
+    "id": "taiwan-010",
+    "src": "assets/photos/countries/taiwan/283A8732-9a38403d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Taiwan · 10",
+    "country": "Taiwan",
+    "location": "Taipei",
+    "lat": 25.05306,
+    "lng": 121.52639,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1668341"
+    ],
+    "_imageSha256": "0d13da134326e1ee26406272772df40558c86ffa852de9e7cef9a093e81e4c7a",
+    "_atlasOrder": 1233
+  },
+  "taiwan-011": {
+    "id": "taiwan-011",
+    "src": "assets/photos/countries/taiwan/283A8743-688fc2ce-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 11",
+    "country": "Taiwan",
+    "location": "Taipei",
+    "lat": 25.05306,
+    "lng": 121.52639,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 10
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1668341"
+    ],
+    "_imageSha256": "1243d58e7c7c499ef6895dc76fc1de3b25de95c35862e6707cf31dfe247fde67",
+    "_atlasOrder": 1234
+  },
+  "taiwan-012": {
+    "id": "taiwan-012",
+    "src": "assets/photos/countries/taiwan/283A8763-4d5c9f9f-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 12",
+    "country": "Taiwan",
+    "location": "Taipei",
+    "lat": 25.05306,
+    "lng": 121.52639,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 11
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1668341"
+    ],
+    "_imageSha256": "e5cbeeb74352d95562d74244f02325f6187af8aa6bbf68b12ba5338db2ab3a54",
+    "_atlasOrder": 1235
+  },
+  "taiwan-013": {
+    "id": "taiwan-013",
+    "src": "assets/photos/countries/taiwan/283A8891-eb7e4072-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Taiwan · 13",
+    "country": "Taiwan",
+    "location": "Taipei",
+    "lat": 25.05306,
+    "lng": 121.52639,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 12
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1668341"
+    ],
+    "_imageSha256": "376ce1254c9ca6bc20ea666a4697077d7e9436b320b4c5f48a61176ae0481b67",
+    "_atlasOrder": 1236
+  },
+  "taiwan-014": {
+    "id": "taiwan-014",
+    "src": "assets/photos/countries/taiwan/283A8816-19c9c281-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 14",
+    "country": "Taiwan",
+    "location": "Longshan Temple (Taipei)",
+    "lat": 25.03722,
+    "lng": 121.49944,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 13
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Longshan_Temple_%28Taipei%29"
+    ],
+    "_imageSha256": "8132f02b51dd1cd87a1191ca11866db8cb6af38dd26a5fc21c02cd171e27e3bf",
+    "_atlasOrder": 1237
+  },
+  "taiwan-015": {
+    "id": "taiwan-015",
+    "src": "assets/photos/countries/taiwan/283A8923-b80c8491-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 15",
+    "country": "Taiwan",
+    "location": "Taipei Fine Arts Museum",
+    "lat": 25.0725,
+    "lng": 121.52472,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Taipei_Fine_Arts_Museum"
+    ],
+    "_imageSha256": "00503b8d7e1f993448833d8ce8186603dcc2ae72c61a49cac33fbe97f4369a1c",
+    "_atlasOrder": 1238
+  },
+  "taiwan-016": {
+    "id": "taiwan-016",
+    "src": "assets/photos/countries/taiwan/283A8931-4abb0662-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 16",
+    "country": "Taiwan",
+    "location": "Taipei Fine Arts Museum",
+    "lat": 25.0725,
+    "lng": 121.52472,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 15
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Taipei_Fine_Arts_Museum"
+    ],
+    "_imageSha256": "82fc6d43633a65b4127b4173eb1cb557a4add3c7b75dd3d432ce9bb18332c92a",
+    "_atlasOrder": 1239
+  },
+  "taiwan-017": {
+    "id": "taiwan-017",
+    "src": "assets/photos/countries/taiwan/283A8986-fa8709b1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Taiwan · 17",
+    "country": "Taiwan",
+    "location": "National Theater, Taipei",
+    "lat": 25.035,
+    "lng": 121.51806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/National_Theater_and_Concert_Hall"
+    ],
+    "_imageSha256": "6b6217ded9c160f62979d2672a6b33cbfdb1afffc6b4eb128185c38553c86975",
+    "_atlasOrder": 1240
+  },
+  "taiwan-018": {
+    "id": "taiwan-018",
+    "src": "assets/photos/countries/taiwan/283A8620-bf2d4a46-1000.jpeg",
+    "width": 1000,
+    "height": 1501,
+    "title": "Taiwan · 18",
+    "country": "Taiwan",
+    "location": "Taipei 101",
+    "lat": 25.0336,
+    "lng": 121.5647,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Taipei_101"
+    ],
+    "_imageSha256": "9f0df5bd806f7f98818f8579c5797601fe66c3b86ebbf77b52b28c4bb4c85c4e",
+    "_atlasOrder": 1241
+  },
+  "taiwan-019": {
+    "id": "taiwan-019",
+    "src": "assets/photos/countries/taiwan/283A9005-933437b4-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Taiwan · 19",
+    "country": "Taiwan",
+    "location": "National Theater, Taipei",
+    "lat": 25.035,
+    "lng": 121.51806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 18
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/National_Theater_and_Concert_Hall"
+    ],
+    "_imageSha256": "783d42cc36e8595b47707e4cc55b0a4c48c919231a340117b4d7587f2a087bae",
+    "_atlasOrder": 1242
+  },
+  "taiwan-020": {
+    "id": "taiwan-020",
+    "src": "assets/photos/countries/taiwan/283A7649-6183b547-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Taiwan · 20",
+    "country": "Taiwan",
+    "location": "Taipei",
+    "lat": 25.05306,
+    "lng": 121.52639,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/taiwan/",
+    "albums": [
+      "Taiwan"
+    ],
+    "albumOrder": {
+      "Taiwan": 19
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1668341"
+    ],
+    "_imageSha256": "545283deb746fc06987330687d8bd88d1eb2da0081f7a61b0a7355b62517ec9d",
+    "_atlasOrder": 1243
+  }
+}

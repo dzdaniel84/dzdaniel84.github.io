@@ -1,0 +1,4305 @@
+{
+  "japan-001": {
+    "id": "japan-001",
+    "src": "assets/photos/countries/japan/283A0557-e5c92454-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 01",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "ae6c855e258fc4add8339ba8230a3f3dda943805320bd9dd3710806efbbb8034",
+    "_atlasOrder": 528
+  },
+  "japan-002": {
+    "id": "japan-002",
+    "src": "assets/photos/countries/japan/283A0047-HDR-177ea6a7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 02",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.13333,
+    "lng": 137.25,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 1
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "f2cc958ebb200a96eee185f955c2a7270e0eb2707acd92f107f713e3a04e016b",
+    "_atlasOrder": 529
+  },
+  "wildlife-21": {
+    "id": "wildlife-21",
+    "src": "assets/photos/wildlife/283A1607-fe197410-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Wildlife · 21",
+    "location": "Nara",
+    "country": "Japan",
+    "category": "Wildlife",
+    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
+    "cover": false,
+    "lat": 34.68,
+    "lng": 135.8,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Location supplied by Daniel; coordinates generalized to named place.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.684325,
+      "lng": 135.840397
+    },
+    "_imageSha256": "746595947f3314d473e4eb75f17a4e41f8f9ac3bf477091c54bbe0e62bd78ba3",
+    "_atlasOrder": 69
+  },
+  "japan-004": {
+    "id": "japan-004",
+    "src": "assets/photos/countries/japan/283A2128-55f52b87-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 04",
+    "country": "Japan",
+    "location": "Kyoto Station",
+    "lat": 34.98556,
+    "lng": 135.75861,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 3
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Ky%C5%8Dto_Station"
+    ],
+    "_imageSha256": "6aa86ef53d1e1f61fbb115ed18c96b800e8702d7514061b0c52ee5d165673297",
+    "_atlasOrder": 530
+  },
+  "japan-005": {
+    "id": "japan-005",
+    "src": "assets/photos/countries/japan/283A2617-f4306d97-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 05",
+    "country": "Japan",
+    "location": "Himeji",
+    "lat": 34.836167,
+    "lng": 134.692563,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.836167,
+      "lng": 134.692563
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1862627"
+    ],
+    "_imageSha256": "f7b0bea34354daeb0cbf4c7eb4a1d1cf3d6841a9a3b2cb7fbca38cfd2cb2d88c",
+    "_atlasOrder": 531
+  },
+  "japan-006": {
+    "id": "japan-006",
+    "src": "assets/photos/countries/japan/283A3165-HDR-0687ef64-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 06",
+    "country": "Japan",
+    "location": "Kyoto City KYOCERA Museum of Art",
+    "lat": 35.01284,
+    "lng": 135.78357,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 5
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q3330657"
+    ],
+    "_imageSha256": "03c30f1e2c3c624dd0c1ba2ebdb624131147fb6ba965bf0944fcfd77f0dbc46a",
+    "_atlasOrder": 532
+  },
+  "wildlife-01": {
+    "id": "wildlife-01",
+    "src": "assets/photos/wildlife/283A3433-Enhanced-NR-7aed7ae9-2500.jpeg",
+    "width": 2500,
+    "height": 1667,
+    "title": "Wildlife · 01",
+    "location": "Japan",
+    "country": "Japan",
+    "category": "Wildlife",
+    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
+    "cover": true,
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 6
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "aecedb0290ef34143ff56cd182f43b3cfb89595b8ce128798e51146027c74c30",
+    "_atlasOrder": 49
+  },
+  "japan-008": {
+    "id": "japan-008",
+    "src": "assets/photos/countries/japan/283A9832-HDR-5c12a481-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 08",
+    "country": "Japan",
+    "location": "21st Century Museum of Contemporary Art, Kanazawa",
+    "lat": 36.56083,
+    "lng": 136.65806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 7
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/21st_Century_Museum_of_Contemporary_Art%2C_Kanazawa"
+    ],
+    "_imageSha256": "20a96cb12aaa85f820fb687cfae44eca3b0a6242dc83a82147853f51a09d7616",
+    "_atlasOrder": 533
+  },
+  "world-landmarks-17": {
+    "id": "world-landmarks-17",
+    "src": "assets/photos/world-landmarks/L1030972-ec616adc-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Kiyomizu-dera",
+    "location": "Kyoto",
+    "country": "Japan",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 35.011697,
+    "lng": 135.768162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.011697,
+      "lng": 135.768162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "c4696544cae3cfe9664a4568b53f765664b0782d88cce49992c133fe5c819405",
+    "_atlasOrder": 118
+  },
+  "japan-010": {
+    "id": "japan-010",
+    "src": "assets/photos/countries/japan/283A9883-HDR-1e9929a1-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 10",
+    "country": "Japan",
+    "location": "21st Century Museum of Contemporary Art, Kanazawa",
+    "lat": 36.56083,
+    "lng": 136.65806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/21st_Century_Museum_of_Contemporary_Art%2C_Kanazawa"
+    ],
+    "_imageSha256": "7a6dd0a76eefd147e4611f849903bfab95432fcebf4cff8dba46d206caddf8b8",
+    "_atlasOrder": 534
+  },
+  "japan-011": {
+    "id": "japan-011",
+    "src": "assets/photos/countries/japan/L1100054-HDR-bf5c6fb1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 11",
+    "country": "Japan",
+    "location": "Yokohama",
+    "lat": 35.44212,
+    "lng": 139.648153,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.44212,
+      "lng": 139.648153
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1848354"
+    ],
+    "_imageSha256": "5dde1200b062246522e359cdebb3e368102f7e360ae57fbb8b4a7d7e3b9742e5",
+    "_atlasOrder": 535
+  },
+  "japan-012": {
+    "id": "japan-012",
+    "src": "assets/photos/countries/japan/283A0127-HDR-4debed42-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 12",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.13333,
+    "lng": 137.25,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 11
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "9dafd10fd585aaa4b4deaaa317aa4ff7ca37db96e939093afbd5ea61007df98a",
+    "_atlasOrder": 536
+  },
+  "japan-013": {
+    "id": "japan-013",
+    "src": "assets/photos/countries/japan/L1100060-688a0f66-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 13",
+    "country": "Japan",
+    "location": "Yokohama",
+    "lat": 35.44212,
+    "lng": 139.648153,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.44212,
+      "lng": 139.648153
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1848354"
+    ],
+    "_imageSha256": "1a440007aca81fe973920eae95d30481da4b8287458aa0f17cb4bab512d16789",
+    "_atlasOrder": 537
+  },
+  "japan-014": {
+    "id": "japan-014",
+    "src": "assets/photos/countries/japan/283A0152-9a3d8d95-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 14",
+    "country": "Japan",
+    "location": "Kanazawa",
+    "lat": 36.6,
+    "lng": 136.61667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 13
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1860243"
+    ],
+    "_imageSha256": "4c653300da3f74f8510f4ce09f9fecc18e399157e00c2de8e57e9a6ac846ea4f",
+    "_atlasOrder": 538
+  },
+  "japan-015": {
+    "id": "japan-015",
+    "src": "assets/photos/countries/japan/283A0140-2a018246-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 15",
+    "country": "Japan",
+    "location": "Kanazawa",
+    "lat": 36.6,
+    "lng": 136.61667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1860243"
+    ],
+    "_imageSha256": "5fe87652e2c4457e26dc6abc26cb17ce12c75907565fe27d5d41706c80a79096",
+    "_atlasOrder": 539
+  },
+  "japan-016": {
+    "id": "japan-016",
+    "src": "assets/photos/countries/japan/283A0358-HDR-d8b600b5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 16",
+    "country": "Japan",
+    "location": "Kenroku-en",
+    "lat": 36.56194,
+    "lng": 136.6625,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 15
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Kenroku-en"
+    ],
+    "_imageSha256": "e24a54de2913519ed53ac788e14f1802173f6e3cbf6039b9d07ed64145e9a593",
+    "_atlasOrder": 540
+  },
+  "japan-017": {
+    "id": "japan-017",
+    "src": "assets/photos/countries/japan/283A0203-HDR-797346a5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 17",
+    "country": "Japan",
+    "location": "Oyama Shrine (Kanazawa)",
+    "lat": 36.56639,
+    "lng": 136.65528,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q998709"
+    ],
+    "_imageSha256": "d6ee0c5ee10c80aa2b47d74cd1efb121547ce800375c60a31c04900a23fc91d8",
+    "_atlasOrder": 541
+  },
+  "japan-018": {
+    "id": "japan-018",
+    "src": "assets/photos/countries/japan/283A0432-8bc4c456-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 18",
+    "country": "Japan",
+    "location": "Kanazawa Station",
+    "lat": 36.57827,
+    "lng": 136.64776,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Kanazawa_Station"
+    ],
+    "_imageSha256": "f2e71628f0d39c8ec0f76e5eb6f206c53fcfc52782bc11ed5f913b88544f5794",
+    "_atlasOrder": 542
+  },
+  "japan-019": {
+    "id": "japan-019",
+    "src": "assets/photos/countries/japan/283A0581-HDR-778fbec9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 19",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "01ffc0e19c427316d3ca1b641c712bfa9bac6c20184ddc10d0101c49942ab63e",
+    "_atlasOrder": 543
+  },
+  "japan-020": {
+    "id": "japan-020",
+    "src": "assets/photos/countries/japan/283A0659-85383c3a-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 20",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "7f5f047be699905f3d42de10cc0913623a6e64a8f28d841bdba866356b8eef0f",
+    "_atlasOrder": 544
+  },
+  "japan-021": {
+    "id": "japan-021",
+    "src": "assets/photos/countries/japan/283A0660-a0eb616b-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 21",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "e733bd5eef52d1074fecec093e8aec8dd250c06d21181f0038a8c795c2ff7936",
+    "_atlasOrder": 545
+  },
+  "japan-022": {
+    "id": "japan-022",
+    "src": "assets/photos/countries/japan/283A0679-HDR-525ce398-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 22",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "03786730a5ef9cf84840beacbc7ef026f74f28d2f8386e2d4e3763e7027141c2",
+    "_atlasOrder": 546
+  },
+  "japan-023": {
+    "id": "japan-023",
+    "src": "assets/photos/countries/japan/283A0719-Enhanced-NR-cc37346c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 23",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "e90cf21fefa10487cfbf659840e74b14da5a0c9488f8f51f399c8a68eee0358e",
+    "_atlasOrder": 547
+  },
+  "japan-024": {
+    "id": "japan-024",
+    "src": "assets/photos/countries/japan/283A0729-Enhanced-NR-3e80b69f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 24",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "74c5bfcb9b8beb917bb855684dff768b68dadd68ab5ae4853de4ee1bf1e781ad",
+    "_atlasOrder": 548
+  },
+  "japan-025": {
+    "id": "japan-025",
+    "src": "assets/photos/countries/japan/283A0692-4c68db01-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 25",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "9ec961874c350f76ea5531e848e2d4e9c3edc5766488c7c41a19ad902f3957cc",
+    "_atlasOrder": 549
+  },
+  "wildlife-20": {
+    "id": "wildlife-20",
+    "src": "assets/photos/wildlife/283A0996-Enhanced-NR-4e257bc3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Wildlife · 20",
+    "location": "Takayama",
+    "country": "Japan",
+    "category": "Wildlife",
+    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
+    "cover": false,
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "a98886472be533fa331480466e590e3f728afd3725c6614aa8fbfe33e2291f65",
+    "_atlasOrder": 68
+  },
+  "japan-027": {
+    "id": "japan-027",
+    "src": "assets/photos/countries/japan/283A0870-d7c5152c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 27",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "92de51ba09816cd84c7fdc428c155a4ebfb80e6355409f84f8fed6639d3026f6",
+    "_atlasOrder": 550
+  },
+  "japan-028": {
+    "id": "japan-028",
+    "src": "assets/photos/countries/japan/283A1071-HDR-257297df-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 28",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "f02d6d1c74699eaa66ab3f6e5bd7c2a923d18da95d67ff52bb90615676d4d4f1",
+    "_atlasOrder": 551
+  },
+  "japan-029": {
+    "id": "japan-029",
+    "src": "assets/photos/countries/japan/283A1174-HDR-84b7d1cf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 29",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "4a2d5fb4536ba82f2a1a8f93c08394894b11444d2fae97709b76a730b8a51510",
+    "_atlasOrder": 552
+  },
+  "japan-030": {
+    "id": "japan-030",
+    "src": "assets/photos/countries/japan/283A1166-HDR-7600533c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 30",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "c2370382060213ac0859fd73f77fdfb1818ee28ff095b6c68758f903f7fa2f43",
+    "_atlasOrder": 553
+  },
+  "japan-031": {
+    "id": "japan-031",
+    "src": "assets/photos/countries/japan/283A1332-HDR-f0b24a4c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 31",
+    "country": "Japan",
+    "location": "Nanzen-ji",
+    "lat": 35.01198,
+    "lng": 135.79439,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 30
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Nanzen-ji"
+    ],
+    "_imageSha256": "7bab50de6e9d8db21ade5f730081d641fbb749322f044255a8820f8255806aaa",
+    "_atlasOrder": 554
+  },
+  "japan-032": {
+    "id": "japan-032",
+    "src": "assets/photos/countries/japan/283A1232-Enhanced-NR-0205c8bf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 32",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.143325,
+    "lng": 137.258088,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.143325,
+      "lng": 137.258088
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "0b7b36a4e9dcf12dbc0d984b925569841538bb6cec7e883a297bf5e08ab9de0c",
+    "_atlasOrder": 555
+  },
+  "japan-033": {
+    "id": "japan-033",
+    "src": "assets/photos/countries/japan/283A1362-27d695ee-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 33",
+    "country": "Japan",
+    "location": "Nanzen-ji",
+    "lat": 35.01198,
+    "lng": 135.79439,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 32
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Nanzen-ji"
+    ],
+    "_imageSha256": "9f9b80f6a902e08b1bf6eaa4b6a27cc6e8ac46abe8ea12dc0b5388da6a1249e0",
+    "_atlasOrder": 556
+  },
+  "japan-034": {
+    "id": "japan-034",
+    "src": "assets/photos/countries/japan/283A1428-Enhanced-NR-d561171d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 34",
+    "country": "Japan",
+    "location": "Nanzen-ji",
+    "lat": 35.01198,
+    "lng": 135.79439,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 33
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Nanzen-ji"
+    ],
+    "_imageSha256": "33fd6367413d4b75b016eb0e5d331d17722287b09611fcc55157ca1def984fb1",
+    "_atlasOrder": 557
+  },
+  "japan-035": {
+    "id": "japan-035",
+    "src": "assets/photos/countries/japan/283A1405-50c3450e-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 35",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 34
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "776ec3214f64c4b9d5762ce37198eb3c885686fe9a4f797931ba4085319d29ed",
+    "_atlasOrder": 558
+  },
+  "japan-036": {
+    "id": "japan-036",
+    "src": "assets/photos/countries/japan/283A1706-a274c7fd-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 36",
+    "country": "Japan",
+    "location": "Nara",
+    "lat": 34.684325,
+    "lng": 135.840397,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.684325,
+      "lng": 135.840397
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1855612"
+    ],
+    "_imageSha256": "df7d99aca2bf930517b74e3a297a0ae7e97d35e45988dbf87e7539d9fe16fb6f",
+    "_atlasOrder": 559
+  },
+  "world-landmarks-27": {
+    "id": "world-landmarks-27",
+    "src": "assets/photos/world-landmarks/283A1896-HDR-91736967-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Kinkaku-ji",
+    "location": "Kinkaku-ji",
+    "country": "Japan",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 35.0395,
+    "lng": 135.7285,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 36
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Kinkaku-ji"
+    ],
+    "_imageSha256": "f4ceadad12f4d4c9553d16e93a716322d0411d8295e16a6c95b1883deefc8649",
+    "_atlasOrder": 128
+  },
+  "japan-038": {
+    "id": "japan-038",
+    "src": "assets/photos/countries/japan/283A2120-01bdbb66-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 38",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 37
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "ed4728c986e7f1e7cb1af3f78d5d552e8f4f78d86440c3f5d1dceb21a58deb26",
+    "_atlasOrder": 560
+  },
+  "japan-039": {
+    "id": "japan-039",
+    "src": "assets/photos/countries/japan/283A2105-HDR-a078fd76-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 39",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 38
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "87733e9ef2c30b6f139849aa20edc3deda353c98f1cf6d944ac76e2b4019548e",
+    "_atlasOrder": 561
+  },
+  "japan-040": {
+    "id": "japan-040",
+    "src": "assets/photos/countries/japan/283A2151-Enhanced-NR-52cf7f85-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 40",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 39
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "bda67418bdaf1729ea1546d104eb6c0f54dff6fb1a170ee78604006d0eb039f0",
+    "_atlasOrder": 562
+  },
+  "japan-041": {
+    "id": "japan-041",
+    "src": "assets/photos/countries/japan/283A2239-771c22d4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 41",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 40
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "251fb5f24f6c38177b3d55ee2abedd02f67bc15ec6334210cd6e3f343cc8b7ec",
+    "_atlasOrder": 563
+  },
+  "world-landmarks-24": {
+    "id": "world-landmarks-24",
+    "src": "assets/photos/world-landmarks/283A2425-2f9bb8f2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Himeji Castle",
+    "location": "Himeji",
+    "country": "Japan",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 34.836167,
+    "lng": 134.692563,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 41
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.836167,
+      "lng": 134.692563
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1862627"
+    ],
+    "_imageSha256": "51b1c9248c18238d6ddfb86fcdea25e09888b98a99bd665a3309bf010579f21e",
+    "_atlasOrder": 125
+  },
+  "japan-043": {
+    "id": "japan-043",
+    "src": "assets/photos/countries/japan/283A2462-5b0c2624-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 43",
+    "country": "Japan",
+    "location": "Himeji",
+    "lat": 34.836167,
+    "lng": 134.692563,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 42
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.836167,
+      "lng": 134.692563
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1862627"
+    ],
+    "_imageSha256": "f7ebc1494ed88f33fc88b77b1e7c82d85282e470811fc283abdf08c132c37e3f",
+    "_atlasOrder": 564
+  },
+  "japan-044": {
+    "id": "japan-044",
+    "src": "assets/photos/countries/japan/283A2464-fac96034-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 44",
+    "country": "Japan",
+    "location": "Himeji",
+    "lat": 34.836167,
+    "lng": 134.692563,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 43
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.836167,
+      "lng": 134.692563
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1862627"
+    ],
+    "_imageSha256": "b7bc76d6c0d3747d5dc2de4c0421272edc8db186d83c17a603e08daa88863f71",
+    "_atlasOrder": 565
+  },
+  "japan-045": {
+    "id": "japan-045",
+    "src": "assets/photos/countries/japan/283A2546-087ee2c7-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 45",
+    "country": "Japan",
+    "location": "Himeji",
+    "lat": 34.836167,
+    "lng": 134.692563,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 44
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.836167,
+      "lng": 134.692563
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1862627"
+    ],
+    "_imageSha256": "4dfc3f1af0037e6513689d6135b5a16f5ff347b90af35a421d71549e425e2d8f",
+    "_atlasOrder": 566
+  },
+  "japan-046": {
+    "id": "japan-046",
+    "src": "assets/photos/countries/japan/283A2559-b842ed14-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 46",
+    "country": "Japan",
+    "location": "Himeji",
+    "lat": 34.836167,
+    "lng": 134.692563,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 45
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.836167,
+      "lng": 134.692563
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1862627"
+    ],
+    "_imageSha256": "292ca45eb0ff141a8b73995b99b7168a6dbe0a4fe89467b13a05ff8af909409b",
+    "_atlasOrder": 567
+  },
+  "japan-047": {
+    "id": "japan-047",
+    "src": "assets/photos/countries/japan/283A2639-4af56fe7-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 47",
+    "country": "Japan",
+    "location": "Himeji",
+    "lat": 34.836167,
+    "lng": 134.692563,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 46
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.836167,
+      "lng": 134.692563
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1862627"
+    ],
+    "_imageSha256": "ce182ec4c5b25c2b1ea8745d48051319fb4657fea02864dd320aa695082f8935",
+    "_atlasOrder": 568
+  },
+  "japan-048": {
+    "id": "japan-048",
+    "src": "assets/photos/countries/japan/283A2966-eb3029f7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 48",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 47
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "0fe9c35cdb55fc5accf55a6972d15d869e39277f16d2bb5d7f620cd42afac27e",
+    "_atlasOrder": 569
+  },
+  "japan-049": {
+    "id": "japan-049",
+    "src": "assets/photos/countries/japan/283A2994-0a1fe112-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 49",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 48
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "c7a3a714a2e5dc5e08021787f20d3deda8ae0a413f39740d59dadeaf0ccfa476",
+    "_atlasOrder": 570
+  },
+  "japan-050": {
+    "id": "japan-050",
+    "src": "assets/photos/countries/japan/283A3004-2fccbc43-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 50",
+    "country": "Japan",
+    "location": "Hōkan-ji (Yasaka Pagoda)",
+    "lat": 34.99859,
+    "lng": 135.77919,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "The distinctive five-story Yasaka Pagoda and Higashiyama streets are visible; approximate temple location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 49
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/13696883"
+    ],
+    "_imageSha256": "d60170018f792bd6cb71319ae6d34294506865dce8f474425e16affbc995232a",
+    "_atlasOrder": 571
+  },
+  "japan-051": {
+    "id": "japan-051",
+    "src": "assets/photos/countries/japan/283A3092-HDR-6a66ffb4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 51",
+    "country": "Japan",
+    "location": "Hōkan-ji (Yasaka Pagoda)",
+    "lat": 34.99859,
+    "lng": 135.77919,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "The distinctive five-story Yasaka Pagoda and Higashiyama streets are visible; approximate temple location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 50
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/13696883"
+    ],
+    "_imageSha256": "b41989999d7ac0d213a7ff404dd4c0731b09c03ac4f73984368e9d21f079092c",
+    "_atlasOrder": 572
+  },
+  "japan-052": {
+    "id": "japan-052",
+    "src": "assets/photos/countries/japan/283A3127-7d44fbcf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 52",
+    "country": "Japan",
+    "location": "Heian Shrine",
+    "lat": 35.01667,
+    "lng": 135.78222,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 51
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Heian_Shrine"
+    ],
+    "_imageSha256": "ce69f880e992998a1cd1774ee75f1c548c216dd49e569f1d5ddc36efcd8dce20",
+    "_atlasOrder": 573
+  },
+  "japan-053": {
+    "id": "japan-053",
+    "src": "assets/photos/countries/japan/283A3140_1-8ff3793c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 53",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 52
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "75328f8157ed9e01a4462c366e83377f4ebb0200a399144af8c9fa4e37acb4f5",
+    "_atlasOrder": 574
+  },
+  "japan-054": {
+    "id": "japan-054",
+    "src": "assets/photos/countries/japan/283A3312-HDR-2e363f2c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 54",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 53
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "c0224e3831c4e0a253b01927a1515accaebcd4804f1e8d619d3205bbf3b4db9b",
+    "_atlasOrder": 575
+  },
+  "japan-055": {
+    "id": "japan-055",
+    "src": "assets/photos/countries/japan/283A3555-29ab3e4d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 55",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 54
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "356e5acc6000be3dbe4c43712c4b7549c5355856a17b20b79207ad461333886d",
+    "_atlasOrder": 576
+  },
+  "japan-056": {
+    "id": "japan-056",
+    "src": "assets/photos/countries/japan/283A3624-db1cbcbe-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 56",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 55
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "dd87879ac1b6e4df345436f7c17c8e5348787e388d5e1e29a10360cc6af2580e",
+    "_atlasOrder": 577
+  },
+  "wildlife-22": {
+    "id": "wildlife-22",
+    "src": "assets/photos/wildlife/283A3746-fb02f424-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Wildlife · 22",
+    "location": "Uji",
+    "country": "Japan",
+    "category": "Wildlife",
+    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
+    "cover": false,
+    "lat": 34.89044,
+    "lng": 135.80325,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 56
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1849372"
+    ],
+    "_imageSha256": "3ddd4848154b01b96faf9655f2fa6fa67d8c27a0d1ed84b8ad2dcaeb0472b782",
+    "_atlasOrder": 70
+  },
+  "japan-058": {
+    "id": "japan-058",
+    "src": "assets/photos/countries/japan/283A3859-886e785d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 58",
+    "country": "Japan",
+    "location": "Kyoto Tower",
+    "lat": 34.9875,
+    "lng": 135.75917,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 57
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Kyoto_Tower"
+    ],
+    "_imageSha256": "e12578f38e50fa23c2220807a1f468694b167c2337e2e471d286bb8cda564bec",
+    "_atlasOrder": 578
+  },
+  "japan-059": {
+    "id": "japan-059",
+    "src": "assets/photos/countries/japan/283A3850-adbd250c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 59",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 58
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "28d9eb56623aa14b441943a646677467a3537f8b569abe18135ccb8370978618",
+    "_atlasOrder": 579
+  },
+  "japan-060": {
+    "id": "japan-060",
+    "src": "assets/photos/countries/japan/283A8970-5f0aa7ff-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 60",
+    "country": "Japan",
+    "location": "Japan",
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 59
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "610b9c75827dba858c8746e8d1055c652a3af6d7b056688fc8a4191af628bb7a",
+    "_atlasOrder": 580
+  },
+  "japan-061": {
+    "id": "japan-061",
+    "src": "assets/photos/countries/japan/283A3864-5998e43f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Kyoto Station",
+    "country": "Japan",
+    "location": "Kyoto Station",
+    "lat": 34.98556,
+    "lng": 135.75861,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 60
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Ky%C5%8Dto_Station"
+    ],
+    "collections": [
+      "Metros"
+    ],
+    "_imageSha256": "5f1dfc6cb888b22811f26d99099baa1d954d52f972844b67b379c10c1f3b4604",
+    "_atlasOrder": 581
+  },
+  "japan-062": {
+    "id": "japan-062",
+    "src": "assets/photos/countries/japan/283A9031-ab2f66cc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 62",
+    "country": "Japan",
+    "location": "Sensō-ji",
+    "lat": 35.71472,
+    "lng": 139.79675,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 61
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Sens%C5%8D-ji"
+    ],
+    "_imageSha256": "119c3da8386087d71067a2ccd27c8ab90cc5b8ef07c2c7fc6368d7d62862e493",
+    "_atlasOrder": 582
+  },
+  "japan-063": {
+    "id": "japan-063",
+    "src": "assets/photos/countries/japan/283A9003-1c5efabb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 63",
+    "country": "Japan",
+    "location": "Sensō-ji",
+    "lat": 35.71472,
+    "lng": 139.79675,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 62
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Sens%C5%8D-ji"
+    ],
+    "_imageSha256": "780646686667f45c409f1c27b32f981fee278c9a5caf36bb5489c465ba7da7e2",
+    "_atlasOrder": 583
+  },
+  "japan-064": {
+    "id": "japan-064",
+    "src": "assets/photos/countries/japan/283A9107-eee97848-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 64",
+    "country": "Japan",
+    "location": "National Diet Building",
+    "lat": 35.67571,
+    "lng": 139.74481,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 63
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/National_Diet_Building"
+    ],
+    "_imageSha256": "9e4eace7f03a722883c2870388daea0fdce12f6290f0ae2d54857c0762af0b0b",
+    "_atlasOrder": 584
+  },
+  "japan-065": {
+    "id": "japan-065",
+    "src": "assets/photos/countries/japan/283A9173-4f2c3e58-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 65",
+    "country": "Japan",
+    "location": "Yokohama",
+    "lat": 35.44212,
+    "lng": 139.648153,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 64
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.44212,
+      "lng": 139.648153
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1848354"
+    ],
+    "_imageSha256": "b8276127b4e9a5be0aea59cfc7a55920b86dc6eb79c47666c54d3ddc3f8fcf9d",
+    "_atlasOrder": 585
+  },
+  "japan-066": {
+    "id": "japan-066",
+    "src": "assets/photos/countries/japan/283A9233-0a867daf-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 66",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 65
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "554e33fc830ea9f81c5920dfa364ed883c71a49fd4821c2b46e5c82c9f5f8705",
+    "_atlasOrder": 586
+  },
+  "japan-067": {
+    "id": "japan-067",
+    "src": "assets/photos/countries/japan/283A9242-ae331310-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 67",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 66
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "d27996561b57bc43502af9539a669224fed3c144e30e8121edb145213639126a",
+    "_atlasOrder": 587
+  },
+  "japan-068": {
+    "id": "japan-068",
+    "src": "assets/photos/countries/japan/283A9301-Enhanced-NR-0ff65500-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 68",
+    "country": "Japan",
+    "location": "Kiyomizu-dera",
+    "lat": 34.995,
+    "lng": 135.785,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 67
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Kiyomizu-dera"
+    ],
+    "_imageSha256": "66a8d23aec5fd47804f1a54615d86ac0842eab092208dca6a068ba540bc1fdd3",
+    "_atlasOrder": 588
+  },
+  "japan-069": {
+    "id": "japan-069",
+    "src": "assets/photos/countries/japan/283A9252-fd41d7f3-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 69",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 68
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "dacb221c9e9af7436db9f3318f559f2783e669db8bffc361983c91e3f10d3387",
+    "_atlasOrder": 589
+  },
+  "japan-070": {
+    "id": "japan-070",
+    "src": "assets/photos/countries/japan/283A9357-d8928aa2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 70",
+    "country": "Japan",
+    "location": "Kanazawa Castle",
+    "lat": 36.56432,
+    "lng": 136.65923,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 69
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q511412"
+    ],
+    "_imageSha256": "5f29d0996007319234046e81bc105aadf6b2c48ffb60454fd68b57454a4d0fdf",
+    "_atlasOrder": 590
+  },
+  "japan-071": {
+    "id": "japan-071",
+    "src": "assets/photos/countries/japan/283A9598-HDR-2a250851-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 71",
+    "country": "Japan",
+    "location": "Kanazawa",
+    "lat": 36.6,
+    "lng": 136.61667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 70
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1860243"
+    ],
+    "_imageSha256": "53c186246a17f8a7189590f638e7474284f7b321b7ff2b5c63b61b53fe6df9ec",
+    "_atlasOrder": 591
+  },
+  "japan-072": {
+    "id": "japan-072",
+    "src": "assets/photos/countries/japan/283A9556-9d549426-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 72",
+    "country": "Japan",
+    "location": "Kanazawa",
+    "lat": 36.6,
+    "lng": 136.61667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 71
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1860243"
+    ],
+    "_imageSha256": "c2ed3652ac391e38dc7a398d1ebbcd4035d9445fad9612aba00a224d76bbc586",
+    "_atlasOrder": 592
+  },
+  "japan-073": {
+    "id": "japan-073",
+    "src": "assets/photos/countries/japan/283A9634-HDR-19cd10dc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 73",
+    "country": "Japan",
+    "location": "Kanazawa",
+    "lat": 36.6,
+    "lng": 136.61667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 72
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1860243"
+    ],
+    "_imageSha256": "38ddad8f55c580320be678317dadfc096aef39a9d37a54b704b28e2fc2e2f391",
+    "_atlasOrder": 593
+  },
+  "japan-074": {
+    "id": "japan-074",
+    "src": "assets/photos/countries/japan/283A9938-ce06458c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 74",
+    "country": "Japan",
+    "location": "Japan",
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 73
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "00640cab44a7abf51f4dee8dc437851a7873b711e575e17c273f04039e38c6ed",
+    "_atlasOrder": 594
+  },
+  "japan-075": {
+    "id": "japan-075",
+    "src": "assets/photos/countries/japan/L1020774-3cb1c77f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 75",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 74
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "250548f0b4d9b52a01685f5e625376e876856a157be475ecee5ac09318853333",
+    "_atlasOrder": 595
+  },
+  "japan-076": {
+    "id": "japan-076",
+    "src": "assets/photos/countries/japan/283A9986-9d74816f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 76",
+    "country": "Japan",
+    "location": "Kanazawa",
+    "lat": 36.6,
+    "lng": 136.61667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 75
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1860243"
+    ],
+    "_imageSha256": "e79f9e06897d5a48d03bb38c2b834cfd47f1a8cb17ef59318d2d659d7186f51b",
+    "_atlasOrder": 596
+  },
+  "japan-077": {
+    "id": "japan-077",
+    "src": "assets/photos/countries/japan/L1030067-6fc3039c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 77",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 76
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "69f4416e82ffc369cfdb2b45bcbf03d7e38d0ec4fd912d5ae9b561afa8d2ea4c",
+    "_atlasOrder": 597
+  },
+  "japan-078": {
+    "id": "japan-078",
+    "src": "assets/photos/countries/japan/L1030111-dfff0c4f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 78",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 77
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "dbe1d20f060e2cbd9137c4ecff5ede3d7003a53a7fa5f21f67057176877fae34",
+    "_atlasOrder": 598
+  },
+  "japan-079": {
+    "id": "japan-079",
+    "src": "assets/photos/countries/japan/L1030124-2a585fe5-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 79",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 78
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "3300f29d2b68c10b1e1f10f145e171cb54bba9588d6a8cfcf3bc646a4bb35035",
+    "_atlasOrder": 599
+  },
+  "japan-080": {
+    "id": "japan-080",
+    "src": "assets/photos/countries/japan/L1030327-d8efdd16-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 80",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 79
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "5e9040ba0aa05ab1afdf25c2629c932d2a8580dacf0534f1d9578d760931a1b3",
+    "_atlasOrder": 600
+  },
+  "japan-081": {
+    "id": "japan-081",
+    "src": "assets/photos/countries/japan/L1030176-792a9b06-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 81",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 80
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "e4200528422593af71d988e87fd0e8c2ab92529d3cafb89247509cd78d4abe2b",
+    "_atlasOrder": 601
+  },
+  "japan-082": {
+    "id": "japan-082",
+    "src": "assets/photos/countries/japan/L1030390-8b9d19f5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 82",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 81
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "267531649d5199820bce3a23e40892e662bd255ac538b4d62f11b1832ede4b37",
+    "_atlasOrder": 602
+  },
+  "japan-083": {
+    "id": "japan-083",
+    "src": "assets/photos/countries/japan/L1030394-ae4e44a4-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 83",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 82
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "ca2a56bdd98d2f4cd49a387b61d2eb74372c5bdd4b16926ee1c3a109c76c9c94",
+    "_atlasOrder": 603
+  },
+  "japan-084": {
+    "id": "japan-084",
+    "src": "assets/photos/countries/japan/L1030474-5cf9c657-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 84",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 83
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "e2d5a4f7e3352efb9f6a0b77fbff4982b5d28bf4552b5fb9f608ed1da9beb3a0",
+    "_atlasOrder": 604
+  },
+  "japan-085": {
+    "id": "japan-085",
+    "src": "assets/photos/countries/japan/L1030537-a0a2f546-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 85",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 84
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "6234de6eaf8b011a797d18622537f9fd6638bcd8683b18ff435dd06a438dbe00",
+    "_atlasOrder": 605
+  },
+  "japan-086": {
+    "id": "japan-086",
+    "src": "assets/photos/countries/japan/L1030788-521577b5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 86",
+    "country": "Japan",
+    "location": "Kamakura",
+    "lat": 35.311813,
+    "lng": 139.547637,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 85
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.311813,
+      "lng": 139.547637
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1860672"
+    ],
+    "_imageSha256": "a00ca454f827c800c4150bcf3b51655eaf061de8e4cdf5b8e8aa02608de3830a",
+    "_atlasOrder": 606
+  },
+  "japan-087": {
+    "id": "japan-087",
+    "src": "assets/photos/countries/japan/L1030769-f3d031a5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 87",
+    "country": "Japan",
+    "location": "Kamakura",
+    "lat": 35.311813,
+    "lng": 139.547637,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 86
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.311813,
+      "lng": 139.547637
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1860672"
+    ],
+    "_imageSha256": "0e3715c2bf9a98791970432329612ba2f3bdf4b5d424659a15d774c06c95e917",
+    "_atlasOrder": 607
+  },
+  "japan-088": {
+    "id": "japan-088",
+    "src": "assets/photos/countries/japan/L1040076-0167b356-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 88",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.011697,
+    "lng": 135.768162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 87
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.011697,
+      "lng": 135.768162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "e2aa0116518108b07948e499246eb0cdbe8f98838c4917192f8bf2cde0a6ee38",
+    "_atlasOrder": 608
+  },
+  "japan-089": {
+    "id": "japan-089",
+    "src": "assets/photos/countries/japan/L1030989-93a92f03-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 89",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.011697,
+    "lng": 135.768162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 88
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.011697,
+      "lng": 135.768162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "7aac67348315530124cb23a6b86a513c6aa41d9975f5e412b6779097dcd47496",
+    "_atlasOrder": 609
+  },
+  "japan-090": {
+    "id": "japan-090",
+    "src": "assets/photos/countries/japan/L1040476-611eadf0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 90",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.011697,
+    "lng": 135.768162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 89
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.011697,
+      "lng": 135.768162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "a90ad05e0629aeaa2005e26d99fdb462f3262dedfcec2d753088a9d9a59a1eb6",
+    "_atlasOrder": 610
+  },
+  "japan-091": {
+    "id": "japan-091",
+    "src": "assets/photos/countries/japan/L1040205-ff9394ad-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 91",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.011697,
+    "lng": 135.768162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 90
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.011697,
+      "lng": 135.768162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "0bb1f1378701c0514e8426ee88c5f3a62590a7d98b2967546c03f209b1ab83b3",
+    "_atlasOrder": 611
+  },
+  "japan-092": {
+    "id": "japan-092",
+    "src": "assets/photos/countries/japan/L1040716-4faf9b7e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 92",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.011697,
+    "lng": 135.768162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 91
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.011697,
+      "lng": 135.768162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "e60a4d2caa1cc70ef89d5009fcef94d6ca16af5468a44bd969c942ef594087eb",
+    "_atlasOrder": 612
+  },
+  "japan-093": {
+    "id": "japan-093",
+    "src": "assets/photos/countries/japan/L1040772-bd18198d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 93",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.011697,
+    "lng": 135.768162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 92
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.011697,
+      "lng": 135.768162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "affd1f274750fc389b618a127befd62f9e5daf305d5f7298c2d96479ab2a4f24",
+    "_atlasOrder": 613
+  },
+  "japan-094": {
+    "id": "japan-094",
+    "src": "assets/photos/countries/japan/L1060123-1cdd5f9d-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 94",
+    "country": "Japan",
+    "location": "Osaka",
+    "lat": 34.693725,
+    "lng": 135.502162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 93
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.693725,
+      "lng": 135.502162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1853909"
+    ],
+    "_imageSha256": "63f963e24409125f7ef937a1d0ef783e15445a3ab11c20ddc788e7dc0760357d",
+    "_atlasOrder": 614
+  },
+  "japan-095": {
+    "id": "japan-095",
+    "src": "assets/photos/countries/japan/L1060119-ee6add6e-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 95",
+    "country": "Japan",
+    "location": "Osaka",
+    "lat": 34.693725,
+    "lng": 135.502162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 94
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.693725,
+      "lng": 135.502162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1853909"
+    ],
+    "_imageSha256": "f2254a4babee478d3e8d7e5b5a9425f837b256ba73524809ccdb292e34ebc908",
+    "_atlasOrder": 615
+  },
+  "japan-096": {
+    "id": "japan-096",
+    "src": "assets/photos/countries/japan/L1060186-cbb9803f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 96",
+    "country": "Japan",
+    "location": "Osaka",
+    "lat": 34.693725,
+    "lng": 135.502162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 95
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.693725,
+      "lng": 135.502162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1853909"
+    ],
+    "_imageSha256": "8d351d5a817799b007744c401f09ad2b5b2045625183897a4e629911c43adb05",
+    "_atlasOrder": 616
+  },
+  "world-landmarks-09": {
+    "id": "world-landmarks-09",
+    "src": "assets/photos/world-landmarks/L1060264-b849b978-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Byōdō-in",
+    "location": "Uji",
+    "country": "Japan",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 34.88435,
+    "lng": 135.799797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 96
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.88435,
+      "lng": 135.799797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1849372"
+    ],
+    "_imageSha256": "773fa0bb0c4e25de64dedbe90c73241d407e3e87a28110b933dc966b980ddaec",
+    "_atlasOrder": 110
+  },
+  "japan-098": {
+    "id": "japan-098",
+    "src": "assets/photos/countries/japan/L1060311-f8dfdf93-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 98",
+    "country": "Japan",
+    "location": "Uji",
+    "lat": 34.88435,
+    "lng": 135.799797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 97
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 34.88435,
+      "lng": 135.799797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1849372"
+    ],
+    "_imageSha256": "cf20b7946f56db0c78f1d783c8e74408e8da885afdf04a4e352dd11b578a86ea",
+    "_atlasOrder": 617
+  },
+  "japan-099": {
+    "id": "japan-099",
+    "src": "assets/photos/countries/japan/L1090760-591a9983-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Japan · 99",
+    "country": "Japan",
+    "location": "Japan",
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 98
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "3ade5375a46bc5e4d4ad7798cbd8e0c256eb70f9419789bfabf8e8ce80d4135f",
+    "_atlasOrder": 618
+  },
+  "japan-100": {
+    "id": "japan-100",
+    "src": "assets/photos/countries/japan/L1090826-HDR-8e7e4621-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Japan · 100",
+    "country": "Japan",
+    "location": "Japan",
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 99
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "fab655b8631df809d1d0393ff4e871fd55ab369a10dcff194c448a1b3fa6c3ad",
+    "_atlasOrder": 619
+  },
+  "japan-101": {
+    "id": "japan-101",
+    "src": "assets/photos/countries/japan/L1090835-7cc9c4d2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 101",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.6895,
+    "lng": 139.69171,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 100
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "4cf64d899cd8b81203f5edd603c99fa57ac82b14136453e8b5f42d3b66fa35eb",
+    "_atlasOrder": 620
+  },
+  "japan-102": {
+    "id": "japan-102",
+    "src": "assets/photos/countries/japan/L1100072-7ca599a1-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Japan · 102",
+    "country": "Japan",
+    "location": "Yokohama",
+    "lat": 35.44212,
+    "lng": 139.648153,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 101
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.44212,
+      "lng": 139.648153
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1848354"
+    ],
+    "_imageSha256": "86cc3ae5b5d32f5062f44f04858d65a23bf0fd3043584a17ad7936a9a36748f4",
+    "_atlasOrder": 621
+  },
+  "japan-103": {
+    "id": "japan-103",
+    "src": "assets/photos/countries/japan/L1100102-e2588269-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 103",
+    "country": "Japan",
+    "location": "Yokohama",
+    "lat": 35.44212,
+    "lng": 139.648153,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 102
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.44212,
+      "lng": 139.648153
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1848354"
+    ],
+    "_imageSha256": "e6d220619d8a2ac55aeb2700de5888191a60468dc00a4dcd4e5f92f77cf5b268",
+    "_atlasOrder": 622
+  },
+  "japan-104": {
+    "id": "japan-104",
+    "src": "assets/photos/countries/japan/L1100510-439dc479-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 104",
+    "country": "Japan",
+    "location": "Japan",
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 103
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "408afc643b8d19d7dc9a0f24abdf06002ac9e6111e2e881d8b882ae97fc694f4",
+    "_atlasOrder": 623
+  },
+  "world-landmarks-22": {
+    "id": "world-landmarks-22",
+    "src": "assets/photos/world-landmarks/L1100247-7ce97c11-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Tokyo Tower",
+    "location": "Tokyo Tower",
+    "country": "Japan",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 35.65861,
+    "lng": 139.74556,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 104
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Tokyo_Tower"
+    ],
+    "_imageSha256": "1b2eb976d4ff769267eb619bf34079722ca06a80e0a79da128ebaa548af18c41",
+    "_atlasOrder": 123
+  },
+  "japan-106": {
+    "id": "japan-106",
+    "src": "assets/photos/countries/japan/L1100591-HDR-94f91bdb-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 106",
+    "country": "Japan",
+    "location": "Japan",
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 105
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "3eaa3e2ad860e2c0cd92d5e723651591461a88f1679e72ec0bc3a8a4a13a0d22",
+    "_atlasOrder": 624
+  },
+  "japan-107": {
+    "id": "japan-107",
+    "src": "assets/photos/countries/japan/L1100629-664e9928-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Japan · 107",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.6895,
+    "lng": 139.69171,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 106
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "b0d08a024c0923db8c7a93e0a2d714ff136690bf434d14d684a999e7bd7c9a44",
+    "_atlasOrder": 625
+  },
+  "japan-108": {
+    "id": "japan-108",
+    "src": "assets/photos/countries/japan/L1100704-066a1574-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 108",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.6895,
+    "lng": 139.69171,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 107
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "b72399748a7c15de2298abd7f34bf13cdd896b8ecf1a64d0a31a710aadcb47b5",
+    "_atlasOrder": 626
+  },
+  "japan-109": {
+    "id": "japan-109",
+    "src": "assets/photos/countries/japan/L1100744-c65c08ce-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 109",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.13333,
+    "lng": 137.25,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 108
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "78fefd0287d7772994772ef8d5914d2d32856b891e9ca461594db0ad28b0b71d",
+    "_atlasOrder": 627
+  },
+  "japan-110": {
+    "id": "japan-110",
+    "src": "assets/photos/countries/japan/L1100819-HDR-67994ede-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 110",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.13333,
+    "lng": 137.25,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 109
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "3fb294ed1b697e47d179fb91371f30c24de59451394dfd20fc33d2683960cf6d",
+    "_atlasOrder": 628
+  },
+  "japan-111": {
+    "id": "japan-111",
+    "src": "assets/photos/countries/japan/L1100942-HDR-952ecc2d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 111",
+    "country": "Japan",
+    "location": "Kenroku-en",
+    "lat": 36.56194,
+    "lng": 136.6625,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 110
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Kenroku-en"
+    ],
+    "_imageSha256": "d5c7dda4d83258863d3009f5659b6772c8829debe5e1226c360274f7fd85a077",
+    "_atlasOrder": 629
+  },
+  "wildlife-19": {
+    "id": "wildlife-19",
+    "src": "assets/photos/wildlife/283A1941-bc92f930-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Wildlife · 19",
+    "location": "Kenroku-en",
+    "country": "Japan",
+    "category": "Wildlife",
+    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
+    "cover": false,
+    "lat": 36.56194,
+    "lng": 136.6625,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 111
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Kenroku-en"
+    ],
+    "_imageSha256": "7e1262fafe8c8f43776ac07c136f6ba08583ab1aad1ab6ace6d0db62506ca587",
+    "_atlasOrder": 67
+  },
+  "japan-113": {
+    "id": "japan-113",
+    "src": "assets/photos/countries/japan/L1100956-424a138f-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Japan · 113",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.13333,
+    "lng": 137.25,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 112
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "f83d58fd63f3d5596aeb013aa743df5ab2b5cd4e9b2d2a1d72d97a0d3b5ee027",
+    "_atlasOrder": 630
+  },
+  "japan-114": {
+    "id": "japan-114",
+    "src": "assets/photos/countries/japan/283A8965-f53b8ff8-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Japan · 114",
+    "country": "Japan",
+    "location": "Japan",
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 113
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "8a659210f34806b7d1ab8ae564aee2b08d18a7ce7fa9ef98e55d913a31fb7708",
+    "_atlasOrder": 631
+  },
+  "japan-115": {
+    "id": "japan-115",
+    "src": "assets/photos/countries/japan/283A9662-f9385d8a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 115",
+    "country": "Japan",
+    "location": "Japan",
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 114
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "09c5876de969283353a8a20952811e89775ff97dddceafeed6a379f5c21911cc",
+    "_atlasOrder": 632
+  },
+  "japan-116": {
+    "id": "japan-116",
+    "src": "assets/photos/countries/japan/L1020669-dceb00db-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 116",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 115
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "7b5729f141dedd13ad45de57e4e41658576fd18c3a805692254f88b714977592",
+    "_atlasOrder": 633
+  },
+  "japan-117": {
+    "id": "japan-117",
+    "src": "assets/photos/countries/japan/L1020727-2e5c8228-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 117",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 116
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "6f9db5857047802e86c0a0017b7ef8c7fb63adc5638fed0ead3595f0e2289f60",
+    "_atlasOrder": 634
+  },
+  "japan-118": {
+    "id": "japan-118",
+    "src": "assets/photos/countries/japan/283A9875-HDR-992d1e5f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 118",
+    "country": "Japan",
+    "location": "21st Century Museum of Contemporary Art, Kanazawa",
+    "lat": 36.56083,
+    "lng": 136.65806,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 117
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/21st_Century_Museum_of_Contemporary_Art%2C_Kanazawa"
+    ],
+    "_imageSha256": "43dcaea9e5ddca1c47a569499c8fa49579e0a1fc2dbada94cc46c60dbe430f4f",
+    "_atlasOrder": 635
+  },
+  "japan-119": {
+    "id": "japan-119",
+    "src": "assets/photos/countries/japan/L1020748-6b9a9cac-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 119",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 118
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "097aad370e4c80b1faab57eaeeab8b90f67e8aee8d74ff6e19356d66286e5bcc",
+    "_atlasOrder": 636
+  },
+  "japan-120": {
+    "id": "japan-120",
+    "src": "assets/photos/countries/japan/L1020760-ca5fdabc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 120",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 119
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "913359e5255c84343165a6286c04dcb2757529f5683bbf8eb5d8daeff666c032",
+    "_atlasOrder": 637
+  },
+  "japan-121": {
+    "id": "japan-121",
+    "src": "assets/photos/countries/japan/L1020773-0af54286-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 121",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 120
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "41370594760931b35f439ee9bc6f89f9a603592eab84f0d07edc1343955ed707",
+    "_atlasOrder": 638
+  },
+  "japan-122": {
+    "id": "japan-122",
+    "src": "assets/photos/countries/japan/L1030048-ab300496-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 122",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 121
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "21395751f88a7ceb89df4662f01d1cdcaf63e55c2dafa864026351a893a43c99",
+    "_atlasOrder": 639
+  },
+  "japan-123": {
+    "id": "japan-123",
+    "src": "assets/photos/countries/japan/L1030070-59878665-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 123",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 122
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "dda4585b1853aedadb5c00e1a8f7f16f760f9126b16b265e89235d32888349d5",
+    "_atlasOrder": 640
+  },
+  "japan-124": {
+    "id": "japan-124",
+    "src": "assets/photos/countries/japan/L1030275-e9bb89b6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 124",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 123
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "a6e8a9ff340f31ea0fca124d96df4df3d085e56f8b2908fd4f2a6b2df7631cb8",
+    "_atlasOrder": 641
+  },
+  "japan-125": {
+    "id": "japan-125",
+    "src": "assets/photos/countries/japan/L1030366-1b0c0b45-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 125",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.689505,
+    "lng": 139.6917,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 124
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.689505,
+      "lng": 139.6917
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "_imageSha256": "ff7c9d022de40f7bb1f4f747bf06414f623d413b8a077f9deb398dbdad2c03d6",
+    "_atlasOrder": 642
+  },
+  "japan-126": {
+    "id": "japan-126",
+    "src": "assets/photos/countries/japan/L1040219-bac94d55-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 126",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.011697,
+    "lng": 135.768162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 125
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.011697,
+      "lng": 135.768162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "c997a9158e88659d1cba026fdfc8c96a3242f7c1e406a905df61e6d2a5f206f4",
+    "_atlasOrder": 643
+  },
+  "japan-127": {
+    "id": "japan-127",
+    "src": "assets/photos/countries/japan/L1040347-107d25de-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 127",
+    "country": "Japan",
+    "location": "Kyoto",
+    "lat": 35.011697,
+    "lng": 135.768162,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 126
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.011697,
+      "lng": 135.768162
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1857910"
+    ],
+    "_imageSha256": "d671a4081c7db50a0fdcf5a81e6369a0a2b401a6c5399f79ca0650f3eebe4a20",
+    "_atlasOrder": 644
+  },
+  "japan-128": {
+    "id": "japan-128",
+    "src": "assets/photos/countries/japan/L1090895-HDR-b1b863ce-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tokyo after dark",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.6895,
+    "lng": 139.69171,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 127
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "collections": [
+      "Cities"
+    ],
+    "largeSrc": "assets/photos/editorial/home-03.jpg",
+    "_imageSha256": "fc2197ee934a514882a93e509c5e7707c9141950c56dc371bf12705f192dbe8b",
+    "_atlasOrder": 645
+  },
+  "japan-129": {
+    "id": "japan-129",
+    "src": "assets/photos/countries/japan/L1030665-430fe13d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 129",
+    "country": "Japan",
+    "location": "Kamakura",
+    "lat": 35.311813,
+    "lng": 139.547637,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 128
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.311813,
+      "lng": 139.547637
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1860672"
+    ],
+    "_imageSha256": "1f55e76b652b177c338c3f293ee2c9ba46344bbff79ba9320c3a16a9ddbd18e0",
+    "_atlasOrder": 646
+  },
+  "japan-130": {
+    "id": "japan-130",
+    "src": "assets/photos/countries/japan/L1100626-f333eeee-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Japan · 130",
+    "country": "Japan",
+    "location": "Japan",
+    "lat": 36.2,
+    "lng": 138.25,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 129
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "6effcce27d40d4aee194fbe4e3c7209acfcfe359b7024ee177707b07edf61b21",
+    "_atlasOrder": 647
+  },
+  "japan-131": {
+    "id": "japan-131",
+    "src": "assets/photos/countries/japan/L1030667-01846c1d-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Japan · 131",
+    "country": "Japan",
+    "location": "Kamakura",
+    "lat": 35.311813,
+    "lng": 139.547637,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 130
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.311813,
+      "lng": 139.547637
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1860672"
+    ],
+    "_imageSha256": "db292251deb2007d131510dd658438c00398550958ebf14b4b5af3004db9a6d4",
+    "_atlasOrder": 648
+  },
+  "japan-132": {
+    "id": "japan-132",
+    "src": "assets/photos/countries/japan/L1030727-a0412a0d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 132",
+    "country": "Japan",
+    "location": "Kamakura",
+    "lat": 35.311813,
+    "lng": 139.547637,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 131
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.311813,
+      "lng": 139.547637
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1860672"
+    ],
+    "_imageSha256": "712ed0bfaecf4fd1ce1ae7b1531fab0b4a41d28cb36a14652ac19ca5234907df",
+    "_atlasOrder": 649
+  },
+  "japan-133": {
+    "id": "japan-133",
+    "src": "assets/photos/countries/japan/L1030678-2899657d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 133",
+    "country": "Japan",
+    "location": "Kamakura",
+    "lat": 35.311813,
+    "lng": 139.547637,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 132
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.311813,
+      "lng": 139.547637
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1860672"
+    ],
+    "_imageSha256": "9817b7641563edb29a884be679e7dd0032efb0aa0ff187121d6d742b5f7a0add",
+    "_atlasOrder": 650
+  },
+  "japan-134": {
+    "id": "japan-134",
+    "src": "assets/photos/countries/japan/L1090911-e08b1137-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 134",
+    "country": "Japan",
+    "location": "Takayama",
+    "lat": 36.13333,
+    "lng": 137.25,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 133
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850892"
+    ],
+    "_imageSha256": "ef75594ed515531ad2ade9be7cc895f5e3fd53e63bf94210a94701e2a056ddda",
+    "_atlasOrder": 651
+  },
+  "japan-135": {
+    "id": "japan-135",
+    "src": "assets/photos/countries/japan/L1090880-HDR-f6539623-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 135",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.6895,
+    "lng": 139.69171,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 134
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "collections": [
+      "Cities"
+    ],
+    "_imageSha256": "6e1b5fbf4cb6282f14d6e1df411bd71c87c76c1017e2f6e9767e4c30c873dbe9",
+    "_atlasOrder": 652
+  }
+}

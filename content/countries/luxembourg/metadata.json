@@ -1,0 +1,662 @@
+{
+  "luxembourg-001": {
+    "id": "luxembourg-001",
+    "src": "assets/photos/countries/luxembourg/283A2091-e8dde3e7-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Luxembourg · 01",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 0
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "61e87ad58def784e9758f8fc0c6ff1c041e7b81350fa951b5455cd11602dcd6f",
+    "_atlasOrder": 653
+  },
+  "luxembourg-002": {
+    "id": "luxembourg-002",
+    "src": "assets/photos/countries/luxembourg/283A2079-1a6a6114-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Luxembourg · 02",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 1
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "ce7643110e410eddbb61eae173fd34ac755b7e79915266c521f120dce6523f7e",
+    "_atlasOrder": 654
+  },
+  "luxembourg-003": {
+    "id": "luxembourg-003",
+    "src": "assets/photos/countries/luxembourg/283A2120-aa566ec7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Luxembourg · 03",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 2
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "d2c90d76fd3c674a6f702f2cb06b7ae715acf9f4c00c5c7273325ba2174ae1cf",
+    "_atlasOrder": 655
+  },
+  "luxembourg-004": {
+    "id": "luxembourg-004",
+    "src": "assets/photos/countries/luxembourg/283A2175-58e1ec34-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 04",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 3
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "6fe117b43ad66df282682ee42e8833d4337c145ef3100ad0c360ca664faed735",
+    "_atlasOrder": 656
+  },
+  "luxembourg-005": {
+    "id": "luxembourg-005",
+    "src": "assets/photos/countries/luxembourg/283A2158-f924aa24-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Luxembourg · 05",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 4
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "ce4f12a3d22d2fa90c130dea309816d9c9eddb24b3ba13265f648e6e6b984b53",
+    "_atlasOrder": 657
+  },
+  "luxembourg-006": {
+    "id": "luxembourg-006",
+    "src": "assets/photos/countries/luxembourg/283A2181-0b9328d7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Luxembourg · 06",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 5
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "cc7aaba44f8971243c40c4351ca5616d1f9f1a3a100b7f04a7f6d2f0873c77d2",
+    "_atlasOrder": 658
+  },
+  "luxembourg-007": {
+    "id": "luxembourg-007",
+    "src": "assets/photos/countries/luxembourg/283A2182-edceff13-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 07",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 6
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "1a30faee0005b4f3b1816d19b31cd7678b2976f53d841fbd6ca516ed1c337a74",
+    "_atlasOrder": 659
+  },
+  "luxembourg-008": {
+    "id": "luxembourg-008",
+    "src": "assets/photos/countries/luxembourg/283A2186-1f797de0-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 08",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 7
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "c2ea364f9235bb6a9b2822e79aa4d6b610bd8bb76c6c84a7677f5da8b3fd6ec6",
+    "_atlasOrder": 660
+  },
+  "luxembourg-009": {
+    "id": "luxembourg-009",
+    "src": "assets/photos/countries/luxembourg/283A2199-af457233-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 09",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 8
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "0bdcc6aab3cfde29d12a7a5f17b6d4b25546656e24ee7da7049ffcfc7a77e48a",
+    "_atlasOrder": 661
+  },
+  "luxembourg-010": {
+    "id": "luxembourg-010",
+    "src": "assets/photos/countries/luxembourg/283A2210-5df2f0c0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Luxembourg · 10",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "b1d6d7be9c321bcecb3c4215059fa7533bb8305cec8f842e3817cb1beafd9e48",
+    "_atlasOrder": 662
+  },
+  "luxembourg-011": {
+    "id": "luxembourg-011",
+    "src": "assets/photos/countries/luxembourg/283A2225-fc37b6d0-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 11",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 10
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "89b9478489d35b65f96fb5457eb2844137c0bd7528a0a0b9802dd146a40f0e29",
+    "_atlasOrder": 663
+  },
+  "luxembourg-012": {
+    "id": "luxembourg-012",
+    "src": "assets/photos/countries/luxembourg/283A2224-0e803423-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Luxembourg · 12",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 11
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "66285d8d016b5df3688419780b79fdf661b87cb781dc317b9c5ba6f0aa67e04a",
+    "_atlasOrder": 664
+  },
+  "luxembourg-013": {
+    "id": "luxembourg-013",
+    "src": "assets/photos/countries/luxembourg/283A2234-95860ad2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Luxembourg · 13",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 12
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "66c06c04d10c7fca74d0493380e36b479e29ca9c580fb7e6093da25adf0037e5",
+    "_atlasOrder": 665
+  },
+  "luxembourg-014": {
+    "id": "luxembourg-014",
+    "src": "assets/photos/countries/luxembourg/283A2254-67318821-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Luxembourg · 14",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 13
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "9add545208109de47920af1069ccd36df49d99235f4eb48ad7d975f6dc751547",
+    "_atlasOrder": 666
+  },
+  "luxembourg-015": {
+    "id": "luxembourg-015",
+    "src": "assets/photos/countries/luxembourg/283A2264-c6f4ce31-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 15",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "fb6a04809f17f99804689120521caa447b6ddcdfb531e95af106adface796d01",
+    "_atlasOrder": 667
+  },
+  "luxembourg-016": {
+    "id": "luxembourg-016",
+    "src": "assets/photos/countries/luxembourg/283A2286-34434cc2-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 16",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 15
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "04077e5b386eb56b5f4391dfb9e91bf1e2b51e94eaa52c6271c4534a4b8a1089",
+    "_atlasOrder": 668
+  },
+  "luxembourg-017": {
+    "id": "luxembourg-017",
+    "src": "assets/photos/countries/luxembourg/283A2290-11901193-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 17",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "b9ff318abcd06487221a725f4589c5e5419331123fb05c28b96a93d90abbf697",
+    "_atlasOrder": 669
+  },
+  "luxembourg-018": {
+    "id": "luxembourg-018",
+    "src": "assets/photos/countries/luxembourg/283A2292-e3279360-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 18",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "c510543b18ae483776b097df985b95c21b616e5b6dd300893662c7c57f7a8cf5",
+    "_atlasOrder": 670
+  },
+  "luxembourg-019": {
+    "id": "luxembourg-019",
+    "src": "assets/photos/countries/luxembourg/283A2426-0298cf09-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Luxembourg · 19",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 18
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "be03fad1344f3f324ac211f9127967183a3a6cf4f59fa2d16a765d3339907c1d",
+    "_atlasOrder": 671
+  },
+  "luxembourg-020": {
+    "id": "luxembourg-020",
+    "src": "assets/photos/countries/luxembourg/283A2503-f02f4dfa-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Luxembourg · 20",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 19
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "a1ded516bdb2870864352723c526961effed64284cc82973a6cb49333d1dd96d",
+    "_atlasOrder": 672
+  },
+  "luxembourg-021": {
+    "id": "luxembourg-021",
+    "src": "assets/photos/countries/luxembourg/283A2510-d5fc10ab-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Luxembourg · 21",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 20
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "98124e33900314a5ec788fc28c97054cdfd85ba12afa46f8dce676967eaef2ec",
+    "_atlasOrder": 673
+  },
+  "luxembourg-022": {
+    "id": "luxembourg-022",
+    "src": "assets/photos/countries/luxembourg/283A2520-274b9258-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Luxembourg · 22",
+    "country": "Luxembourg",
+    "location": "Luxembourg City",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/luxembourg/",
+    "albums": [
+      "Luxembourg"
+    ],
+    "albumOrder": {
+      "Luxembourg": 21
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2960316"
+    ],
+    "_imageSha256": "816d38329c6b4361994df3e1fcc15579fafd3de6951bf19940c7fadc97c62d91",
+    "_atlasOrder": 674
+  }
+}

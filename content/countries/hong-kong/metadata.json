@@ -1,0 +1,750 @@
+{
+  "hong-kong-001": {
+    "id": "hong-kong-001",
+    "src": "assets/photos/countries/hong-kong/283A6103-531d4617-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 01",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "2bfd27ab46b1a2d5fb200eaec5bb85c9d9b4c5f8b6249cb081d6911b1fefb47e",
+    "_atlasOrder": 442
+  },
+  "hong-kong-002": {
+    "id": "hong-kong-002",
+    "src": "assets/photos/countries/hong-kong/283A7231-a1aac4e4-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 02",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "f69d004b786c78ea717f49b1832abc0e7c2563e8abdf56a1e36fb258c46a0601",
+    "_atlasOrder": 443
+  },
+  "hong-kong-003": {
+    "id": "hong-kong-003",
+    "src": "assets/photos/countries/hong-kong/283A5092-006f82f4-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 03",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "047325dc2b59ff47415ee7ea14220e188c7280354edf103d0549ec8467cda6c1",
+    "_atlasOrder": 444
+  },
+  "hong-kong-004": {
+    "id": "hong-kong-004",
+    "src": "assets/photos/countries/hong-kong/283A5121-f2d80007-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Hong Kong · 04",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "cbb6ad6efe463095d9f36e4be293489d6c61d1c0ef7eb1a3836946e17cee3c92",
+    "_atlasOrder": 445
+  },
+  "hong-kong-005": {
+    "id": "hong-kong-005",
+    "src": "assets/photos/countries/hong-kong/283A6598-42e40fd4-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 05",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "0db5fb1dfe0308e71a46c2373dbf60c3cbf05c36989ebf32384eaef1fde5058f",
+    "_atlasOrder": 446
+  },
+  "hong-kong-006": {
+    "id": "hong-kong-006",
+    "src": "assets/photos/countries/hong-kong/283A6618-b0538d27-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 06",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "6b964a6c6917bbe62a588622976c3324c7491f7193d49cbd3085c83ec8840f90",
+    "_atlasOrder": 447
+  },
+  "hong-kong-007": {
+    "id": "hong-kong-007",
+    "src": "assets/photos/countries/hong-kong/283A6592-a292dfa0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Hong Kong · 07",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "bdde93c2c3f2ac119f44ccb918a7e736167631b29be5f870566164b86e1aad0e",
+    "_atlasOrder": 448
+  },
+  "hong-kong-008": {
+    "id": "hong-kong-008",
+    "src": "assets/photos/countries/hong-kong/283A6186-50255d53-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 08",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "99de256e9f50989bb5c22c53bfef42a0ad100e1c9d6c6f2f94e636302d8269aa",
+    "_atlasOrder": 449
+  },
+  "hong-kong-009": {
+    "id": "hong-kong-009",
+    "src": "assets/photos/countries/hong-kong/283A6619-f1e01b43-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 09",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "fa8dcc999b5acd65a0c1b71fc72924571f4e7d29d2d705ccfd149bad3332d3d0",
+    "_atlasOrder": 450
+  },
+  "hong-kong-010": {
+    "id": "hong-kong-010",
+    "src": "assets/photos/countries/hong-kong/283A6492-035799b0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Hong Kong · 10",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "4a426e756d3bb38afef981254072d6c766c1722006fcd194a283e8f6c2f3b723",
+    "_atlasOrder": 451
+  },
+  "hong-kong-011": {
+    "id": "hong-kong-011",
+    "src": "assets/photos/countries/hong-kong/283A6142-b36b9663-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 11",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "2f01b0293c04a88d43e97fbd385455c15f07d639f52d56b2379414b867a065e3",
+    "_atlasOrder": 452
+  },
+  "hong-kong-012": {
+    "id": "hong-kong-012",
+    "src": "assets/photos/countries/hong-kong/283A5973-41dc1490-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 12",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "fa1dac64e74450aef835067b9fe16920520f71bce2044bf553a345bb9a3b8e2a",
+    "_atlasOrder": 453
+  },
+  "hong-kong-013": {
+    "id": "hong-kong-013",
+    "src": "assets/photos/countries/hong-kong/283A5754-42e8fa2e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Hong Kong · 13",
+    "country": "Hong Kong",
+    "location": "Choi Hung, Hong Kong",
+    "lat": 22.33462,
+    "lng": 114.205563,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.33462,
+      "lng": 114.205563
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1819932"
+    ],
+    "_imageSha256": "2e0f1d6ce046f824bf9efd9d97b0b4fe64e579de9d27f3a874fb7b0486ca1589",
+    "_atlasOrder": 454
+  },
+  "hong-kong-014": {
+    "id": "hong-kong-014",
+    "src": "assets/photos/countries/hong-kong/283A5650-e32dbc3e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Hong Kong · 14",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "d27dfd8b57f82f4af92e3b0237213664315f370203902578536eb862b3af1774",
+    "_atlasOrder": 455
+  },
+  "hong-kong-015": {
+    "id": "hong-kong-015",
+    "src": "assets/photos/countries/hong-kong/283A5617-a687ffc9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Hong Kong · 15",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "cbd2475f0d03c6ca4600978173969c01fbc5b73cc1e855278ad503896de86bbd",
+    "_atlasOrder": 456
+  },
+  "hong-kong-016": {
+    "id": "hong-kong-016",
+    "src": "assets/photos/countries/hong-kong/283A5529-16bbf01a-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 16",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "9d5957941f1fc424e04504358900e75a7c4b5ef3868f537892ce3a63570e581d",
+    "_atlasOrder": 457
+  },
+  "hong-kong-017": {
+    "id": "hong-kong-017",
+    "src": "assets/photos/countries/hong-kong/283A5005-e40c72e9-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 17",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "eff97ccd09cbce16a9ca29e870e6e75b41993d08d8e2f5f93958deb60d124140",
+    "_atlasOrder": 458
+  },
+  "hong-kong-018": {
+    "id": "hong-kong-018",
+    "src": "assets/photos/countries/hong-kong/283A5302-45c934f9-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Hong Kong · 18",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "2c7dadd7f6e5fd7779c133ee35d9459b500b439512c8f552a865704f7ec5973d",
+    "_atlasOrder": 459
+  },
+  "hong-kong-019": {
+    "id": "hong-kong-019",
+    "src": "assets/photos/countries/hong-kong/283A5068-1a014d23-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 19",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "c72e176ccd248a35407ea7fb99371fd73bca576b6132c354bd430254bcd0f0d3",
+    "_atlasOrder": 460
+  },
+  "hong-kong-020": {
+    "id": "hong-kong-020",
+    "src": "assets/photos/countries/hong-kong/283A4881-e8b6cfd0-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 20",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "eb70e92bbcace37d25444bd70d4c9899af99774b7ab5fdeeb0deb556c5f9c8bb",
+    "_atlasOrder": 461
+  },
+  "hong-kong-021": {
+    "id": "hong-kong-021",
+    "src": "assets/photos/countries/hong-kong/283A4901-497389c0-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Hong Kong · 21",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "1cfb04aac0563f7f4d004787ed6f51c1fd138988fbd901fc79e7455528407ed3",
+    "_atlasOrder": 462
+  },
+  "hong-kong-022": {
+    "id": "hong-kong-022",
+    "src": "assets/photos/countries/hong-kong/283A4856-bbc40b33-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Hong Kong · 22",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "lat": 22.280853,
+    "lng": 114.169945,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/hong-kong/",
+    "albums": [
+      "Hong Kong"
+    ],
+    "albumOrder": {
+      "Hong Kong": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 22.280853,
+      "lng": 114.169945
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1818379"
+    ],
+    "_imageSha256": "40f21cbe1191cb1bb7ab1b98166bf2409ddd831ad07337378c1a3b5719644ddf",
+    "_atlasOrder": 463
+  }
+}

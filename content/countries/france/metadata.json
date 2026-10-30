@@ -1,0 +1,1226 @@
+{
+  "france-001": {
+    "id": "france-001",
+    "src": "assets/photos/countries/france/L1140053-0f60b2a4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 01",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "8b8d408011da2d472a874410ed5be9d394f71abb60b680413f7df492bd7c6242",
+    "_atlasOrder": 355
+  },
+  "france-002": {
+    "id": "france-002",
+    "src": "assets/photos/countries/france/L1120339-3a4880eb-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 02",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "3cb59901f12821fe20316b25e5e2c087b2a162137ce8f3fbfb1e73ff7a461b8e",
+    "_atlasOrder": 356
+  },
+  "france-003": {
+    "id": "france-003",
+    "src": "assets/photos/countries/france/L1120326-6cda7046-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 03",
+    "country": "France",
+    "location": "Louvre",
+    "lat": 48.8611,
+    "lng": 2.3358,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Louvre"
+    ],
+    "_imageSha256": "f72881fb0ef4b608cb922dc5080b7edec134fa326bf306b1e706bf3717c00155",
+    "_atlasOrder": 357
+  },
+  "france-004": {
+    "id": "france-004",
+    "src": "assets/photos/countries/france/L1120841-7bf8743d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 04",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "7d5be332e4ebfbe2df54b3a35c210024816b5be64fd80825ea5e9284882c8fc3",
+    "_atlasOrder": 358
+  },
+  "france-005": {
+    "id": "france-005",
+    "src": "assets/photos/countries/france/L1130031-93e9da50-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 05",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "e6373be5c16e1400f1dbf3e94036ff69e2bcb7a4f443fa1118ad4fcd1df4ebe5",
+    "_atlasOrder": 359
+  },
+  "france-006": {
+    "id": "france-006",
+    "src": "assets/photos/countries/france/L1120212-a709002f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 06",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "aef07b5107c131997104d0ff9b5d8fe55c5df473adf7a47931f7ab8b1787caa0",
+    "_atlasOrder": 360
+  },
+  "france-007": {
+    "id": "france-007",
+    "src": "assets/photos/countries/france/L1130561-55be82dc-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 07",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "2712d1287798132003cfaa8965de44979d364b24266195e9792c42c2ebbe2367",
+    "_atlasOrder": 361
+  },
+  "france-008": {
+    "id": "france-008",
+    "src": "assets/photos/countries/france/L1130559-f47bc4cc-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 08",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "31a8aa469fc7df5122c1ab3446d360e3165caca6f6e9de4a9b6b641488344598",
+    "_atlasOrder": 362
+  },
+  "france-009": {
+    "id": "france-009",
+    "src": "assets/photos/countries/france/L1130877-4447cb1f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 09",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "76f506004359a29928d7dba98abf790a827d5673d07b4895a109f636b26c3240",
+    "_atlasOrder": 363
+  },
+  "france-010": {
+    "id": "france-010",
+    "src": "assets/photos/countries/france/L1120058-3c2faf0f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 10",
+    "country": "France",
+    "location": "Louvre",
+    "lat": 48.8611,
+    "lng": 2.3358,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Louvre"
+    ],
+    "_imageSha256": "c11cce1b975f5ed0ef4cdc24ff714b4b97be6cbe292f1499e76076bee294289e",
+    "_atlasOrder": 364
+  },
+  "france-011": {
+    "id": "france-011",
+    "src": "assets/photos/countries/france/L1130143-ed2c5f49-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 11",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "5d3e621ac0eaa9f6777ce9f9e27c13fb4bc4fe5c4ccfef393672b2346c7ee988",
+    "_atlasOrder": 365
+  },
+  "france-012": {
+    "id": "france-012",
+    "src": "assets/photos/countries/france/L1130015-d62fc4d4-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 12",
+    "country": "France",
+    "location": "Notre-Dame de Paris",
+    "lat": 48.85306,
+    "lng": 2.35,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+    ],
+    "_imageSha256": "2856aa3f72c44151b46db0399558ad25cf1b888be4f6efa7a929f9d418392821",
+    "_atlasOrder": 366
+  },
+  "france-013": {
+    "id": "france-013",
+    "src": "assets/photos/countries/france/L1130600-b6f049ec-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 13",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "db91b791ee48983320341fbf0eb747d0d1a70fbeeb2145f199af416e7ece75d2",
+    "_atlasOrder": 367
+  },
+  "france-014": {
+    "id": "france-014",
+    "src": "assets/photos/countries/france/IMG_9656-9b8dc6fb-1000.JPG",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 14",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "aec091fa7ba2b4c2d1811508737bdd77155feaaf2474299d3ed625617796d798",
+    "_atlasOrder": 368
+  },
+  "france-015": {
+    "id": "france-015",
+    "src": "assets/photos/countries/france/L1120036-c8ff0218-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 15",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "53d843ea70bf016f2db7b8dd731ff02cb3bfe2c7cac1e26fb82b7ad5801fa89e",
+    "_atlasOrder": 369
+  },
+  "france-016": {
+    "id": "france-016",
+    "src": "assets/photos/countries/france/L1130404-1f9bddba-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 16",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "de933bb5c2ca42e428c04e7fac95d97c8ce09a2077b5a7f449b3f00074af636e",
+    "_atlasOrder": 370
+  },
+  "france-017": {
+    "id": "france-017",
+    "src": "assets/photos/countries/france/L1120383-5a271eed-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 17",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "a90fa571039c44cbf6a5bca2209cc5391ee7d51d5cc94dd7808795398033b06a",
+    "_atlasOrder": 371
+  },
+  "france-018": {
+    "id": "france-018",
+    "src": "assets/photos/countries/france/L1120770-24984627-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 18",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "2c381359d0bfbc2229d1b0d9df94c9eaa6679fb31cea85edccd91fbd27fb7fb0",
+    "_atlasOrder": 372
+  },
+  "france-019": {
+    "id": "france-019",
+    "src": "assets/photos/countries/france/IMG_1514-d840aae8-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 19",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "5af8eb944e929fe1649773edb167b63bb649bc7d7fca5cfd301c9a84a2092ff8",
+    "_atlasOrder": 373
+  },
+  "france-020": {
+    "id": "france-020",
+    "src": "assets/photos/countries/france/L1130666-ce982dfc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 20",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "949c88364252b0ea2d879390f26b002286f2431226226d439ef17b334e7d2af0",
+    "_atlasOrder": 374
+  },
+  "france-021": {
+    "id": "france-021",
+    "src": "assets/photos/countries/france/L1120062-eb4b70ad-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 21",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "75eaa97f06557a82aac305c41e6f5811a3af18b01c9e50178b7ce5e5445913ce",
+    "_atlasOrder": 375
+  },
+  "france-022": {
+    "id": "france-022",
+    "src": "assets/photos/countries/france/L1120433-3c8025fd-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 22",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "8516bb16f275fb91edd9e9f3b68d55fd101f34cf84bf177bb271b8980b726723",
+    "_atlasOrder": 376
+  },
+  "france-023": {
+    "id": "france-023",
+    "src": "assets/photos/countries/france/L1120688-f3fc9985-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 23",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "8394bdf8135e5e1712e5561b9c671c1d038d99c7c92e81daf8b42d304a9b28fe",
+    "_atlasOrder": 377
+  },
+  "france-024": {
+    "id": "france-024",
+    "src": "assets/photos/countries/france/L1130063-615e58a3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 24",
+    "country": "France",
+    "location": "Louvre",
+    "lat": 48.8611,
+    "lng": 2.3358,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Louvre"
+    ],
+    "_imageSha256": "9ea1b06fcc5fb51b96b3fe0165370e099a032fef7586a111b050b96a285e96c6",
+    "_atlasOrder": 378
+  },
+  "france-025": {
+    "id": "france-025",
+    "src": "assets/photos/countries/france/L1130176-c09b1eb3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 25",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "ab5d0e518ad1d6fdf06c7b03eb191d1bd1e31fb82ff788615048d3784f8b63d4",
+    "_atlasOrder": 379
+  },
+  "france-026": {
+    "id": "france-026",
+    "src": "assets/photos/countries/france/L1130396-ea1b113e-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 26",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "78a40c994d9bc027a7206ae8da7843c3c56e1e0b59d7978c93edcd4dd48cae38",
+    "_atlasOrder": 380
+  },
+  "france-027": {
+    "id": "france-027",
+    "src": "assets/photos/countries/france/L1130363-18ac93cd-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 27",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "9a62d43732854fe2059fda1462339364e0a57834347acfed25e0060ab32e872a",
+    "_atlasOrder": 381
+  },
+  "france-028": {
+    "id": "france-028",
+    "src": "assets/photos/countries/france/L1120520-06cc463f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 28",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "3ef582c7709f7cc6840a74208d4b15d8b8be3f20930c8467fb652ad577206783",
+    "_atlasOrder": 382
+  },
+  "france-029": {
+    "id": "france-029",
+    "src": "assets/photos/countries/france/L1130415-a8909c1e-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 29",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "f446a7cd5eacc40d99d21e94feb3da2e7aa5685a9ece011b3cab6a0414b35193",
+    "_atlasOrder": 383
+  },
+  "france-030": {
+    "id": "france-030",
+    "src": "assets/photos/countries/france/IMG_0123-a8ea41cd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 30",
+    "country": "France",
+    "location": "Notre-Dame de Paris",
+    "lat": 48.85306,
+    "lng": 2.35,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+    ],
+    "_imageSha256": "f520ee33f7f6fcc8b7d9ba7f87daa85d362a78fbe69c0376f2fcc94d6bd7d491",
+    "_atlasOrder": 384
+  },
+  "france-031": {
+    "id": "france-031",
+    "src": "assets/photos/countries/france/L1120507-fbe258fd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 31",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "99738eb44682e3fc967084e1bdf39034363917963ed14fad62d85de6b4eb5179",
+    "_atlasOrder": 385
+  },
+  "france-032": {
+    "id": "france-032",
+    "src": "assets/photos/countries/france/L1120565-0955da0e-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "France · 32",
+    "country": "France",
+    "location": "Paris",
+    "lat": 48.856788,
+    "lng": 2.351078,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.856788,
+      "lng": 2.351078
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3013131"
+    ],
+    "_imageSha256": "8bb7d5d0e9e115360418222bde36028f03afd52c634af6e8e817c72bdd6061ab",
+    "_atlasOrder": 386
+  },
+  "france-033": {
+    "id": "france-033",
+    "src": "assets/photos/countries/france/L1130280-9e6df2b5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 33",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "13455296bd8d38e191d2a0f5a8cd7661989c41b91f99d6414246fb3519889ec8",
+    "_atlasOrder": 387
+  },
+  "france-034": {
+    "id": "france-034",
+    "src": "assets/photos/countries/france/L1130345-3fa8b4a5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 34",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "cd84b507d5658d4e804570cfea739181db3d71b22e8ce55e672d2c217f059acf",
+    "_atlasOrder": 388
+  },
+  "france-035": {
+    "id": "france-035",
+    "src": "assets/photos/countries/france/L1130818-cd1f3656-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 35",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "c0c3ff35ef1e53b298d5d24941b801a67442e8b8ed97c10634ca8ea821788aa8",
+    "_atlasOrder": 389
+  },
+  "france-036": {
+    "id": "france-036",
+    "src": "assets/photos/countries/france/L1130417-7d233985-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "France · 36",
+    "country": "France",
+    "location": "Nice",
+    "lat": 43.69893,
+    "lng": 7.272308,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/france/",
+    "albums": [
+      "France"
+    ],
+    "albumOrder": {
+      "France": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.69893,
+      "lng": 7.272308
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13580307"
+    ],
+    "_imageSha256": "5be6c9c56f85e8daecb48b3f3459f4ca9939ed4367d7b4872a67e12a2b844724",
+    "_atlasOrder": 390
+  }
+}

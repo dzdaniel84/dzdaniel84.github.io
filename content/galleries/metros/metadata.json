@@ -1,0 +1,271 @@
+{
+  "sweden-030": {
+    "id": "sweden-030",
+    "src": "assets/photos/countries/sweden/283A5929-4d9f9bca-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "T-Centralen Station",
+    "country": "Sweden",
+    "location": "T-Centralen Station",
+    "lat": 59.33236,
+    "lng": 18.06296,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable blue foliage artwork of T-Centralen Station; approximate station position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/sweden/",
+    "albums": [
+      "Sweden"
+    ],
+    "albumOrder": {
+      "Sweden": 29
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6620823"
+    ],
+    "collections": [
+      "Metros"
+    ],
+    "largeSrc": "assets/photos/editorial/metros-cover.jpg",
+    "_imageSha256": "9b47ce17913c542da9a844431eb3f128e3b9a7917d4cba040de992b0ebd0d958",
+    "_atlasOrder": 1177
+  },
+  "283A3861": {
+    "id": "283A3861",
+    "src": "assets/photos/283A3861.jpg",
+    "width": 427,
+    "height": 640,
+    "title": "Kyoto Station",
+    "location": "Kyoto",
+    "country": "Japan",
+    "category": "Metros",
+    "lat": 35.01,
+    "lng": 135.77,
+    "provenance": "Exported locally from Photos: Metros",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "9c600f946f3eddbe88bba87b745a587063b6be609ca846824d8a1b03f4b59818",
+    "_atlasOrder": 0
+  },
+  "283A5868": {
+    "id": "283A5868",
+    "src": "assets/photos/283A5868.jpg",
+    "width": 427,
+    "height": 640,
+    "title": "Rådhuset Station",
+    "location": "Stockholm",
+    "country": "Sweden",
+    "category": "Metros",
+    "lat": 59.33,
+    "lng": 18.07,
+    "provenance": "Exported locally from Photos: Metros",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "fda84c2b48724a2bef7fe2026d28ed7d0196f212e4de30c2d868a2f8f54cf533",
+    "_atlasOrder": 1
+  },
+  "283A5875": {
+    "id": "283A5875",
+    "src": "assets/photos/283A5875.jpg",
+    "width": 640,
+    "height": 427,
+    "title": "Stadion Station",
+    "location": "Stockholm",
+    "country": "Sweden",
+    "category": "Metros",
+    "lat": 59.33,
+    "lng": 18.07,
+    "provenance": "Exported locally from Photos: Metros",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "ce4c17e004834a73354236b0a204fe7e8fd98fa1e35dc7024631cea8e5bdbb37",
+    "_atlasOrder": 2
+  },
+  "L1070811": {
+    "id": "L1070811",
+    "src": "assets/photos/L1070811.jpg",
+    "width": 640,
+    "height": 427,
+    "title": "The Oculus",
+    "location": "New York",
+    "country": "United States",
+    "category": "Metros",
+    "lat": 40.71,
+    "lng": -74.01,
+    "provenance": "Exported locally from Photos: Metros",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "f6f3e5a7877b95205bfd5f9f8e89dc2b1aee3986faa0a8b6d17f68a038a31bac",
+    "_atlasOrder": 6
+  },
+  "L1090870-HDR": {
+    "id": "L1090870-HDR",
+    "src": "assets/photos/L1090870-HDR.jpg",
+    "width": 640,
+    "height": 428,
+    "title": "Tokyo Station after dark",
+    "location": "Tokyo",
+    "country": "Japan",
+    "category": "Metros",
+    "lat": 35.68,
+    "lng": 139.76,
+    "provenance": "Exported locally from Photos: Metros",
+    "coordinatePrecision": "City-level",
+    "hero": true,
+    "_imageSha256": "2e36ce0804c0052ed66b1fed04cb3b190cb249e975000296512e1dc964df070c",
+    "_atlasOrder": 9
+  },
+  "L1370853": {
+    "id": "L1370853",
+    "src": "assets/photos/L1370853.jpg",
+    "width": 640,
+    "height": 427,
+    "title": "State/Lake",
+    "location": "Chicago",
+    "country": "United States",
+    "category": "Metros",
+    "lat": 41.88,
+    "lng": -87.63,
+    "provenance": "Exported locally from Photos: Metros",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "82e6a57e50ddf62381ea9f6e23044a7c0e4da702160ccb64d8ec2ca16dfaef79",
+    "_atlasOrder": 11
+  },
+  "A1044395": {
+    "id": "A1044395",
+    "src": "assets/photos/A1044395.jpg",
+    "width": 426,
+    "height": 640,
+    "title": "Trianon–Masp",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Metros",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "214eba03e1e7486176b0d3f7ba5a187d7c5c07580cc9bda3f0b0a91da68dcd78",
+    "_atlasOrder": 16
+  },
+  "A1044966": {
+    "id": "A1044966",
+    "src": "assets/photos/A1044966.jpg",
+    "width": 426,
+    "height": 640,
+    "title": "Luz Station",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Metros",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "2848f8a8ca0ba3d3acd0e2c564e4ec9c1825fde5e82e634e721dd90e2b836c2f",
+    "_atlasOrder": 20
+  },
+  "japan-061": {
+    "id": "japan-061",
+    "src": "assets/photos/countries/japan/283A3864-5998e43f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Kyoto Station",
+    "country": "Japan",
+    "location": "Kyoto Station",
+    "lat": 34.98556,
+    "lng": 135.75861,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 60
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Ky%C5%8Dto_Station"
+    ],
+    "collections": [
+      "Metros"
+    ],
+    "_imageSha256": "5f1dfc6cb888b22811f26d99099baa1d954d52f972844b67b379c10c1f3b4604",
+    "_atlasOrder": 581
+  },
+  "sweden-019": {
+    "id": "sweden-019",
+    "src": "assets/photos/countries/sweden/283A5962-066a7115-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Rådhuset Station",
+    "country": "Sweden",
+    "location": "Rådhuset Station",
+    "lat": 59.33014,
+    "lng": 18.0419,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable amber cavern walls and escalator of Rådhuset Station; approximate station position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/sweden/",
+    "albums": [
+      "Sweden"
+    ],
+    "albumOrder": {
+      "Sweden": 18
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6620933"
+    ],
+    "collections": [
+      "Metros"
+    ],
+    "_imageSha256": "9b6a20a7736e63a5a55f1d070638f7478d54bea4c9555758b032e01109395316",
+    "_atlasOrder": 1166
+  },
+  "sweden-020": {
+    "id": "sweden-020",
+    "src": "assets/photos/countries/sweden/283A6025-f4ddf3e6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Kungsträdgården Station",
+    "country": "Sweden",
+    "location": "Kungsträdgården Station",
+    "lat": 59.33021,
+    "lng": 18.06857,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable red, white and green platform artwork of Kungsträdgården Station; approximate station position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/sweden/",
+    "albums": [
+      "Sweden"
+    ],
+    "albumOrder": {
+      "Sweden": 19
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6620936"
+    ],
+    "collections": [
+      "Metros"
+    ],
+    "_imageSha256": "bf26ff09a5b2e7cd94e3669b112b9f5cceced72f1a6a0a52ff0ad26902c71dfc",
+    "_atlasOrder": 1167
+  }
+}

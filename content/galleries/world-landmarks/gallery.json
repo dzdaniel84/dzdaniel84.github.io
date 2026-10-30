@@ -1,0 +1,11 @@
+{
+  "title": "Landmarks",
+  "category": "World Landmarks",
+  "label": "TAKES ON FAMILIAR PLACES",
+  "description": "Like any stereotypical tourist, I can’t resist the allure of photographing famous landmarks from the classic, overdone vantage points that have been used countless times before.",
+  "page": "world-landmarks.html",
+  "cover": "world-landmarks-01.jpeg",
+  "featured": true,
+  "featured_order": 4,
+  "template": "templates/migrated/world-landmarks.html"
+}

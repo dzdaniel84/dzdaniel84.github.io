@@ -1,0 +1,614 @@
+{
+  "panama-001": {
+    "id": "panama-001",
+    "src": "assets/photos/countries/panama/283A5283-fedd1610-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Panama · 01",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "456d8ed171ff5d160bc9f184d895410736ead83c39049c05f1dc8a1f824cd1a9",
+    "_atlasOrder": 954
+  },
+  "panama-002": {
+    "id": "panama-002",
+    "src": "assets/photos/countries/panama/283A5245-df5b4413-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Panama · 02",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "d292fc4efd76ad2a9d338150685b5df8d381fcd4ca7ea22f0dcf221bfa0f5e69",
+    "_atlasOrder": 955
+  },
+  "panama-003": {
+    "id": "panama-003",
+    "src": "assets/photos/countries/panama/283A5298-7e9e0203-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 03",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "e252f064a53afe62f6ba6bc5f679deb8c6387c83eb4040e617f7dc0d19a4dde0",
+    "_atlasOrder": 956
+  },
+  "panama-004": {
+    "id": "panama-004",
+    "src": "assets/photos/countries/panama/283A5406-8c2980f0-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Panama · 04",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "fd6850f13afa815003ed5e754f32cf5673adfee9e24de4bcb6627058dc5f7a72",
+    "_atlasOrder": 957
+  },
+  "panama-005": {
+    "id": "panama-005",
+    "src": "assets/photos/countries/panama/283A5417-a9fadda1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 05",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "544325974006004ef722b3b371315989ea801e28d5b3416f6895753e519e5bf5",
+    "_atlasOrder": 958
+  },
+  "panama-006": {
+    "id": "panama-006",
+    "src": "assets/photos/countries/panama/283A5436-5b4d5f52-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Panama · 06",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "b5387cda26865908ba3308dc2afc25cc69c7a4c17f14d94f38f349c8b867c550",
+    "_atlasOrder": 959
+  },
+  "panama-007": {
+    "id": "panama-007",
+    "src": "assets/photos/countries/panama/283A5438-7817689b-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Panama · 07",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "e0b6f30fdd665840a86c2f7c7564362721ff760731f7abee95604b7dd0e3127f",
+    "_atlasOrder": 960
+  },
+  "panama-008": {
+    "id": "panama-008",
+    "src": "assets/photos/countries/panama/283A5467-d9d22e8b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 08",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "ec424ee8400a0d7c3184348d6aea3542a2d15b123d6d6c3eaf5c7785efe0f66a",
+    "_atlasOrder": 961
+  },
+  "panama-009": {
+    "id": "panama-009",
+    "src": "assets/photos/countries/panama/283A5518-2b65ac78-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 09",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "19800809cf01a1c31b69c50d9a5e64477512c05af0310a826cb9c56d863de170",
+    "_atlasOrder": 962
+  },
+  "panama-010": {
+    "id": "panama-010",
+    "src": "assets/photos/countries/panama/283A5542-9b59a3ab-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 10",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "fac3c3e21283389126fce7f2d09f54c2f850c87a594d711aa2ad39c572a6286b",
+    "_atlasOrder": 963
+  },
+  "panama-011": {
+    "id": "panama-011",
+    "src": "assets/photos/countries/panama/283A5637-69ee2158-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Panama · 11",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "e64681e5f9c86ee02edaa143c3dbd3bae0131bdffe3a312112259f405038c37a",
+    "_atlasOrder": 964
+  },
+  "panama-012": {
+    "id": "panama-012",
+    "src": "assets/photos/countries/panama/283A5653-c82b6748-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Panama · 12",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "ded7b3048c9e466cb9d460f4165dc6e64253a54b4f6606a6f9161fb87d3cc692",
+    "_atlasOrder": 965
+  },
+  "panama-013": {
+    "id": "panama-013",
+    "src": "assets/photos/countries/panama/283A5672-4bc13eb4-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Panama · 13",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "adfe82e6f98fe7c8d9d5c9888ad63654670cf47ef4e25aaca47409481f82f334",
+    "_atlasOrder": 966
+  },
+  "panama-014": {
+    "id": "panama-014",
+    "src": "assets/photos/countries/panama/283A5678-6e1263e5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 14",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "f62b398458aec6988f653a3e4baef7661e5f3f441818ef028a7c217088627da0",
+    "_atlasOrder": 967
+  },
+  "panama-015": {
+    "id": "panama-015",
+    "src": "assets/photos/countries/panama/283A5862-9ca5e116-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 15",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "b0d290aab78d0fc8754a2c2c16db71054ee4eb249fd51c65b67089b76b065afd",
+    "_atlasOrder": 968
+  },
+  "panama-016": {
+    "id": "panama-016",
+    "src": "assets/photos/countries/panama/283A5850-8b87e56d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 16",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "c5652e052203b0a4911d1d19bad85a8bd8448bc2e24856f42faa7e3264526bd9",
+    "_atlasOrder": 969
+  },
+  "panama-017": {
+    "id": "panama-017",
+    "src": "assets/photos/countries/panama/283A5953-7930679e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 17",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "1b2b269635b83d43e3f9ded1cec8d2e3f42df8da48b6fad76d4e3f906c55f8d1",
+    "_atlasOrder": 970
+  },
+  "panama-018": {
+    "id": "panama-018",
+    "src": "assets/photos/countries/panama/283A5961-d8f5218e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Panama · 18",
+    "country": "Panama",
+    "location": "Panama City",
+    "lat": 8.952947,
+    "lng": -79.538338,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/panama/",
+    "albums": [
+      "Panama"
+    ],
+    "albumOrder": {
+      "Panama": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 8.952947,
+      "lng": -79.538338
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3701493"
+    ],
+    "_imageSha256": "d97c725c7c2b05746ff6cc2e53bb229d233b8fab652c465716b9f3af68d1dc73",
+    "_atlasOrder": 971
+  }
+}

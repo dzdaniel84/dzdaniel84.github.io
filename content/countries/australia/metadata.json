@@ -1,0 +1,1175 @@
+{
+  "australia-001": {
+    "id": "australia-001",
+    "src": "assets/photos/countries/australia/L1080110-HDR-b0939b77-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Australia · 01",
+    "country": "Australia",
+    "location": "Australia",
+    "lat": -25.27,
+    "lng": 133.78,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 0
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "b7074cbdedc23e146783bfb14abe6a94bacaff604fbb7756723411ca044c2c71",
+    "_atlasOrder": 140
+  },
+  "australia-002": {
+    "id": "australia-002",
+    "src": "assets/photos/countries/australia/IMG_1666-42241984-1000.jpg",
+    "width": 1000,
+    "height": 666,
+    "title": "Australia · 02",
+    "country": "Australia",
+    "location": "Melbourne",
+    "lat": -37.81503,
+    "lng": 144.966347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": -37.81503,
+      "lng": 144.966347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11523810"
+    ],
+    "_imageSha256": "c72b5e95dd349933a3044f594b8c6c1cbc99557ed3e66c324a73cb759f650cea",
+    "_atlasOrder": 141
+  },
+  "australia-003": {
+    "id": "australia-003",
+    "src": "assets/photos/countries/australia/L1050688-HDR-e3e15f94-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 03",
+    "country": "Australia",
+    "location": "Hyde Park, Sydney",
+    "lat": -33.87333,
+    "lng": 151.21139,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 2
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Hyde_Park%2C_Sydney"
+    ],
+    "_imageSha256": "9de49393f2b38e7e93814a3bae5140f96e95c781cd501e2f3840460d2db61ca7",
+    "_atlasOrder": 142
+  },
+  "australia-004": {
+    "id": "australia-004",
+    "src": "assets/photos/countries/australia/283A71412-1156dd67-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Australia · 04",
+    "country": "Australia",
+    "location": "Australia",
+    "lat": -25.27,
+    "lng": 133.78,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 3
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "8f213fbb76b9366e24dc57a1a0bd95369c0cfb07fc534437562cb6fc03efd60e",
+    "_atlasOrder": 143
+  },
+  "australia-005": {
+    "id": "australia-005",
+    "src": "assets/photos/countries/australia/L1050831-HDR-a16ad2b4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 05",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 4
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "4f2bb308c211501a16f654e07358d5ee1eac5fd5c171731e94c5a15cdb38d5d3",
+    "_atlasOrder": 144
+  },
+  "australia-006": {
+    "id": "australia-006",
+    "src": "assets/photos/countries/australia/L1060475-53dd5047-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 06",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 5
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "69237c248e4f1d9361113e47a3ec118f61f08e5683d732221fecded4316f944b",
+    "_atlasOrder": 145
+  },
+  "australia-007": {
+    "id": "australia-007",
+    "src": "assets/photos/countries/australia/L1060501-HDR-2d6cb0bd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 07",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 6
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "47c2be4dbda424d5a43db3f944fff7cf8ee44321fa392f680bb9484d2e3ffed5",
+    "_atlasOrder": 146
+  },
+  "australia-008": {
+    "id": "australia-008",
+    "src": "assets/photos/countries/australia/L1060960-HDR-dfdb324e-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Australia · 08",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 7
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "f3c5c754be4fb540fdaec822479c5a76918256b8395d39b2e9f3f4bc949ce68a",
+    "_atlasOrder": 147
+  },
+  "australia-009": {
+    "id": "australia-009",
+    "src": "assets/photos/countries/australia/L1070074-fa086f1f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 09",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 8
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "1a836eec194aea0e173cd6a0135801d2979dd0687bb573621cda0580397bb2ab",
+    "_atlasOrder": 148
+  },
+  "australia-010": {
+    "id": "australia-010",
+    "src": "assets/photos/countries/australia/L1070418-08bfedec-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 10",
+    "country": "Australia",
+    "location": "Bondi Beach",
+    "lat": -33.89111,
+    "lng": 151.27417,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Bondi_Beach"
+    ],
+    "_imageSha256": "23e9d4d7bda34624a93a5a51e40845e2e2b3528be8ca48a04166c867dcbcc356",
+    "_atlasOrder": 149
+  },
+  "australia-011": {
+    "id": "australia-011",
+    "src": "assets/photos/countries/australia/L1070504-HDR-1f9de997-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 11",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 10
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "2763fce1556037acd5dcd69ff7cc5f2eaf42a932a0f9420b4619cb50e0dc7f40",
+    "_atlasOrder": 150
+  },
+  "australia-012": {
+    "id": "australia-012",
+    "src": "assets/photos/countries/australia/L1070594-HDR-ed2a6b64-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 12",
+    "country": "Australia",
+    "location": "Australia",
+    "lat": -25.27,
+    "lng": 133.78,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 11
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "66dcd3d5b0b0da27e53a1dd324cd363ba765274c3d8e2d8f16addfcadebe7c48",
+    "_atlasOrder": 151
+  },
+  "australia-013": {
+    "id": "australia-013",
+    "src": "assets/photos/countries/australia/L1070882-HDR-a0747c6d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Australia · 13",
+    "country": "Australia",
+    "location": "Australia",
+    "lat": -25.27,
+    "lng": 133.78,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 12
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "5d92e5f0cd2067929aa621ab664a81d5e53a2db1e2d151193f912e8d3ba32354",
+    "_atlasOrder": 152
+  },
+  "australia-014": {
+    "id": "australia-014",
+    "src": "assets/photos/countries/australia/L1070924-HDR-52c3fe9e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 14",
+    "country": "Australia",
+    "location": "Australia",
+    "lat": -25.27,
+    "lng": 133.78,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 13
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "bb65b3f1077b4bad89fa578167aa92d44d71c31bc4f02038b695b90dcfc8c0d7",
+    "_atlasOrder": 153
+  },
+  "australia-015": {
+    "id": "australia-015",
+    "src": "assets/photos/countries/australia/L1080828-HDR-e2fff14d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Australia · 15",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "aca2306debfbec8f76b147904f00c817c64de460c3694e97c3a4a6c475f4bce8",
+    "_atlasOrder": 154
+  },
+  "australia-016": {
+    "id": "australia-016",
+    "src": "assets/photos/countries/australia/IMG_1794-104873be-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 16",
+    "country": "Australia",
+    "location": "Melbourne",
+    "lat": -37.81503,
+    "lng": 144.966347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": -37.81503,
+      "lng": 144.966347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11523810"
+    ],
+    "_imageSha256": "1512dd8d258588419759de7448150239985c5e427ecbf7d49259a405c28be554",
+    "_atlasOrder": 155
+  },
+  "australia-017": {
+    "id": "australia-017",
+    "src": "assets/photos/countries/australia/L1050773-b18d35ae-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 17",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "5d00360b3385c891480a44a9f98b6db492eb8f532a9d439ead468df420beadb6",
+    "_atlasOrder": 156
+  },
+  "world-landmarks-32": {
+    "id": "world-landmarks-32",
+    "src": "assets/photos/world-landmarks/L1060218-HDR-785c9d1b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Sydney Opera House",
+    "location": "Sydney Opera House",
+    "country": "Australia",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": -33.85681,
+    "lng": 151.21514,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+    ],
+    "_imageSha256": "e43574ce40e1cfb7f83ad72dfa840a07eb39ff465521f9a7d668075696d161ab",
+    "_atlasOrder": 133
+  },
+  "australia-019": {
+    "id": "australia-019",
+    "src": "assets/photos/countries/australia/L1050658-HDR-1d66dab8-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Australia · 19",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 18
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "dbaf2f4b0af6e78382dfea28ca20ccf013ccd2b2d5b877763f37ddb32995d678",
+    "_atlasOrder": 157
+  },
+  "australia-020": {
+    "id": "australia-020",
+    "src": "assets/photos/countries/australia/L1060423-HDR-aa1746cf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 20",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 19
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "7212e048efc825371a8b1758d96c3dee5f9a2d95a75999b85ecbeab10fd85f02",
+    "_atlasOrder": 158
+  },
+  "australia-021": {
+    "id": "australia-021",
+    "src": "assets/photos/countries/australia/L1060747-58a0c43c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 21",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 20
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "850317d6f8df618195152537faf2b860e7a36cf4a3fffacb8e3480d273f317d1",
+    "_atlasOrder": 159
+  },
+  "australia-022": {
+    "id": "australia-022",
+    "src": "assets/photos/countries/australia/L1060795-f965822c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 22",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 21
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "516a89403eff42f5d6952449cdab880b2cf4ec59fdf270fb3f0c96447183f02d",
+    "_atlasOrder": 160
+  },
+  "australia-023": {
+    "id": "australia-023",
+    "src": "assets/photos/countries/australia/L1060765-HDR-0bd200df-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 23",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 22
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "509a3679f5cd99f353722061c2b00c950e080c6e8faaefb109c932ceddcc320b",
+    "_atlasOrder": 161
+  },
+  "wildlife-25": {
+    "id": "wildlife-25",
+    "src": "assets/photos/wildlife/L1080190-2d578926-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Wildlife · 25",
+    "location": "Australia",
+    "country": "Australia",
+    "category": "Wildlife",
+    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
+    "cover": false,
+    "lat": -25.27,
+    "lng": 133.78,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 23
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "057b504c683dd6ff96024e00398363f5428375729f88554ee0038ceab76f349b",
+    "_atlasOrder": 73
+  },
+  "australia-025": {
+    "id": "australia-025",
+    "src": "assets/photos/countries/australia/L1080562-8eeca141-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 25",
+    "country": "Australia",
+    "location": "Australia",
+    "lat": -25.27,
+    "lng": 133.78,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 24
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "5aeaeca7f17781622000076f2bd75260902970d3fe3188f62098777700491767",
+    "_atlasOrder": 162
+  },
+  "australia-026": {
+    "id": "australia-026",
+    "src": "assets/photos/countries/australia/L1060913-7c5b23b2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 26",
+    "country": "Australia",
+    "location": "University of Sydney",
+    "lat": -33.8875,
+    "lng": 151.19,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 25
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/University_of_Sydney"
+    ],
+    "_imageSha256": "1aec0317db4d644eafb985ce81425324e8ef532ec426b45ce358a34c3b4760d3",
+    "_atlasOrder": 163
+  },
+  "australia-027": {
+    "id": "australia-027",
+    "src": "assets/photos/countries/australia/IMG_3084-cc672c61-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Australia · 27",
+    "country": "Australia",
+    "location": "Melbourne",
+    "lat": -37.81503,
+    "lng": 144.966347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": -37.81503,
+      "lng": 144.966347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11523810"
+    ],
+    "_imageSha256": "9c9968ad50ba2aea31cebc3454153fd13600aec6ddcf12f97f3d0fdd2b005e7f",
+    "_atlasOrder": 164
+  },
+  "australia-028": {
+    "id": "australia-028",
+    "src": "assets/photos/countries/australia/283A7331-3ed0ae92-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 28",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 27
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "03aa3c138c684fd62ee45b7a90e77fd26d2cd6b1cff52747f33dd36b2e42fa47",
+    "_atlasOrder": 165
+  },
+  "australia-029": {
+    "id": "australia-029",
+    "src": "assets/photos/countries/australia/L1070042-9f15e882-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Australia · 29",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 28
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "3cd19fcc1a1148dcde36bcfb4cab2316139c102af3f2a94878f17ae39390e427",
+    "_atlasOrder": 166
+  },
+  "australia-030": {
+    "id": "australia-030",
+    "src": "assets/photos/countries/australia/L1070435-HDR-6da26a71-1000.jpeg",
+    "width": 1000,
+    "height": 1498,
+    "title": "Australia · 30",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 29
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "5894de8e03ecfa0a99b3edd7890fc0511fd5e349274ac8fbb0ea0dc904e0f909",
+    "_atlasOrder": 167
+  },
+  "australia-031": {
+    "id": "australia-031",
+    "src": "assets/photos/countries/australia/L1070542-HDR_1-9396526d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 31",
+    "country": "Australia",
+    "location": "Sydney",
+    "lat": -33.86785,
+    "lng": 151.20732,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 30
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2147714"
+    ],
+    "_imageSha256": "705e5f1dcda62908c870bc3386c73a68f2c08093e5240f735ceec2500ac84057",
+    "_atlasOrder": 168
+  },
+  "australia-032": {
+    "id": "australia-032",
+    "src": "assets/photos/countries/australia/L1080263-HDR-6121d09e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 32",
+    "country": "Australia",
+    "location": "Melbourne",
+    "lat": -37.814,
+    "lng": 144.96332,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 31
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2158177"
+    ],
+    "_imageSha256": "45429a4f85b78c6c58fcef26c7915514720d43f565ff57c261d1e065953404b8",
+    "_atlasOrder": 169
+  },
+  "australia-033": {
+    "id": "australia-033",
+    "src": "assets/photos/countries/australia/L1080161-HDR-d11ddf4d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 33",
+    "country": "Australia",
+    "location": "Blue Mountains",
+    "lat": -33.71,
+    "lng": 150.31,
+    "coordinatePrecision": "Region",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable Blue Mountains escarpment landscape; approximate Katoomba-area region.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 32
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2161776"
+    ],
+    "_imageSha256": "85f28c3cd043f85d9fd3f7d31d8777b4381f8662e196bdf493899b0028023366",
+    "_atlasOrder": 170
+  },
+  "australia-034": {
+    "id": "australia-034",
+    "src": "assets/photos/countries/australia/IMG_2354-23aa5dbe-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 34",
+    "country": "Australia",
+    "location": "Melbourne",
+    "lat": -37.81503,
+    "lng": 144.966347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": -37.81503,
+      "lng": 144.966347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11523810"
+    ],
+    "_imageSha256": "d14b2b19559a2c197fc9af17d5262d1cf85369968878746632bcbd0a4f34ed3f",
+    "_atlasOrder": 171
+  },
+  "australia-035": {
+    "id": "australia-035",
+    "src": "assets/photos/countries/australia/L1080658-826f1bae-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 35",
+    "country": "Australia",
+    "location": "Featherdale Sydney Wildlife Park",
+    "lat": -33.76611,
+    "lng": 150.88417,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 34
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Featherdale_Wildlife_Park"
+    ],
+    "_imageSha256": "1f0606bafeb2d5b86a697b3eaf44ca9283cf5f6148a70d0eb7439a2a149a5c73",
+    "_atlasOrder": 172
+  },
+  "australia-036": {
+    "id": "australia-036",
+    "src": "assets/photos/countries/australia/L1080227-HDR-70d8995d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 36",
+    "country": "Australia",
+    "location": "Melbourne",
+    "lat": -37.814,
+    "lng": 144.96332,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 35
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2158177"
+    ],
+    "_imageSha256": "9e3fe35ad4c173c3a17fecdb042d8e883765a618ce46ddf286cc6464f1adc778",
+    "_atlasOrder": 173
+  },
+  "australia-037": {
+    "id": "australia-037",
+    "src": "assets/photos/countries/australia/IMG_2344-9868ca3f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 37",
+    "country": "Australia",
+    "location": "Melbourne",
+    "lat": -37.81503,
+    "lng": 144.966347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 36
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": -37.81503,
+      "lng": 144.966347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11523810"
+    ],
+    "_imageSha256": "478c32a128152d29550f29bd3adbfa16a1dbf655fe3bae368a7a6603f50c9475",
+    "_atlasOrder": 174
+  },
+  "wildlife-08": {
+    "id": "wildlife-08",
+    "src": "assets/photos/wildlife/283A6897-3e02c446-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Wildlife · 08",
+    "location": "Australia",
+    "country": "Australia",
+    "category": "Wildlife",
+    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
+    "cover": false,
+    "lat": -25.27,
+    "lng": 133.78,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 37
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "94e8158c1a4b44e30f2023dbb778d694e729b67e7364fa3019e20c9ce9943410",
+    "_atlasOrder": 56
+  },
+  "australia-039": {
+    "id": "australia-039",
+    "src": "assets/photos/countries/australia/IMG_2160-ef7d1adf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Australia · 39",
+    "country": "Australia",
+    "location": "Melbourne",
+    "lat": -37.81743,
+    "lng": 144.967433,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/australia/",
+    "albums": [
+      "Australia"
+    ],
+    "albumOrder": {
+      "Australia": 38
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": -37.81743,
+      "lng": 144.967433
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11523810"
+    ],
+    "_imageSha256": "1bb8b1df9b274445078fc058a057d531f80b4f9e072e46c7d6f5d9ce1b81c5d1",
+    "_atlasOrder": 175
+  }
+}

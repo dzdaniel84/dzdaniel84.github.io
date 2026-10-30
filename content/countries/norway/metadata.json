@@ -1,0 +1,2553 @@
+{
+  "norway-001": {
+    "id": "norway-001",
+    "src": "assets/photos/countries/norway/283A0569-ee606b95-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 01",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.39299,
+    "lng": 5.32415,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 0
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "7272ba166b26971f51462a5895572d9b8125d5fd0897ca29f085b3ae06ca58ec",
+    "_atlasOrder": 868
+  },
+  "norway-002": {
+    "id": "norway-002",
+    "src": "assets/photos/countries/norway/283A0561-1cd7e966-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 02",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 1
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "5db5bc46c8c096743face7b85385ea7b6f1b56f0c31612d9928e72ea0a49e554",
+    "_atlasOrder": 869
+  },
+  "norway-003": {
+    "id": "norway-003",
+    "src": "assets/photos/countries/norway/283A0665-bd12af76-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 03",
+    "country": "Norway",
+    "location": "Borgund Stave Church",
+    "lat": 61.0472,
+    "lng": 7.8122,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 2
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Borgund_Stave_Church"
+    ],
+    "_imageSha256": "53518a1736b03c435b16858fd5a1e8311e4ea59ecdf0e8d8b46089f48c806c80",
+    "_atlasOrder": 870
+  },
+  "norway-004": {
+    "id": "norway-004",
+    "src": "assets/photos/countries/norway/283A0867-HDR-4fa52d85-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 04",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 3
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "9826d7f1fb712bae736fff8bfd2cb47c89082f873c8bcc9031770195ee20bc12",
+    "_atlasOrder": 871
+  },
+  "norway-005": {
+    "id": "norway-005",
+    "src": "assets/photos/countries/norway/283A1292-6a7670d4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 05",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 4
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "fe235b7779b1de7738632446e5bccfb26daf0b22e8f5d6292e721a0262b3b1c5",
+    "_atlasOrder": 872
+  },
+  "norway-006": {
+    "id": "norway-006",
+    "src": "assets/photos/countries/norway/283A1375-98c1f227-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 06",
+    "country": "Norway",
+    "location": "Vøringsfossen",
+    "lat": 60.42689,
+    "lng": 7.25114,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 5
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/V%C3%B8ringsfossen"
+    ],
+    "_imageSha256": "c6e0d2b03d8f8dc23a646cf3b5d44617b6c044fed011149a2d7d22f15650a27c",
+    "_atlasOrder": 873
+  },
+  "norway-007": {
+    "id": "norway-007",
+    "src": "assets/photos/countries/norway/283A2143-b405a5b5-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Norway · 07",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "33437dce6904b7cc54a1d7ee75a1a4a4826b72456fd9f442b5cc5c5d7f29a864",
+    "_atlasOrder": 874
+  },
+  "norway-008": {
+    "id": "norway-008",
+    "src": "assets/photos/countries/norway/283A2155-46b22746-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 08",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "9a3955a74f4241fef4e502133a811fa4a83221b259bb603210115f44b88cf219",
+    "_atlasOrder": 875
+  },
+  "norway-009": {
+    "id": "norway-009",
+    "src": "assets/photos/countries/norway/283A2619-f68e2895-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 09",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 8
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "a5c4fc6f2f11fc62bd3cdd49cb1bafef2607fcb5714937fec7d8b039206b1a51",
+    "_atlasOrder": 876
+  },
+  "norway-010": {
+    "id": "norway-010",
+    "src": "assets/photos/countries/norway/283A3683-0439aa66-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 10",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "f32b63c303176a5b5681a5155a015ba68c57420eda6540b99f9e227a96698442",
+    "_atlasOrder": 877
+  },
+  "norway-011": {
+    "id": "norway-011",
+    "src": "assets/photos/countries/norway/283A0594-HDR-a5fcec76-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 11",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 10
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "137880e2c2793d079fa7a7f02d72dbd17a98068d11730da7d7503bc4acd8932a",
+    "_atlasOrder": 878
+  },
+  "norway-012": {
+    "id": "norway-012",
+    "src": "assets/photos/countries/norway/283A0879-HDR-574b6e85-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 12",
+    "country": "Norway",
+    "location": "Borgund Stave Church",
+    "lat": 61.0472,
+    "lng": 7.8122,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 11
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Borgund_Stave_Church"
+    ],
+    "_imageSha256": "233e9571802c2f0660e6300c0be7ac0dc33ebba8059246e266ab6ddd7e5d4ae9",
+    "_atlasOrder": 879
+  },
+  "norway-013": {
+    "id": "norway-013",
+    "src": "assets/photos/countries/norway/283A1106-3ead5713-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 13",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 12
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "5e664e484c8c8d0512ad40cc3e4a756c84f1bc72d7f8fcf50748c6d4afcaf5ad",
+    "_atlasOrder": 880
+  },
+  "norway-014": {
+    "id": "norway-014",
+    "src": "assets/photos/countries/norway/283A1142-9f681103-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 14",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 13
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "8c2b22bb053109643201c7ee1ba3af260f5e9ec56813b2bd183f9c8bd61a73b6",
+    "_atlasOrder": 881
+  },
+  "norway-015": {
+    "id": "norway-015",
+    "src": "assets/photos/countries/norway/283A3052-6ddf93f0-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 15",
+    "country": "Norway",
+    "location": "Ålesund",
+    "lat": 62.47225,
+    "lng": 6.15492,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3163392"
+    ],
+    "_imageSha256": "5ba8412b8172cf392f0b546b12b1e12731b617b1655d6c7a86cf9efbebed07b2",
+    "_atlasOrder": 882
+  },
+  "norway-016": {
+    "id": "norway-016",
+    "src": "assets/photos/countries/norway/283A2520-480ccea1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 16",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 15
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "8cb152c6959e3377a0cdaa9a240af5b2b0dbb87ab2acbb5780a277a7553a8c49",
+    "_atlasOrder": 883
+  },
+  "norway-017": {
+    "id": "norway-017",
+    "src": "assets/photos/countries/norway/283A3139-babb4c52-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 17",
+    "country": "Norway",
+    "location": "Ålesund",
+    "lat": 62.47225,
+    "lng": 6.15492,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3163392"
+    ],
+    "_imageSha256": "3157e4341b0486de36fc0c758f2970e6c2e3b88bf742d00b48df17a26a373962",
+    "_atlasOrder": 884
+  },
+  "norway-018": {
+    "id": "norway-018",
+    "src": "assets/photos/countries/norway/DJI_0386-0dcad025-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Norway · 18",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 17
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "88422301d0ab5cb43a95b13b8731f53a295ff3814fdcabb7cc527f6950fbda89",
+    "_atlasOrder": 885
+  },
+  "norway-019": {
+    "id": "norway-019",
+    "src": "assets/photos/countries/norway/283A3656-34e3fc3d-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Norway · 19",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 18
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "74ecceda0ea86fe92f4fa3c98b6f874a8b8c59d27781f5cf080733d86a6b72c3",
+    "_atlasOrder": 886
+  },
+  "norway-020": {
+    "id": "norway-020",
+    "src": "assets/photos/countries/norway/283A1071-c6547ece-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 20",
+    "country": "Norway",
+    "location": "Flåm",
+    "lat": 60.83706,
+    "lng": 7.12194,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 19
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3157191"
+    ],
+    "_imageSha256": "708b2b1d41295e0962bded158cf186b072721b8a1fa308eb88e09b4e8f17e85f",
+    "_atlasOrder": 887
+  },
+  "norway-021": {
+    "id": "norway-021",
+    "src": "assets/photos/countries/norway/283A1425-d1767ab5-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 21",
+    "country": "Norway",
+    "location": "Vøringsfossen",
+    "lat": 60.42689,
+    "lng": 7.25114,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 20
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/V%C3%B8ringsfossen"
+    ],
+    "_imageSha256": "f258ad3714716ebc91fecc5f145f0040dc1c23dea31b1270478fa8b9de732fe0",
+    "_atlasOrder": 888
+  },
+  "norway-022": {
+    "id": "norway-022",
+    "src": "assets/photos/countries/norway/283A1497-HDR-23c1f846-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 22",
+    "country": "Norway",
+    "location": "Vøringsfossen",
+    "lat": 60.42689,
+    "lng": 7.25114,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 21
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/V%C3%B8ringsfossen"
+    ],
+    "_imageSha256": "9f059ab97055ee985b9167bbb4a34cfac3b7fa99b8011de0c6755c858ccf210c",
+    "_atlasOrder": 889
+  },
+  "norway-023": {
+    "id": "norway-023",
+    "src": "assets/photos/countries/norway/283A1555-8204be56-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 23",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 22
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "68fdb552c562322568b782fdb6ffc611e89d68f057c67ce01729b37ddbf3d37b",
+    "_atlasOrder": 890
+  },
+  "norway-024": {
+    "id": "norway-024",
+    "src": "assets/photos/countries/norway/283A1609-70b33ca5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 24",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 23
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "f3512c552ff754dd51093ebd6849f6f95831541f596c396ce902f89fa4ceabf2",
+    "_atlasOrder": 891
+  },
+  "norway-025": {
+    "id": "norway-025",
+    "src": "assets/photos/countries/norway/283A1631-5c190d83-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 25",
+    "country": "Norway",
+    "location": "Hardanger Bridge",
+    "lat": 60.47848,
+    "lng": 6.83033,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 24
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Hardanger_Bridge"
+    ],
+    "_imageSha256": "606e4e2d25c7d642e3c890cd50fbb6a1d7456b37342d2901eecb400475254e74",
+    "_atlasOrder": 892
+  },
+  "norway-026": {
+    "id": "norway-026",
+    "src": "assets/photos/countries/norway/283A1736-fddc4b93-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 26",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 25
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "8477657897ef2f1ec33e78cd0c646a4053e729aeb8457653fecac2cbf2a93e21",
+    "_atlasOrder": 893
+  },
+  "norway-027": {
+    "id": "norway-027",
+    "src": "assets/photos/countries/norway/283A1984-0f6bc960-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 27",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "9f506bd61c28d351b62ce9f126056f5ba0162ab14d7f100bd7613845538ebe02",
+    "_atlasOrder": 894
+  },
+  "norway-028": {
+    "id": "norway-028",
+    "src": "assets/photos/countries/norway/283A1995-9da55535-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 28",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "f2f096cd6bbc20fe0f3f8df160afd4c54b80fffb60e68ab3fae6c6af87e98329",
+    "_atlasOrder": 895
+  },
+  "norway-029": {
+    "id": "norway-029",
+    "src": "assets/photos/countries/norway/283A2007-6f12d7c6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 29",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "2306b7eb3061d10754e15ececc2b86d1d1e81feacf5fa0ae27b9a7b1eb47ad87",
+    "_atlasOrder": 896
+  },
+  "norway-030": {
+    "id": "norway-030",
+    "src": "assets/photos/countries/norway/283A2024-d8634bb1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 30",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "3f64676e41f85797d321deb8438891fa988fa1ba8505444e59730b900323f8c5",
+    "_atlasOrder": 897
+  },
+  "norway-031": {
+    "id": "norway-031",
+    "src": "assets/photos/countries/norway/283A2065-250e454e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 31",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "16724a132f688c5b3722bbe83ce44010d17fd62188611883eb4d8f483203dfd8",
+    "_atlasOrder": 898
+  },
+  "norway-032": {
+    "id": "norway-032",
+    "src": "assets/photos/countries/norway/283A2167-d7b9c7bd-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 32",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "d7e19736441796920ad74150e57166c73118b87cee0d3992f38b6b30ceef631e",
+    "_atlasOrder": 899
+  },
+  "norway-033": {
+    "id": "norway-033",
+    "src": "assets/photos/countries/norway/283A2172-767c81ad-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 33",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "c22bb7866b91e05ee4b8293c2759e25daef3f7f325cf9d7b0f0e28e230af59d7",
+    "_atlasOrder": 900
+  },
+  "norway-034": {
+    "id": "norway-034",
+    "src": "assets/photos/countries/norway/283A2210-84cb035e-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 34",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "3fdd3e5e10d354e3f67c424555621061a42b2ee63b8eacbe458d5b00498d038c",
+    "_atlasOrder": 901
+  },
+  "norway-035": {
+    "id": "norway-035",
+    "src": "assets/photos/countries/norway/283A2263-a1185e0f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 35",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "5b1d0ea4674116df6fb43e77fdc034c38a1086222eb5f77e0d05e9ef0be310ea",
+    "_atlasOrder": 902
+  },
+  "norway-036": {
+    "id": "norway-036",
+    "src": "assets/photos/countries/norway/283A2429-HDR-53afdcfc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 36",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 35
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "b0cfb80d2a74ad5dc40d232fb60dc81f11ea1440e48787a3b4d13307bfdc02aa",
+    "_atlasOrder": 903
+  },
+  "norway-037": {
+    "id": "norway-037",
+    "src": "assets/photos/countries/norway/283A2465-ffd90def-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 37",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 36
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "4998a0edf3a3470ad69883d9f1a6e93736c9ff6ed81e1272f2c65d5d46535c79",
+    "_atlasOrder": 904
+  },
+  "norway-038": {
+    "id": "norway-038",
+    "src": "assets/photos/countries/norway/283A2474-HDR-0d6e8f1c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 38",
+    "country": "Norway",
+    "location": "Trollstigen",
+    "lat": 62.46667,
+    "lng": 7.66667,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 37
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Trollstigen"
+    ],
+    "_imageSha256": "fb62b195331a1a33237e58005abdb025f2371d947b6146b7632786cd0fa1d31d",
+    "_atlasOrder": 905
+  },
+  "norway-039": {
+    "id": "norway-039",
+    "src": "assets/photos/countries/norway/283A2549-acabc90c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 39",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 38
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "9225966e784716bdcf4bdd679186b60a92b133074a3e9cb9f2c76aa0a18fc9af",
+    "_atlasOrder": 906
+  },
+  "norway-040": {
+    "id": "norway-040",
+    "src": "assets/photos/countries/norway/283A2587-5e1c4bff-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 40",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 39
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "e13c348191c22b93d8268cee204db37a54a9f8b5c06e4f3d0b0f4476fa5b35a2",
+    "_atlasOrder": 907
+  },
+  "norway-041": {
+    "id": "norway-041",
+    "src": "assets/photos/countries/norway/283A2589-7bcf16ae-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Norway · 41",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 40
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "9073725f565f9473a287286f346e384b703a03ea8fd4079ff22464fc40152717",
+    "_atlasOrder": 908
+  },
+  "norway-042": {
+    "id": "norway-042",
+    "src": "assets/photos/countries/norway/283A2601-8978945d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 42",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 41
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "32bf6943fdee5bd7f2624367e83c9df8acceb7747e821f00ccc14ebcae216978",
+    "_atlasOrder": 909
+  },
+  "norway-043": {
+    "id": "norway-043",
+    "src": "assets/photos/countries/norway/283A2832-HDR-165dc4cb-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 43",
+    "country": "Norway",
+    "location": "Hoven, Loen Skylift",
+    "lat": 61.8804,
+    "lng": 6.8365,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 42
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q30088426"
+    ],
+    "_imageSha256": "eef2f44063b565b3d94a5f6ad7f6924a7c890b39b6dad5edb03b539e2964f59e",
+    "_atlasOrder": 910
+  },
+  "norway-044": {
+    "id": "norway-044",
+    "src": "assets/photos/countries/norway/283A3042-008543df-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 44",
+    "country": "Norway",
+    "location": "Ålesund",
+    "lat": 62.47225,
+    "lng": 6.15492,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 43
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3163392"
+    ],
+    "_imageSha256": "9c8f2a8085f148291fa499c93898122ed18ecbb2e8935472c3d97ab926daea9e",
+    "_atlasOrder": 911
+  },
+  "norway-045": {
+    "id": "norway-045",
+    "src": "assets/photos/countries/norway/283A3144-f232c12c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 45",
+    "country": "Norway",
+    "location": "Ålesund",
+    "lat": 62.47225,
+    "lng": 6.15492,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 44
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3163392"
+    ],
+    "_imageSha256": "a50a8ee2912099e4c6db57b006e797850016266366c8012a88202af99c9c8742",
+    "_atlasOrder": 912
+  },
+  "norway-046": {
+    "id": "norway-046",
+    "src": "assets/photos/countries/norway/283A3177-d7e19c7d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 46",
+    "country": "Norway",
+    "location": "Ålesund",
+    "lat": 62.47225,
+    "lng": 6.15492,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 45
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3163392"
+    ],
+    "_imageSha256": "1de1ed0619c483d88a95b430544ec81ff6ca19ad077c761cfd1ac38d728484e5",
+    "_atlasOrder": 913
+  },
+  "norway-047": {
+    "id": "norway-047",
+    "src": "assets/photos/countries/norway/283A3643-25561e8e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 47",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 46
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "fe25d704f2199b59431d0ce1acd3324e964171ce0d5cfb856d8687ef3f4d2f4e",
+    "_atlasOrder": 914
+  },
+  "norway-048": {
+    "id": "norway-048",
+    "src": "assets/photos/countries/norway/283A3697-922782f9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 48",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 47
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "e69c5f10652df109c86c7e0bdf1449bfc83fe9e8ac8d588fc72ed623178c4dc2",
+    "_atlasOrder": 915
+  },
+  "norway-049": {
+    "id": "norway-049",
+    "src": "assets/photos/countries/norway/283A3711-72548634-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 49",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 48
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "c8468d07f1ab92b1dd4bba509a1909f0c079ec6303071fa9370d6ed1cc7a564a",
+    "_atlasOrder": 916
+  },
+  "norway-050": {
+    "id": "norway-050",
+    "src": "assets/photos/countries/norway/283A3747-80e304c7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 50",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 49
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "b19fe331a605e99ae30755e1a582245e72bb157b0bc7205f43f20ad32d9d4a3a",
+    "_atlasOrder": 917
+  },
+  "norway-051": {
+    "id": "norway-051",
+    "src": "assets/photos/countries/norway/283A3763-212642d7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 51",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 50
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "dd4c3e9bcdbf103caa3b0d638febe4f4545c0315c1d2a638c4d43710deb96537",
+    "_atlasOrder": 918
+  },
+  "norway-052": {
+    "id": "norway-052",
+    "src": "assets/photos/countries/norway/283A3766-d391c024-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 52",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 51
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "744b001f12cf118b2d81ae93acdd6fda494b588e2c7a040096323fb9004feb22",
+    "_atlasOrder": 919
+  },
+  "norway-053": {
+    "id": "norway-053",
+    "src": "assets/photos/countries/norway/283A3789-63adcff7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 53",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 52
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "90262f0813d72b1e268e50692c22a97666f9adda302b41f16baaff0a07aec5d0",
+    "_atlasOrder": 920
+  },
+  "norway-054": {
+    "id": "norway-054",
+    "src": "assets/photos/countries/norway/283A3942-911a4d04-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 54",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 53
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "dd00860c969ca638a606ef94fce1c28d9192888a28be2fe5bbf9a9e817981c19",
+    "_atlasOrder": 921
+  },
+  "norway-055": {
+    "id": "norway-055",
+    "src": "assets/photos/countries/norway/283A4236-e8e6636c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 55",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 54
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "8055b3a0f0f44cc207ccb393dd60f39dac721b84773a407667878674654475bc",
+    "_atlasOrder": 922
+  },
+  "norway-056": {
+    "id": "norway-056",
+    "src": "assets/photos/countries/norway/283A4238-4923257c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 56",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 55
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "4d0eaaafd44d2464ee9256d2c19b2c41d5460ff67ff0d2b391f750bc9c1134f8",
+    "_atlasOrder": 923
+  },
+  "norway-057": {
+    "id": "norway-057",
+    "src": "assets/photos/countries/norway/283A4568-bb94a78f-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 57",
+    "country": "Norway",
+    "location": "Oslo",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 56
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3143244"
+    ],
+    "_imageSha256": "1791d7ea80c03915c261d155dcc1d4a11e8ec114a970ed2541cb5d620e71ccc9",
+    "_atlasOrder": 924
+  },
+  "norway-058": {
+    "id": "norway-058",
+    "src": "assets/photos/countries/norway/283A1111-9e47fade-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 58",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 57
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "bb6a0d869585ae5ec5878b62f3834399ce4970530e32831f5d4f17d7ab07e8cb",
+    "_atlasOrder": 925
+  },
+  "norway-059": {
+    "id": "norway-059",
+    "src": "assets/photos/countries/norway/DJI_0376-6cf0782d-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Norway · 59",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 58
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "5874f6d43b531e8f67bf96ab0b1434efe712a1b92accddcf42341c200a660e09",
+    "_atlasOrder": 926
+  },
+  "norway-060": {
+    "id": "norway-060",
+    "src": "assets/photos/countries/norway/283A1589-bb3b2d7d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 60",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 59
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "5c7a9a11f3d98077bdbdacd3a03157b9609b5fed68ed2126d5edd31e1f6c7505",
+    "_atlasOrder": 927
+  },
+  "norway-061": {
+    "id": "norway-061",
+    "src": "assets/photos/countries/norway/283A2093-58455754-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 61",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 60
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "3dd3e9e8e73f1816fe4f54d8570fdecf3a05139588ad7334027a66d4778a31f8",
+    "_atlasOrder": 928
+  },
+  "norway-062": {
+    "id": "norway-062",
+    "src": "assets/photos/countries/norway/283A2128-f9801144-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 62",
+    "country": "Norway",
+    "location": "Bergen",
+    "lat": 60.393142,
+    "lng": 5.321372,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 61
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 60.393142,
+      "lng": 5.321372
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3161732"
+    ],
+    "_imageSha256": "c8c9d8fcc64774d049f8a1d711709f2b60710046b750c829f978ea29a4541ab9",
+    "_atlasOrder": 929
+  },
+  "norway-063": {
+    "id": "norway-063",
+    "src": "assets/photos/countries/norway/283A2504-0b3793b7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 63",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 62
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "777436a6d65241507b4ae6fe87f4158acdc13be07514f6b9f51ef98c7cfb058f",
+    "_atlasOrder": 930
+  },
+  "norway-064": {
+    "id": "norway-064",
+    "src": "assets/photos/countries/norway/283A2680-HDR-2ee4cee6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 64",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 63
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "88801383ba046b413f038e0975e10b871eb212e653c3b9a02dc329275bdfdc60",
+    "_atlasOrder": 931
+  },
+  "norway-065": {
+    "id": "norway-065",
+    "src": "assets/photos/countries/norway/283A2610-dc534c15-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 65",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 64
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "8a2a1492b0b66094cf9ab961a0548466107ba34fdcd0e3b1fd4446b16251086b",
+    "_atlasOrder": 932
+  },
+  "norway-066": {
+    "id": "norway-066",
+    "src": "assets/photos/countries/norway/283A2740-HDR-6b22d062-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 66",
+    "country": "Norway",
+    "location": "Hoven, Loen Skylift",
+    "lat": 61.8804,
+    "lng": 6.8365,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 65
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q30088426"
+    ],
+    "_imageSha256": "b77b5b7ab7d1b619f674e31f1a8bfce740761594d5d6d6e36d4efb2690ce2e80",
+    "_atlasOrder": 933
+  },
+  "norway-067": {
+    "id": "norway-067",
+    "src": "assets/photos/countries/norway/283A2877-HDR-635ef459-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 67",
+    "country": "Norway",
+    "location": "Hoven, Loen Skylift",
+    "lat": 61.8804,
+    "lng": 6.8365,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 66
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q30088426"
+    ],
+    "_imageSha256": "1424915f5a3ca1a3998f131b9b0ab35a97a0aee570a0a5c8cae0bef2efa10d21",
+    "_atlasOrder": 934
+  },
+  "norway-068": {
+    "id": "norway-068",
+    "src": "assets/photos/countries/norway/283A2808-HDR-468da908-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 68",
+    "country": "Norway",
+    "location": "Hoven, Loen Skylift",
+    "lat": 61.8804,
+    "lng": 6.8365,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 67
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q30088426"
+    ],
+    "_imageSha256": "3bea3db1305934bd6880d58753767bb45919f811dc17e5c7b5942fc1463984bc",
+    "_atlasOrder": 935
+  },
+  "norway-069": {
+    "id": "norway-069",
+    "src": "assets/photos/countries/norway/283A2946-6d1c68f6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 69",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 68
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "b10acec7b7e316c99c0c7174c0f196022d9e0fcfaa9902252e80e981fcff437e",
+    "_atlasOrder": 936
+  },
+  "norway-070": {
+    "id": "norway-070",
+    "src": "assets/photos/countries/norway/283A3173-a33c4894-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 70",
+    "country": "Norway",
+    "location": "Ålesund",
+    "lat": 62.47225,
+    "lng": 6.15492,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 69
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3163392"
+    ],
+    "_imageSha256": "8f420b15bb5d9d00725b4f0b1d73ff63eee2242697c2ecd4505424c39911797f",
+    "_atlasOrder": 937
+  },
+  "norway-071": {
+    "id": "norway-071",
+    "src": "assets/photos/countries/norway/283A3162-518bca67-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 71",
+    "country": "Norway",
+    "location": "Ålesund",
+    "lat": 62.47225,
+    "lng": 6.15492,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 70
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3163392"
+    ],
+    "_imageSha256": "14bae957c10c1e9de4324e077778909a2a46c6bf3e1affecb2d203478b737f7f",
+    "_atlasOrder": 938
+  },
+  "norway-072": {
+    "id": "norway-072",
+    "src": "assets/photos/countries/norway/283A3378-f04e8c77-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 72",
+    "country": "Norway",
+    "location": "Ålesund",
+    "lat": 62.47225,
+    "lng": 6.15492,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 71
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3163392"
+    ],
+    "_imageSha256": "2cc56f0ce994579a521e4fa72ca5dd9247e2b0d6a9c4ec4c7e70437be1f7499d",
+    "_atlasOrder": 939
+  },
+  "norway-073": {
+    "id": "norway-073",
+    "src": "assets/photos/countries/norway/283A3425-d60735b1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 73",
+    "country": "Norway",
+    "location": "Ålesund",
+    "lat": 62.47225,
+    "lng": 6.15492,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 72
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3163392"
+    ],
+    "_imageSha256": "7385c015fc8660ae82da4038c593be57bcdb52415130dd458d1ed0d668e1ef91",
+    "_atlasOrder": 940
+  },
+  "norway-074": {
+    "id": "norway-074",
+    "src": "assets/photos/countries/norway/283A3556-7c987ef2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 74",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 73
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "72ef03bb9c290ee5a10ac2b43c83944fdd472e89d964fb8eb7d25dacd6c48b43",
+    "_atlasOrder": 941
+  },
+  "norway-075": {
+    "id": "norway-075",
+    "src": "assets/photos/countries/norway/283A3544-8e2ffc01-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 75",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 74
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "32166ddeacb06e1625df5722ee9cb2f652c3fe947b764260e6ce6bfed899137f",
+    "_atlasOrder": 942
+  },
+  "norway-076": {
+    "id": "norway-076",
+    "src": "assets/photos/countries/norway/283A3581-2feaba11-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 76",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 75
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "76f04f23128f95ba126cae8a06d596c2a26ccf2bd2bf5492e27ffb7f941852d3",
+    "_atlasOrder": 943
+  },
+  "norway-077": {
+    "id": "norway-077",
+    "src": "assets/photos/countries/norway/283A3586-dd5d38e2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 77",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 76
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "d79a74cc3d91ee6573864677f2bb9b2ce622df40145a77b71d9e8aa50ed32215",
+    "_atlasOrder": 944
+  },
+  "norway-078": {
+    "id": "norway-078",
+    "src": "assets/photos/countries/norway/283A3608-6d613731-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 78",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 77
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "fc9f63aedcd383eec91b6cb705f39f27ccf4f1c718882297db5944fa03401a78",
+    "_atlasOrder": 945
+  },
+  "norway-079": {
+    "id": "norway-079",
+    "src": "assets/photos/countries/norway/DJI_0399-d8bfb684-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Norway · 79",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 78
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "41f736ecda81b33054bdec1d641d38c5f7ae6ad099267b43b13ff7ef52b5be74",
+    "_atlasOrder": 946
+  },
+  "norway-080": {
+    "id": "norway-080",
+    "src": "assets/photos/countries/norway/DJI_0419-fd6cebd5-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Norway · 80",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 79
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "baa401876f7e1fad3f4c53acaacb10b6a7600af926b2fffd1c7434f6c92ea718",
+    "_atlasOrder": 947
+  },
+  "norway-081": {
+    "id": "norway-081",
+    "src": "assets/photos/countries/norway/DJI_0412-0fdb6926-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Norway · 81",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 80
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "e3cb9e7e316a121ea5fd1330b58d040178fac3f1f1c61106795dd6265a9ac366",
+    "_atlasOrder": 948
+  },
+  "norway-082": {
+    "id": "norway-082",
+    "src": "assets/photos/countries/norway/DJI_0430-b8aaf551-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Norway · 82",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 81
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "483855d9a3a0a3c26f951bcc8debe1522b237312796400d46167290101ffd876",
+    "_atlasOrder": 949
+  },
+  "norway-083": {
+    "id": "norway-083",
+    "src": "assets/photos/countries/norway/283A2372-59551aee-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Norway · 83",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 82
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "6b15070116f8068a383c8f90d690f7bd5e2cf20c2ae4ba57fb1626e9b709a61b",
+    "_atlasOrder": 950
+  },
+  "norway-084": {
+    "id": "norway-084",
+    "src": "assets/photos/countries/norway/283A2374-abe2981d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 84",
+    "country": "Norway",
+    "location": "Romsdalen",
+    "lat": 62.44722,
+    "lng": 7.83333,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 83
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Romsdalen"
+    ],
+    "_imageSha256": "62429b40714e0b9060cb9a97cc48dff49b30e18cddc2f6716ddbad591f829f62",
+    "_atlasOrder": 951
+  },
+  "norway-085": {
+    "id": "norway-085",
+    "src": "assets/photos/countries/norway/283A2404-fc67ac7f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 85",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 84
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "fba40dc7c09af32862ef93b7f63f930f20c0fd3d617794ec5fd76d75cdcfe9c3",
+    "_atlasOrder": 952
+  },
+  "norway-086": {
+    "id": "norway-086",
+    "src": "assets/photos/countries/norway/283A2402-0ed02e8c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Norway · 86",
+    "country": "Norway",
+    "location": "Norway",
+    "lat": 64.5,
+    "lng": 11.0,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/norway/",
+    "albums": [
+      "Norway"
+    ],
+    "albumOrder": {
+      "Norway": 85
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "3d0ff5e703504e364a3876026ad51532f54620a3088a141584dfa0af064da16a",
+    "_atlasOrder": 953
+  }
+}

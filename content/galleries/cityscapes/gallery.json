@@ -1,0 +1,11 @@
+{
+  "title": "Cityscapes",
+  "category": "Cities",
+  "label": "URBAN FABRICS FROM UP ABOVE",
+  "description": "Capturing the hustle and bustle of an urban area from high up is one of my favorite things to do in a new city.",
+  "page": "cityscapes.html",
+  "cover": "cityscapes-cover.jpeg",
+  "featured": true,
+  "featured_order": 0,
+  "template": "templates/migrated/cityscapes.html"
+}

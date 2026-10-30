@@ -1,0 +1,2289 @@
+{
+  "italy-001": {
+    "id": "italy-001",
+    "src": "assets/photos/countries/italy/L1150062-481560da-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 01",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "c408954dc89c428a1afd236fbcea120b38b6f714aeaaafd62fc5a31ce458f4b1",
+    "_atlasOrder": 464
+  },
+  "world-landmarks-16": {
+    "id": "world-landmarks-16",
+    "src": "assets/photos/world-landmarks/L1150634-1ed6e82f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Grand Canal at dusk",
+    "location": "Venice",
+    "country": "Italy",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "33abd89baaf3f10e0785e025004c6e2c28dd7d3d6c4063b7da973492e83830bd",
+    "_atlasOrder": 117
+  },
+  "italy-003": {
+    "id": "italy-003",
+    "src": "assets/photos/countries/italy/L1150685-ad80e652-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 03",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "c6306852b9a078813dadf580f89006ba273cf317e25ce9ab1d8168fdfee70012",
+    "_atlasOrder": 465
+  },
+  "italy-004": {
+    "id": "italy-004",
+    "src": "assets/photos/countries/italy/L1160014-0c45a042-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 04",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "243e1b234ff87e72c92fdd0b551d678d8359ef04d28ceda41279548883f7ed05",
+    "_atlasOrder": 466
+  },
+  "italy-005": {
+    "id": "italy-005",
+    "src": "assets/photos/countries/italy/L1170014-fef222b1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 05",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "437427f666d19f2499675e752b99245aa9e42d1efc8962787a3de81e8524d83f",
+    "_atlasOrder": 467
+  },
+  "italy-006": {
+    "id": "italy-006",
+    "src": "assets/photos/countries/italy/L1170816-163bceb2-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 06",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.43713,
+    "lng": 12.33265,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 5
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "5cce10e59362b6f9a7faca6a38137503665cf7dd7dacc08628131144b4f130c4",
+    "_atlasOrder": 468
+  },
+  "italy-007": {
+    "id": "italy-007",
+    "src": "assets/photos/countries/italy/IMG_0755-3daa0f4c-1000.jpeg",
+    "width": 1000,
+    "height": 750,
+    "title": "Italy · 07",
+    "country": "Italy",
+    "location": "Rome",
+    "lat": 41.89273,
+    "lng": 12.48337,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.89273,
+      "lng": 12.48337
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6545148"
+    ],
+    "_imageSha256": "67eeb02e9d279cd59873f91a93872241050ddaa69dcc7510ac672a63b6eab7a7",
+    "_atlasOrder": 469
+  },
+  "italy-008": {
+    "id": "italy-008",
+    "src": "assets/photos/countries/italy/L1140490-9c6f495c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 08",
+    "country": "Italy",
+    "location": "Ventimiglia",
+    "lat": 43.78928,
+    "lng": 7.611887,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.78928,
+      "lng": 7.611887
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164582"
+    ],
+    "_imageSha256": "efaa8599d34de7e18c5031907b1f537a6dc5932811e32848b90c8651a4c88947",
+    "_atlasOrder": 470
+  },
+  "italy-009": {
+    "id": "italy-009",
+    "src": "assets/photos/countries/italy/L1140578-6ed8cbaf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 09",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "3a06bddbb3412a8956dfabf4d367976d1b2d668afa281afb2e091dec4eb7224a",
+    "_atlasOrder": 471
+  },
+  "italy-010": {
+    "id": "italy-010",
+    "src": "assets/photos/countries/italy/L1140927-dee4c47c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 10",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "32ca15557159e93a4bec08a9bf5adae3da681a8343bf49611600cb68fab8784d",
+    "_atlasOrder": 472
+  },
+  "italy-011": {
+    "id": "italy-011",
+    "src": "assets/photos/countries/italy/L1140969-2c53468f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 11",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "85a7419c143060cc0539088be104ca8f3116e3c876721786ba97b3f121444ab7",
+    "_atlasOrder": 473
+  },
+  "italy-012": {
+    "id": "italy-012",
+    "src": "assets/photos/countries/italy/L1140985-c158a358-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 12",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "30f670a0c8408593430a7215dac14ad61baa492c9503e7f3c0512f911f5e9975",
+    "_atlasOrder": 474
+  },
+  "italy-013": {
+    "id": "italy-013",
+    "src": "assets/photos/countries/italy/L1150008-7164ac8b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 13",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "d5bb9adb4ba0b8a9abc3fef2e67463e371691d6d36a590fe198c5d8fffc3b5fd",
+    "_atlasOrder": 475
+  },
+  "italy-014": {
+    "id": "italy-014",
+    "src": "assets/photos/countries/italy/L1150087-22166868-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 14",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "b6672b9a3a07d5e39652b824e43895b6db6efbab94ba5ebb2029d2ae9acb15cc",
+    "_atlasOrder": 476
+  },
+  "world-landmarks-30": {
+    "id": "world-landmarks-30",
+    "src": "assets/photos/world-landmarks/L1150172-214f66b4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Milan Cathedral",
+    "location": "Milan",
+    "country": "Italy",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "ebaefe09a1221f082de60bb151fb7eefceb64e75a4c04bcd6dca0c0e35142d18",
+    "_atlasOrder": 131
+  },
+  "italy-016": {
+    "id": "italy-016",
+    "src": "assets/photos/countries/italy/L1150264-10e73142-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 16",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "2e0f556617bd8b1f00dc14d939eb3aa1f2487f5f865f1191702abbb0b0de3b2d",
+    "_atlasOrder": 477
+  },
+  "italy-017": {
+    "id": "italy-017",
+    "src": "assets/photos/countries/italy/L1150299-4395f5a1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 17",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "9a60752ac751bd85494513f32eabc13540bcf26563c85c42514123eefbf88f04",
+    "_atlasOrder": 478
+  },
+  "italy-018": {
+    "id": "italy-018",
+    "src": "assets/photos/countries/italy/L1150272-ffadec45-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 18",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "848b4287b3b409d0cabaa7ff130ef3b942ad21853dae366509286e6045da93f9",
+    "_atlasOrder": 479
+  },
+  "italy-019": {
+    "id": "italy-019",
+    "src": "assets/photos/countries/italy/L1150362-874ee958-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 19",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "82e1ef8d36fd2eb4bd4bd4386cf08abd4bb426db9374d341f33cd2ad1ea2b148",
+    "_atlasOrder": 480
+  },
+  "italy-020": {
+    "id": "italy-020",
+    "src": "assets/photos/countries/italy/L1150517-75f96bab-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 20",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.43713,
+    "lng": 12.33265,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 19
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "7e5c910db9c6636eab640be4a8d995170916cc92dd9a41a0543b87c68348a4f9",
+    "_atlasOrder": 481
+  },
+  "italy-021": {
+    "id": "italy-021",
+    "src": "assets/photos/countries/italy/L1150680-c5c56478-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 21",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "ad2d2bf7205b2a3b84c8cd9bc552dfe2059bd0d1ac5e4adaa07044e6771798b9",
+    "_atlasOrder": 482
+  },
+  "italy-022": {
+    "id": "italy-022",
+    "src": "assets/photos/countries/italy/L1150600-3772e68b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 22",
+    "country": "Italy",
+    "location": "Bologna",
+    "lat": 44.49381,
+    "lng": 11.33875,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 21
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3181928"
+    ],
+    "_imageSha256": "907519444b32bf33174acebd17a3f92315e07dd00629f7e63919148e3a8b8fdb",
+    "_atlasOrder": 483
+  },
+  "italy-023": {
+    "id": "italy-023",
+    "src": "assets/photos/countries/italy/L1150718-96b7a09b-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 23",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "55e6e3bc433836a467c6f70eca09fdde7beadfc21f75b59057b51b1ee366344d",
+    "_atlasOrder": 484
+  },
+  "italy-024": {
+    "id": "italy-024",
+    "src": "assets/photos/countries/italy/L1150738-f847b588-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 24",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "9cd45c8913e13c42480380897b5b68a594db9f74ce814e398bcc3178d276503c",
+    "_atlasOrder": 485
+  },
+  "italy-025": {
+    "id": "italy-025",
+    "src": "assets/photos/countries/italy/L1150919-0af0377b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 25",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "6891cb401ee0c4f1328859d4d6b78e85a902ebfd836446616f7c512025911add",
+    "_atlasOrder": 486
+  },
+  "italy-026": {
+    "id": "italy-026",
+    "src": "assets/photos/countries/italy/L1160620-eb693ac5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 26",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "7d679336d4a4885abb14ec2efdb9cdf1ae0707dfd9abe02de5f93c3249dac2af",
+    "_atlasOrder": 487
+  },
+  "italy-027": {
+    "id": "italy-027",
+    "src": "assets/photos/countries/italy/L1160494-19deb836-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 27",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "c9b6d99d0aecd8b43eb4c83b696ccb0ee47089f13175e6c73f839fdd980c2197",
+    "_atlasOrder": 488
+  },
+  "italy-028": {
+    "id": "italy-028",
+    "src": "assets/photos/countries/italy/L1160855-b81bfe26-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 28",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "1047485d11bed4fc9e6c0b73a067254941a0f7d2ad67e49579736f5db7ab612a",
+    "_atlasOrder": 489
+  },
+  "world-landmarks-01": {
+    "id": "world-landmarks-01",
+    "src": "assets/photos/world-landmarks/L1160847-3cc9f744-2500.jpeg",
+    "width": 2500,
+    "height": 1667,
+    "title": "Grand Canal",
+    "location": "Venice",
+    "country": "Italy",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": true,
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "e81eb2233f22df74529f3a228b21dfe3c3cf5cdc347e3e5dc61b287e93b9befc",
+    "_atlasOrder": 102
+  },
+  "italy-030": {
+    "id": "italy-030",
+    "src": "assets/photos/countries/italy/L1170062-56610ecd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 30",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "eb7a64e8523540b4bde2b692687ca5e44b53fcb2761e56b54b8de10bbde9d867",
+    "_atlasOrder": 490
+  },
+  "italy-031": {
+    "id": "italy-031",
+    "src": "assets/photos/countries/italy/L1170077-41430ab6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 31",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "130f874549833d37fc21a5e0f0ae144e666de4bd5b46a92149523a85dec7a826",
+    "_atlasOrder": 491
+  },
+  "italy-032": {
+    "id": "italy-032",
+    "src": "assets/photos/countries/italy/L1170144-b3f48845-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 32",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "d53358730bfd658bd58d88e627e5ff635b03e5fe9227e480e565c081cf54bbad",
+    "_atlasOrder": 492
+  },
+  "italy-033": {
+    "id": "italy-033",
+    "src": "assets/photos/countries/italy/L1170149-1231ce55-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 33",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "195f29adae28a15d4887ed72306a1ecf2c03085a36c592ec1e6ee8b5d9221018",
+    "_atlasOrder": 493
+  },
+  "italy-034": {
+    "id": "italy-034",
+    "src": "assets/photos/countries/italy/L1170253-e0864ca6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 34",
+    "country": "Italy",
+    "location": "Bologna",
+    "lat": 44.494005,
+    "lng": 11.342597,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 44.494005,
+      "lng": 11.342597
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3181928"
+    ],
+    "_imageSha256": "1b28e3ee273bfb7497f1f9567d538744f08038eee187a526521dcca721df9340",
+    "_atlasOrder": 494
+  },
+  "italy-035": {
+    "id": "italy-035",
+    "src": "assets/photos/countries/italy/L1170733-50ba4375-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 35",
+    "country": "Italy",
+    "location": "Florence",
+    "lat": 43.77925,
+    "lng": 11.24626,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 34
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3176959"
+    ],
+    "_imageSha256": "bf43100423f1985720edcfdce72b379b5d0bc06c461f1524b27e1818c717db63",
+    "_atlasOrder": 495
+  },
+  "italy-036": {
+    "id": "italy-036",
+    "src": "assets/photos/countries/italy/L1170975-9ef56c8a-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Italy · 36",
+    "country": "Italy",
+    "location": "Florence",
+    "lat": 43.77925,
+    "lng": 11.24626,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 35
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3176959"
+    ],
+    "_imageSha256": "24a11e3b713a44683531613c02fa793695de9237ed3635c9623f450be5ee1232",
+    "_atlasOrder": 496
+  },
+  "italy-037": {
+    "id": "italy-037",
+    "src": "assets/photos/countries/italy/L1180247-6c42ee79-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 37",
+    "country": "Italy",
+    "location": "Florence",
+    "lat": 43.77925,
+    "lng": 11.24626,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 36
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3176959"
+    ],
+    "_imageSha256": "90e6ff25c4673d25c33214281831ab7f5e0e27887dab18d26585c51c2d06affc",
+    "_atlasOrder": 497
+  },
+  "italy-038": {
+    "id": "italy-038",
+    "src": "assets/photos/countries/italy/L1180436-db33720e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 38",
+    "country": "Italy",
+    "location": "Florence",
+    "lat": 43.77925,
+    "lng": 11.24626,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 37
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3176959"
+    ],
+    "_imageSha256": "3516aea57f781260a40a14734d3dc4a202be75fd9db454f9fabc075be11afb0d",
+    "_atlasOrder": 498
+  },
+  "italy-039": {
+    "id": "italy-039",
+    "src": "assets/photos/countries/italy/L1180730-2984f0fd-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Italy · 39",
+    "country": "Italy",
+    "location": "Florence",
+    "lat": 43.77925,
+    "lng": 11.24626,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 38
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3176959"
+    ],
+    "_imageSha256": "e85b764aee5758aa7821c381f8c794cce94f3614f666b6b7611a10d7de3e04e2",
+    "_atlasOrder": 499
+  },
+  "italy-040": {
+    "id": "italy-040",
+    "src": "assets/photos/countries/italy/L1190247-8841b6ed-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 40",
+    "country": "Italy",
+    "location": "Rome",
+    "lat": 41.89273,
+    "lng": 12.48337,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 39
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.89273,
+      "lng": 12.48337
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6545148"
+    ],
+    "_imageSha256": "84d751b8e8d489d83188b533fd4a71d12be092592b48df080301c83e81f6687d",
+    "_atlasOrder": 500
+  },
+  "world-landmarks-19": {
+    "id": "world-landmarks-19",
+    "src": "assets/photos/world-landmarks/L1180971-bf13ae3f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Florence Cathedral",
+    "location": "Florence Cathedral",
+    "country": "Italy",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 43.77306,
+    "lng": 11.25694,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 40
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Florence_Cathedral"
+    ],
+    "_imageSha256": "9caea7c2b6c0b7abd31f268e53b60e46c236f30b2181034af710c06cf33d02ca",
+    "_atlasOrder": 120
+  },
+  "italy-042": {
+    "id": "italy-042",
+    "src": "assets/photos/countries/italy/L1190495-04e891db-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 42",
+    "country": "Italy",
+    "location": "Rome",
+    "lat": 41.89273,
+    "lng": 12.48337,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 41
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.89273,
+      "lng": 12.48337
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6545148"
+    ],
+    "_imageSha256": "309d6b20367c564ffc68ea2debacd1a000373f4fd2ed5da471849e3b9b44ea7e",
+    "_atlasOrder": 501
+  },
+  "italy-043": {
+    "id": "italy-043",
+    "src": "assets/photos/countries/italy/L1200134-d323c48b-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 43",
+    "country": "Italy",
+    "location": "Rome",
+    "lat": 41.89273,
+    "lng": 12.48337,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 42
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.89273,
+      "lng": 12.48337
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6545148"
+    ],
+    "_imageSha256": "e19fc6c9767b6d1f94ee8820615b5274f16ac0ce810054f4c74829345b779546",
+    "_atlasOrder": 502
+  },
+  "italy-044": {
+    "id": "italy-044",
+    "src": "assets/photos/countries/italy/L1200149-21944678-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 44",
+    "country": "Italy",
+    "location": "Rome",
+    "lat": 41.89273,
+    "lng": 12.48337,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 43
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.89273,
+      "lng": 12.48337
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6545148"
+    ],
+    "_imageSha256": "a991dbdabe5a444f6b35de4281333917ac5101d08173a6a181f2ad19b634185b",
+    "_atlasOrder": 503
+  },
+  "world-landmarks-14": {
+    "id": "world-landmarks-14",
+    "src": "assets/photos/world-landmarks/L1200246-5c5d650f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Roman Forum",
+    "location": "Rome",
+    "country": "Italy",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 41.89273,
+    "lng": 12.48337,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 44
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.89273,
+      "lng": 12.48337
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6545148"
+    ],
+    "_imageSha256": "27841fa77864b632b090d0580d26c3a4f1422c1f2d51fc05c806f583bdebfb50",
+    "_atlasOrder": 115
+  },
+  "italy-046": {
+    "id": "italy-046",
+    "src": "assets/photos/countries/italy/L1150675-abc0c196-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 46",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 45
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "b47b020d710d04f53bad16d682b92d965543d9f5c09ddde68c04d05d82b429e7",
+    "_atlasOrder": 504
+  },
+  "italy-047": {
+    "id": "italy-047",
+    "src": "assets/photos/countries/italy/L1140851-1bfcce45-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 47",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 46
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "8cb525734a3bf9faed509cef64ce33ca28d62c64970f64882b3c25e8b858d638",
+    "_atlasOrder": 505
+  },
+  "italy-048": {
+    "id": "italy-048",
+    "src": "assets/photos/countries/italy/L1150831-7cb18a2b-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Italy · 48",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 47
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "1a8a91a073eb949be8804d27e39194ac718b71dbbaec8ffeeca96719bd518a3d",
+    "_atlasOrder": 506
+  },
+  "italy-049": {
+    "id": "italy-049",
+    "src": "assets/photos/countries/italy/L1150854-8e0608d8-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 49",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 48
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "11f729432a8115a8f745187160f40b9c5170aa0ec206c00ae5cec72707fea038",
+    "_atlasOrder": 507
+  },
+  "italy-050": {
+    "id": "italy-050",
+    "src": "assets/photos/countries/italy/L1160419-abd55589-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 50",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 49
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "35d5808e01e837967bbb785a3822ee423e0c2252ce78c1bb191bb3ec2f3e99fb",
+    "_atlasOrder": 508
+  },
+  "italy-051": {
+    "id": "italy-051",
+    "src": "assets/photos/countries/italy/L1160475-5962d77a-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 51",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 50
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "63ed410479a39f091067f0b398107341a8e3bcc9ac8338ec839d8465da087170",
+    "_atlasOrder": 509
+  },
+  "italy-052": {
+    "id": "italy-052",
+    "src": "assets/photos/countries/italy/L1160503-ee134b0d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 52",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 51
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "847b79430f56e3de4cc69b57e69f335eb42cc289131eef503ce96e4a02254ec5",
+    "_atlasOrder": 510
+  },
+  "italy-053": {
+    "id": "italy-053",
+    "src": "assets/photos/countries/italy/L1160477-abb908fa-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 53",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 52
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "841443335fbdcbabe3819017b38c8b48d0ed4b2e66629c99992c9bf8a82f7249",
+    "_atlasOrder": 511
+  },
+  "italy-054": {
+    "id": "italy-054",
+    "src": "assets/photos/countries/italy/L1160907-c22cdb9f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 54",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 53
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "5d677a62e514589aaf1f591db98f6edd2896657e220e33607b88c2bf29b4eb88",
+    "_atlasOrder": 512
+  },
+  "italy-055": {
+    "id": "italy-055",
+    "src": "assets/photos/countries/italy/L1170020-7210d44c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 55",
+    "country": "Italy",
+    "location": "Venice",
+    "lat": 45.437197,
+    "lng": 12.328937,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 54
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.437197,
+      "lng": 12.328937
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3164603"
+    ],
+    "_imageSha256": "d86950b7ec413f71f8fc083661d8420c08e3ac8ecb01919f6d3184687cb620e7",
+    "_atlasOrder": 513
+  },
+  "italy-056": {
+    "id": "italy-056",
+    "src": "assets/photos/countries/italy/L1170188-80a756bf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 56",
+    "country": "Italy",
+    "location": "Bologna",
+    "lat": 44.494005,
+    "lng": 11.342597,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 55
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 44.494005,
+      "lng": 11.342597
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3181928"
+    ],
+    "_imageSha256": "01b8c089f9363e0dfd6fe7ada09f2afb10f5ec6a150c6a2b981cd6d012efc81f",
+    "_atlasOrder": 514
+  },
+  "italy-057": {
+    "id": "italy-057",
+    "src": "assets/photos/countries/italy/L1170172-f84453a2-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 57",
+    "country": "Italy",
+    "location": "Bologna",
+    "lat": 44.494005,
+    "lng": 11.342597,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 56
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 44.494005,
+      "lng": 11.342597
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3181928"
+    ],
+    "_imageSha256": "8e9268c6de1309bb873758feff9cb0f69e31fb39e34eeab55fbe8c21394a3891",
+    "_atlasOrder": 515
+  },
+  "italy-058": {
+    "id": "italy-058",
+    "src": "assets/photos/countries/italy/L1170242-0af3d151-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 58",
+    "country": "Italy",
+    "location": "Bologna",
+    "lat": 44.494005,
+    "lng": 11.342597,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 57
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 44.494005,
+      "lng": 11.342597
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3181928"
+    ],
+    "_imageSha256": "28508f90bb4abb05c3df7f9f26f29002aace4d7ab6b366872f95519e4daac42a",
+    "_atlasOrder": 516
+  },
+  "italy-059": {
+    "id": "italy-059",
+    "src": "assets/photos/countries/italy/L1170252-2f208c00-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 59",
+    "country": "Italy",
+    "location": "Bologna",
+    "lat": 44.494005,
+    "lng": 11.342597,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 58
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 44.494005,
+      "lng": 11.342597
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3181928"
+    ],
+    "_imageSha256": "9e08b505651c5c2345583baa1ffba1fa25825452116ecdb00955fd858c2ae84d",
+    "_atlasOrder": 517
+  },
+  "italy-060": {
+    "id": "italy-060",
+    "src": "assets/photos/countries/italy/L1170885-b89e38fa-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Italy · 60",
+    "country": "Italy",
+    "location": "Uffizi",
+    "lat": 43.7683,
+    "lng": 11.2553,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 59
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Uffizi"
+    ],
+    "_imageSha256": "38a3cf017f7da61285898265db94fe11480843e64b69d6c69f0e11c8c49fcc49",
+    "_atlasOrder": 518
+  },
+  "italy-061": {
+    "id": "italy-061",
+    "src": "assets/photos/countries/italy/L1170481-4a29ba09-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 61",
+    "country": "Italy",
+    "location": "Florence",
+    "lat": 43.77925,
+    "lng": 11.24626,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 60
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3176959"
+    ],
+    "_imageSha256": "1a701120fda8ad5a998058ca9072e5c08aac68450e7e42ab1cd238427403ce9d",
+    "_atlasOrder": 519
+  },
+  "italy-062": {
+    "id": "italy-062",
+    "src": "assets/photos/countries/italy/L1180033-fa15b5da-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 62",
+    "country": "Italy",
+    "location": "Florence",
+    "lat": 43.77925,
+    "lng": 11.24626,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 61
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/3176959"
+    ],
+    "_imageSha256": "b767b0d307e4d2011c2e4cb41fde8258f97ea742e03ad2c9d7824617775662c3",
+    "_atlasOrder": 520
+  },
+  "italy-063": {
+    "id": "italy-063",
+    "src": "assets/photos/countries/italy/L1180151-08a23729-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 63",
+    "country": "Italy",
+    "location": "Uffizi",
+    "lat": 43.7683,
+    "lng": 11.2553,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 62
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Uffizi"
+    ],
+    "_imageSha256": "66c30eddaa462cee9fd1971153196a413a147033aaf0b65e1c038159e6536c70",
+    "_atlasOrder": 521
+  },
+  "italy-064": {
+    "id": "italy-064",
+    "src": "assets/photos/countries/italy/L1180530-a9677139-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 64",
+    "country": "Italy",
+    "location": "Palazzo Pitti",
+    "lat": 43.7652,
+    "lng": 11.2501,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 63
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palazzo_Pitti"
+    ],
+    "_imageSha256": "bfd2fc35256b61eb93b937a815dcd55478a5b4fc14b1ff52159674ca0b9870e9",
+    "_atlasOrder": 522
+  },
+  "italy-065": {
+    "id": "italy-065",
+    "src": "assets/photos/countries/italy/L1180594-5bd0f3ca-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 65",
+    "country": "Italy",
+    "location": "Palazzo Pitti",
+    "lat": 43.7652,
+    "lng": 11.2501,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 64
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Palazzo_Pitti"
+    ],
+    "_imageSha256": "1cc9fec94f325c89c9ea908853bdc1f8d4cc8e4226a859b78b2d4330de084b66",
+    "_atlasOrder": 523
+  },
+  "italy-066": {
+    "id": "italy-066",
+    "src": "assets/photos/countries/italy/L1180818-6f936e92-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 66",
+    "country": "Italy",
+    "location": "Galleria dell'Accademia",
+    "lat": 43.7769,
+    "lng": 11.2589,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 65
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Galleria_dell%27Accademia"
+    ],
+    "_imageSha256": "2a2cb47deac60ae0ef02265ca0c7c11b23fde201e3bd91a72988d27cad9f3ad8",
+    "_atlasOrder": 524
+  },
+  "italy-067": {
+    "id": "italy-067",
+    "src": "assets/photos/countries/italy/L1190175-ce562882-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 67",
+    "country": "Italy",
+    "location": "Rome",
+    "lat": 41.89273,
+    "lng": 12.48337,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 66
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.89273,
+      "lng": 12.48337
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6545148"
+    ],
+    "_imageSha256": "267e6098105c5698c1c6c6a25f725e2d3f611e1aa7db5987fb32498fd4f351cb",
+    "_atlasOrder": 525
+  },
+  "italy-068": {
+    "id": "italy-068",
+    "src": "assets/photos/countries/italy/L1200047-3ce1aa71-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Italy · 68",
+    "country": "Italy",
+    "location": "Rome",
+    "lat": 41.89273,
+    "lng": 12.48337,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 67
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.89273,
+      "lng": 12.48337
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6545148"
+    ],
+    "_imageSha256": "2196bb0d595df540befb106fc1dd51c54999f79de22b911f0c60e92d9c117981",
+    "_atlasOrder": 526
+  },
+  "italy-069": {
+    "id": "italy-069",
+    "src": "assets/photos/countries/italy/L1150335-8cdda5a2-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Italy · 69",
+    "country": "Italy",
+    "location": "Milan",
+    "lat": 45.467175,
+    "lng": 9.189663,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/italy/",
+    "albums": [
+      "Italy"
+    ],
+    "albumOrder": {
+      "Italy": 68
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.467175,
+      "lng": 9.189663
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3173435"
+    ],
+    "_imageSha256": "7b8f4178f9e8440301d1ef8241d857e821dee1e28b3c0c3adf55dbc79a95200c",
+    "_atlasOrder": 527
+  }
+}

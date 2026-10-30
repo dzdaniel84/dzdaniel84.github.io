@@ -1,0 +1,2368 @@
+{
+  "singapore-001": {
+    "id": "singapore-001",
+    "src": "assets/photos/countries/singapore/L1310217-2d849497-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Singapore · 01",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "694d6f86fe09a823845e159140e4c727b4903e330bde10d7ade907d4c26739ad",
+    "_atlasOrder": 1052
+  },
+  "singapore-002": {
+    "id": "singapore-002",
+    "src": "assets/photos/countries/singapore/L1310170-df331664-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 02",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "6bd5b76d78078e2cd7d3fe707ca71774b73806fce16827352ffca2980e8cb537",
+    "_atlasOrder": 1053
+  },
+  "singapore-003": {
+    "id": "singapore-003",
+    "src": "assets/photos/countries/singapore/L1310287-7ef65074-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Singapore · 03",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "bb10cc47c6937c6ee16ded3c6037adb5b4a139ba0a3b54c90b42aeb3cf78c4f8",
+    "_atlasOrder": 1054
+  },
+  "singapore-004": {
+    "id": "singapore-004",
+    "src": "assets/photos/countries/singapore/L1310309-8c41d287-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 04",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "7a8d13501f4a39626a18babc76eda5aabfbdd3663a186c67b0654a34d3a4a798",
+    "_atlasOrder": 1055
+  },
+  "singapore-005": {
+    "id": "singapore-005",
+    "src": "assets/photos/countries/singapore/L1310377-a9928fd6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 05",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "1791bec0b9772af38304ef6c2d26fca913c21c9f37436ffe9bcf0e5dd54c4223",
+    "_atlasOrder": 1056
+  },
+  "singapore-006": {
+    "id": "singapore-006",
+    "src": "assets/photos/countries/singapore/L1310468-5e754a3b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 06",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "badc175e45b4d627a96fa8207e75e3ed5f708059b4c02f5ee588eb0088c96ff7",
+    "_atlasOrder": 1057
+  },
+  "singapore-007": {
+    "id": "singapore-007",
+    "src": "assets/photos/countries/singapore/L1310510-67f8f322-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 07",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "0c77600ef2d3b65d9f07e884af7aaf37ee002568799db64f97df84646e15ac5a",
+    "_atlasOrder": 1058
+  },
+  "singapore-008": {
+    "id": "singapore-008",
+    "src": "assets/photos/countries/singapore/L1310525-c63db532-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 08",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "9c6d37cc3e2ad90ed196b793237aa92a33a5dbdf328e4aec5ba06763472d806c",
+    "_atlasOrder": 1059
+  },
+  "singapore-009": {
+    "id": "singapore-009",
+    "src": "assets/photos/countries/singapore/L1310632-348a37c1-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 09",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "800310d923c0e24869469e8c85a8a44dca0ebb9e1186929b28572cf5faa699b7",
+    "_atlasOrder": 1060
+  },
+  "singapore-010": {
+    "id": "singapore-010",
+    "src": "assets/photos/countries/singapore/L1310717-84b63812-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 10",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "24cc6e60f3df89c073242ccb60617be2a3c5b369f901b3e383df97878c0ad006",
+    "_atlasOrder": 1061
+  },
+  "singapore-011": {
+    "id": "singapore-011",
+    "src": "assets/photos/countries/singapore/L1310724-7601bae1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 11",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "4222eb890e8ba782b33893f58647adddb13bde259f7dd5934fc23c2b28846947",
+    "_atlasOrder": 1062
+  },
+  "singapore-012": {
+    "id": "singapore-012",
+    "src": "assets/photos/countries/singapore/L1310782-d7c4fcf1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 12",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "443b1f8dc91ac691d00520254a415504bd954a42baccf71a18762aa5304a2aa9",
+    "_atlasOrder": 1063
+  },
+  "singapore-013": {
+    "id": "singapore-013",
+    "src": "assets/photos/countries/singapore/L1310805-54a87745-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 13",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "9012b5a2b659872628b4381823fc64831b622754c8da621a558bde4305a81464",
+    "_atlasOrder": 1064
+  },
+  "singapore-014": {
+    "id": "singapore-014",
+    "src": "assets/photos/countries/singapore/L1310816-30e83bc2-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 14",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "24585227e38ee2082aa8dd808ded0a53e5c348aa0a87ac7cc020aa63b3149ed2",
+    "_atlasOrder": 1065
+  },
+  "singapore-015": {
+    "id": "singapore-015",
+    "src": "assets/photos/countries/singapore/L1310902-c25fb931-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 15",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "752f5ec74b21d446ac79af863cc24f3a1cc6fa139a2b6c5f5a505e7df96a7e56",
+    "_atlasOrder": 1066
+  },
+  "singapore-016": {
+    "id": "singapore-016",
+    "src": "assets/photos/countries/singapore/L1310856-639aff21-1000.jpg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 16",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "2d07687a78d1017beb52f8edce67becf83337ab7f39395ddc5828aba3abe7d4c",
+    "_atlasOrder": 1067
+  },
+  "singapore-017": {
+    "id": "singapore-017",
+    "src": "assets/photos/countries/singapore/L1310989-912d7dd2-1000.jpg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 17",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "0aac0d0d5e8c72f30d750c6fc88865c1885a608efca9184dbba7d6f7cd70de44",
+    "_atlasOrder": 1068
+  },
+  "singapore-018": {
+    "id": "singapore-018",
+    "src": "assets/photos/countries/singapore/L1310942-21117201-1000.jpg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 18",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "3ed4837c097c37cfd663feed74425887405cd5226ce795e8a4e8585b95c2f6bb",
+    "_atlasOrder": 1069
+  },
+  "singapore-019": {
+    "id": "singapore-019",
+    "src": "assets/photos/countries/singapore/L1320113-9ba2a841-1000.jpg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 19",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "2d95810cbbbf86fb66f7c41ec53752bb1da438e70e5db755e30d109fa9093b43",
+    "_atlasOrder": 1070
+  },
+  "singapore-020": {
+    "id": "singapore-020",
+    "src": "assets/photos/countries/singapore/L1320093-6d4025e0-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 20",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "df5b865665755379a3602984e7cf9e7948ad5e570c770cc4dd764a152c49cf2c",
+    "_atlasOrder": 1071
+  },
+  "singapore-021": {
+    "id": "singapore-021",
+    "src": "assets/photos/countries/singapore/L1320300-9ff7a713-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 21",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.28967,
+    "lng": 103.85007,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 20
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1880252"
+    ],
+    "_imageSha256": "ae7910c2a4727d89b176c578b36924a76b4baae705b2e1b87c07b1a227164f05",
+    "_atlasOrder": 1072
+  },
+  "singapore-022": {
+    "id": "singapore-022",
+    "src": "assets/photos/countries/singapore/L1320301-c8729371-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 22",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.28967,
+    "lng": 103.85007,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 21
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1880252"
+    ],
+    "_imageSha256": "02b25fe9c6e8035d4525f16d122250c3d6e69b2ff48fc2ff74dfd6e4b459cfb6",
+    "_atlasOrder": 1073
+  },
+  "singapore-023": {
+    "id": "singapore-023",
+    "src": "assets/photos/countries/singapore/L1320380-3ac51182-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Singapore · 23",
+    "country": "Singapore",
+    "location": "Buddha Tooth Relic Temple and Museum",
+    "lat": 1.28155,
+    "lng": 103.844,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 22
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q839965"
+    ],
+    "_imageSha256": "f802ced9b4be693e3cbadc1ee7f88fffd910c205c96fa9b5c8fbe373447eccd6",
+    "_atlasOrder": 1074
+  },
+  "singapore-024": {
+    "id": "singapore-024",
+    "src": "assets/photos/countries/singapore/L1320321-9b005792-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 24",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.28967,
+    "lng": 103.85007,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 23
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1880252"
+    ],
+    "_imageSha256": "7977c397e8866a38ff72a23f2e0d16c5fa24a72e113738bae47cb3d1e8db4169",
+    "_atlasOrder": 1075
+  },
+  "singapore-025": {
+    "id": "singapore-025",
+    "src": "assets/photos/countries/singapore/L1320461-90583c30-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 25",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.28967,
+    "lng": 103.85007,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 24
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1880252"
+    ],
+    "_imageSha256": "21b4e370845ce33a7c30b6ac1ff03e1163d297c1fea95b201cc6d20f785144e0",
+    "_atlasOrder": 1076
+  },
+  "singapore-026": {
+    "id": "singapore-026",
+    "src": "assets/photos/countries/singapore/L1320475-319d7a20-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 26",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.28967,
+    "lng": 103.85007,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 25
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1880252"
+    ],
+    "_imageSha256": "f88f5d33ca999fef5b9a180ad3f8f6eb2287983e0215bf377c07bc881efc65d4",
+    "_atlasOrder": 1077
+  },
+  "singapore-027": {
+    "id": "singapore-027",
+    "src": "assets/photos/countries/singapore/L1320725-c32af8d3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 27",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.28967,
+    "lng": 103.85007,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 26
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1880252"
+    ],
+    "_imageSha256": "5b0f2eb36d08f907eaaedfcef40cdb639f6f46a47a85ea0aa458dff71c1dc52f",
+    "_atlasOrder": 1078
+  },
+  "singapore-028": {
+    "id": "singapore-028",
+    "src": "assets/photos/countries/singapore/L1320770-7316f700-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 28",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.28967,
+    "lng": 103.85007,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 27
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1880252"
+    ],
+    "_imageSha256": "419eb15d9e01e729dee6bfbfbeba0900567c2347ba419d2da37df1d49836c5b4",
+    "_atlasOrder": 1079
+  },
+  "singapore-029": {
+    "id": "singapore-029",
+    "src": "assets/photos/countries/singapore/L1320910-81a175f3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 29",
+    "country": "Singapore",
+    "location": "Marina Bay Sands",
+    "lat": 1.2825,
+    "lng": 103.86,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 28
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Marina_Bay_Sands"
+    ],
+    "_imageSha256": "086bcd58628448b4bc72d253e71e0caed87096d4b74d6f76db82c44a0a6b1e8e",
+    "_atlasOrder": 1080
+  },
+  "singapore-030": {
+    "id": "singapore-030",
+    "src": "assets/photos/countries/singapore/L1300790-206433e3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 30",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "29b06dad4d3675855046f1f7bd101d72f64b4e8a30e2eae2994f619d8f5be526",
+    "_atlasOrder": 1081
+  },
+  "singapore-031": {
+    "id": "singapore-031",
+    "src": "assets/photos/countries/singapore/L1300805-1a94327d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 31",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "0d03635853ea885b730a19e78fee280eeabe2034a542e05085073b5069309f4d",
+    "_atlasOrder": 1082
+  },
+  "singapore-032": {
+    "id": "singapore-032",
+    "src": "assets/photos/countries/singapore/L1300806-ade5ae0a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 32",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "ac6857b2f4413b51a588fd095f88e4a2a56709d4fbc079b919e6ae6bef39d3d7",
+    "_atlasOrder": 1083
+  },
+  "singapore-033": {
+    "id": "singapore-033",
+    "src": "assets/photos/countries/singapore/L1300815-5f522cf9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 33",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "466ad0aaf468669244681f0795dc46f4c091076153d70a42e1cc421920eea1f9",
+    "_atlasOrder": 1084
+  },
+  "singapore-034": {
+    "id": "singapore-034",
+    "src": "assets/photos/countries/singapore/L1300821-fe976ae9-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 34",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "e42676a33945d023a034cbe6c1714af09053ec7de5c05384d0ec0d24917003a9",
+    "_atlasOrder": 1085
+  },
+  "singapore-035": {
+    "id": "singapore-035",
+    "src": "assets/photos/countries/singapore/L1300831-0c20e81a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 35",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "49b977709aab9e071dd1bdaa98760b41641f684d1128149b186281e1a2a4e87f",
+    "_atlasOrder": 1086
+  },
+  "singapore-036": {
+    "id": "singapore-036",
+    "src": "assets/photos/countries/singapore/L1300860-bc1ce7c9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 36",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "90cd21df3aa5958efbd939d52c183c686b8acf14faa203ab7563da4cc9ea1a53",
+    "_atlasOrder": 1087
+  },
+  "singapore-037": {
+    "id": "singapore-037",
+    "src": "assets/photos/countries/singapore/L1300889-0362e840-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 37",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 36
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "f32bdf2472059a07990b8f56ef29459ea0dfa930b0339fee4fba173340b384c5",
+    "_atlasOrder": 1088
+  },
+  "singapore-038": {
+    "id": "singapore-038",
+    "src": "assets/photos/countries/singapore/L1300891-26b1b511-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 38",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 37
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "89e5d8b9a7c9ea64b0c5ddca69f4aed5c061889ae78afc80685b1ed6cbe95af7",
+    "_atlasOrder": 1089
+  },
+  "singapore-039": {
+    "id": "singapore-039",
+    "src": "assets/photos/countries/singapore/L1300894-d40637e2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 39",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 38
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "790b391f608776b822b5daff33b7faf712848b6c8b4df602806b3bf042a5cb01",
+    "_atlasOrder": 1090
+  },
+  "singapore-040": {
+    "id": "singapore-040",
+    "src": "assets/photos/countries/singapore/L1300948-359f3a5c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 40",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 39
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "56c84aba0629e75004090e811b3ef791de2c86c6623d4433a7c590a3339ed456",
+    "_atlasOrder": 1091
+  },
+  "singapore-041": {
+    "id": "singapore-041",
+    "src": "assets/photos/countries/singapore/L1300961-c728b8af-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 41",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 40
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "2223a8186b2fea0a546875a678800bdd897d35dc85eaab1520c1b3577dfd46b3",
+    "_atlasOrder": 1092
+  },
+  "singapore-042": {
+    "id": "singapore-042",
+    "src": "assets/photos/countries/singapore/L1300966-66edfebf-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 42",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 41
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "6bfa7c0d76ba339efabfd7f01533b4933fb7587cfe3933bc8e2f58aa3b5fe0d5",
+    "_atlasOrder": 1093
+  },
+  "singapore-043": {
+    "id": "singapore-043",
+    "src": "assets/photos/countries/singapore/L1300970-8f6d8031-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 43",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 42
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "5eaa05310d29eb6f47efad4803fef6e1a50744aebd9dda2448f85bd8eb12cf2a",
+    "_atlasOrder": 1094
+  },
+  "singapore-044": {
+    "id": "singapore-044",
+    "src": "assets/photos/countries/singapore/L1300974-aabedd60-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 44",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 43
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "12df92f2e4b7e0cb12e2b87c456c26d4bff679bfdb63612816511b9e2d505ed5",
+    "_atlasOrder": 1095
+  },
+  "singapore-045": {
+    "id": "singapore-045",
+    "src": "assets/photos/countries/singapore/L1310015-58095f93-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 45",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 44
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "50e28ccfa06e48819b6d03ad2d0c3378e62a894b5f345aec32c22fea624b2aad",
+    "_atlasOrder": 1096
+  },
+  "singapore-046": {
+    "id": "singapore-046",
+    "src": "assets/photos/countries/singapore/L1310035-ef78c3e4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 46",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 45
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "33e77b1b5a300ccfbffbdf755c9f95d0ed3bd4ab4953c0afaf00296dbe43450b",
+    "_atlasOrder": 1097
+  },
+  "singapore-047": {
+    "id": "singapore-047",
+    "src": "assets/photos/countries/singapore/L1310076-1dcf4117-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 47",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 46
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "a606c7e831d56fe5edf3592f12f06162b3c31bb83c5b9d4e6e323b3e7d3c7ce0",
+    "_atlasOrder": 1098
+  },
+  "singapore-048": {
+    "id": "singapore-048",
+    "src": "assets/photos/countries/singapore/L1310097-bc0a0707-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 48",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 47
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "4d081fc88b763c68210ac0b7db63b5f8fa711435e91fa8b4f16159a76553d246",
+    "_atlasOrder": 1099
+  },
+  "singapore-049": {
+    "id": "singapore-049",
+    "src": "assets/photos/countries/singapore/L1310146-6a87d30a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 49",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 48
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "7b010c8c65b7ac9a04bcd13c2f015c1ae92f942f4fc36a10a0c56987d29d53cc",
+    "_atlasOrder": 1100
+  },
+  "singapore-050": {
+    "id": "singapore-050",
+    "src": "assets/photos/countries/singapore/L1310167-983051f9-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 50",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 49
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "c6ab5faf7a324c32ccac3eee03a00458048ffa6dde82d021f15a43b114a8134a",
+    "_atlasOrder": 1101
+  },
+  "singapore-051": {
+    "id": "singapore-051",
+    "src": "assets/photos/countries/singapore/L1310213-bde30ca8-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 51",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 50
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "2a17902ffbb3cf89b7c5a3d15f6b78430b87c1b44ff0693abc9e3557c29626be",
+    "_atlasOrder": 1102
+  },
+  "singapore-052": {
+    "id": "singapore-052",
+    "src": "assets/photos/countries/singapore/L1310344-4f548e5b-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 52",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 51
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "4ac7b5835b54c3e51bee9d338d156e6305f0c00217286a6f6fbb5d15f54e7258",
+    "_atlasOrder": 1103
+  },
+  "singapore-053": {
+    "id": "singapore-053",
+    "src": "assets/photos/countries/singapore/L1310407-58768a20-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 53",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 52
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "e25ef543778371bce8b8c1c4a6570deec62dd8cb4d2a42d75dc0bfb9e8b058ee",
+    "_atlasOrder": 1104
+  },
+  "singapore-054": {
+    "id": "singapore-054",
+    "src": "assets/photos/countries/singapore/L1310422-aac108d3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 54",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 53
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "488f32cf15fe6a4094d0ebaecfa64a98d7683d072941d05257e73dcc1bef7397",
+    "_atlasOrder": 1105
+  },
+  "singapore-055": {
+    "id": "singapore-055",
+    "src": "assets/photos/countries/singapore/L1310436-49ce0c6d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 55",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 54
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "52c8da06c3ecc709992ec16666e9b8e6a4bbdb324d0f3c1d21578d2545784578",
+    "_atlasOrder": 1106
+  },
+  "singapore-056": {
+    "id": "singapore-056",
+    "src": "assets/photos/countries/singapore/L1310451-e80b4a7d-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 56",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 55
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "568641ce410a2258a8af2fd0edf355c2d7d04c95ffd4db47e816468c86538232",
+    "_atlasOrder": 1107
+  },
+  "singapore-057": {
+    "id": "singapore-057",
+    "src": "assets/photos/countries/singapore/L1310479-1abcc88e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 57",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 56
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "c5bc65253b43b75736dc315de8740a8e4a666653e4c5b8438c69eee9471771af",
+    "_atlasOrder": 1108
+  },
+  "singapore-058": {
+    "id": "singapore-058",
+    "src": "assets/photos/countries/singapore/L1310583-3f6f95df-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 58",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 57
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "2b930d7220965b60c471dc0bb46630dcf0a1c1a6ec3c076605c606a068ce4f76",
+    "_atlasOrder": 1109
+  },
+  "singapore-059": {
+    "id": "singapore-059",
+    "src": "assets/photos/countries/singapore/L1310665-cdd8172c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 59",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 58
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "60b267a9d66ab8c6f15669c3c685892c9128c80189b4cc2d83332d67e6a32e3c",
+    "_atlasOrder": 1110
+  },
+  "singapore-060": {
+    "id": "singapore-060",
+    "src": "assets/photos/countries/singapore/L1310643-7aa98b5b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 60",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 59
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "5051a3e06fa414416de8e5fdaf8f71da2a5dedaa371f904cb7d8c92871e1e259",
+    "_atlasOrder": 1111
+  },
+  "singapore-061": {
+    "id": "singapore-061",
+    "src": "assets/photos/countries/singapore/L1310727-673889dc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 61",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 60
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "bc1aaff9bdcab61a37e40b3c4ef035b10ac3d82d20bdacb4d5ba1646bb26d461",
+    "_atlasOrder": 1112
+  },
+  "singapore-062": {
+    "id": "singapore-062",
+    "src": "assets/photos/countries/singapore/L1310708-30bdbdbe-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 62",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 61
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "398e8dcc7b4f5d6d21883fca0a4e38c69bb5c08cb7af32fe2c5743b41f634f6e",
+    "_atlasOrder": 1113
+  },
+  "singapore-063": {
+    "id": "singapore-063",
+    "src": "assets/photos/countries/singapore/L1310936-c20a3f4d-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 63",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 62
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "fb359c4db404261bd936c7cc38b06fecd384c1ff42acfaadb98a69f258797adc",
+    "_atlasOrder": 1114
+  },
+  "singapore-064": {
+    "id": "singapore-064",
+    "src": "assets/photos/countries/singapore/L1310790-63cf795d-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 64",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 63
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "10d9b69002a7c4ee44fec5c6ae2f1ba659488572978138d29519ded38f55bd74",
+    "_atlasOrder": 1115
+  },
+  "singapore-065": {
+    "id": "singapore-065",
+    "src": "assets/photos/countries/singapore/L1310950-9178fbae-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 65",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 64
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "95ad2775b4ef59b8002551a1945b2fc2fc9e59964db1904ae373781fc493a95d",
+    "_atlasOrder": 1116
+  },
+  "singapore-066": {
+    "id": "singapore-066",
+    "src": "assets/photos/countries/singapore/L1320059-2144f47d-1000.jpg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 66",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 65
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "070c4755020468c2e53aebdc796be025a11c3f89958f0e4c9b6525a1e8e97bd4",
+    "_atlasOrder": 1117
+  },
+  "singapore-067": {
+    "id": "singapore-067",
+    "src": "assets/photos/countries/singapore/L1320115-09c87dcc-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 67",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 66
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "3526826d3f274ea561107fa5275a991d0972878a716749bc19f5f696dd30a455",
+    "_atlasOrder": 1118
+  },
+  "singapore-068": {
+    "id": "singapore-068",
+    "src": "assets/photos/countries/singapore/L1320432-a80d3bdc-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Singapore · 68",
+    "country": "Singapore",
+    "location": "Old Hill Street Police Station",
+    "lat": 1.29072,
+    "lng": 103.84814,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 67
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Old_Hill_Street_Police_Station"
+    ],
+    "_imageSha256": "94cbf16ea4ba7e1e4a5b9e4f784f7255d14f83273cc432be91a2935b62169e1e",
+    "_atlasOrder": 1119
+  },
+  "singapore-069": {
+    "id": "singapore-069",
+    "src": "assets/photos/countries/singapore/L1320881-5abab92f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 69",
+    "country": "Singapore",
+    "location": "Old Hill Street Police Station",
+    "lat": 1.29072,
+    "lng": 103.84814,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 68
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Old_Hill_Street_Police_Station"
+    ],
+    "_imageSha256": "cb9e0763ef6c0db8fc9336c34133b99917c81aba149df7e7e82ab0b239287e86",
+    "_atlasOrder": 1120
+  },
+  "singapore-070": {
+    "id": "singapore-070",
+    "src": "assets/photos/countries/singapore/L1320192-ea86b6fc-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Singapore · 70",
+    "country": "Singapore",
+    "location": "Singapore",
+    "lat": 1.304375,
+    "lng": 103.82458,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 69
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 1.304375,
+      "lng": 103.82458
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/1882712"
+    ],
+    "_imageSha256": "b630bd3899e1e5e0c56bdcc7b46d687dc77b12a81899fb8901b6b6635ed9a8de",
+    "_atlasOrder": 1121
+  },
+  "singapore-071": {
+    "id": "singapore-071",
+    "src": "assets/photos/countries/singapore/L1320985-1d617311-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Singapore · 71",
+    "country": "Singapore",
+    "location": "Fountain of Wealth",
+    "lat": 1.29478,
+    "lng": 103.85881,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/singapore/",
+    "albums": [
+      "Singapore"
+    ],
+    "albumOrder": {
+      "Singapore": 70
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Fountain_of_Wealth"
+    ],
+    "_imageSha256": "e800e113c16dfdcf153d6b0e9040e8ec7f955498ad2d609a5d1ca49b92f476c4",
+    "_atlasOrder": 1122
+  }
+}

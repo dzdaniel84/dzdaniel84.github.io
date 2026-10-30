@@ -1,0 +1,165 @@
+/* A map-led, dark photographic atlas. Scoped to World Albums. */
+.atlas-immersive{--paper:#0b121a;--ink:#edf2ef;--muted:#93a2ab;--line:#26333e;--accent:#dfc28a;background:var(--paper);color:var(--ink);color-scheme:dark}
+.atlas-immersive .site-header{position:absolute;inset:0 0 auto;z-index:20;background:linear-gradient(#09121bec,#09121b9e);border-color:#ffffff13;color:#edf2ef}
+.atlas-immersive .site-header a:hover{color:#fff}
+.atlas-immersive .site-header nav a[aria-current=page]{color:#e5c891}
+.atlas-immersive .albums-page .atlas{padding:0;border:0;background:#0c151e}
+.atlas-immersive .map-layout{position:relative;display:block;height:calc(100svh - 76px);min-height:600px;max-height:900px;width:100%;border:0;background:#0c151e;isolation:isolate;overflow:hidden}
+.atlas-immersive .map-panel{position:absolute;inset:0;display:block;min-height:0;height:100%;background:#0c151e;border:0}
+.atlas-immersive .atlas-heading{position:absolute;top:132px;left:56px;z-index:3;pointer-events:none}
+.atlas-immersive .atlas-heading h1{font:400 clamp(27px,3vw,42px)/1.15 var(--sans);letter-spacing:-1.2px;margin:0;text-shadow:0 2px 20px #0009}
+.atlas-immersive #detailed-map{position:absolute;inset:0;min-height:0;visibility:hidden;z-index:1}
+.atlas-immersive .is-detailed-map #detailed-map{visibility:visible}
+.atlas-immersive #world-map{position:absolute;inset:0;display:block;width:100%;height:100%;min-height:0;z-index:0}
+.atlas-immersive #map-land{fill:#23343e;stroke:#13232f;stroke-width:.65}
+.atlas-immersive .map-point circle{fill:#e3c48c;stroke:#0b1720;stroke-width:2}
+.atlas-immersive .map-point:hover circle,.atlas-immersive .map-point.selected circle,.atlas-immersive .map-point:focus-visible circle{fill:#fff0ca;stroke:#d2b27b;stroke-width:3}
+.atlas-immersive .map-cluster circle:not(.point-hit){fill:#d2b27b;stroke:#f3d79955;stroke-width:4}
+.atlas-immersive .map-point text{fill:#dde8e6;stroke:#0b121a;stroke-width:3px}
+.atlas-immersive .map-point .map-cluster-count{fill:#14212a;stroke:none}
+.atlas-immersive .map-point circle.point-hit,.atlas-immersive .map-point:hover circle.point-hit,.atlas-immersive .map-point:focus-visible circle.point-hit{fill:transparent;stroke:none}
+.atlas-immersive .reset-map{position:absolute;left:92px;right:auto;top:auto;bottom:24px;z-index:4;background:#14232eea;border:1px solid #4c5c66;color:#edf2ef;min-height:44px;border-radius:24px;padding:9px 16px;font-size:11px;box-shadow:0 5px 22px #0003}
+.atlas-immersive .maplibregl-ctrl-bottom-left .maplibregl-ctrl{margin:0 0 24px 32px}
+.atlas-immersive .maplibregl-ctrl-group{background:#14232e;border:1px solid #43515c;border-radius:8px;box-shadow:0 5px 22px #0004!important;overflow:hidden}
+.atlas-immersive .maplibregl-ctrl-group button{width:44px;height:44px;min-height:44px}
+.atlas-immersive .maplibregl-ctrl-group button+button{border-color:#344550}
+.atlas-immersive .maplibregl-ctrl-group button:hover{background:#263b48}
+.atlas-immersive .maplibregl-ctrl-group .maplibregl-ctrl-icon{filter:invert(1);opacity:.9}
+.atlas-immersive .maplibregl-ctrl-attrib{background:#0b141dd9;color:#a5b1b9;font:400 9px/1.6 var(--sans);border-radius:4px 0 0 0;padding:3px 7px}
+.atlas-immersive .maplibregl-ctrl-attrib a{color:#bdc8cf}
+.atlas-immersive .maplibregl-ctrl-attrib-button{filter:invert(1);background-color:transparent}
+.atlas-immersive .outline-controls{position:absolute;left:32px;bottom:24px;z-index:3;display:grid;background:#14232e;border:1px solid #43515c;border-radius:8px;overflow:hidden}
+.atlas-immersive .outline-controls button{border:0;background:none;color:#f2f4f1;font-size:20px;min-width:44px;min-height:44px}
+.atlas-immersive .outline-controls button+button{border-top:1px solid #344550}
+.atlas-immersive .is-detailed-map .outline-controls{display:grid}
+.atlas-immersive .atlas-toolbar{display:block;padding:14px 0;background:#0d1721;border-top:1px solid #21303a;border-bottom:1px solid #26333e;min-height:76px}
+.atlas-immersive .atlas-toolbar .filters{display:flex;flex-wrap:nowrap;justify-content:center;gap:7px;width:100%;min-width:0;max-width:100%;overflow-x:auto;padding:0 0 2px;scrollbar-width:thin;scrollbar-color:#43515b transparent;overscroll-behavior-x:contain}
+.atlas-immersive .filters button{flex:0 0 auto;min-height:44px;padding:10px 16px;border:1px solid transparent;border-radius:24px;white-space:nowrap;font:400 11px var(--sans);letter-spacing:.1px;color:#a6b4bb;background:transparent;transition:background .2s,color .2s}
+.atlas-immersive .filters button:hover{color:#fff;background:#1c2c38}
+.atlas-immersive .filters button[aria-pressed=true]{background:#d8bd87;color:#15212b;border-color:#d8bd87}
+.atlas-immersive .place-preview{position:absolute;right:32px;top:132px;bottom:auto;left:auto;z-index:6;display:block;width:320px;max-height:calc(100% - 180px);margin:0;padding:16px;background:#101c27f2;backdrop-filter:blur(18px);color:#eef3f0;border:1px solid #60717b66;border-radius:12px;box-shadow:0 18px 65px #0007;overflow-y:auto;scrollbar-width:thin;scrollbar-color:#53616c transparent;animation:atlas-preview-in .25s ease-out}
+.atlas-immersive .preview-header{position:relative;padding:0 30px 0 0}
+.atlas-immersive .preview-country{font:500 9px/1.4 var(--sans);text-transform:uppercase;letter-spacing:1.5px;color:#b5c2c8;margin:0 0 7px}
+.atlas-immersive .place-preview .preview-heading{font:400 25px/1.15 var(--sans);letter-spacing:-.6px;color:#f1f5f1;margin:0 0 16px;overflow-wrap:break-word}
+.atlas-immersive .preview-close{position:absolute;right:-8px;top:-9px;display:grid;place-items:center;width:40px;height:40px;min-height:40px;border:0;border-radius:50%;background:transparent;color:#b8c6ce;font-size:25px;line-height:1}
+.atlas-immersive .preview-close:hover{background:#293e4a;color:white}
+.atlas-immersive .preview-open{display:block;min-height:0;background:none;border:0;padding:0;width:100%;text-align:left;color:inherit}
+.atlas-immersive .place-preview .preview-photo{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:contain;background:#09131c;border-radius:4px}
+.atlas-immersive .preview-open-label{display:flex;justify-content:flex-end;margin-top:9px;font:400 10px var(--sans);color:#d9bd86}
+.atlas-immersive .preview-caption{font-size:11px;line-height:1.6;color:#a6b5be;margin:10px 0 0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.atlas-immersive .preview-navigation{display:flex;align-items:center;justify-content:space-between;margin-top:13px;border-top:1px solid #354550;padding-top:9px;gap:12px}
+.atlas-immersive .preview-navigation button{display:grid;place-items:center;width:40px;min-height:40px;border:1px solid #4c5e69;border-radius:50%;background:transparent;color:#e8eeeb;font-size:16px}
+.atlas-immersive .preview-navigation button:hover{background:#2a3c48}
+.atlas-immersive .preview-navigation span{font-size:10px;color:#bac6ce;font-variant-numeric:tabular-nums;letter-spacing:1px}
+.atlas-immersive .place-preview .preview-thumbs{display:flex;flex-wrap:nowrap;gap:7px;overflow-x:auto;margin:12px 0 0;padding:2px 0 5px;scrollbar-width:thin;scrollbar-color:#53616c transparent}
+.atlas-immersive .preview-thumbs:empty{display:none}
+.atlas-immersive .preview-thumbs button{flex:0 0 auto;padding:2px;background:none;border:1px solid transparent;border-radius:4px;min-height:44px}
+.atlas-immersive .preview-thumbs button[aria-pressed=true]{border-color:#dfc28a}
+.atlas-immersive .preview-thumbs img{width:44px;height:44px;border-radius:2px;object-fit:cover}
+.atlas-immersive .country-directory{padding-top:76px;padding-bottom:48px}
+.atlas-immersive .country-directory .section-heading h2{font-size:clamp(34px,4.4vw,60px);font-weight:400}
+.atlas-immersive .country-card img{background:#17232d}
+.atlas-immersive .country-card-body>span{color:#edf2ef}
+.atlas-immersive .country-card small{color:#94a5af}
+.atlas-immersive .atlas-source{font-size:10px;line-height:1.8;color:#778a97;margin-bottom:46px}
+.atlas-immersive .atlas-source a{text-decoration:underline;text-underline-offset:3px}
+.atlas-immersive footer{border-color:#26333e}
+.atlas-immersive a:focus-visible,.atlas-immersive button:focus-visible{outline-color:#efd6a1}
+.atlas-immersive .atlas-error{position:absolute;left:32px;bottom:130px;z-index:5;padding:12px 16px;background:#513e28;color:#fff;font-size:12px;max-width:80%}
+@keyframes atlas-preview-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media(max-width:1100px){
+ .atlas-immersive .atlas-heading{left:32px}
+ .atlas-immersive .atlas-toolbar .wrap{width:calc(100% - 40px)}
+ .atlas-immersive .atlas-toolbar .filters{justify-content:flex-start}
+ .atlas-immersive .filters button{padding-left:14px;padding-right:14px}
+ .atlas-immersive .place-preview{right:24px;width:300px}
+}
+@media(max-width:760px){
+ .atlas-immersive .site-header{position:absolute;background:#09121bd9}
+ .atlas-immersive .has-menu.nav-open nav{background:#0e1a25f5;backdrop-filter:blur(16px);border-color:#34444e}
+}
+@media(max-width:650px){
+ .atlas-immersive .map-layout{height:calc(100svh - 72px);min-height:520px;max-height:900px}
+ .atlas-immersive .atlas-heading{top:100px;left:20px}
+ .atlas-immersive .atlas-heading h1{font-size:28px;letter-spacing:-.9px}
+ .atlas-immersive .atlas-toolbar{padding:12px 0;min-height:72px}
+ .atlas-immersive .atlas-toolbar .wrap{width:calc(100% - 32px)}
+ .atlas-immersive .filters button{font-size:11px;padding-left:15px;padding-right:15px}
+ .atlas-immersive .maplibregl-ctrl-bottom-left{left:auto;right:16px;top:100px;bottom:auto}
+ .atlas-immersive .maplibregl-ctrl-bottom-left .maplibregl-ctrl{margin:0}
+ .atlas-immersive .outline-controls{left:auto;right:16px;top:100px;bottom:auto}
+ .atlas-immersive .reset-map{top:147px;left:20px;right:auto;bottom:auto;max-width:55%;font-size:10px;padding:8px 12px}
+ .atlas-immersive .maplibregl-ctrl-attrib{font-size:8px;max-width:calc(100vw - 20px)}
+ .atlas-immersive .place-preview{top:auto;left:16px;right:16px;bottom:25px;width:auto;max-height:58%;padding:14px;border-radius:10px}
+ .atlas-immersive .place-preview .preview-heading{font-size:23px;margin-bottom:12px}
+ .atlas-immersive .place-preview .preview-photo{height:150px;aspect-ratio:auto}
+ .atlas-immersive .preview-header{padding-right:32px}
+ .atlas-immersive .preview-country{font-size:9px;margin-bottom:5px}
+ .atlas-immersive .preview-close{min-height:44px;height:44px;width:44px;right:-7px}
+ .atlas-immersive .preview-open-label{font-size:10px;margin-top:6px}
+ .atlas-immersive .preview-caption{font-size:10px;margin-top:7px}
+ .atlas-immersive .preview-navigation{margin-top:9px;padding-top:8px}
+ .atlas-immersive .preview-navigation button{min-height:44px;width:44px}
+ .atlas-immersive .place-preview .preview-thumbs{margin-top:8px}
+ .atlas-immersive .country-directory{padding-top:48px;padding-bottom:28px}
+ .atlas-immersive .country-directory .section-heading h2{font-size:36px}
+ .atlas-immersive .atlas-source{font-size:9px;margin-bottom:30px}
+}
+@media(max-height:650px) and (max-width:650px){.atlas-immersive .place-preview .preview-photo{height:104px}}
+@media(prefers-reduced-motion:reduce){.atlas-immersive .place-preview{animation:none}.atlas-immersive .filters button{transition:none}}
+
+/* Robinson world overview; detailed geography appears after selecting a place. */
+.atlas-immersive #map-land{fill:#22333f;stroke:#40525f;stroke-width:.65}
+.atlas-immersive #map-land .map-ocean{fill:#0e1b27;stroke:#344958;stroke-width:1}
+.atlas-immersive #map-land .map-graticule{fill:none;stroke:#243947;stroke-width:.5}
+.atlas-immersive .map-country-labels{fill:#9aaab4;stroke:none;text-anchor:middle;text-transform:uppercase;font:8px var(--sans);letter-spacing:.6px;pointer-events:none}
+.atlas-immersive .map-panel:not(.is-detailed-map) #detailed-map{pointer-events:none}
+.atlas-immersive .map-panel:not(.is-detailed-map) .maplibregl-control-container{display:none}
+@media(max-width:650px){.atlas-immersive .map-layout{height:66svh;min-height:520px}}
+
+
+/* Fit the world tightly below the title rather than letterboxing a tall canvas. */
+.atlas-immersive .map-layout{height:clamp(510px,calc(51vw + 184px),900px);min-height:0}
+.atlas-immersive #world-map{inset:0;height:100%;background:#1b1b1d}
+
+.atlas-immersive .map-countries path{stroke-width:.65;vector-effect:non-scaling-stroke}
+.atlas-immersive .map-lakes{fill:#0e1b27;stroke:#466071;stroke-width:.35}
+.atlas-immersive .map-lakes path{vector-effect:non-scaling-stroke}
+.atlas-immersive .map-rivers{fill:none;stroke:#6998ae;stroke-width:.75;opacity:.75}
+.atlas-immersive .map-rivers path{vector-effect:non-scaling-stroke}
+.atlas-immersive .map-country-labels{fill:#c0cdd4;font:500 11px var(--sans);letter-spacing:.55px;paint-order:stroke;stroke:#14232e;stroke-width:3px;stroke-linejoin:round}
+.atlas-immersive .map-country-labels text,.atlas-immersive .map-city-labels g{opacity:0;transition:opacity .18s ease;pointer-events:none}
+.atlas-immersive .map-country-labels .is-visible,.atlas-immersive .map-city-labels .is-visible{opacity:1}
+.atlas-immersive .map-city-labels{fill:#a4bac7;stroke:none;font:400 10px var(--sans);pointer-events:none}
+.atlas-immersive .map-city-labels text{paint-order:stroke;stroke:#14232e;stroke-width:3px;stroke-linejoin:round}
+@media(max-width:650px){
+ .atlas-immersive .map-layout{height:calc(51vw + 200px);min-height:400px;max-height:560px}
+ .atlas-immersive .map-layout:has(.place-preview:not([hidden])){height:calc(100svh - 72px);min-height:560px;max-height:900px}
+}
+@media(prefers-reduced-motion:reduce){.atlas-immersive .map-country-labels text,.atlas-immersive .map-city-labels g{transition:none}}
+
+
+/* One palette and one viewing area across the outline/detail handoff. */
+.atlas-immersive .map-layout,.atlas-immersive .map-panel{background:#0c0c0c}
+.atlas-immersive #map-land{fill:#0c0c0c;stroke:#3b3b3b}
+.atlas-immersive #map-land .map-ocean{fill:#1b1b1d;stroke:#303033}
+.atlas-immersive #map-land .map-graticule{stroke:#303033;opacity:.5;vector-effect:non-scaling-stroke;transition:opacity .3s ease}
+.atlas-immersive .map-panel.is-map-preparing #map-land .map-graticule,.atlas-immersive .map-panel.is-detailed-map #map-land .map-graticule{opacity:0}
+.atlas-immersive .map-lakes{fill:#1b1b1d;stroke:#353538}
+.atlas-immersive .map-rivers{stroke:#353538;opacity:.85}
+.atlas-immersive .map-country-labels{fill:#a5a5a5;stroke:#0c0c0c}
+.atlas-immersive .map-city-labels{fill:#969696}
+.atlas-immersive .map-city-labels text{stroke:#0c0c0c}
+.atlas-immersive #world-map{opacity:1;transition:opacity .6s ease}
+.atlas-immersive #detailed-map{inset:0;height:100%;visibility:visible;opacity:0;pointer-events:none;transition:opacity .6s ease}
+.atlas-immersive .map-panel.is-detailed-map #world-map{visibility:visible;opacity:0;pointer-events:none}
+.atlas-immersive .is-detailed-map #detailed-map{opacity:1;pointer-events:auto}
+.atlas-immersive .map-panel.is-map-preparing #detailed-map{pointer-events:auto}
+@media(min-width:651px){.atlas-immersive .outline-controls{bottom:28px}}
+@media(prefers-reduced-motion:reduce){.atlas-immersive #world-map,.atlas-immersive #detailed-map{transition:none}}
+
+/* Quiet map attribution beneath the category selector. */
+.atlas-immersive .atlas-source{font-size:9px;line-height:1.7;text-align:center;margin:14px auto 0;padding-bottom:0}
+.atlas-immersive .country-directory{padding-top:112px}
+.atlas-immersive .country-directory .section-heading h2{margin-top:0}
+@media(max-width:650px){.atlas-immersive .atlas-source{font-size:8px;line-height:1.7;margin-top:12px}.atlas-immersive .country-directory{padding-top:80px}}

@@ -1,0 +1,572 @@
+{
+  "belgium-001": {
+    "id": "belgium-001",
+    "src": "assets/photos/countries/belgium/62FBD095-8DCF-46D5-9A25-DB603242F7CA_1_105_c-4333d38e-1000.jpeg",
+    "width": 725,
+    "height": 1086,
+    "title": "Belgium · 01",
+    "country": "Belgium",
+    "location": "Bruges",
+    "lat": 51.20892,
+    "lng": 3.22424,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 0
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2800931"
+    ],
+    "_imageSha256": "a7f8ad6470bbed6f136cf2404085a9706ae223172a2db9d889fa0665c56aaf45",
+    "_atlasOrder": 188
+  },
+  "belgium-002": {
+    "id": "belgium-002",
+    "src": "assets/photos/countries/belgium/6B1598FD-974E-4109-BF05-3D0CB62E3979_1_105_c-9b6100d3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Belgium · 02",
+    "country": "Belgium",
+    "location": "Ghent",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 1
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2797656"
+    ],
+    "_imageSha256": "c4faeff1268a5ef44bd62c286867dde69d2d8caac2587622ba534403bdcedc48",
+    "_atlasOrder": 189
+  },
+  "belgium-003": {
+    "id": "belgium-003",
+    "src": "assets/photos/countries/belgium/E545E3C7-B855-41AD-88E7-D69F5ED32BB1_1_105_c-840e8ff5-1000.jpeg",
+    "width": 725,
+    "height": 1086,
+    "title": "Belgium · 03",
+    "country": "Belgium",
+    "location": "Brussels",
+    "lat": 50.85045,
+    "lng": 4.34878,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 2
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2800866"
+    ],
+    "_imageSha256": "40230b74858258e006f2bf31f6474639b495d84add3a422a2e1861b3b5f0b184",
+    "_atlasOrder": 190
+  },
+  "belgium-004": {
+    "id": "belgium-004",
+    "src": "assets/photos/countries/belgium/B20CF166-5E1B-450D-9C73-D5358D387432_1_105_c-171dd64f-1000.jpeg",
+    "width": 725,
+    "height": 1086,
+    "title": "Belgium · 04",
+    "country": "Belgium",
+    "location": "Ghent",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 3
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2797656"
+    ],
+    "_imageSha256": "231acb311383f8e342db469415373d035253168b3833f9553dadd64c0cfae705",
+    "_atlasOrder": 191
+  },
+  "belgium-005": {
+    "id": "belgium-005",
+    "src": "assets/photos/countries/belgium/F91220BD-D16D-466D-A01D-7234AA4F8E1A_1_105_c-366c5240-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Belgium · 05",
+    "country": "Belgium",
+    "location": "Brussels",
+    "lat": 50.85045,
+    "lng": 4.34878,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 4
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2800866"
+    ],
+    "_imageSha256": "1f5ca132dea3a6b34c11241516089fcf2617f4ffae9887c52eeb0013fb9b2dd7",
+    "_atlasOrder": 192
+  },
+  "belgium-006": {
+    "id": "belgium-006",
+    "src": "assets/photos/countries/belgium/AE6B5B4C-8D09-4EB1-8579-C625641927F8_1_105_c-4bf9fd23-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Belgium · 06",
+    "country": "Belgium",
+    "location": "Brussels",
+    "lat": 50.85045,
+    "lng": 4.34878,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 5
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2800866"
+    ],
+    "_imageSha256": "e5b33a35ce849dd0e627c13bb2b2516edb7633bbf7ad7f8233881f92e9e10818",
+    "_atlasOrder": 193
+  },
+  "belgium-007": {
+    "id": "belgium-007",
+    "src": "assets/photos/countries/belgium/06475DB7-18A5-4A9F-91A7-7081F12D8C75_1_105_c-7b9304f1-1000.jpeg",
+    "width": 724,
+    "height": 1086,
+    "title": "Belgium · 07",
+    "country": "Belgium",
+    "location": "Ghent",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 6
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2797656"
+    ],
+    "_imageSha256": "73c5152f43a5e27e3350212e655deaa4568a5abb23efbc626eb5dbea256344fd",
+    "_atlasOrder": 194
+  },
+  "belgium-008": {
+    "id": "belgium-008",
+    "src": "assets/photos/countries/belgium/24AB9D92-E415-4967-AEC4-88A83C649526_1_105_c-39f4ca32-1000.jpeg",
+    "width": 1000,
+    "height": 668,
+    "title": "Belgium · 08",
+    "country": "Belgium",
+    "location": "Belfry of Bruges",
+    "lat": 51.20833,
+    "lng": 3.22472,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 7
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Belfry_of_Bruges"
+    ],
+    "_imageSha256": "bed2494ba01d0f8f73983166b4347e43cb5a39806f017cbe15a910bc9e369a64",
+    "_atlasOrder": 195
+  },
+  "belgium-009": {
+    "id": "belgium-009",
+    "src": "assets/photos/countries/belgium/06FF3AE4-F94A-458C-84DC-BAC274324784_1_105_c-3b8543fb-1000.jpeg",
+    "width": 724,
+    "height": 1086,
+    "title": "Belgium · 09",
+    "country": "Belgium",
+    "location": "Bruges",
+    "lat": 51.20892,
+    "lng": 3.22424,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 8
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2800931"
+    ],
+    "_imageSha256": "c2348500dd85ed605c0ba8ffbf8c6048f9e203fcf44758096e8b69d1fc0ac852",
+    "_atlasOrder": 196
+  },
+  "belgium-010": {
+    "id": "belgium-010",
+    "src": "assets/photos/countries/belgium/7BAF57EF-2F32-4197-8A5E-F900652FEDF4_1_105_c-9ea21778-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Belgium · 10",
+    "country": "Belgium",
+    "location": "Belfry of Bruges",
+    "lat": 51.20833,
+    "lng": 3.22472,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Belfry_of_Bruges"
+    ],
+    "_imageSha256": "467f081da0f505e0ded380ca6e6a41ee0e3dea8ee3c50a024e73d3f7dc122a1d",
+    "_atlasOrder": 197
+  },
+  "belgium-011": {
+    "id": "belgium-011",
+    "src": "assets/photos/countries/belgium/F1EEABD2-5209-4DD8-A66D-FFF884C31A8E_1_105_c-98eacc90-1000.jpeg",
+    "width": 724,
+    "height": 1086,
+    "title": "Belgium · 11",
+    "country": "Belgium",
+    "location": "Ghent",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 10
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2797656"
+    ],
+    "_imageSha256": "c3bbd49507452a86f86734b8a6e151537e483c4900174a99a5d29fb74ba0067b",
+    "_atlasOrder": 198
+  },
+  "belgium-012": {
+    "id": "belgium-012",
+    "src": "assets/photos/countries/belgium/E2AA9E0D-C590-470D-8B44-D778315EC7E6_1_105_c-631f4333-1000.jpeg",
+    "width": 724,
+    "height": 1086,
+    "title": "Belgium · 12",
+    "country": "Belgium",
+    "location": "Ghent",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 11
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2797656"
+    ],
+    "_imageSha256": "5e80c2ed66a375d946fbe4adc669b86f42e0f04478db7a5a3cd8c98ca93b34a9",
+    "_atlasOrder": 199
+  },
+  "belgium-013": {
+    "id": "belgium-013",
+    "src": "assets/photos/countries/belgium/AE7DDDFB-306E-4C49-B359-4A35D77E1068_1_105_c-fd211d81-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Belgium · 13",
+    "country": "Belgium",
+    "location": "Ghent",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 12
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2797656"
+    ],
+    "_imageSha256": "d8c3a131d0d45d86b86d5543da80cbc9efaca4e29155011e7e5b9d2b24e79346",
+    "_atlasOrder": 200
+  },
+  "belgium-014": {
+    "id": "belgium-014",
+    "src": "assets/photos/countries/belgium/4750F9DF-1A08-4D41-878D-864AC7563C6B_1_105_c-a4f3575e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Belgium · 14",
+    "country": "Belgium",
+    "location": "Ghent",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 13
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2797656"
+    ],
+    "_imageSha256": "29c8922d3b173e3991e464b25709141d43283c570e130a5c52420d62c7e2b22a",
+    "_atlasOrder": 201
+  },
+  "belgium-015": {
+    "id": "belgium-015",
+    "src": "assets/photos/countries/belgium/8D15CCD9-6E37-46D2-A553-67A2C50075E4_1_105_c-6aae944c-1000.jpeg",
+    "width": 724,
+    "height": 1086,
+    "title": "Belgium · 15",
+    "country": "Belgium",
+    "location": "Ghent",
+    "lat": 51.05,
+    "lng": 3.71667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2797656"
+    ],
+    "_imageSha256": "ef3ed19f398e1ddac3c39c5f361c77bfb42a05870a465d1a7c811c82ccad9d42",
+    "_atlasOrder": 202
+  },
+  "belgium-016": {
+    "id": "belgium-016",
+    "src": "assets/photos/countries/belgium/C9265178-9260-4661-B05F-4BE9B6340C3D_1_105_c-b692204c-1000.jpeg",
+    "width": 725,
+    "height": 1086,
+    "title": "Belgium · 16",
+    "country": "Belgium",
+    "location": "Brussels",
+    "lat": 50.85045,
+    "lng": 4.34878,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 15
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2800866"
+    ],
+    "_imageSha256": "1fded38fb25674ee59d522eaf3843e4ac7862007a67c0926985219d71ac9d9e8",
+    "_atlasOrder": 203
+  },
+  "belgium-017": {
+    "id": "belgium-017",
+    "src": "assets/photos/countries/belgium/D7F465E4-F145-48B9-B004-4BC073112FEE_1_105_c-2a727dc5-1000.jpeg",
+    "width": 724,
+    "height": 1086,
+    "title": "Belgium · 17",
+    "country": "Belgium",
+    "location": "Antwerp",
+    "lat": 51.22047,
+    "lng": 4.40026,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2803138"
+    ],
+    "_imageSha256": "7afb73634d10d34d3ace1c4f22d6d9b33919b6ad4386c62481961d47fca9ce52",
+    "_atlasOrder": 204
+  },
+  "belgium-018": {
+    "id": "belgium-018",
+    "src": "assets/photos/countries/belgium/F25E8353-FB53-4B19-BCF5-B0AA03C982F8_1_105_c-8117b5e9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Belgium · 18",
+    "country": "Belgium",
+    "location": "Antwerp",
+    "lat": 51.22047,
+    "lng": 4.40026,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2803138"
+    ],
+    "_imageSha256": "51b8ec4c2ca2405745227bc7c00203b6f7193327c796960d00fbffe279e50e99",
+    "_atlasOrder": 205
+  },
+  "belgium-019": {
+    "id": "belgium-019",
+    "src": "assets/photos/countries/belgium/508D282D-5816-462F-8235-A806AB01C710_1_105_c-e8434507-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Belgium · 19",
+    "country": "Belgium",
+    "location": "Antwerpen-Centraal railway station",
+    "lat": 51.21722,
+    "lng": 4.42111,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/belgium/",
+    "albums": [
+      "Belgium"
+    ],
+    "albumOrder": {
+      "Belgium": 18
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Antwerpen-Centraal_railway_station"
+    ],
+    "_imageSha256": "ec38001a1290a82819e19473b1509328e0072a50dc70816d3476772148e26350",
+    "_atlasOrder": 206
+  }
+}

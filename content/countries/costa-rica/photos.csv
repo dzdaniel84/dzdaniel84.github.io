@@ -1,0 +1,16 @@
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,scientific_name
+costa-rica-001.jpg,San José,Costa Rica,,Costa Rica · 01,9.932497,-84.071475,true,costa-rica-001,Country Albums,City,gps,false,true,,300,
+costa-rica-002.jpg,Costa Rica,Costa Rica,,Costa Rica · 02,9.75,-83.75,true,costa-rica-002,Country Albums,Country,country,false,true,,301,
+costa-rica-003.jpg,Costa Rica,Costa Rica,,Costa Rica · 03,9.75,-83.75,true,costa-rica-003,Country Albums,Country,country,false,true,,302,
+costa-rica-004.jpg,Arenal,Costa Rica,,Red-eyed tree frog,10.46,-84.70,true,costa-rica-004,Country Albums,Region,manual,false,true,,303,Agalychnis callidryas
+costa-rica-005.jpg,Costa Rica,Costa Rica,,Costa Rica · 05,9.75,-83.75,true,costa-rica-005,Country Albums,Country,country,false,true,,304,
+costa-rica-006.jpg,Arenal,Costa Rica,,Crested guan,10.46,-84.70,true,costa-rica-006,Country Albums,Region,manual,false,true,,305,Penelope purpurascens
+costa-rica-007.jpg,Arenal,Costa Rica,,Geoffroy’s spider monkey,10.46,-84.70,true,costa-rica-007,Country Albums,Region,manual,false,true,,306,Ateles geoffroyi
+costa-rica-008.jpg,Arenal,Costa Rica,,Collared aracari,10.46,-84.70,true,costa-rica-008,Country Albums,Region,manual,false,true,,307,Pteroglossus torquatus
+costa-rica-009.jpg,Costa Rica,Costa Rica,,Costa Rica · 09,9.75,-83.75,true,costa-rica-009,Country Albums,Country,country,false,true,,308,
+costa-rica-010.jpg,Arenal,Costa Rica,,Black-crested coquette,10.46,-84.70,true,costa-rica-010,Country Albums,Region,manual,false,true,,309,Lophornis helenae
+costa-rica-011.jpg,Arenal,Costa Rica,,White-nosed coati,10.46,-84.70,true,costa-rica-011,Country Albums,Region,manual,false,true,,310,Nasua narica
+costa-rica-012.jpg,Costa Rica,Costa Rica,,Costa Rica · 12,9.75,-83.75,true,costa-rica-012,Country Albums,Country,country,false,true,,311,
+costa-rica-013.jpg,Monteverde,Costa Rica,,Great kiskadee,10.30,-84.80,true,costa-rica-013,Country Albums,Region,manual,false,true,,312,Pitangus sulphuratus
+costa-rica-014.jpg,Costa Rica,Costa Rica,,Costa Rica · 14,9.75,-83.75,true,costa-rica-014,Country Albums,Country,country,false,true,,313,
+costa-rica-015.jpg,San José,Costa Rica,,Costa Rica · 15,9.932497,-84.071475,true,costa-rica-015,Country Albums,City,gps,false,true,,314,

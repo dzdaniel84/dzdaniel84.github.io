@@ -1,0 +1,1338 @@
+{
+  "denmark-001": {
+    "id": "denmark-001",
+    "src": "assets/photos/countries/denmark/283A9470-ac6c7481-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 01",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 0
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2618425"
+    ],
+    "_imageSha256": "81516e340fea2e66bb134289228a3a59897cedae5314385dd0fb0b0a079a28ee",
+    "_atlasOrder": 315
+  },
+  "denmark-002": {
+    "id": "denmark-002",
+    "src": "assets/photos/countries/denmark/283A0532-f02bc1b7-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Denmark · 02",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 1
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2618425"
+    ],
+    "_imageSha256": "0d1b807737ddf97a979ec10886f9043c9ee872457f3fa94d48a9650735c2caad",
+    "_atlasOrder": 316
+  },
+  "denmark-003": {
+    "id": "denmark-003",
+    "src": "assets/photos/countries/denmark/283A0297-7351b40e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 03",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "232a1c1432e736f9972c943ea6a128c70b1ff04ae97040d004c52d95cb3b5e33",
+    "_atlasOrder": 317
+  },
+  "denmark-004": {
+    "id": "denmark-004",
+    "src": "assets/photos/countries/denmark/283A9757-ff1eb062-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 04",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "cb0e152a978d697896460331e28e7175a087e668a65bf66564bf8f3448ec4105",
+    "_atlasOrder": 318
+  },
+  "denmark-005": {
+    "id": "denmark-005",
+    "src": "assets/photos/countries/denmark/283A0115-9a053e32-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 05",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "331aa664595e31ed960b80464a3c17b073e2db0c1a9c88028ad1601690ed6765",
+    "_atlasOrder": 319
+  },
+  "denmark-006": {
+    "id": "denmark-006",
+    "src": "assets/photos/countries/denmark/283A0246-81e636fd-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 06",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "aa29a76887e5597af1170f585dd5f6782e8211f07ed3d00cedeb194b5cd23900",
+    "_atlasOrder": 320
+  },
+  "denmark-007": {
+    "id": "denmark-007",
+    "src": "assets/photos/countries/denmark/283A9814-HDR-475a5dc0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 07",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "08087e2326c3d853e56e5cbbf2347b5fd1f9c64021101722d9a842ea2b090c2d",
+    "_atlasOrder": 321
+  },
+  "denmark-008": {
+    "id": "denmark-008",
+    "src": "assets/photos/countries/denmark/283A0026-2a42bf7d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 08",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "208d34f40871bd30b31bbac016260764e0b8a233e104f817e71d103cd9aad8d2",
+    "_atlasOrder": 322
+  },
+  "denmark-009": {
+    "id": "denmark-009",
+    "src": "assets/photos/countries/denmark/283A9960-14289923-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 09",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "9addfd37f703fd3c5a3cf794951e36c67c6625ddc8d3a8e14f4ca83c6cd0ba4a",
+    "_atlasOrder": 323
+  },
+  "denmark-010": {
+    "id": "denmark-010",
+    "src": "assets/photos/countries/denmark/283A0101-e69f1bd0-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 10",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2618425"
+    ],
+    "_imageSha256": "b74cce526632c393eb42090ea1633ced15dd4299d147650fee73b776a484b827",
+    "_atlasOrder": 324
+  },
+  "denmark-011": {
+    "id": "denmark-011",
+    "src": "assets/photos/countries/denmark/283A0059-4007fcb1-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 11",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "f5a8a6a828c09e6a96690ebcdbc9235066bde8f9f7467cc119421d5067267117",
+    "_atlasOrder": 325
+  },
+  "denmark-012": {
+    "id": "denmark-012",
+    "src": "assets/photos/countries/denmark/283A0108-b2b07e42-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 12",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 11
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2618425"
+    ],
+    "_imageSha256": "8155b2d4b0b7dde4988c8e2512429c444d8bbd69fc91b3a3ae1b0838b2b27650",
+    "_atlasOrder": 326
+  },
+  "denmark-013": {
+    "id": "denmark-013",
+    "src": "assets/photos/countries/denmark/283A0152-d294f21e-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 13",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "63202e3e189de6133ead5c5c9423c5b5098d70cd8f198004949b8fc485ec9ed6",
+    "_atlasOrder": 327
+  },
+  "denmark-014": {
+    "id": "denmark-014",
+    "src": "assets/photos/countries/denmark/283A0159-202370ed-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 14",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "7abfaebef2d173370f7c98c7111b14d72ccf5f90c206daceab3b05579a378a5f",
+    "_atlasOrder": 328
+  },
+  "denmark-015": {
+    "id": "denmark-015",
+    "src": "assets/photos/countries/denmark/283A0486-144600d5-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 15",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "3aae297ee0e231b52fe265ed9ce430f12a768d019ac22970d90f1d18f6801477",
+    "_atlasOrder": 329
+  },
+  "denmark-016": {
+    "id": "denmark-016",
+    "src": "assets/photos/countries/denmark/283A9432-11739366-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 16",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "e9a92413b2c8cd0c2b5a3f1cb041e74fe46819f20ec4aedef40d05c0a09cca1f",
+    "_atlasOrder": 330
+  },
+  "denmark-017": {
+    "id": "denmark-017",
+    "src": "assets/photos/countries/denmark/283A0317-a47a0f06-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 17",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "ad4ae5ff36f4616ffce2d69230c61a877e25a4021027a8a6d767765ad682dc2b",
+    "_atlasOrder": 331
+  },
+  "denmark-018": {
+    "id": "denmark-018",
+    "src": "assets/photos/countries/denmark/283A0534-56cd8df5-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 18",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2618425"
+    ],
+    "_imageSha256": "84c0054fe0ffbc71becb17b08538327b0f599adf9d890833dcf672f43cd782a0",
+    "_atlasOrder": 332
+  },
+  "denmark-019": {
+    "id": "denmark-019",
+    "src": "assets/photos/countries/denmark/283A0504-f708cbe5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 19",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "73ee41a9601c948c60c035e9603d546390a3ac534b25ef7b6d76a0a95706903c",
+    "_atlasOrder": 333
+  },
+  "denmark-020": {
+    "id": "denmark-020",
+    "src": "assets/photos/countries/denmark/283A9808-206c1447-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 20",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "fde6c1f7611cecf526bb8a8300eea4f63f0f803ce7639ccf469d58173f992127",
+    "_atlasOrder": 334
+  },
+  "denmark-021": {
+    "id": "denmark-021",
+    "src": "assets/photos/countries/denmark/283A9999-8b87f96d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 21",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "d04a587c2ef7b4081affdda78ad7953bb79f33b94d9488eb075e14a442e8e212",
+    "_atlasOrder": 335
+  },
+  "denmark-022": {
+    "id": "denmark-022",
+    "src": "assets/photos/countries/denmark/283A0207-d8f53d8e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 22",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "8f8d03dbfb6a10274c4fd04b76be5bd2ed25be3d3e1a77766d47049428a8e6b3",
+    "_atlasOrder": 336
+  },
+  "denmark-023": {
+    "id": "denmark-023",
+    "src": "assets/photos/countries/denmark/283A0419-fd2660df-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 23",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "83afaff374308b03639e324cfe8611c678dd9e3edc3885456e3a58f8280ed158",
+    "_atlasOrder": 337
+  },
+  "denmark-024": {
+    "id": "denmark-024",
+    "src": "assets/photos/countries/denmark/283A9401-0f91e22c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 24",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "06e07ef39d49bc5cc09db72a9ee69a762bbf473dea2430cd9eca160c8b1455a5",
+    "_atlasOrder": 338
+  },
+  "denmark-025": {
+    "id": "denmark-025",
+    "src": "assets/photos/countries/denmark/283A9421-b8e07e5b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 25",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "f02e0472ad2190573e05ce30d8b2b10cead22484c3edb2ea0aa207c6678a2fe2",
+    "_atlasOrder": 339
+  },
+  "denmark-026": {
+    "id": "denmark-026",
+    "src": "assets/photos/countries/denmark/283A9990-210c88a6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 26",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "047edaeeb2c429af730370eeb8a54820ca8e013d9e3a62beec7cdd3f0f36cc1d",
+    "_atlasOrder": 340
+  },
+  "denmark-027": {
+    "id": "denmark-027",
+    "src": "assets/photos/countries/denmark/283A9917-53f81e46-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 27",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "1b7cf36050a1e8f842d5993498e5534d686dfb206f378cef903718a0213fa367",
+    "_atlasOrder": 341
+  },
+  "denmark-028": {
+    "id": "denmark-028",
+    "src": "assets/photos/countries/denmark/283A9448-05bf4916-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 28",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "6ad2477ed5a13717f743a75511740137a3e52c633d69cc85150957e146d172bd",
+    "_atlasOrder": 342
+  },
+  "denmark-029": {
+    "id": "denmark-029",
+    "src": "assets/photos/countries/denmark/283A0290-a14f9cb5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 29",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "631dde7c4711795531bd191da9ce1ab56945320c61b8bcd31a769ca227ed5523",
+    "_atlasOrder": 343
+  },
+  "denmark-030": {
+    "id": "denmark-030",
+    "src": "assets/photos/countries/denmark/283A0132-029c4344-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Denmark · 30",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "047f7ef8cd5f93320b9c1b00a071929aa4842befbd319ab6e54ec76b34b208a9",
+    "_atlasOrder": 344
+  },
+  "denmark-031": {
+    "id": "denmark-031",
+    "src": "assets/photos/countries/denmark/283A0335-e3c41195-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 31",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "3baf6437319ec28a4ee008105c83cc1db3abca2fb478e6291ae8ba3f1439fd48",
+    "_atlasOrder": 345
+  },
+  "denmark-032": {
+    "id": "denmark-032",
+    "src": "assets/photos/countries/denmark/283A9956-b5eddf33-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 32",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "f13bdadea018284858638a37a685d79800d892b5e9c020353ee25a5b8e578851",
+    "_atlasOrder": 346
+  },
+  "denmark-033": {
+    "id": "denmark-033",
+    "src": "assets/photos/countries/denmark/283A0535-42015785-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Denmark · 33",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "4c1bf473457eba47b2ff6964bc4f53e90d831f085751f36b9a5a49b100db7da4",
+    "_atlasOrder": 347
+  },
+  "denmark-034": {
+    "id": "denmark-034",
+    "src": "assets/photos/countries/denmark/283A0413-HDR-4f22bfb1-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 34",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "f571c991de71bdc4a2f9ef9a55255c5c22586e60acaea3858d18ea8a5fdd06ba",
+    "_atlasOrder": 348
+  },
+  "denmark-035": {
+    "id": "denmark-035",
+    "src": "assets/photos/countries/denmark/283A9394-eee7f9a1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 35",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "e5df0ab703b3f0bcc4d34550fb442c9c4219927ba092aece24f2f0079e3971f1",
+    "_atlasOrder": 349
+  },
+  "denmark-036": {
+    "id": "denmark-036",
+    "src": "assets/photos/countries/denmark/283A9341-1c507b52-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 36",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "be94903bbafdf4887ca51ee2e02a56b37ed149806d4bdb623e03e37be61f9e31",
+    "_atlasOrder": 350
+  },
+  "denmark-037": {
+    "id": "denmark-037",
+    "src": "assets/photos/countries/denmark/283A0530-5edbf672-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 37",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 36
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2618425"
+    ],
+    "_imageSha256": "670d51d649bd42540481a1c441c317c9dd89e6573cfe038679b069e413d4784e",
+    "_atlasOrder": 351
+  },
+  "denmark-038": {
+    "id": "denmark-038",
+    "src": "assets/photos/countries/denmark/283A0081-3bc07822-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Denmark · 38",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 37
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "1a59dd8b6b564acc99a6e4e3955e281fb89fc8a598c007d1a17d9a61fdf82a61",
+    "_atlasOrder": 352
+  },
+  "denmark-039": {
+    "id": "denmark-039",
+    "src": "assets/photos/countries/denmark/283A0180-c977fad1-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 39",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 38
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "f3d6c509e9693f296273bbe01c92a44e98c75e1f1aaa17afea5546a44658a709",
+    "_atlasOrder": 353
+  },
+  "denmark-040": {
+    "id": "denmark-040",
+    "src": "assets/photos/countries/denmark/283A0173-794bf502-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Denmark · 40",
+    "country": "Denmark",
+    "location": "Copenhagen",
+    "lat": 55.676475,
+    "lng": 12.582553,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/denmark/",
+    "albums": [
+      "Denmark"
+    ],
+    "albumOrder": {
+      "Denmark": 39
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 55.676475,
+      "lng": 12.582553
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6949461"
+    ],
+    "_imageSha256": "b50117d01a0b382c2ae22ef8a78d0d3ccc6e87d90861a874757cfbe0ac25dfab",
+    "_atlasOrder": 354
+  }
+}

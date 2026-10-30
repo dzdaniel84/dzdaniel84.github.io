@@ -1,0 +1,1600 @@
+{
+  "portugal-001": {
+    "id": "portugal-001",
+    "src": "assets/photos/countries/portugal/L12300742-5ce7f1e6-1000.jpeg",
+    "width": 1000,
+    "height": 1633,
+    "title": "Portugal · 01",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "877c39e71dc09706e3a694ee722386039781854f56222ca4a3e76af8b0acc2ec",
+    "_atlasOrder": 972
+  },
+  "portugal-002": {
+    "id": "portugal-002",
+    "src": "assets/photos/countries/portugal/L1210859-8b2ca4b6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 02",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "03f43f9b903a38432d1f74ccd2a97f080f4a2c97628e855711364b82fa924b39",
+    "_atlasOrder": 973
+  },
+  "portugal-003": {
+    "id": "portugal-003",
+    "src": "assets/photos/countries/portugal/L1230539-799b2645-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 03",
+    "country": "Portugal",
+    "location": "Arco da Rua Augusta",
+    "lat": 38.70847,
+    "lng": -9.13678,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Distinctive triumphal arch of Rua Augusta is visible; approximate landmark position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/11820893"
+    ],
+    "_imageSha256": "7110f09bcab191fd74b8b6b8bce809167a14303e60ac3284d1e17f6177812f8c",
+    "_atlasOrder": 974
+  },
+  "portugal-004": {
+    "id": "portugal-004",
+    "src": "assets/photos/countries/portugal/L1210803-dd0e274b-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 04",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "d5aceb2931c1fdefa0508427d9bd847ddd586873e007749d422d83c2487c4b12",
+    "_atlasOrder": 975
+  },
+  "portugal-005": {
+    "id": "portugal-005",
+    "src": "assets/photos/countries/portugal/L1210908-2fb9a5b8-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 05",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "7b0189ec9b096ebd93d51b5f421f975bf502dc77ee7957f306d0a2f262769516",
+    "_atlasOrder": 976
+  },
+  "portugal-006": {
+    "id": "portugal-006",
+    "src": "assets/photos/countries/portugal/L1230122-9f85aa6b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 06",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "b67318305b8a438c07ea34e80fadff57e71ce0d97c433a52e0e012347e2b8ee9",
+    "_atlasOrder": 977
+  },
+  "portugal-007": {
+    "id": "portugal-007",
+    "src": "assets/photos/countries/portugal/L1230229-f80bf649-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 07",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "72713c021569e9f3f81b620577acff4dc5ed3e6acfdf79fbfb783b5402f05b27",
+    "_atlasOrder": 978
+  },
+  "portugal-008": {
+    "id": "portugal-008",
+    "src": "assets/photos/countries/portugal/L1230183-bda1b5be-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 08",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "316ba8bf478f2a40742ed2212b5c9db01f5d22771618ebe9d6e5d0aa50791930",
+    "_atlasOrder": 979
+  },
+  "portugal-009": {
+    "id": "portugal-009",
+    "src": "assets/photos/countries/portugal/L1230237-9872e8ef-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 09",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "ed0e79e26d11078bbcf5df56ff059c6ff3bbbf0333003a2124a5dbeb17c6f8f4",
+    "_atlasOrder": 980
+  },
+  "portugal-010": {
+    "id": "portugal-010",
+    "src": "assets/photos/countries/portugal/L1230392-6ac56a1c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 10",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "1608c3cada64c4f4442b3decef4b42bfc8540196c33f456f099a7e449d36c3a4",
+    "_atlasOrder": 981
+  },
+  "portugal-011": {
+    "id": "portugal-011",
+    "src": "assets/photos/countries/portugal/L1230753-ddb4f66b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 11",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "e0f1110c018638942db6e3a9447e76479ea3581f95a37ead7dbb3d2fe38ff5b4",
+    "_atlasOrder": 982
+  },
+  "portugal-012": {
+    "id": "portugal-012",
+    "src": "assets/photos/countries/portugal/L1230489-2f037498-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 12",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "75b0e586b8b4c5646f397d1474ae175aeb64de4ab39e982fa36d60592a5e44f2",
+    "_atlasOrder": 983
+  },
+  "portugal-013": {
+    "id": "portugal-013",
+    "src": "assets/photos/countries/portugal/L1210832-3232ef3d-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Portugal · 13",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "faec4e8a766ed019617d43fd99b11a0e104310bcbc65a8cbbc70a9c8504b2761",
+    "_atlasOrder": 984
+  },
+  "portugal-014": {
+    "id": "portugal-014",
+    "src": "assets/photos/countries/portugal/L1210811-c0856dce-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 14",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "424505ce8022b30d2b191f198319ea6fb8855dcd038bfdbb144d3261f14e0275",
+    "_atlasOrder": 985
+  },
+  "portugal-015": {
+    "id": "portugal-015",
+    "src": "assets/photos/countries/portugal/L1210872-61402bde-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 15",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "a4d86b9195018d7d2ec74c45190fbb22839b984da94564c16e652d5b10998c29",
+    "_atlasOrder": 986
+  },
+  "portugal-016": {
+    "id": "portugal-016",
+    "src": "assets/photos/countries/portugal/L1210890-93f7a92d-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 16",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "506b2e6180f950737f3a32304aec4ac51387cda98e878bb3c3eb836f1a499447",
+    "_atlasOrder": 987
+  },
+  "portugal-017": {
+    "id": "portugal-017",
+    "src": "assets/photos/countries/portugal/L1210906-b624f47c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 17",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "df3cb13e3f96b4752df2049935338b99a416f044b25e46dd9bc4a0832bbcf32e",
+    "_atlasOrder": 988
+  },
+  "portugal-018": {
+    "id": "portugal-018",
+    "src": "assets/photos/countries/portugal/L1210924-4493768f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 18",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "a8b31ce55ac9931d417ce61d5d18aedb6235f16a39355db06bc189417579462b",
+    "_atlasOrder": 989
+  },
+  "portugal-019": {
+    "id": "portugal-019",
+    "src": "assets/photos/countries/portugal/L1210936-0ef03441-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 19",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "e3ff49a6f553b974bcf6cd8ad27ea3acfc0e43361f4d3e6a2184fada07f54e86",
+    "_atlasOrder": 990
+  },
+  "portugal-020": {
+    "id": "portugal-020",
+    "src": "assets/photos/countries/portugal/L1210992-fc47b6b2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 20",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "52be8f5db72067a2dd6f36fef24fe16fab64aee2f2ed28be5a3a4fa8af44ddf6",
+    "_atlasOrder": 991
+  },
+  "portugal-021": {
+    "id": "portugal-021",
+    "src": "assets/photos/countries/portugal/L1230008-d994ebe3-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 21",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "2e2ba8fe27bdcf7131c5ea4e9237711c41d85f40de4142329e952017b120bc75",
+    "_atlasOrder": 992
+  },
+  "portugal-022": {
+    "id": "portugal-022",
+    "src": "assets/photos/countries/portugal/L1230010-2b236910-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 22",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "57c04de45882fc0b39d936dfade3254301bcbea726fa7a8e70f12211ccbe8f6c",
+    "_atlasOrder": 993
+  },
+  "portugal-023": {
+    "id": "portugal-023",
+    "src": "assets/photos/countries/portugal/L1230056-9c52f567-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 23",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "ff27205f613ec410fc38867a4ffe77e34a159cf727163e2211be33df62a54412",
+    "_atlasOrder": 994
+  },
+  "portugal-024": {
+    "id": "portugal-024",
+    "src": "assets/photos/countries/portugal/L1230035-6ee57794-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 24",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "6c7419cd31f1aec6cc897716157caec77f1c4a40d2abfc9f8e1cd1920a9577ef",
+    "_atlasOrder": 995
+  },
+  "portugal-025": {
+    "id": "portugal-025",
+    "src": "assets/photos/countries/portugal/L1230105-9ba5e620-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 25",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "df5e86a21433d3547407b1ad40f85f5e5291f5a9c1b58fd14a4ddc734fb4d8a8",
+    "_atlasOrder": 996
+  },
+  "portugal-026": {
+    "id": "portugal-026",
+    "src": "assets/photos/countries/portugal/L1230106-691264d3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 26",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "e4318e751c61ea52ed3483044f3d6618854f75bfebe55f31909cc80d6173c14a",
+    "_atlasOrder": 997
+  },
+  "portugal-027": {
+    "id": "portugal-027",
+    "src": "assets/photos/countries/portugal/L1230149-de63f8a4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 27",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "e53b398fabba22f15165d94eb96f2fc5deb06b883dca2f66e0bf8cac69b09d16",
+    "_atlasOrder": 998
+  },
+  "portugal-028": {
+    "id": "portugal-028",
+    "src": "assets/photos/countries/portugal/L1230242-2cd47a57-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 28",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "15daf7bfa8dea0be99eb8ee3e9374f58652f7feba8737961e60075ac8b02b1a4",
+    "_atlasOrder": 999
+  },
+  "portugal-029": {
+    "id": "portugal-029",
+    "src": "assets/photos/countries/portugal/L1210878-8d113c47-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 29",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "63975a9b299595fafefdeb99a373ca99a85197cf617fc1203942bd62255e67e6",
+    "_atlasOrder": 1000
+  },
+  "portugal-030": {
+    "id": "portugal-030",
+    "src": "assets/photos/countries/portugal/L1210892-7fa6beb4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 30",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "31b2faa0b29b6644ca2dbf9a94c645604ebd5343d03b2c9abf8dfb6180270ab8",
+    "_atlasOrder": 1001
+  },
+  "portugal-031": {
+    "id": "portugal-031",
+    "src": "assets/photos/countries/portugal/L1230156-138682d5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 31",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "15c2de951f95f3b5e0acb0b482bea1a66673742f917011968adb82483519fe78",
+    "_atlasOrder": 1002
+  },
+  "portugal-032": {
+    "id": "portugal-032",
+    "src": "assets/photos/countries/portugal/L1230200-e1310026-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 32",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "cae4c5c19d915295b66e6f629b778f742fbec73dd4248fde6377064a9706f4ce",
+    "_atlasOrder": 1003
+  },
+  "portugal-033": {
+    "id": "portugal-033",
+    "src": "assets/photos/countries/portugal/L1230275-56409c51-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 33",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "1c28d9e7c02a9089fcd1460dc75349b60ef121bf6e9733672c8efa572c0b4da7",
+    "_atlasOrder": 1004
+  },
+  "portugal-034": {
+    "id": "portugal-034",
+    "src": "assets/photos/countries/portugal/L1230205-a4f71ea2-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 34",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "4df89482729a4df460fc9ee9db9340ac77341c09dea23770ecadd1db5637260e",
+    "_atlasOrder": 1005
+  },
+  "portugal-035": {
+    "id": "portugal-035",
+    "src": "assets/photos/countries/portugal/L1210760-053258b2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 35",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "3fdee70fe8a8cef85cf1a0d40727d2463b8d1104c4a1f3f5f730d94e88070f5a",
+    "_atlasOrder": 1006
+  },
+  "portugal-036": {
+    "id": "portugal-036",
+    "src": "assets/photos/countries/portugal/L1230944-f785da41-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 36",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "7653fd4ef086f4f8b2499682df7c159e6581d8ea2c26be89c5f5d65b6b908c1f",
+    "_atlasOrder": 1007
+  },
+  "portugal-037": {
+    "id": "portugal-037",
+    "src": "assets/photos/countries/portugal/L1230085-458990a4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 37",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 36
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "f87f0bcbc341e893da552674786b6630775d812f81310a06893d1215fd696227",
+    "_atlasOrder": 1008
+  },
+  "portugal-038": {
+    "id": "portugal-038",
+    "src": "assets/photos/countries/portugal/L1230335-16fb5447-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 38",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 37
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "ec16edb4bca37b6302ec3832941cb0b16b31f6bddb2e230c8d44fd04934d8085",
+    "_atlasOrder": 1009
+  },
+  "portugal-039": {
+    "id": "portugal-039",
+    "src": "assets/photos/countries/portugal/L1230781-33280916-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 39",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 38
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "f4e834acde6dd8922a93d8dc07c20e075d7ff161461b9d8fb9e93e507e19dd0c",
+    "_atlasOrder": 1010
+  },
+  "portugal-040": {
+    "id": "portugal-040",
+    "src": "assets/photos/countries/portugal/L1230938-c19f8be5-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 40",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 39
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "421f27584f732c5e2d1e69094ff3a903ef06c633e4aa45ccf54eb4c8d7e8988f",
+    "_atlasOrder": 1011
+  },
+  "portugal-041": {
+    "id": "portugal-041",
+    "src": "assets/photos/countries/portugal/L1210844-1654deb5-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 41",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 40
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "4a61d586f01acaff5c7850f0c313cc2fadddab05ad12865c9acc4bcc0d68589a",
+    "_atlasOrder": 1012
+  },
+  "portugal-042": {
+    "id": "portugal-042",
+    "src": "assets/photos/countries/portugal/L1230158-e4e35c46-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 42",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 41
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "8565b76a54ed21af32f3b93011d1cfb68cbea52457e3cf3e0c520893e3d0ea0c",
+    "_atlasOrder": 1013
+  },
+  "portugal-043": {
+    "id": "portugal-043",
+    "src": "assets/photos/countries/portugal/L1210923-67e38a81-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 43",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 42
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "cdc92e078e5b52931a83a3ce67bca192878fdc9d98a323992f4688b2e81d9ba4",
+    "_atlasOrder": 1014
+  },
+  "portugal-044": {
+    "id": "portugal-044",
+    "src": "assets/photos/countries/portugal/L1230290-4230d7d0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 44",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 43
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "70a563412d578f818353b64fa3abb7d8e2f2c33b73c2aa5da86353e32cb9c9fc",
+    "_atlasOrder": 1015
+  },
+  "portugal-045": {
+    "id": "portugal-045",
+    "src": "assets/photos/countries/portugal/L1230222-8238c634-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 45",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 44
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "5fc564d799f89d8f4b6dc37c40d1f4dcd5b67a8fb1b34173a2933d78ef955ad3",
+    "_atlasOrder": 1016
+  },
+  "portugal-046": {
+    "id": "portugal-046",
+    "src": "assets/photos/countries/portugal/L1230795-708f44c7-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Portugal · 46",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 45
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "e29f7c6b6601f9e9c054a9b9679970321db07ad62d009d7c033d04c7b29dbac4",
+    "_atlasOrder": 1017
+  },
+  "portugal-047": {
+    "id": "portugal-047",
+    "src": "assets/photos/countries/portugal/L1230268-d14a02d7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Portugal · 47",
+    "country": "Portugal",
+    "location": "Lisbon",
+    "lat": 38.712478,
+    "lng": -9.137797,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/portugal/",
+    "albums": [
+      "Portugal"
+    ],
+    "albumOrder": {
+      "Portugal": 46
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.712478,
+      "lng": -9.137797
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/11886963"
+    ],
+    "_imageSha256": "ee4ee53a48564da2006b0b6fbb6e2117a992f383065d624262d1c0a027e3d050",
+    "_atlasOrder": 1018
+  }
+}

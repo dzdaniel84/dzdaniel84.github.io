@@ -1,0 +1,255 @@
+{
+  "japan-128": {
+    "id": "japan-128",
+    "src": "assets/photos/countries/japan/L1090895-HDR-b1b863ce-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Tokyo after dark",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.6895,
+    "lng": 139.69171,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 127
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "collections": [
+      "Cities"
+    ],
+    "largeSrc": "assets/photos/editorial/home-03.jpg",
+    "_imageSha256": "fc2197ee934a514882a93e509c5e7707c9141950c56dc371bf12705f192dbe8b",
+    "_atlasOrder": 645
+  },
+  "A1044340": {
+    "id": "A1044340",
+    "src": "assets/photos/A1044340.jpg",
+    "width": 640,
+    "height": 426,
+    "title": "A street in Pacaembu",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Cities",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "8d7cdfe89e4110dcd5720235ed05a40a78e6c5a4d199a822e64f551a0065ad0c",
+    "_atlasOrder": 12
+  },
+  "A1044346": {
+    "id": "A1044346",
+    "src": "assets/photos/A1044346.jpg",
+    "width": 426,
+    "height": 640,
+    "title": "At the corner shop",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Cities",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "90e30d3ff5ecde210a70b00cc9f38420e6d3006fbdb1ed48fcfcb60262edbe4e",
+    "_atlasOrder": 13
+  },
+  "A1044369": {
+    "id": "A1044369",
+    "src": "assets/photos/A1044369.jpg",
+    "width": 426,
+    "height": 640,
+    "title": "Street life, Bela Vista",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Cities",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "2a054d8393c72833905647e125cc3739aa77cf86056313e79272c41c1508b491",
+    "_atlasOrder": 14
+  },
+  "A1044380": {
+    "id": "A1044380",
+    "src": "assets/photos/A1044380.jpg",
+    "width": 640,
+    "height": 426,
+    "title": "A city in green",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Cities",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "92650a56704dbfd2c99c8421a1feba8a9c0ad0484619663fb09577b44bef6a8f",
+    "_atlasOrder": 15
+  },
+  "A1044410": {
+    "id": "A1044410",
+    "src": "assets/photos/A1044410.jpg",
+    "width": 640,
+    "height": 426,
+    "title": "Above the avenue",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Cities",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "b383935841578b7ecaeda0394099411364023ebcd94559f084e3efd157aca285",
+    "_atlasOrder": 17
+  },
+  "A1044490": {
+    "id": "A1044490",
+    "src": "assets/photos/A1044490.jpg",
+    "width": 426,
+    "height": 640,
+    "title": "A passage through Centro",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Cities",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "49f340d36a94a359c5044e4619bdc159ee2e6c58a19c3c8a38341d5f13994cfe",
+    "_atlasOrder": 18
+  },
+  "A1044540": {
+    "id": "A1044540",
+    "src": "assets/photos/A1044540.jpg",
+    "width": 426,
+    "height": 640,
+    "title": "Looking up in Centro",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Cities",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "78e1f392418374629f7ff25e13c8778da5fc639a8c21c457407521153ced8cae",
+    "_atlasOrder": 19
+  },
+  "A1045012": {
+    "id": "A1045012",
+    "src": "assets/photos/A1045012.jpg",
+    "width": 426,
+    "height": 640,
+    "title": "Reflections at Luz",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Cities",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "7ca808fa40215b57bb0d6aba99e133e152e02a9a16f22d8cb4b9e08602787a21",
+    "_atlasOrder": 21
+  },
+  "A1045021": {
+    "id": "A1045021",
+    "src": "assets/photos/A1045021.jpg",
+    "width": 426,
+    "height": 640,
+    "title": "Santa Efigênia",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "category": "Cities",
+    "lat": -23.55,
+    "lng": -46.63,
+    "provenance": "Exported locally from Photos: Edited Photos",
+    "coordinatePrecision": "City-level",
+    "hero": false,
+    "_imageSha256": "6cbf3b7bf3397d7bda98d61dfc99e2f093e24dc4454d312066854450a8bc8d37",
+    "_atlasOrder": 22
+  },
+  "japan-135": {
+    "id": "japan-135",
+    "src": "assets/photos/countries/japan/L1090880-HDR-f6539623-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Japan · 135",
+    "country": "Japan",
+    "location": "Tokyo",
+    "lat": 35.6895,
+    "lng": 139.69171,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/japan/",
+    "albums": [
+      "Japan"
+    ],
+    "albumOrder": {
+      "Japan": 134
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1850147"
+    ],
+    "collections": [
+      "Cities"
+    ],
+    "_imageSha256": "6e1b5fbf4cb6282f14d6e1df411bd71c87c76c1017e2f6e9767e4c30c873dbe9",
+    "_atlasOrder": 652
+  },
+  "united-kingdom-037": {
+    "id": "united-kingdom-037",
+    "src": "assets/photos/countries/united-kingdom/L1110810-95dbe29e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "United Kingdom · 37",
+    "country": "United Kingdom",
+    "location": "London",
+    "lat": 51.50853,
+    "lng": -0.12574,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/united-kingdom/",
+    "albums": [
+      "United Kingdom"
+    ],
+    "albumOrder": {
+      "United Kingdom": 36
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2643743"
+    ],
+    "collections": [
+      "Cities"
+    ],
+    "_imageSha256": "f1a15eae7ff3bebd05e301c568184174f49d75c53d859cf50f149d8d03eccead",
+    "_atlasOrder": 1375
+  }
+}

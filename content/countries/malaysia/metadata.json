@@ -1,0 +1,1295 @@
+{
+  "wildlife-17": {
+    "id": "wildlife-17",
+    "src": "assets/photos/wildlife/L1340469-1c9c0ab3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Wildlife · 17",
+    "location": "Kuala Lumpur",
+    "country": "Malaysia",
+    "category": "Wildlife",
+    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
+    "cover": false,
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "2eea30d807320084b22f6ca129ff125f7afc11c742b8fb65cfed832ef7a1cf7d",
+    "_atlasOrder": 65
+  },
+  "malaysia-002": {
+    "id": "malaysia-002",
+    "src": "assets/photos/countries/malaysia/L1340389-42067369-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 02",
+    "country": "Malaysia",
+    "location": "Batu Caves",
+    "lat": 3.23774,
+    "lng": 101.6844,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Distinctive limestone cavern, temple gateway or rainbow stairway of Batu Caves is visible; approximate site pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1735165"
+    ],
+    "_imageSha256": "ac9d1efccf2bbed7ce488406be70645f2cddff295373f9e365c2db532090ff75",
+    "_atlasOrder": 693
+  },
+  "malaysia-003": {
+    "id": "malaysia-003",
+    "src": "assets/photos/countries/malaysia/L1330653-546ee234-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 03",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "f8d216a1459b32ec3389e0b51fb9a740908167e1612e77f2d0f2cbb9b33a61a5",
+    "_atlasOrder": 694
+  },
+  "malaysia-004": {
+    "id": "malaysia-004",
+    "src": "assets/photos/countries/malaysia/L1340671-b7202904-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 04",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "82dafc670fb2f261bbd7bbfe6281cf7fa7c8679246ed3cedbfa252273a12c279",
+    "_atlasOrder": 695
+  },
+  "malaysia-005": {
+    "id": "malaysia-005",
+    "src": "assets/photos/countries/malaysia/L1340581-8d9ff5f0-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 05",
+    "country": "Malaysia",
+    "location": "Thean Hou Temple",
+    "lat": 3.12167,
+    "lng": 101.68778,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Thean_Hou_Temple"
+    ],
+    "_imageSha256": "73db9368bd9a1535c0cee547c2502cd34e2bbc8775603240b1cdc0abbd91c45d",
+    "_atlasOrder": 696
+  },
+  "malaysia-006": {
+    "id": "malaysia-006",
+    "src": "assets/photos/countries/malaysia/L1340322-9562accb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 06",
+    "country": "Malaysia",
+    "location": "Batu Caves",
+    "lat": 3.23774,
+    "lng": 101.6844,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Distinctive limestone cavern, temple gateway or rainbow stairway of Batu Caves is visible; approximate site pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1735165"
+    ],
+    "_imageSha256": "0efaab968b4d920dcc66572f7bb9f00b0385f96fff746a697354405b82631382",
+    "_atlasOrder": 697
+  },
+  "malaysia-007": {
+    "id": "malaysia-007",
+    "src": "assets/photos/countries/malaysia/L1330958-14269665-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 07",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "49d90119d8a074b164ecc7381496ef7e7545552b1a5970a0c38c1319f924eb6d",
+    "_atlasOrder": 698
+  },
+  "malaysia-008": {
+    "id": "malaysia-008",
+    "src": "assets/photos/countries/malaysia/L1330977-75637e99-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 08",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "4c3c0a147f6e5a14c481f622af1cf2ff2ac0617dd5bbcbd8d6fd0bb96581d566",
+    "_atlasOrder": 699
+  },
+  "malaysia-009": {
+    "id": "malaysia-009",
+    "src": "assets/photos/countries/malaysia/L1340635-071c26d7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 09",
+    "country": "Malaysia",
+    "location": "Thean Hou Temple",
+    "lat": 3.12167,
+    "lng": 101.68778,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Thean_Hou_Temple"
+    ],
+    "_imageSha256": "7c7c81edeca4807e322997f769633fdd1892f232877a86a702e6c04fbcfe7d78",
+    "_atlasOrder": 700
+  },
+  "malaysia-010": {
+    "id": "malaysia-010",
+    "src": "assets/photos/countries/malaysia/L1340071-e6911496-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 10",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "9ed0fd626aebca31ed9c027af2c0e6ff162d05b0ded316eaa84fede5e8bd0474",
+    "_atlasOrder": 701
+  },
+  "malaysia-011": {
+    "id": "malaysia-011",
+    "src": "assets/photos/countries/malaysia/L1340248-a41a99b6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 11",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "392073b3319cea2f5a59c64b4e255d146354dbd2b0422ee97b787d1d4a6b2bb1",
+    "_atlasOrder": 702
+  },
+  "malaysia-012": {
+    "id": "malaysia-012",
+    "src": "assets/photos/countries/malaysia/L1340104-56ad1b45-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 12",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "c89c0009199b6a506f24f56fc4b830e65226bccad89257a9f0b3d40042659777",
+    "_atlasOrder": 703
+  },
+  "malaysia-013": {
+    "id": "malaysia-013",
+    "src": "assets/photos/countries/malaysia/L1340309-34a7eadb-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 13",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "4feb83468e93722d117f7fd49fc89883615162630c38632ac2b9962bc19e2600",
+    "_atlasOrder": 704
+  },
+  "malaysia-014": {
+    "id": "malaysia-014",
+    "src": "assets/photos/countries/malaysia/L1340337-67d52e38-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 14",
+    "country": "Malaysia",
+    "location": "Batu Caves",
+    "lat": 3.23774,
+    "lng": 101.6844,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Distinctive limestone cavern, temple gateway or rainbow stairway of Batu Caves is visible; approximate site pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1735165"
+    ],
+    "_imageSha256": "216c8733d6396e6827ffce1dc9846b0d8f4a42c22f3e19061e5218acce94f018",
+    "_atlasOrder": 705
+  },
+  "malaysia-015": {
+    "id": "malaysia-015",
+    "src": "assets/photos/countries/malaysia/L1340416-b0b1f19a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 15",
+    "country": "Malaysia",
+    "location": "Batu Caves",
+    "lat": 3.23774,
+    "lng": 101.6844,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Distinctive limestone cavern, temple gateway or rainbow stairway of Batu Caves is visible; approximate site pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1735165"
+    ],
+    "_imageSha256": "4b7c6aff2d808069d450a28035ec1d4de6f5c358a85b0e9832922bdb8fe6462d",
+    "_atlasOrder": 706
+  },
+  "malaysia-016": {
+    "id": "malaysia-016",
+    "src": "assets/photos/countries/malaysia/L1340483-a793f5e1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 16",
+    "country": "Malaysia",
+    "location": "Thean Hou Temple",
+    "lat": 3.12167,
+    "lng": 101.68778,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Thean_Hou_Temple"
+    ],
+    "_imageSha256": "c4bf624f996be5e1fa4cf79d43cc85005491d41739d8c7191eeee9ede75e97ad",
+    "_atlasOrder": 707
+  },
+  "malaysia-017": {
+    "id": "malaysia-017",
+    "src": "assets/photos/countries/malaysia/L1340551-7f287703-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 17",
+    "country": "Malaysia",
+    "location": "Thean Hou Temple",
+    "lat": 3.12167,
+    "lng": 101.68778,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Thean_Hou_Temple"
+    ],
+    "_imageSha256": "778e06cc3c08c50bc95522a6592ff176b390a601394f57f31358bef198d7aa2f",
+    "_atlasOrder": 708
+  },
+  "malaysia-018": {
+    "id": "malaysia-018",
+    "src": "assets/photos/countries/malaysia/L1330830-b5e3d075-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 18",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "b7c17cca0471747e5f8c98bf0054264002d5791417d94645971463739772a179",
+    "_atlasOrder": 709
+  },
+  "malaysia-019": {
+    "id": "malaysia-019",
+    "src": "assets/photos/countries/malaysia/L1340675-f5aba424-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 19",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "dd40a5e8fff618108b9be107adb412bbeacc080d88c655b551414c2a0b4b5112",
+    "_atlasOrder": 710
+  },
+  "malaysia-020": {
+    "id": "malaysia-020",
+    "src": "assets/photos/countries/malaysia/L1340514-2c5ab3e0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 20",
+    "country": "Malaysia",
+    "location": "Thean Hou Temple",
+    "lat": 3.12167,
+    "lng": 101.68778,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Thean_Hou_Temple"
+    ],
+    "_imageSha256": "3ebbc48fa47cbadc3bf4de8a0cf7598747d420b34b19c4693a10e36533d55cdf",
+    "_atlasOrder": 711
+  },
+  "malaysia-021": {
+    "id": "malaysia-021",
+    "src": "assets/photos/countries/malaysia/L1340665-deed3113-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 21",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "8209e6646e7217a4e971f031f9750582054ac185f4c5e3c3d68a6d096ace7264",
+    "_atlasOrder": 712
+  },
+  "malaysia-022": {
+    "id": "malaysia-022",
+    "src": "assets/photos/countries/malaysia/L1330521-fb3e6c42-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 22",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "708733fc9f068c6042fd8d9f4ed49de67c14ce13ad068cb4570e68c5d8e43b48",
+    "_atlasOrder": 713
+  },
+  "malaysia-023": {
+    "id": "malaysia-023",
+    "src": "assets/photos/countries/malaysia/L1330565-0989eeb1-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 23",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "074a3e90e0dac32bdbc19348e320417452f41a6a00986cfe3958f5db99fe4648",
+    "_atlasOrder": 714
+  },
+  "malaysia-024": {
+    "id": "malaysia-024",
+    "src": "assets/photos/countries/malaysia/L1330617-459877ea-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 24",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "5ca411fa6b7d62d151ba7ad048f991054e90ad7cdaeac049cc3135d1169d9b53",
+    "_atlasOrder": 715
+  },
+  "malaysia-025": {
+    "id": "malaysia-025",
+    "src": "assets/photos/countries/malaysia/L1330794-604b2abb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 25",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "0b967adf3e9a5bb12084bdc843e7097c3319059223068208f18aa59c8806b500",
+    "_atlasOrder": 716
+  },
+  "malaysia-026": {
+    "id": "malaysia-026",
+    "src": "assets/photos/countries/malaysia/L1330795-92fca848-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 26",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "8e812b87b8c1e3e68bcf12a016a7c445703f1d570739f121af3c21a43aeb5cdb",
+    "_atlasOrder": 717
+  },
+  "malaysia-027": {
+    "id": "malaysia-027",
+    "src": "assets/photos/countries/malaysia/L1330800-258d343f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 27",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "f5f1242bf4f321790ee74f2dd10a210dd74843bc435b560acc6dcb13b408bda3",
+    "_atlasOrder": 718
+  },
+  "malaysia-028": {
+    "id": "malaysia-028",
+    "src": "assets/photos/countries/malaysia/L1330843-d73ab6cc-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 28",
+    "country": "Malaysia",
+    "location": "Sri Mahamariamman Temple, Kuala Lumpur",
+    "lat": 3.14333,
+    "lng": 101.69639,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Sri_MahaMariamman_Temple%2C_Kuala_Lumpur"
+    ],
+    "_imageSha256": "6ffabb4afb03c414848e078c21defbfdd634983b77944587ef447560d70fb087",
+    "_atlasOrder": 719
+  },
+  "malaysia-029": {
+    "id": "malaysia-029",
+    "src": "assets/photos/countries/malaysia/L1330903-76fff0dc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 29",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "d4f9f10943239b3e663d713730f8a8ad231f3cad9d41659c8fd7a310cc79a3c2",
+    "_atlasOrder": 720
+  },
+  "malaysia-030": {
+    "id": "malaysia-030",
+    "src": "assets/photos/countries/malaysia/L1330914-d4a63889-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 30",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "467cc2a26e07a6bf4b041c31580c05006662bc88aaefb87e1227e026a8c6a750",
+    "_atlasOrder": 721
+  },
+  "malaysia-031": {
+    "id": "malaysia-031",
+    "src": "assets/photos/countries/malaysia/L1330912-2611ba7a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 31",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "0fde6c5890496ce9b75d47e2c5ab05c9c73b256f3448456e2a0a10d233df1cb1",
+    "_atlasOrder": 722
+  },
+  "malaysia-032": {
+    "id": "malaysia-032",
+    "src": "assets/photos/countries/malaysia/L1340045-87d4fc6a-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 32",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "cf8fcbef1c1a56834be88e4c550cc7ddcf6ce9824b1bcc96f1a63a82dd20dd35",
+    "_atlasOrder": 723
+  },
+  "malaysia-033": {
+    "id": "malaysia-033",
+    "src": "assets/photos/countries/malaysia/L1340330-c55f714a-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 33",
+    "country": "Malaysia",
+    "location": "Batu Caves",
+    "lat": 3.23774,
+    "lng": 101.6844,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Distinctive limestone cavern, temple gateway or rainbow stairway of Batu Caves is visible; approximate site pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1735165"
+    ],
+    "_imageSha256": "a7173c635decd4d6f9fe12ec5f2262bc0a850b137f91d47ac8eca400fa353b0e",
+    "_atlasOrder": 724
+  },
+  "malaysia-034": {
+    "id": "malaysia-034",
+    "src": "assets/photos/countries/malaysia/L1340325-37e8f3b9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 34",
+    "country": "Malaysia",
+    "location": "Batu Caves",
+    "lat": 3.23774,
+    "lng": 101.6844,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Distinctive limestone cavern, temple gateway or rainbow stairway of Batu Caves is visible; approximate site pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1735165"
+    ],
+    "_imageSha256": "d69b98096d48f9b072d5c692dcd0cac80fbed867cf9776628952ed258e468e1d",
+    "_atlasOrder": 725
+  },
+  "malaysia-035": {
+    "id": "malaysia-035",
+    "src": "assets/photos/countries/malaysia/L1340499-4597abf7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 35",
+    "country": "Malaysia",
+    "location": "Thean Hou Temple",
+    "lat": 3.12167,
+    "lng": 101.68778,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Thean_Hou_Temple"
+    ],
+    "_imageSha256": "69823fd5401614b3d46eeb3509319c451479e9d8bbdd5536219e62c8eccc796f",
+    "_atlasOrder": 726
+  },
+  "malaysia-036": {
+    "id": "malaysia-036",
+    "src": "assets/photos/countries/malaysia/L1330858-47545286-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 36",
+    "country": "Malaysia",
+    "location": "Batu Caves",
+    "lat": 3.23774,
+    "lng": 101.6844,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Distinctive limestone cavern, temple gateway or rainbow stairway of Batu Caves is visible; approximate site pin.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1735165"
+    ],
+    "_imageSha256": "0dd00eee8a2c35d982865f1651e3b0b0747346c5ad83027283aad3b2b3610ee9",
+    "_atlasOrder": 727
+  },
+  "malaysia-037": {
+    "id": "malaysia-037",
+    "src": "assets/photos/countries/malaysia/L1330686-ed86a25e-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Malaysia · 37",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 36
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "e36ba299f7c66fba7708c3bcb59d58ebf06a739e0ede6b337670b50b1a39954a",
+    "_atlasOrder": 728
+  },
+  "malaysia-038": {
+    "id": "malaysia-038",
+    "src": "assets/photos/countries/malaysia/L1330789-c61763a0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Malaysia · 38",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur",
+    "lat": 3.16,
+    "lng": 101.71,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/malaysia/",
+    "albums": [
+      "Malaysia"
+    ],
+    "albumOrder": {
+      "Malaysia": 37
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 3.16,
+      "lng": 101.71
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13118232"
+    ],
+    "_imageSha256": "d4f22a312203e5576f86d75432fe9fc8bbe1c80596d69ba443eaf95a4614f16c",
+    "_atlasOrder": 729
+  }
+}

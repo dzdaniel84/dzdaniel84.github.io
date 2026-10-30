@@ -1,0 +1,887 @@
+{
+  "spain-001": {
+    "id": "spain-001",
+    "src": "assets/photos/countries/spain/L1200768-9fab68b7-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Spain · 01",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "fbb689fc5d53423eb697d4fc30a7f287a896e59b1fe00f8df1243280a04edebb",
+    "_atlasOrder": 1123
+  },
+  "spain-002": {
+    "id": "spain-002",
+    "src": "assets/photos/countries/spain/L1200964-ccd9ac54-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 02",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "6814082c920710cb050cd248e34d67f5c46bdef3a070a3d17c3dd8900e2aac89",
+    "_atlasOrder": 1124
+  },
+  "spain-003": {
+    "id": "spain-003",
+    "src": "assets/photos/countries/spain/L1200782-e90af105-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Spain · 03",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "75eb1d18a93a5d83d4644fee63c960e7818467122b8923e724730a165f732574",
+    "_atlasOrder": 1125
+  },
+  "spain-004": {
+    "id": "spain-004",
+    "src": "assets/photos/countries/spain/L1200790-1bbd73f6-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Spain · 04",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "188ce63f360a19e7cf4c9b47859ae49dd4b87621e16ed88790555a64f43af588",
+    "_atlasOrder": 1126
+  },
+  "spain-005": {
+    "id": "spain-005",
+    "src": "assets/photos/countries/spain/L1200941-acccef81-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 05",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "b899f254915d4d52c60530dd994076fa45c8b52100f587a87d7ee0341f9dbb32",
+    "_atlasOrder": 1127
+  },
+  "spain-006": {
+    "id": "spain-006",
+    "src": "assets/photos/countries/spain/L1210598-3db8ab78-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 06",
+    "country": "Spain",
+    "location": "Palau Güell",
+    "lat": 41.37882,
+    "lng": 2.17439,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.wikidata.org/wiki/Q597051"
+    ],
+    "_imageSha256": "1c8086a4a431c48b6a176dab82850ddf1cb593dae8690e0d6352258d6afa5748",
+    "_atlasOrder": 1128
+  },
+  "spain-007": {
+    "id": "spain-007",
+    "src": "assets/photos/countries/spain/L1200544-cf0f298b-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 07",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "05c61098082df0a4e068e3bd1c398a950e81c329b9ad270bbe1ba98f1b972912",
+    "_atlasOrder": 1129
+  },
+  "spain-008": {
+    "id": "spain-008",
+    "src": "assets/photos/countries/spain/L1200804-7f332658-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Spain · 08",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "42704d805c7dab8f0c6b7e06d8e347395d119fc1bd960b902a80ea71546d7772",
+    "_atlasOrder": 1130
+  },
+  "spain-009": {
+    "id": "spain-009",
+    "src": "assets/photos/countries/spain/L1200700-8d84a4ab-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Spain · 09",
+    "country": "Spain",
+    "location": "Casa Batlló",
+    "lat": 41.39158,
+    "lng": 2.16492,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+    ],
+    "_imageSha256": "dd2b4eb63ad4f2723481a2f9039de77e0290d67fdcf888a91c6d7d2aa868d1db",
+    "_atlasOrder": 1131
+  },
+  "spain-010": {
+    "id": "spain-010",
+    "src": "assets/photos/countries/spain/L1200642-2c41e2bb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 10",
+    "country": "Spain",
+    "location": "Casa Batlló",
+    "lat": 41.39158,
+    "lng": 2.16492,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+    ],
+    "_imageSha256": "b5211a6e87480a39ea1542c35d802b650c72d07227b5cb2ca8219a35bf727d72",
+    "_atlasOrder": 1132
+  },
+  "spain-011": {
+    "id": "spain-011",
+    "src": "assets/photos/countries/spain/L1200810-def66048-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 11",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "9a51c037a296efb95e114bdff78e3c871bb3c7bd48092cb4e6cb934001bff263",
+    "_atlasOrder": 1133
+  },
+  "spain-012": {
+    "id": "spain-012",
+    "src": "assets/photos/countries/spain/L1200823-c22afc61-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 12",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "65c66af98e12381aa98a686291fa96ebdd3683ed503238dea581c880a77d7fcd",
+    "_atlasOrder": 1134
+  },
+  "spain-013": {
+    "id": "spain-013",
+    "src": "assets/photos/countries/spain/L1200814-309d7e92-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 13",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "96708402d50657d86a5da1d83812c3866be9804fa8d097eb2479b243ed8720cf",
+    "_atlasOrder": 1135
+  },
+  "spain-014": {
+    "id": "spain-014",
+    "src": "assets/photos/countries/spain/L1200905-91583882-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 14",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "1f749c8052a558a17b4cd49c348fb475fed1868bef8dae9c335db6adc1180351",
+    "_atlasOrder": 1136
+  },
+  "spain-015": {
+    "id": "spain-015",
+    "src": "assets/photos/countries/spain/L1210077-63efba71-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Spain · 15",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "16a93859c236ba9522293a68beebccc6e8b9bb7f2ee46946ad63a25b50200203",
+    "_atlasOrder": 1137
+  },
+  "spain-016": {
+    "id": "spain-016",
+    "src": "assets/photos/countries/spain/L1200931-f1212624-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 16",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "3c22c854692d97bb94dad2ca31268d8d4d3e3076cc7952419024a81beb14432d",
+    "_atlasOrder": 1138
+  },
+  "spain-017": {
+    "id": "spain-017",
+    "src": "assets/photos/countries/spain/L1210033-0396a4d7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 17",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "9e3218a84272a1795537961b70cdba79aba9e3608c45f9593c7fd57cad22ee7b",
+    "_atlasOrder": 1139
+  },
+  "spain-018": {
+    "id": "spain-018",
+    "src": "assets/photos/countries/spain/L1210257-57c21cab-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Spain · 18",
+    "country": "Spain",
+    "location": "Casa Batlló",
+    "lat": 41.39158,
+    "lng": 2.16492,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+    ],
+    "_imageSha256": "05bbc1dfa749e23c5c4657840a05dd74373995576d514fc49e60f08f39a59707",
+    "_atlasOrder": 1140
+  },
+  "spain-019": {
+    "id": "spain-019",
+    "src": "assets/photos/countries/spain/L1210340-f6075abb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 19",
+    "country": "Spain",
+    "location": "Casa Milà",
+    "lat": 41.39528,
+    "lng": 2.16167,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/La_Pedrera%2C_Barcelona"
+    ],
+    "_imageSha256": "61384f17114994aaab912aac2d1d6ed2b1f1531b1eaa5f9b81af6271cd026350",
+    "_atlasOrder": 1141
+  },
+  "spain-020": {
+    "id": "spain-020",
+    "src": "assets/photos/countries/spain/L1200610-04b0d848-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 20",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "816f95f076219fa1c05907c217d1e915e9af3ac3c63ba324656732c997aa8ccd",
+    "_atlasOrder": 1142
+  },
+  "spain-021": {
+    "id": "spain-021",
+    "src": "assets/photos/countries/spain/L1200710-b48cd79b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 21",
+    "country": "Spain",
+    "location": "Casa Batlló",
+    "lat": 41.39158,
+    "lng": 2.16492,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+    ],
+    "_imageSha256": "eb41a7daab9d804ffa388bb73b0d35f97072aa1523dffbac15f0d32808e13ce0",
+    "_atlasOrder": 1143
+  },
+  "spain-022": {
+    "id": "spain-022",
+    "src": "assets/photos/countries/spain/L1200687-463b5568-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 22",
+    "country": "Spain",
+    "location": "Casa Batlló",
+    "lat": 41.39158,
+    "lng": 2.16492,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+    ],
+    "_imageSha256": "3992795e40f9bf185ed5778cf700e232b4b6809d92e750aae28206df74be0616",
+    "_atlasOrder": 1144
+  },
+  "spain-023": {
+    "id": "spain-023",
+    "src": "assets/photos/countries/spain/L1210272-e7fe1378-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Spain · 23",
+    "country": "Spain",
+    "location": "Casa Milà",
+    "lat": 41.39528,
+    "lng": 2.16167,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/La_Pedrera%2C_Barcelona"
+    ],
+    "_imageSha256": "42d65b39f3d35bd7019016e527f0625cff15b11bd4542bba721431fb43a3aeef",
+    "_atlasOrder": 1145
+  },
+  "world-landmarks-03": {
+    "id": "world-landmarks-03",
+    "src": "assets/photos/world-landmarks/L1200604-c616d042-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Sagrada Família",
+    "location": "Sagrada Família",
+    "country": "Spain",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 41.40369,
+    "lng": 2.17433,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+    ],
+    "_imageSha256": "dac185584e37a6c3084bd0b4c7d7580444aab8c35cf45c7714bf21bd6b70a428",
+    "_atlasOrder": 104
+  },
+  "spain-025": {
+    "id": "spain-025",
+    "src": "assets/photos/countries/spain/L1200936-ec5bd508-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Spain · 25",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "7fd7fd62b30f2db4f930aea6e5198c072e6b59b9e681cfa8f45202ce10d20a74",
+    "_atlasOrder": 1146
+  },
+  "spain-026": {
+    "id": "spain-026",
+    "src": "assets/photos/countries/spain/L1200709-1eec57fb-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Spain · 26",
+    "country": "Spain",
+    "location": "Barcelona",
+    "lat": 41.38268,
+    "lng": 2.177025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/spain/",
+    "albums": [
+      "Spain"
+    ],
+    "albumOrder": {
+      "Spain": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 41.38268,
+      "lng": 2.177025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6544577"
+    ],
+    "_imageSha256": "71901a3257ebcf6200da371c94751de195e3d5faacf2df4f5034434a11f7e072",
+    "_atlasOrder": 1147
+  }
+}

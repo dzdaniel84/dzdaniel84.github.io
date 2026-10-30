@@ -1,0 +1,2416 @@
+{
+  "turkey-001": {
+    "id": "turkey-001",
+    "src": "assets/photos/countries/turkey/L1080139-536327f4-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 01",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "ed0677936c486a66b0c807c125e6103b531b7ec40da35c5fdd98d9d57725ce1c",
+    "_atlasOrder": 1269
+  },
+  "turkey-002": {
+    "id": "turkey-002",
+    "src": "assets/photos/countries/turkey/L1060814-d45aa312-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 02",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "5828327572ec34872fabaf84a3586bab225b682bdf668a42d1469e53c75f0db8",
+    "_atlasOrder": 1270
+  },
+  "turkey-003": {
+    "id": "turkey-003",
+    "src": "assets/photos/countries/turkey/L1060864-f189fe43-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 03",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "4b26beaad6883c6ebf9de5ef61b299910f7dd60e9c88c89cb22efb039fa02b6b",
+    "_atlasOrder": 1271
+  },
+  "turkey-004": {
+    "id": "turkey-004",
+    "src": "assets/photos/countries/turkey/L1070139-033e7cb0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 04",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "f3a053e376d9cb7f0847473f508fa9a4aafcc8a9d1ae3c340228ebe7108043af",
+    "_atlasOrder": 1272
+  },
+  "turkey-005": {
+    "id": "turkey-005",
+    "src": "assets/photos/countries/turkey/L1060899-141c78cb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 05",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "bde7f3283cd74ad592119d7ee3f2fdba839d47684a86dba82973dad954c8e870",
+    "_atlasOrder": 1273
+  },
+  "turkey-006": {
+    "id": "turkey-006",
+    "src": "assets/photos/countries/turkey/L1070679-e6abfa38-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 06",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "7e6ce4bce016171b0586a803a5f5453505292f52417ea954064bb068b89249c9",
+    "_atlasOrder": 1274
+  },
+  "turkey-007": {
+    "id": "turkey-007",
+    "src": "assets/photos/countries/turkey/L1070519-bc612c11-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 07",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "960c8d4af8b2d6fb31e2cc37080f4d6e54a4c02a81d113057fa20b93904bd860",
+    "_atlasOrder": 1275
+  },
+  "turkey-008": {
+    "id": "turkey-008",
+    "src": "assets/photos/countries/turkey/L1070751-0c5d23c2-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 08",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "96b4bbb4fa7717a54aeb97272f3deb6faca9e227d43b6075efab8dac25277ede",
+    "_atlasOrder": 1276
+  },
+  "turkey-009": {
+    "id": "turkey-009",
+    "src": "assets/photos/countries/turkey/L1070742-feeaa131-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 09",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "2a7f949ccf4cc88e5460f859bdad77dba1bb14b030d1b88ffc77658e21765089",
+    "_atlasOrder": 1277
+  },
+  "turkey-010": {
+    "id": "turkey-010",
+    "src": "assets/photos/countries/turkey/L1070876-5f2fe721-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 10",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "67ef45f881d6bf01b87daa7a53168684729f176ead6a1b170dfb4371a3718b8c",
+    "_atlasOrder": 1278
+  },
+  "turkey-011": {
+    "id": "turkey-011",
+    "src": "assets/photos/countries/turkey/L1080123-ad9865d2-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 11",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "0049d0597955dc1503bda064da94b8625bc7e24e470d5b1a83a58b2f2c890acd",
+    "_atlasOrder": 1279
+  },
+  "turkey-012": {
+    "id": "turkey-012",
+    "src": "assets/photos/countries/turkey/L1080403-884b3883-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 12",
+    "country": "Turkey",
+    "location": "Pamukkale",
+    "lat": 37.920417,
+    "lng": 29.116025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.920417,
+      "lng": 29.116025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/302903"
+    ],
+    "_imageSha256": "0a23b0a3f07ac0a606956c5ea76eaff4640d64d4c9d28cf164e0a6b04435db19",
+    "_atlasOrder": 1280
+  },
+  "turkey-013": {
+    "id": "turkey-013",
+    "src": "assets/photos/countries/turkey/L1060885-cc419fa0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 13",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "9fde5584883d38e8c393ba27fc9cafd17df88c9ad3e3d7257a09d9429c6f2d0c",
+    "_atlasOrder": 1281
+  },
+  "turkey-014": {
+    "id": "turkey-014",
+    "src": "assets/photos/countries/turkey/L1080533-49e3cdb3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 14",
+    "country": "Turkey",
+    "location": "Izmir",
+    "lat": 38.419505,
+    "lng": 27.129347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.419505,
+      "lng": 27.129347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/311046"
+    ],
+    "_imageSha256": "c78724675e1504df430e1fd11fe148ef92b23c92b09feb63c15a1fc4cf4b0c02",
+    "_atlasOrder": 1282
+  },
+  "turkey-015": {
+    "id": "turkey-015",
+    "src": "assets/photos/countries/turkey/L1060983-bb544f40-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 15",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "2e07d75b5f27ecfc4d302fdcc9fda8b51d3b7030a18b24a511fddb930b1d3502",
+    "_atlasOrder": 1283
+  },
+  "turkey-016": {
+    "id": "turkey-016",
+    "src": "assets/photos/countries/turkey/L1070091-1a910950-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 16",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "e16c73296a0f002ac19a52e2b5401c793d0e258ceb91ab818fabd4d12d49bfc8",
+    "_atlasOrder": 1284
+  },
+  "turkey-017": {
+    "id": "turkey-017",
+    "src": "assets/photos/countries/turkey/L1070199-e8268ba3-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 17",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "57b56da961acad09564a64e8b40fa5b265fd287b74dcba18e38fc9ecb2089b90",
+    "_atlasOrder": 1285
+  },
+  "turkey-018": {
+    "id": "turkey-018",
+    "src": "assets/photos/countries/turkey/L1070229-581a8470-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 18",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "243c5002337a19d1bb119e782d966d5a819d1c25b30df242008ea8934ddbcd4a",
+    "_atlasOrder": 1286
+  },
+  "turkey-019": {
+    "id": "turkey-019",
+    "src": "assets/photos/countries/turkey/L1070359-9be0565e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 19",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "34430a66246cca854a0828bcd9bb3dba7e916f72574efa1fa70dd8ca9da9164c",
+    "_atlasOrder": 1287
+  },
+  "turkey-020": {
+    "id": "turkey-020",
+    "src": "assets/photos/countries/turkey/L1070605-2bdc598d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 20",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "7032c0547f2cc50d896f4e92805530fb9c57d0a44398984dc0ab7a13801e6dd3",
+    "_atlasOrder": 1288
+  },
+  "turkey-021": {
+    "id": "turkey-021",
+    "src": "assets/photos/countries/turkey/L1070732-d96bdb7e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 21",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "d02a93f92b3abf520a20e88928cb7b330172530e92acf20e3ff01767d00b8202",
+    "_atlasOrder": 1289
+  },
+  "turkey-022": {
+    "id": "turkey-022",
+    "src": "assets/photos/countries/turkey/L1070763-78ae9d6e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 22",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "c15cabdc9ee794980d6a6aba4f6450097bde9e0dfb773bc9cc8d99c24befc780",
+    "_atlasOrder": 1290
+  },
+  "turkey-023": {
+    "id": "turkey-023",
+    "src": "assets/photos/countries/turkey/L1070796-8a191f9d-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Turkey · 23",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "441ca6f8606c7a532ed9cb636e77c6e03bbd6f5b50bd0c76d02a21b515155a52",
+    "_atlasOrder": 1291
+  },
+  "turkey-024": {
+    "id": "turkey-024",
+    "src": "assets/photos/countries/turkey/L1080017-afca42cc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 24",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "c301fbb0da7be36f2bbfdb7d80d4b8d18585cd84aa045e841bdddc3288f1d0b7",
+    "_atlasOrder": 1292
+  },
+  "turkey-025": {
+    "id": "turkey-025",
+    "src": "assets/photos/countries/turkey/L1070873-b331eb1f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 25",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "79da0db5813e3cf1a55cec6b5054aa966d2766935defe3acf77dbb36042b8c99",
+    "_atlasOrder": 1293
+  },
+  "turkey-026": {
+    "id": "turkey-026",
+    "src": "assets/photos/countries/turkey/L1080065-96e2b64e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 26",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "a1fc35d349129a858939178cce8d875f5212d1f35c02c3dd5966cee6dc76215a",
+    "_atlasOrder": 1294
+  },
+  "turkey-027": {
+    "id": "turkey-027",
+    "src": "assets/photos/countries/turkey/L1080057-d348f5b9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 27",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "a5c8fa72f314d4c39d8a96b90907f03768b0ef4b89037952a5f5bd827627555e",
+    "_atlasOrder": 1295
+  },
+  "turkey-028": {
+    "id": "turkey-028",
+    "src": "assets/photos/countries/turkey/L1080086-643969ce-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 28",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "2d49dd07d5ad6b1be9e2a2ffb1127371f5668c2bfb5bc2debb8e6fe6c202dc6d",
+    "_atlasOrder": 1296
+  },
+  "turkey-029": {
+    "id": "turkey-029",
+    "src": "assets/photos/countries/turkey/L1080093-968eeb3d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 29",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "579108eccc2bf5726a66e7570bc9b239a2cb5f722bf5bc6b2b02a36626420500",
+    "_atlasOrder": 1297
+  },
+  "turkey-030": {
+    "id": "turkey-030",
+    "src": "assets/photos/countries/turkey/L1080117-374bad2d-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 30",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "8e6c60c3ad680d12679502ef7c4b2cd74667c1325461b2b35a590151a1cdd8a4",
+    "_atlasOrder": 1298
+  },
+  "turkey-031": {
+    "id": "turkey-031",
+    "src": "assets/photos/countries/turkey/L1080170-382a94ae-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 31",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "59fc89f6af7417b4e44833f1aa053c3179d4e073bee32eb2978fee4b70c8b333",
+    "_atlasOrder": 1299
+  },
+  "turkey-032": {
+    "id": "turkey-032",
+    "src": "assets/photos/countries/turkey/L1080171-ca9d165d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 32",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "e7c530d5d78643585811e0df1a7be9e039453bb4a38da5ca2f09fd80e0966428",
+    "_atlasOrder": 1300
+  },
+  "turkey-033": {
+    "id": "turkey-033",
+    "src": "assets/photos/countries/turkey/L1080505-ef4e4b0c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 33",
+    "country": "Turkey",
+    "location": "Izmir",
+    "lat": 38.419505,
+    "lng": 27.129347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.419505,
+      "lng": 27.129347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/311046"
+    ],
+    "_imageSha256": "35391c3e15ffcd74aab8674029b44c2cfbb6531b5a597ba5b748427fffa2b0fd",
+    "_atlasOrder": 1301
+  },
+  "turkey-034": {
+    "id": "turkey-034",
+    "src": "assets/photos/countries/turkey/L1080543-1df9c9ff-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 34",
+    "country": "Turkey",
+    "location": "Izmir",
+    "lat": 38.419505,
+    "lng": 27.129347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.419505,
+      "lng": 27.129347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/311046"
+    ],
+    "_imageSha256": "963d50988a4c44fa8dd73680b04f6f8f4fcd3078936c63c59f3461ba2ac30a70",
+    "_atlasOrder": 1302
+  },
+  "turkey-035": {
+    "id": "turkey-035",
+    "src": "assets/photos/countries/turkey/L1060837-aa885588-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 35",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "0e04f015c26fef58ea5aebb6b3df149e3e5ee4e90b0da4e2746c824db65619f1",
+    "_atlasOrder": 1303
+  },
+  "turkey-036": {
+    "id": "turkey-036",
+    "src": "assets/photos/countries/turkey/L1060872-583fd77b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 36",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "7afd2cc4da7bfd0bf8c01556e52a56d8c8f4843d5c03579f40acd32b25878b80",
+    "_atlasOrder": 1304
+  },
+  "turkey-037": {
+    "id": "turkey-037",
+    "src": "assets/photos/countries/turkey/L1060910-a759c649-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Turkey · 37",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 36
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "628d2291962d5b30e5936a541b16d28452e6100faf282f8ddca2eca820ea3d70",
+    "_atlasOrder": 1305
+  },
+  "turkey-038": {
+    "id": "turkey-038",
+    "src": "assets/photos/countries/turkey/L1060943-828a9b18-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 38",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 37
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "9b33d610a32627ecad9b8f017aa2bc2d47700575d63ab374228c441762928b31",
+    "_atlasOrder": 1306
+  },
+  "turkey-039": {
+    "id": "turkey-039",
+    "src": "assets/photos/countries/turkey/L1060932-703d19eb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 39",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 38
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "40fb8a7ab7b4599cf60f6cf2c88098c8379a3bfa644c7d574d2e3042cda37bae",
+    "_atlasOrder": 1307
+  },
+  "turkey-040": {
+    "id": "turkey-040",
+    "src": "assets/photos/countries/turkey/L1060945-a7f64cbb-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Turkey · 40",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 39
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "ec124ecbf66cad8709b9cdbe4a6299c4c03150cfcb5c0b09b1c242cbf2cbfe30",
+    "_atlasOrder": 1308
+  },
+  "turkey-041": {
+    "id": "turkey-041",
+    "src": "assets/photos/countries/turkey/L1060951-5541ce48-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 41",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 40
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "6cd04d816284cc1710b92ddc97c563779cd37d37e65c1b06b33590f473424655",
+    "_atlasOrder": 1309
+  },
+  "turkey-042": {
+    "id": "turkey-042",
+    "src": "assets/photos/countries/turkey/L1060987-f4848858-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 42",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 41
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "9d4ea545601f783d0a8637d29abdf3e6d836d6276d809b15990cba3600e42874",
+    "_atlasOrder": 1310
+  },
+  "turkey-043": {
+    "id": "turkey-043",
+    "src": "assets/photos/countries/turkey/L1060995-df871b42-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 43",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 42
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "ba2960f4abb2636fae9fb2d56d28172c9f4581fce9b53bbae2cd8919906c9a62",
+    "_atlasOrder": 1311
+  },
+  "turkey-044": {
+    "id": "turkey-044",
+    "src": "assets/photos/countries/turkey/L1070041-2d3099b1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 44",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 43
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "f50b29f5bceba5147c8f6b0d20adc4124e470ef796f7d669f82c3a1949b2fb63",
+    "_atlasOrder": 1312
+  },
+  "turkey-045": {
+    "id": "turkey-045",
+    "src": "assets/photos/countries/turkey/L1070167-8cf5dfa1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 45",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 44
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "08afc4fa8c1d071ae931b1652b8b777cab97fabb3b5c12825a3ab9f47a4d0d2a",
+    "_atlasOrder": 1313
+  },
+  "turkey-046": {
+    "id": "turkey-046",
+    "src": "assets/photos/countries/turkey/L1070177-7e425d52-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 46",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 45
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "762a6106a897dd73fb1d1302925e62b2d26679d51354141899ec5288b32476d4",
+    "_atlasOrder": 1314
+  },
+  "turkey-047": {
+    "id": "turkey-047",
+    "src": "assets/photos/countries/turkey/L1070287-ce7e5281-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 47",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 46
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "53d938dace2d289551ecaa0d9f0d51187c2aba318a70fabac94a6d8c85de5b48",
+    "_atlasOrder": 1315
+  },
+  "turkey-048": {
+    "id": "turkey-048",
+    "src": "assets/photos/countries/turkey/L1070350-3cc9d072-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 48",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 47
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "4921d1c7fb7d63805b47ce976662f74676cf89477404defe6212436f8680edd5",
+    "_atlasOrder": 1316
+  },
+  "turkey-049": {
+    "id": "turkey-049",
+    "src": "assets/photos/countries/turkey/L1070640-117943ae-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 49",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 48
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "36eaa8fed788e726a3935f7eca37e5f0d0fe134c8f87edd82175ae9cef4b22c9",
+    "_atlasOrder": 1317
+  },
+  "turkey-050": {
+    "id": "turkey-050",
+    "src": "assets/photos/countries/turkey/L1070659-a608dfd9-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Turkey · 50",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 49
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "9359b874d31f9b0a2d5106fcd4510759e209e81633fc7cbb9a655500ab88ec53",
+    "_atlasOrder": 1318
+  },
+  "turkey-051": {
+    "id": "turkey-051",
+    "src": "assets/photos/countries/turkey/L1070662-54bf5d2a-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 51",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 50
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "1b51b68483ccd393e34d2490f3ad2fea4b1afe82a088c546e6ed6b28e777e26c",
+    "_atlasOrder": 1319
+  },
+  "turkey-052": {
+    "id": "turkey-052",
+    "src": "assets/photos/countries/turkey/L1070740-f57a1b3a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 52",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 51
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "381a953a12a1d9d20a25267407d0e8257644c1bf1a2ee2cc476ed9333b537ebf",
+    "_atlasOrder": 1320
+  },
+  "turkey-053": {
+    "id": "turkey-053",
+    "src": "assets/photos/countries/turkey/L1070783-07cd99c9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 53",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 52
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "1ed434aa28d628f36935e4230e0b555a3d88e97e6eee5ea43bdb5c0578978db5",
+    "_atlasOrder": 1321
+  },
+  "turkey-054": {
+    "id": "turkey-054",
+    "src": "assets/photos/countries/turkey/L1070799-b7f1961a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 54",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 53
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "c800dbbe4ae0686d5de179367953128c91718945c6c67c84303b9403ee3c48b0",
+    "_atlasOrder": 1322
+  },
+  "turkey-055": {
+    "id": "turkey-055",
+    "src": "assets/photos/countries/turkey/L1070788-38d3bb8a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 55",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 54
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "58cb472e4ae100ba4fada54aa71849f6de3fa873d49bce51241569b18e847459",
+    "_atlasOrder": 1323
+  },
+  "turkey-056": {
+    "id": "turkey-056",
+    "src": "assets/photos/countries/turkey/L1070849-ca643979-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 56",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 55
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "96971ceb9f43729f25524d797e3b916996fe63bc7e1c13c71c4301719816e0b7",
+    "_atlasOrder": 1324
+  },
+  "turkey-057": {
+    "id": "turkey-057",
+    "src": "assets/photos/countries/turkey/L1070810-7a5836aa-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 57",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 56
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "78c0042a7839025bc2221a28364c3209c7fec82cc5f3d3db8cd671b5da8783cd",
+    "_atlasOrder": 1325
+  },
+  "turkey-058": {
+    "id": "turkey-058",
+    "src": "assets/photos/countries/turkey/L1070859-88efb459-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 58",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 57
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "b04535ef9ed7bedb3771dd4fbe9c3ade8b62312132f71e80a0793c70352b02d9",
+    "_atlasOrder": 1326
+  },
+  "turkey-059": {
+    "id": "turkey-059",
+    "src": "assets/photos/countries/turkey/L1070856-292af249-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 59",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 58
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "f512f09b926b75e0e3aaaff9a4b42efb6dc3c5d1bae64055d5ec42ef52078364",
+    "_atlasOrder": 1327
+  },
+  "turkey-060": {
+    "id": "turkey-060",
+    "src": "assets/photos/countries/turkey/L1080059-db9d70ba-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 60",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 59
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "27ebf63662868bbf05434f74902ae4a145bcde859df0b4959453ad5990da6b57",
+    "_atlasOrder": 1328
+  },
+  "turkey-061": {
+    "id": "turkey-061",
+    "src": "assets/photos/countries/turkey/L1080168-436beb70-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 61",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 60
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "e9213b7d31b72556ba4a5e8904e57cbaf7a7c2a982944f15b5c326edf2a18773",
+    "_atlasOrder": 1329
+  },
+  "turkey-062": {
+    "id": "turkey-062",
+    "src": "assets/photos/countries/turkey/L1080077-b1dc6983-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 62",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 61
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "372fa1cc31240229f65666aa2c5cb10621f0f827eb1459d78f7b8419fe629639",
+    "_atlasOrder": 1330
+  },
+  "turkey-063": {
+    "id": "turkey-063",
+    "src": "assets/photos/countries/turkey/L1080179-01e06650-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 63",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 62
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "02c0471c54b3a07dc83551816716dbf4466c017b1caa9f1e93c0e7045b003768",
+    "_atlasOrder": 1331
+  },
+  "turkey-064": {
+    "id": "turkey-064",
+    "src": "assets/photos/countries/turkey/L1080206-f357e4a3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 64",
+    "country": "Turkey",
+    "location": "Antalya",
+    "lat": 36.88772,
+    "lng": 30.702742,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 63
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.88772,
+      "lng": 30.702742
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/323777"
+    ],
+    "_imageSha256": "f7a46816e732d680d96182e99219a22cf98bb9aea386e12edcd8c561db1a7cdd",
+    "_atlasOrder": 1332
+  },
+  "turkey-065": {
+    "id": "turkey-065",
+    "src": "assets/photos/countries/turkey/L1080376-5292a2b3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 65",
+    "country": "Turkey",
+    "location": "Pamukkale",
+    "lat": 37.920417,
+    "lng": 29.116025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 64
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.920417,
+      "lng": 29.116025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/302903"
+    ],
+    "_imageSha256": "b15487a0e2a26d3282237c95fcf713220b75ec7fabd7c8ee8e5376245e30db7a",
+    "_atlasOrder": 1333
+  },
+  "turkey-066": {
+    "id": "turkey-066",
+    "src": "assets/photos/countries/turkey/L1080421-a0252040-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 66",
+    "country": "Turkey",
+    "location": "Pamukkale",
+    "lat": 37.920417,
+    "lng": 29.116025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 65
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.920417,
+      "lng": 29.116025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/302903"
+    ],
+    "_imageSha256": "606c04a9ba9a5b35d0632ffa1d8905b6d48e77fad799f9fd96d27bba44656aba",
+    "_atlasOrder": 1334
+  },
+  "turkey-067": {
+    "id": "turkey-067",
+    "src": "assets/photos/countries/turkey/L1080432-b2bdf19d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 67",
+    "country": "Turkey",
+    "location": "Pamukkale",
+    "lat": 37.920417,
+    "lng": 29.116025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 66
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.920417,
+      "lng": 29.116025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/302903"
+    ],
+    "_imageSha256": "aa8188d64cd82c14f579b7a8e84d7ccbb8f29b247470d29d212468f6ed245e57",
+    "_atlasOrder": 1335
+  },
+  "turkey-068": {
+    "id": "turkey-068",
+    "src": "assets/photos/countries/turkey/L1080551-976eaccc-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 68",
+    "country": "Turkey",
+    "location": "Izmir",
+    "lat": 38.419505,
+    "lng": 27.129347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 67
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.419505,
+      "lng": 27.129347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/311046"
+    ],
+    "_imageSha256": "190d2cc7099ef3c64d3d66c7bdf4dab2ac955d4cde73782797d29ae4aafa5133",
+    "_atlasOrder": 1336
+  },
+  "turkey-069": {
+    "id": "turkey-069",
+    "src": "assets/photos/countries/turkey/L1080545-65d92e3f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 69",
+    "country": "Turkey",
+    "location": "Izmir",
+    "lat": 38.419505,
+    "lng": 27.129347,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 68
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.419505,
+      "lng": 27.129347
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/311046"
+    ],
+    "_imageSha256": "5e1fd7203d98910459e1927af3d714458a75223ce48af4a72bde5f22daaa8ae4",
+    "_atlasOrder": 1337
+  },
+  "turkey-070": {
+    "id": "turkey-070",
+    "src": "assets/photos/countries/turkey/L1080339-e07b7c2c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Turkey · 70",
+    "country": "Turkey",
+    "location": "Pamukkale",
+    "lat": 37.920417,
+    "lng": 29.116025,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 69
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.920417,
+      "lng": 29.116025
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/302903"
+    ],
+    "_imageSha256": "f135dc9b9ea82928bfe22ddee04572ce4da3fd4b03b7c926176999acafb62012",
+    "_atlasOrder": 1338
+  },
+  "turkey-071": {
+    "id": "turkey-071",
+    "src": "assets/photos/countries/turkey/L1060938-12ccfedf-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Turkey · 71",
+    "country": "Turkey",
+    "location": "Göreme, Cappadocia",
+    "lat": 38.643447,
+    "lng": 34.828403,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/turkey/",
+    "albums": [
+      "Turkey"
+    ],
+    "albumOrder": {
+      "Turkey": 70
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 38.643447,
+      "lng": 34.828403
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/313947"
+    ],
+    "_imageSha256": "b4960fbdf6dfdf102a0dac77347316500f9eac4ba49095342a413955190b0796",
+    "_atlasOrder": 1339
+  }
+}

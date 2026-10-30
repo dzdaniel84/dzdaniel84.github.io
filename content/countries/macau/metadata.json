@@ -1,0 +1,542 @@
+{
+  "macau-001": {
+    "id": "macau-001",
+    "src": "assets/photos/countries/macau/283A6789-ae2a4cee-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Macau · 01",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 0
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "b7357a0a886b969af81a20558dda7dd7df0b6171038964f106a9becd73e7ffe1",
+    "_atlasOrder": 675
+  },
+  "macau-002": {
+    "id": "macau-002",
+    "src": "assets/photos/countries/macau/283A6796-5c9dce1d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Macau · 02",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 1
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "5d825f7480f0955793aff877194a7e25686d9f567f629a642090d10bf6bb75f2",
+    "_atlasOrder": 676
+  },
+  "macau-003": {
+    "id": "macau-003",
+    "src": "assets/photos/countries/macau/283A6876-4bbfca66-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Macau · 03",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 2
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "6470f24452a93479a8f45e60d60fb5311cc025a8ad6bcbb2ae67a5d99c19e962",
+    "_atlasOrder": 677
+  },
+  "macau-004": {
+    "id": "macau-004",
+    "src": "assets/photos/countries/macau/283A6881-b9084895-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Macau · 04",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 3
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "d6e9c572bbc524f6021d68ffd728232e7f8e06390e6d41f807f16713633f06ee",
+    "_atlasOrder": 678
+  },
+  "macau-005": {
+    "id": "macau-005",
+    "src": "assets/photos/countries/macau/283A6928-18cd0e85-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Macau · 05",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 4
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "cb4e85238200172d3a3dbbcae7c80a327975b14a35798109562ae147dd3d6b80",
+    "_atlasOrder": 679
+  },
+  "macau-006": {
+    "id": "macau-006",
+    "src": "assets/photos/countries/macau/283A6935-ea7a8c76-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Macau · 06",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 5
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "7acfc69e5d6fc346a81d48b509083db4e7148dee150b7dfa6535d68e1f4e18a4",
+    "_atlasOrder": 680
+  },
+  "macau-007": {
+    "id": "macau-007",
+    "src": "assets/photos/countries/macau/283A6942-284f83c9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Macau · 07",
+    "country": "Macau",
+    "location": "Ruins of Saint Paul's",
+    "lat": 22.1975,
+    "lng": 113.54056,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 6
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Ruins_of_Saint_Paul%27s"
+    ],
+    "_imageSha256": "e2ce17bb943d2f0a6c99d782edff97599700f4358638dea8660c55025f866fbe",
+    "_atlasOrder": 681
+  },
+  "macau-008": {
+    "id": "macau-008",
+    "src": "assets/photos/countries/macau/283A6944-46185cb3-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Macau · 08",
+    "country": "Macau",
+    "location": "Ruins of Saint Paul's",
+    "lat": 22.1975,
+    "lng": 113.54056,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 7
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Ruins_of_Saint_Paul%27s"
+    ],
+    "_imageSha256": "36c66a9ed190a0ea326715bee86d21356a4f64012a0dfde68aa268a08b06b3d9",
+    "_atlasOrder": 682
+  },
+  "macau-009": {
+    "id": "macau-009",
+    "src": "assets/photos/countries/macau/283A7007-b4afde40-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Macau · 09",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 8
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "49f728d61ec27a5e0eb7f405ccfe0329808df2ab9df2b170e8094a12491bb542",
+    "_atlasOrder": 683
+  },
+  "macau-010": {
+    "id": "macau-010",
+    "src": "assets/photos/countries/macau/283A7093-156a9850-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Macau · 10",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 9
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "2d63174c89deffe819e67915f56c17127a060fd54c1fb8254d513104819fc216",
+    "_atlasOrder": 684
+  },
+  "macau-011": {
+    "id": "macau-011",
+    "src": "assets/photos/countries/macau/283A7129-e7dd1aa3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Macau · 11",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 10
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "f2fe69d972b932441fcda01e4377623e98ae4f0462a9add52e4234b9c5aa1d9c",
+    "_atlasOrder": 685
+  },
+  "macau-012": {
+    "id": "macau-012",
+    "src": "assets/photos/countries/macau/283A7140-57e11570-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Macau · 12",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 11
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "984259c12796e806152e079a0c9ef049e9ab6d9d88188623b7a36d797857ddf0",
+    "_atlasOrder": 686
+  },
+  "macau-013": {
+    "id": "macau-013",
+    "src": "assets/photos/countries/macau/283A7142-34d20b89-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Macau · 13",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 12
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "4069d0e4e0d80cc23c8e04a649190809f76a8f257e451e45b7f4aed8a9dd83db",
+    "_atlasOrder": 687
+  },
+  "macau-014": {
+    "id": "macau-014",
+    "src": "assets/photos/countries/macau/283A7067-c665897a-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Macau · 14",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 13
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "017d5710fa4531bf923b31b54057149e0eb24a94cc8f7ef67f48d484841136df",
+    "_atlasOrder": 688
+  },
+  "macau-015": {
+    "id": "macau-015",
+    "src": "assets/photos/countries/macau/283A7206-81b1b897-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Macau · 15",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "b11ca55f1e5626b7bab803d6cd7d4c556db026d1293e28050db980f0ef0ce4ba",
+    "_atlasOrder": 689
+  },
+  "macau-016": {
+    "id": "macau-016",
+    "src": "assets/photos/countries/macau/283A7032-73063a64-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Macau · 16",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 15
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "0fe380d6006f9635f89638160e5159ab515ee040e6a9c7f28a673ca024cba67b",
+    "_atlasOrder": 690
+  },
+  "macau-017": {
+    "id": "macau-017",
+    "src": "assets/photos/countries/macau/283A7112-d2c37c74-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Macau · 17",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 16
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "c14ab54d8b19ec5609a35db9ba81ce0c22138ecc7658e76711e4b9653d3d935b",
+    "_atlasOrder": 691
+  },
+  "macau-018": {
+    "id": "macau-018",
+    "src": "assets/photos/countries/macau/283A7159-2074fe87-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Macau · 18",
+    "country": "Macau",
+    "location": "Macau",
+    "lat": 22.20056,
+    "lng": 113.54611,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/macau/",
+    "albums": [
+      "Macau"
+    ],
+    "albumOrder": {
+      "Macau": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/1821274"
+    ],
+    "_imageSha256": "ce32a5f68a0b9625aa86ebed558ab42272271b122063b35dd98f1a9cdb0497a5",
+    "_atlasOrder": 692
+  }
+}

@@ -1,0 +1,1745 @@
+{
+  "greece-001": {
+    "id": "greece-001",
+    "src": "assets/photos/countries/greece/DJI_0177-fbe54044-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Greece · 01",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "9e0671a3e057f27b6fc32328d2804ed13cc0e46b0ce392ea42e7b354e0255e1c",
+    "_atlasOrder": 391
+  },
+  "greece-002": {
+    "id": "greece-002",
+    "src": "assets/photos/countries/greece/L1260521-1fe618d0-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 02",
+    "country": "Greece",
+    "location": "Greece",
+    "lat": 39.07,
+    "lng": 21.82,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 1
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "861fa3f652806549d63b5559d947f4b353a5ded6dbc176cdbce853aca39704e1",
+    "_atlasOrder": 392
+  },
+  "greece-003": {
+    "id": "greece-003",
+    "src": "assets/photos/countries/greece/L1260746-afda1703-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 03",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "3d9e044bb99e3a9e81d965f7d5840bc429749f1c2bbc038441a90af624fadced",
+    "_atlasOrder": 393
+  },
+  "greece-004": {
+    "id": "greece-004",
+    "src": "assets/photos/countries/greece/L1270122-b9029017-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 04",
+    "country": "Greece",
+    "location": "Parthenon",
+    "lat": 37.9715,
+    "lng": 23.7266,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 3
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Parthenon"
+    ],
+    "_imageSha256": "2362b9fd4597671a9d7140c7adc3036ad23111bf800d264caee817b24cffc6ee",
+    "_atlasOrder": 394
+  },
+  "greece-005": {
+    "id": "greece-005",
+    "src": "assets/photos/countries/greece/L1270367-4bb512e4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 05",
+    "country": "Greece",
+    "location": "Meteora",
+    "lat": 39.716828,
+    "lng": 21.629847,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 39.716828,
+      "lng": 21.629847
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/260780"
+    ],
+    "_imageSha256": "3738f66aa15fca598bc3aa9a7c96f8157e2f95974938ce8d674b8882c0f45419",
+    "_atlasOrder": 395
+  },
+  "greece-006": {
+    "id": "greece-006",
+    "src": "assets/photos/countries/greece/L1270432-6e664fb5-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 06",
+    "country": "Greece",
+    "location": "Meteora",
+    "lat": 39.716828,
+    "lng": 21.629847,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 39.716828,
+      "lng": 21.629847
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/260780"
+    ],
+    "_imageSha256": "ad7e31a172ea763affb007ac2df4ed0d0b1f6f4dc2fe585e7ad711a177f30f20",
+    "_atlasOrder": 396
+  },
+  "greece-007": {
+    "id": "greece-007",
+    "src": "assets/photos/countries/greece/L1270696-ba807148-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 07",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "d3e57c0cd40d22f2392aecaf5af69daa3f9f3a26572ba7255493d0ead27eb7de",
+    "_atlasOrder": 397
+  },
+  "greece-008": {
+    "id": "greece-008",
+    "src": "assets/photos/countries/greece/L1270615-4837f3bb-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 08",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "59b73d43245757e70b8d25ecdad3ede323b8a938941bfbbbb4b80f74c98c0c76",
+    "_atlasOrder": 398
+  },
+  "greece-009": {
+    "id": "greece-009",
+    "src": "assets/photos/countries/greece/L1300244-6de4aeea-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Greece · 09",
+    "country": "Greece",
+    "location": "Chania",
+    "lat": 35.513667,
+    "lng": 24.020547,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.513667,
+      "lng": 24.020547
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/260114"
+    ],
+    "_imageSha256": "09c38a29db5713e99bbaecc47b26dff9d03eda9d528be25475994e1e60dc75a6",
+    "_atlasOrder": 399
+  },
+  "greece-010": {
+    "id": "greece-010",
+    "src": "assets/photos/countries/greece/L1300574-9f532c19-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 10",
+    "country": "Greece",
+    "location": "Greece",
+    "lat": 39.07,
+    "lng": 21.82,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 9
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "7db2e71ccb2f417df61d5a86cf1ab81c70290ae234ac56f4f36abb23aba4b2d6",
+    "_atlasOrder": 400
+  },
+  "greece-011": {
+    "id": "greece-011",
+    "src": "assets/photos/countries/greece/DJI_0145-48987949-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Greece · 11",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "1aa7333b73c75ab508baedaca184e7aa03e73885725cdbe97fa643ea03fbc81a",
+    "_atlasOrder": 401
+  },
+  "greece-012": {
+    "id": "greece-012",
+    "src": "assets/photos/countries/greece/DJI_0161-ba2ffbba-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Greece · 12",
+    "country": "Greece",
+    "location": "Nafplio",
+    "lat": 37.567055,
+    "lng": 22.797103,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.567055,
+      "lng": 22.797103
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256637"
+    ],
+    "_imageSha256": "eb95ed4d2cb35ec0e62edc439b7a1d37e72436480408dd7abf96757044ccaf8a",
+    "_atlasOrder": 402
+  },
+  "greece-013": {
+    "id": "greece-013",
+    "src": "assets/photos/countries/greece/DJI_0211-4409e5f1-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Greece · 13",
+    "country": "Greece",
+    "location": "Falasarna, Crete",
+    "lat": 35.485612,
+    "lng": 23.605833,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.485612,
+      "lng": 23.605833
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/255036"
+    ],
+    "_imageSha256": "20b85b4f8579da82275361bca8cc0f66b562da069846ce7b9cb9adbf7b32fc16",
+    "_atlasOrder": 403
+  },
+  "greece-014": {
+    "id": "greece-014",
+    "src": "assets/photos/countries/greece/DJI_0163-b6be6702-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Greece · 14",
+    "country": "Greece",
+    "location": "Nafplio",
+    "lat": 37.567055,
+    "lng": 22.797103,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.567055,
+      "lng": 22.797103
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256637"
+    ],
+    "_imageSha256": "9295be5aec2685b0da563675f3f617c5f0d5bea35b57bcd50787e4c1b17a7f00",
+    "_atlasOrder": 404
+  },
+  "greece-015": {
+    "id": "greece-015",
+    "src": "assets/photos/countries/greece/L1250693-dfa42bdc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 15",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "1657ce9384cdb5303814b90a1c652ee2dc032f6bbfd901e6aed9ad93f525a81f",
+    "_atlasOrder": 405
+  },
+  "greece-016": {
+    "id": "greece-016",
+    "src": "assets/photos/countries/greece/L1250645-2d13a92f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 16",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "ff898ecc6481daf239ff471e6bccb99698db6ebb0e5403834f36d4989a85a589",
+    "_atlasOrder": 406
+  },
+  "greece-017": {
+    "id": "greece-017",
+    "src": "assets/photos/countries/greece/L1250713-8cd6ef3f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 17",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "0f910f77299ce567e6eb5a74a1dc4f9b9d98b0f67516c812492a58faa2c2804b",
+    "_atlasOrder": 407
+  },
+  "greece-018": {
+    "id": "greece-018",
+    "src": "assets/photos/countries/greece/L1250742-7e616dcc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 18",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "2644c7e3788dfea9fff2c05d5f0375e6409878dc841f2204a66b0b9a9254706c",
+    "_atlasOrder": 408
+  },
+  "greece-019": {
+    "id": "greece-019",
+    "src": "assets/photos/countries/greece/L1250842-d47d8674-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 19",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "0e30c38bd861e0466c6c812811df0f097ee31149dcb3fc0dfa74f19c7f1812c5",
+    "_atlasOrder": 409
+  },
+  "greece-020": {
+    "id": "greece-020",
+    "src": "assets/photos/countries/greece/L1250770-26ca0487-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 20",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "ea79ef85da0c603db741eb3791c079d738d44a5bc5a3ba9f33b77e45d99b3d62",
+    "_atlasOrder": 410
+  },
+  "greece-021": {
+    "id": "greece-021",
+    "src": "assets/photos/countries/greece/L1260063-96f60b54-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 21",
+    "country": "Greece",
+    "location": "Nafplio",
+    "lat": 37.567055,
+    "lng": 22.797103,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.567055,
+      "lng": 22.797103
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256637"
+    ],
+    "_imageSha256": "ceb92e19e87e4d0ae48d48273628bbede205589ec02f5c155a180a9797927da5",
+    "_atlasOrder": 411
+  },
+  "greece-022": {
+    "id": "greece-022",
+    "src": "assets/photos/countries/greece/L1260041-d9fcc69f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 22",
+    "country": "Greece",
+    "location": "Nafplio",
+    "lat": 37.567055,
+    "lng": 22.797103,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.567055,
+      "lng": 22.797103
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256637"
+    ],
+    "_imageSha256": "60d4b5451c7bcfddb7348ca573d95f7e2bced492c7cf1d2687ddc23a4a0fec5c",
+    "_atlasOrder": 412
+  },
+  "greece-023": {
+    "id": "greece-023",
+    "src": "assets/photos/countries/greece/L1260155-7839808f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 23",
+    "country": "Greece",
+    "location": "Nafplio",
+    "lat": 37.567055,
+    "lng": 22.797103,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.567055,
+      "lng": 22.797103
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256637"
+    ],
+    "_imageSha256": "0a0201334b50811e213f62fdde264d8a6d624b4283a7b7fbd936868d1ae234ae",
+    "_atlasOrder": 413
+  },
+  "greece-024": {
+    "id": "greece-024",
+    "src": "assets/photos/countries/greece/L1260097-8a8e027c-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 24",
+    "country": "Greece",
+    "location": "Nafplio",
+    "lat": 37.567055,
+    "lng": 22.797103,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.567055,
+      "lng": 22.797103
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256637"
+    ],
+    "_imageSha256": "9ab749d92f9dbb9e680beaf34b37ec790ffd80492181f1550e0741db0f9847ad",
+    "_atlasOrder": 414
+  },
+  "greece-025": {
+    "id": "greece-025",
+    "src": "assets/photos/countries/greece/L1260194-876a66e6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 25",
+    "country": "Greece",
+    "location": "Nafplio",
+    "lat": 37.567055,
+    "lng": 22.797103,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.567055,
+      "lng": 22.797103
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256637"
+    ],
+    "_imageSha256": "e8ed850a594d74b5d0cfe449d34ec14a29803dcb7047ef887172524c4543877c",
+    "_atlasOrder": 415
+  },
+  "greece-026": {
+    "id": "greece-026",
+    "src": "assets/photos/countries/greece/L1260363-a2b93bb7-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 26",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "c2cb03cc9fa1ebfb59d2f063f162f2e4fa6fb373bc5a07a8a63ba66056da9a97",
+    "_atlasOrder": 416
+  },
+  "greece-027": {
+    "id": "greece-027",
+    "src": "assets/photos/countries/greece/L1260388-500eb944-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 27",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "8a1b6610b73ce1e1b503b8d4f8493a084b649591a14eaedaa2338746efcdc889",
+    "_atlasOrder": 417
+  },
+  "greece-028": {
+    "id": "greece-028",
+    "src": "assets/photos/countries/greece/L1260501-e77f2533-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 28",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "8dfe20127352ec4cd4d488b57ff64d02ffd9e8119b66b2baaa3f0536775956d9",
+    "_atlasOrder": 418
+  },
+  "greece-029": {
+    "id": "greece-029",
+    "src": "assets/photos/countries/greece/L1260555-15c8a7c0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 29",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "31e352cdc49fca367e27884576ef1bc17783654074a1486cef6aae80ab740464",
+    "_atlasOrder": 419
+  },
+  "greece-030": {
+    "id": "greece-030",
+    "src": "assets/photos/countries/greece/L1260539-b40de1d0-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 30",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "5d190d5a3dcc30042e66405cf67e9308d9ad10c4823296e40921ef648cff0b68",
+    "_atlasOrder": 420
+  },
+  "greece-031": {
+    "id": "greece-031",
+    "src": "assets/photos/countries/greece/L1260707-c0619a5e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 31",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "c48680d10b2aa3335891378353acd4aafc4bfce6a99b93b6e7e9508972581e96",
+    "_atlasOrder": 421
+  },
+  "greece-032": {
+    "id": "greece-032",
+    "src": "assets/photos/countries/greece/L1270345-e5b2c70f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 32",
+    "country": "Greece",
+    "location": "Meteora",
+    "lat": 39.716828,
+    "lng": 21.629847,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 39.716828,
+      "lng": 21.629847
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/260780"
+    ],
+    "_imageSha256": "de0f49f292dd763976e4b7acef5f54164ed371cbced65bb5b4b23cd7cc458fd4",
+    "_atlasOrder": 422
+  },
+  "greece-033": {
+    "id": "greece-033",
+    "src": "assets/photos/countries/greece/L1260893-170545fc-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 33",
+    "country": "Greece",
+    "location": "Odeon of Herodes Atticus",
+    "lat": 37.97076,
+    "lng": 23.72444,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 32
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Odeon_of_Herodes_Atticus"
+    ],
+    "_imageSha256": "bcdc6cb4389a5983324a8acb087b62f23da1acfb94d1879c31e672f9aae8a42b",
+    "_atlasOrder": 423
+  },
+  "greece-034": {
+    "id": "greece-034",
+    "src": "assets/photos/countries/greece/L1270669-a074d98b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 34",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "efba1b124b3029c9b984bb6cd0e38a10fe9222dbe2b829f83e80a3dc6518832d",
+    "_atlasOrder": 424
+  },
+  "greece-035": {
+    "id": "greece-035",
+    "src": "assets/photos/countries/greece/L1270589-e5de9a7c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 35",
+    "country": "Greece",
+    "location": "Meteora",
+    "lat": 39.716828,
+    "lng": 21.629847,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 39.716828,
+      "lng": 21.629847
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/260780"
+    ],
+    "_imageSha256": "2cc7633353693d7a02f16af4d29be52fd8d40d8c58156ea467ad1a4f12079236",
+    "_atlasOrder": 425
+  },
+  "greece-036": {
+    "id": "greece-036",
+    "src": "assets/photos/countries/greece/L1270689-441bdc6c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 36",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "3695f2a71daab73b7c23fc29ce9c40385a82acc7ec35d86c8c8199086de20c5b",
+    "_atlasOrder": 426
+  },
+  "greece-037": {
+    "id": "greece-037",
+    "src": "assets/photos/countries/greece/L1270719-2ae1ef15-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 37",
+    "country": "Greece",
+    "location": "Athens",
+    "lat": 37.976722,
+    "lng": 23.726258,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 36
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.976722,
+      "lng": 23.726258
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/264371"
+    ],
+    "_imageSha256": "bfa08c21a6888d3a59b12f0ed209f4f6f8eb1a38545b89306c58e42afc92cc04",
+    "_atlasOrder": 427
+  },
+  "greece-038": {
+    "id": "greece-038",
+    "src": "assets/photos/countries/greece/L1280476-79932bf6-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 38",
+    "country": "Greece",
+    "location": "Oia, Santorini",
+    "lat": 36.463028,
+    "lng": 25.378287,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 37
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.463028,
+      "lng": 25.378287
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256344"
+    ],
+    "_imageSha256": "ba372a094ba450fee1fe9016edd9430f4d46c7ca3161d9b7f413ef7d34c521fb",
+    "_atlasOrder": 428
+  },
+  "greece-039": {
+    "id": "greece-039",
+    "src": "assets/photos/countries/greece/L1280518-5c4076a7-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 39",
+    "country": "Greece",
+    "location": "Oia, Santorini",
+    "lat": 36.463028,
+    "lng": 25.378287,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 38
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.463028,
+      "lng": 25.378287
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256344"
+    ],
+    "_imageSha256": "1d4a531fe99884406f42f4d2c87ebcb7f0bc288b7a0d0b1d5895d51ad7a8c87e",
+    "_atlasOrder": 429
+  },
+  "greece-040": {
+    "id": "greece-040",
+    "src": "assets/photos/countries/greece/L1280523-19866823-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 40",
+    "country": "Greece",
+    "location": "Oia, Santorini",
+    "lat": 36.463028,
+    "lng": 25.378287,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 39
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.463028,
+      "lng": 25.378287
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256344"
+    ],
+    "_imageSha256": "2f090adb0062717e32e63a79514d84ca370be387814620521a9d32f40d133497",
+    "_atlasOrder": 430
+  },
+  "greece-041": {
+    "id": "greece-041",
+    "src": "assets/photos/countries/greece/L1280560-4af4acc0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 41",
+    "country": "Greece",
+    "location": "Oia, Santorini",
+    "lat": 36.463028,
+    "lng": 25.378287,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 40
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.463028,
+      "lng": 25.378287
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256344"
+    ],
+    "_imageSha256": "74c80d4c40efa5cfb59fdefdd8a7f615e28f8a5009c7bede865c86f11c811b69",
+    "_atlasOrder": 431
+  },
+  "world-landmarks-15": {
+    "id": "world-landmarks-15",
+    "src": "assets/photos/world-landmarks/L1280626-aeeae7fc-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Oia",
+    "location": "Oia, Santorini",
+    "country": "Greece",
+    "category": "World Landmarks",
+    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
+    "cover": false,
+    "lat": 36.463028,
+    "lng": 25.378287,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 41
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.463028,
+      "lng": 25.378287
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256344"
+    ],
+    "_imageSha256": "229f2ca9e1e7c23c010a1df44f6e748e4b13ccc83cce0e27002d18bb05699a50",
+    "_atlasOrder": 116
+  },
+  "greece-043": {
+    "id": "greece-043",
+    "src": "assets/photos/countries/greece/L1290455-e3d1f2ab-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 43",
+    "country": "Greece",
+    "location": "Oia, Santorini",
+    "lat": 36.463028,
+    "lng": 25.378287,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 42
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.463028,
+      "lng": 25.378287
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256344"
+    ],
+    "_imageSha256": "b2f5777be34f6a5701fe1f5a1f58cbe8314659a1f61cc613d527b4ae126a2129",
+    "_atlasOrder": 432
+  },
+  "greece-044": {
+    "id": "greece-044",
+    "src": "assets/photos/countries/greece/L1290734-11667058-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 44",
+    "country": "Greece",
+    "location": "Emporio, Santorini",
+    "lat": 36.35543,
+    "lng": 25.446667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 43
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.35543,
+      "lng": 25.446667
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/262696"
+    ],
+    "_imageSha256": "4d2a46444761250ad371ba33bf94ed8748bff3e565b7fcac48e62b847f116a29",
+    "_atlasOrder": 433
+  },
+  "greece-045": {
+    "id": "greece-045",
+    "src": "assets/photos/countries/greece/L1290796-b0a33648-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Greece · 45",
+    "country": "Greece",
+    "location": "Emporio, Santorini",
+    "lat": 36.35543,
+    "lng": 25.446667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 44
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.35543,
+      "lng": 25.446667
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/262696"
+    ],
+    "_imageSha256": "452d7419c5e5964391ed253d8cb862715846c172368a14f23b1d94c0663292ca",
+    "_atlasOrder": 434
+  },
+  "greece-046": {
+    "id": "greece-046",
+    "src": "assets/photos/countries/greece/L1290716-4214b4bb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 46",
+    "country": "Greece",
+    "location": "Emporio, Santorini",
+    "lat": 36.35543,
+    "lng": 25.446667,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 45
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 36.35543,
+      "lng": 25.446667
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/262696"
+    ],
+    "_imageSha256": "891ea06a60a7645605336366c41528232f4a60e41da1d7dd8b0336f94d844568",
+    "_atlasOrder": 435
+  },
+  "greece-047": {
+    "id": "greece-047",
+    "src": "assets/photos/countries/greece/L1290957-009f399b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 47",
+    "country": "Greece",
+    "location": "Falasarna, Crete",
+    "lat": 35.485612,
+    "lng": 23.605833,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 46
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.485612,
+      "lng": 23.605833
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/255036"
+    ],
+    "_imageSha256": "d538fb33813f8201e4c0e74a7a2b58ffe6d966710d43c41f8779a49e3f8231eb",
+    "_atlasOrder": 436
+  },
+  "greece-048": {
+    "id": "greece-048",
+    "src": "assets/photos/countries/greece/L1300051-1647be8f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 48",
+    "country": "Greece",
+    "location": "Chania",
+    "lat": 35.513667,
+    "lng": 24.020547,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 47
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.513667,
+      "lng": 24.020547
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/260114"
+    ],
+    "_imageSha256": "d410cb1e6363c74b259de7381e205e87f5d4949c1b1bf3bba8866504d8bf87df",
+    "_atlasOrder": 437
+  },
+  "greece-049": {
+    "id": "greece-049",
+    "src": "assets/photos/countries/greece/L1300104-02117b71-1000.jpeg",
+    "width": 1000,
+    "height": 666,
+    "title": "Greece · 49",
+    "country": "Greece",
+    "location": "Chania",
+    "lat": 35.51124,
+    "lng": 24.02921,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 48
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/260114"
+    ],
+    "_imageSha256": "6562026814bb14107edea1cb510a5eed5560a75658b3e7f3740434454928dcf8",
+    "_atlasOrder": 438
+  },
+  "greece-050": {
+    "id": "greece-050",
+    "src": "assets/photos/countries/greece/L1300220-d575a4d3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 50",
+    "country": "Greece",
+    "location": "Chania",
+    "lat": 35.513667,
+    "lng": 24.020547,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 49
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.513667,
+      "lng": 24.020547
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/260114"
+    ],
+    "_imageSha256": "627bf8706557aa80b7520c89f5aaec9502b658b67374b973a3889bb728855c7a",
+    "_atlasOrder": 439
+  },
+  "greece-051": {
+    "id": "greece-051",
+    "src": "assets/photos/countries/greece/L1300302-90b3ba57-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 51",
+    "country": "Greece",
+    "location": "Chania",
+    "lat": 35.513667,
+    "lng": 24.020547,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 50
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 35.513667,
+      "lng": 24.020547
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/260114"
+    ],
+    "_imageSha256": "484391c8722f16e297ff556a7b763d0d4bf71c53d277ff012e6436b9b9d0a8e1",
+    "_atlasOrder": 440
+  },
+  "greece-052": {
+    "id": "greece-052",
+    "src": "assets/photos/countries/greece/L1250929-c3c17eb4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Greece · 52",
+    "country": "Greece",
+    "location": "Nafplio",
+    "lat": 37.567055,
+    "lng": 22.797103,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/greece/",
+    "albums": [
+      "Greece"
+    ],
+    "albumOrder": {
+      "Greece": 51
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 37.567055,
+      "lng": 22.797103
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/256637"
+    ],
+    "_imageSha256": "1ea40b8c828fa366c9f3b86ac393ff4df0d10815f9a0f2ce1424fce736afcb1b",
+    "_atlasOrder": 441
+  }
+}

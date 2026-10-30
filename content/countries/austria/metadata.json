@@ -1,0 +1,410 @@
+{
+  "austria-001": {
+    "id": "austria-001",
+    "src": "assets/photos/countries/austria/before-the-storm_43113390255_o-f37b30d9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 01",
+    "country": "Austria",
+    "location": "Salzburg",
+    "lat": 47.804453,
+    "lng": 13.043942,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 47.804453,
+      "lng": 13.043942
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2766824"
+    ],
+    "_imageSha256": "e605ef49b395114102c408ad5ea8ec4e83a3fa487f780af0192ad634d638049d",
+    "_atlasOrder": 176
+  },
+  "austria-002": {
+    "id": "austria-002",
+    "src": "assets/photos/countries/austria/afternoon-over-salzburg-austria_30151038428_o-a009f43a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 02",
+    "country": "Austria",
+    "location": "Salzburg",
+    "lat": 47.804453,
+    "lng": 13.043942,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 47.804453,
+      "lng": 13.043942
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2766824"
+    ],
+    "_imageSha256": "8fb74bf4bcbf205be9644a4f891758ca98447f24e7de927cec49bea4bdc06104",
+    "_atlasOrder": 177
+  },
+  "austria-003": {
+    "id": "austria-003",
+    "src": "assets/photos/countries/austria/IMG_14752-40db1745-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 03",
+    "country": "Austria",
+    "location": "Vienna",
+    "lat": 48.20863,
+    "lng": 16.372478,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.20863,
+      "lng": 16.372478
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2761369"
+    ],
+    "_imageSha256": "f6b418b9b41024709e7899168a673e5350062eabccdd3a1083dcccab971fedd5",
+    "_atlasOrder": 178
+  },
+  "austria-004": {
+    "id": "austria-004",
+    "src": "assets/photos/countries/austria/IMG_1453-d24819ea-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 04",
+    "country": "Austria",
+    "location": "Vienna",
+    "lat": 48.20863,
+    "lng": 16.372478,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.20863,
+      "lng": 16.372478
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2761369"
+    ],
+    "_imageSha256": "835b7b4ea0303f28d5ef5fcaeb7fdd1a88b7ecacbfa2388070d075303c872b74",
+    "_atlasOrder": 179
+  },
+  "austria-005": {
+    "id": "austria-005",
+    "src": "assets/photos/countries/austria/IMG_1402-20ff9b19-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 05",
+    "country": "Austria",
+    "location": "Vienna",
+    "lat": 48.20863,
+    "lng": 16.372478,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.20863,
+      "lng": 16.372478
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2761369"
+    ],
+    "_imageSha256": "61b6f4538a05e9b9cc8284f74e41fdffc184c161a66a537b75845c21b82c7eb6",
+    "_atlasOrder": 180
+  },
+  "austria-006": {
+    "id": "austria-006",
+    "src": "assets/photos/countries/austria/IMG_1294-052cc648-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 06",
+    "country": "Austria",
+    "location": "Vienna",
+    "lat": 48.20863,
+    "lng": 16.372478,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.20863,
+      "lng": 16.372478
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2761369"
+    ],
+    "_imageSha256": "0cb84cd1cba30b1f31fcb53702ae4df6f743f8ad967bbcff87f6a5af2fed8675",
+    "_atlasOrder": 181
+  },
+  "austria-007": {
+    "id": "austria-007",
+    "src": "assets/photos/countries/austria/IMG_1134-f79b44bb-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Austria · 07",
+    "country": "Austria",
+    "location": "Salzburg",
+    "lat": 47.804453,
+    "lng": 13.043942,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 47.804453,
+      "lng": 13.043942
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2766824"
+    ],
+    "_imageSha256": "81ce7ea290cc8eb52c69899c4f707c35784316cf5ffc1f61b32c90f0c10daf83",
+    "_atlasOrder": 182
+  },
+  "austria-008": {
+    "id": "austria-008",
+    "src": "assets/photos/countries/austria/IMG_0906-e282791a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 08",
+    "country": "Austria",
+    "location": "Salzburg",
+    "lat": 47.804453,
+    "lng": 13.043942,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 47.804453,
+      "lng": 13.043942
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2766824"
+    ],
+    "_imageSha256": "e6375effb39c998ee18bdb6c0c3f45f81368b028312f432095d6543405614135",
+    "_atlasOrder": 183
+  },
+  "austria-009": {
+    "id": "austria-009",
+    "src": "assets/photos/countries/austria/IMG_1095-43473f0a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 09",
+    "country": "Austria",
+    "location": "Salzburg",
+    "lat": 47.804453,
+    "lng": 13.043942,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 47.804453,
+      "lng": 13.043942
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2766824"
+    ],
+    "_imageSha256": "688096f3d8b9d91583ce1c2cc16551f2a28eebf1fe5cc91d60c0e41374af030e",
+    "_atlasOrder": 184
+  },
+  "austria-010": {
+    "id": "austria-010",
+    "src": "assets/photos/countries/austria/IMG_0870-52be76c9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 10",
+    "country": "Austria",
+    "location": "Salzburg",
+    "lat": 47.804453,
+    "lng": 13.043942,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 47.804453,
+      "lng": 13.043942
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2766824"
+    ],
+    "_imageSha256": "b3cace026614c71552cf35d3bcf2aa22286edef8769362b78227498f03725d95",
+    "_atlasOrder": 185
+  },
+  "austria-011": {
+    "id": "austria-011",
+    "src": "assets/photos/countries/austria/IMG_1083-1035fbe9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 11",
+    "country": "Austria",
+    "location": "Salzburg",
+    "lat": 47.804453,
+    "lng": 13.043942,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 47.804453,
+      "lng": 13.043942
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2766824"
+    ],
+    "_imageSha256": "38eb18d08a96af14fd1c7008ecfcfffb0be04521efc6523d2754a4d15ed86b8a",
+    "_atlasOrder": 186
+  },
+  "austria-012": {
+    "id": "austria-012",
+    "src": "assets/photos/countries/austria/IMG_1466-b26c95b6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Austria · 12",
+    "country": "Austria",
+    "location": "Vienna",
+    "lat": 48.20863,
+    "lng": 16.372478,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/austria/",
+    "albums": [
+      "Austria"
+    ],
+    "albumOrder": {
+      "Austria": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 48.20863,
+      "lng": 16.372478
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/2761369"
+    ],
+    "_imageSha256": "8fd61ed055aa515d1cca4228f9b4da1a7a64b1f11d7c713aebbaf340eaacbe17",
+    "_atlasOrder": 187
+  }
+}

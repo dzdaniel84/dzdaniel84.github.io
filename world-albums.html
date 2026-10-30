@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script src="theme.js?v=1"></script>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>World Map — Daniel Zhang</title>
+<meta name="description" content="Daniel Zhang, senior software engineer and photographer based out of the San Francisco Bay Area, California.">
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<link rel="stylesheet" href="fonts.css?v=4"><link rel="stylesheet" href="style.css?v=4"><link rel="stylesheet" href="editorial.css?v=30"><link rel="stylesheet" href="assets/vendor/maplibre-gl.css"><link rel="stylesheet" href="atlas.css?v=7"><script src="assets/vendor/maplibre-gl.js" defer></script><script src="assets/vendor/d3-array.min.js" defer></script><script src="assets/vendor/d3-geo.min.js" defer></script><script src="assets/vendor/d3-geo-projection.min.js" defer></script><script src="atlas-overview.js?v=2" defer></script><script src="app.js?v=36" defer></script>
+<script src="navigation.js?v=2" defer></script>
+<meta name="theme-color" content="#0b121a">
+<link rel="stylesheet" href="theme.css?v=1">
+</head>
+<body class="atlas-immersive"><a class="skip" href="#main">Skip to content</a><header class="site-header"><a class="wordmark" href="index.html">Daniel Zhang</a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-navigation" hidden>Menu <span aria-hidden="true">＋</span></button><nav id="main-navigation" aria-label="Main navigation"><a href="about.html">About</a><a href="photography.html">Photography</a><a href="world-albums.html" aria-current="page">World Albums</a></nav></header><main id="main" class="albums-page">
+<section id="atlas" class="atlas" aria-label="Photographic atlas">
+ <div id="map-view" class="map-layout">
+  <div class="atlas-heading"><h1>World Map</h1></div>
+  <div class="map-panel">
+   <button id="reset-map" class="reset-map" hidden>↖ World view</button>
+   <div id="detailed-map" aria-label="Interactive photographic atlas" hidden></div>
+   <svg id="world-map" tabindex="0" viewBox="0 0 1080 550" role="group" aria-label="Robinson world map. Select a pin, scroll to zoom, or drag to pan. Plus and minus zoom; arrow keys pan."><g id="map-land"></g><g id="map-points"></g></svg>
+   <div id="outline-controls" class="outline-controls" role="group" aria-label="Map zoom"><button id="outline-zoom-in" aria-label="Zoom in">+</button><button id="outline-zoom-out" aria-label="Zoom out">−</button></div>
+  </div>
+  <aside id="place-preview" class="place-preview" aria-label="Selected location photographs" hidden></aside>
+  <p id="atlas-message" class="sr-only" role="status">Loading photographs…</p>
+ </div>
+ <div class="atlas-toolbar"><div class="wrap"><div class="filters" role="group" aria-label="Filter photographs"><button data-category="All" aria-pressed="true">All photographs</button><button data-category="Cities" aria-pressed="false">Cities</button><button data-category="Metros" aria-pressed="false">Metros</button><button data-category="Museums" aria-pressed="false">Museums</button><button data-category="Burning Man" aria-pressed="false">Burning Man</button><button data-category="National Parks" aria-pressed="false">National Parks</button><button data-category="Wildlife" aria-pressed="false">Wildlife</button><button data-category="World Landmarks" aria-pressed="false">World Landmarks</button><button data-category="Country Albums" aria-pressed="false">Country Albums</button></div></div></div>
+<p class="atlas-source wrap">World overview: Robinson projection · Natural Earth. Locations are approximate. <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> location data · <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>.</p>
+</section>
+<section id="country-albums" class="country-directory wrap section-space"><div class="section-heading"><div><h2>Country Albums</h2></div><p>Photographs from my travels, grouped by country.</p></div><div id="country-cards" class="country-cards"></div></section>
+</main><footer class="wrap"><a class="wordmark" href="index.html">Daniel Zhang</a><span>© <span id="year">2026</span></span></footer><dialog id="lightbox" aria-labelledby="lightbox-title"><div class="lightbox-bar"><span id="lightbox-counter"></span><button id="close-lightbox" aria-label="Close photograph">Close ×</button></div><div class="lightbox-stage"><button id="prev-photo" aria-label="Previous photograph">←</button><img id="lightbox-image" alt=""><button id="next-photo" aria-label="Next photograph">→</button></div><div class="lightbox-caption"><h2 id="lightbox-title"></h2><p id="lightbox-location"></p></div></dialog></body></html>

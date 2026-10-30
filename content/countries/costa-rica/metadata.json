@@ -1,0 +1,421 @@
+{
+  "costa-rica-001": {
+    "id": "costa-rica-001",
+    "src": "assets/photos/countries/costa-rica/283A0490-2e6e31dc-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Costa Rica · 01",
+    "country": "Costa Rica",
+    "location": "San José",
+    "lat": 9.932497,
+    "lng": -84.071475,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 9.932497,
+      "lng": -84.071475
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3621849"
+    ],
+    "_imageSha256": "d848ad1519d175fda29f59a1c2760b921fae42ad58a3fe4a5167b45548ab311d",
+    "_atlasOrder": 300
+  },
+  "costa-rica-002": {
+    "id": "costa-rica-002",
+    "src": "assets/photos/countries/costa-rica/283A7177-8fab77cc-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Costa Rica · 02",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 1
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "25c148e12d52fc0b1a275c2ab956f4d8b5ad48e78fff645f3a61f55a0951d14e",
+    "_atlasOrder": 301
+  },
+  "costa-rica-003": {
+    "id": "costa-rica-003",
+    "src": "assets/photos/countries/costa-rica/283A7202-7d1cf53f-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Costa Rica · 03",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 2
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "50ea4e0d66ea328bb66d607462487ca3c5b733e192ce1e72e7166789052a8c45",
+    "_atlasOrder": 302
+  },
+  "costa-rica-004": {
+    "id": "costa-rica-004",
+    "src": "assets/photos/countries/costa-rica/283A7729-cd20faec-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Costa Rica · 04",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 3
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "42ef04cc567fc5b65ae9bb74695f2dd775fa1828b8e34b0667b51a24e258d88a",
+    "_atlasOrder": 303
+  },
+  "costa-rica-005": {
+    "id": "costa-rica-005",
+    "src": "assets/photos/countries/costa-rica/283A7978-3f97781f-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Costa Rica · 05",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 4
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "aaeae6c6ac2d8911e4e2f65ca80f535a3dd58b6f5aedda303b9efecd630eba9c",
+    "_atlasOrder": 304
+  },
+  "costa-rica-006": {
+    "id": "costa-rica-006",
+    "src": "assets/photos/countries/costa-rica/283A7056-9e523e0f-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Costa Rica · 06",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 5
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "c6602340af08960e29b1e8f2523f7f149b66b7ae320ace1c04ac1fa2464acf33",
+    "_atlasOrder": 305
+  },
+  "costa-rica-007": {
+    "id": "costa-rica-007",
+    "src": "assets/photos/countries/costa-rica/283A8438-a2726dda-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Costa Rica · 07",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 6
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "86176cab16c592815180ac65df4f3a1efd1007235c6b30c759d5e84657eb029d",
+    "_atlasOrder": 306
+  },
+  "costa-rica-008": {
+    "id": "costa-rica-008",
+    "src": "assets/photos/countries/costa-rica/283A8116-124e6209-1000.jpg",
+    "width": 1000,
+    "height": 667,
+    "title": "Costa Rica · 08",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 7
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "1d88a74dc222b5ca9408b1717817666ed0967626157bb8562cc445739776e407",
+    "_atlasOrder": 307
+  },
+  "costa-rica-009": {
+    "id": "costa-rica-009",
+    "src": "assets/photos/countries/costa-rica/283A8576-e0f9e0fa-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Costa Rica · 09",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 8
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "8afc95963a66ad4e47ba2d1babfa788e06e156612f4d66838640e8751b468cc1",
+    "_atlasOrder": 308
+  },
+  "costa-rica-010": {
+    "id": "costa-rica-010",
+    "src": "assets/photos/countries/costa-rica/283A8664-f62167ee-1000.jpg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Costa Rica · 10",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 9
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "06e4125d214f9b9a5380be40d0b6037ddba43c4752d04bbe578ff1987e159168",
+    "_atlasOrder": 309
+  },
+  "costa-rica-011": {
+    "id": "costa-rica-011",
+    "src": "assets/photos/countries/costa-rica/283A8880-0496e51d-1000.jpg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Costa Rica · 11",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 10
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "22cee2d267e69279e0adf988903f1e9b85c1e423b0b784c80a825baa7e96eced",
+    "_atlasOrder": 310
+  },
+  "costa-rica-012": {
+    "id": "costa-rica-012",
+    "src": "assets/photos/countries/costa-rica/283A9286-2145b84c-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Costa Rica · 12",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 11
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "449924cea241bd1126fa654df12b133cd9d0a6ae1d3092eda895d08cf264f729",
+    "_atlasOrder": 311
+  },
+  "costa-rica-013": {
+    "id": "costa-rica-013",
+    "src": "assets/photos/countries/costa-rica/283A0222-d3f23abf-1000.jpg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Costa Rica · 13",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 12
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "6cb8ca988010fb469153ad349c6aca157782751b645be3816872b30ee046bc56",
+    "_atlasOrder": 312
+  },
+  "costa-rica-014": {
+    "id": "costa-rica-014",
+    "src": "assets/photos/countries/costa-rica/283A9584-41c8723a-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Costa Rica · 14",
+    "country": "Costa Rica",
+    "location": "Costa Rica",
+    "lat": 9.75,
+    "lng": -83.75,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 13
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "5bf863c5e9c29a33a99ebacda668ea519d08eb59eed38e12489e469401c84b47",
+    "_atlasOrder": 313
+  },
+  "costa-rica-015": {
+    "id": "costa-rica-015",
+    "src": "assets/photos/countries/costa-rica/283A0405-e00d342a-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Costa Rica · 15",
+    "country": "Costa Rica",
+    "location": "San José",
+    "lat": 9.932497,
+    "lng": -84.071475,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/costa-rica/",
+    "albums": [
+      "Costa Rica"
+    ],
+    "albumOrder": {
+      "Costa Rica": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 9.932497,
+      "lng": -84.071475
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3621849"
+    ],
+    "_imageSha256": "d39b8f4f902494afa22aa29703bfaf483bb1e6b1184910b179468addd8abe025",
+    "_atlasOrder": 314
+  }
+}

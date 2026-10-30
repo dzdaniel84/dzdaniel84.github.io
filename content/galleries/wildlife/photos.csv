@@ -1,0 +1,40 @@
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,scientific_name
+wildlife-01.jpeg,Kyoto,Japan,,Swallowtail butterfly,35.01,135.77,true,wildlife-01,Wildlife,City,manual,false,true,,49,Papilio sp.
+wildlife-02.jpg,"Bair Island, California",United States,,Anna’s hummingbird,37.5,-122.22,true,wildlife-02,Wildlife,Region,manual,false,true,,50,Calypte anna
+wildlife-03.jpg,"Kawaihae, Hawaii",United States,,Thin-shelled rock crab,20.03528,-155.82833,true,wildlife-03,Wildlife,Region,manual,false,true,,51,Grapsus tenuicrustatus
+wildlife-04.jpg,"Honokohau Beach, Hawaii",United States,,Hawaiian monk seal,19.6787,-156.022,true,wildlife-04,Wildlife,Region,manual,false,true,,52,Neomonachus schauinslandi
+wildlife-05.jpeg,"Point Reyes, California",United States,,Common raven,38.07,-122.81,true,wildlife-05,Wildlife,Region,manual,false,true,,53,Corvus corax
+wildlife-06.jpeg,"Yosemite National Park, California",United States,,Steller’s jay,37.75,-119.6,true,wildlife-06,Wildlife,Park,manual,false,true,,54,Cyanocitta stelleri
+wildlife-07.jpeg,"Point Reyes, California",United States,,Tule elk,38.07,-122.81,true,wildlife-07,Wildlife,Region,manual,false,true,,55,Cervus canadensis nannodes
+wildlife-08.jpeg,"Bondi Beach, New South Wales",Australia,,Little pied cormorant,-33.89111,151.27417,true,wildlife-08,Wildlife,Region,manual,false,true,,56,Microcarbo melanoleucos
+wildlife-09.jpg,"Carmel-by-the-Sea, California",United States,,Heermann’s gull,36.555,-121.923,true,wildlife-09,Wildlife,City,manual,false,true,,57,Larus heermanni
+wildlife-10.jpg,"Pacific Grove, California",United States,,Surfbird,36.62,-121.916,true,wildlife-10,Wildlife,City,manual,false,true,,58,Calidris virgata
+wildlife-11.jpg,"Pacific Grove, California",United States,,Harbor seal,36.62,-121.916,true,wildlife-11,Wildlife,City,manual,false,true,,59,Phoca vitulina
+wildlife-12.jpg,"Monterey, California",United States,,Heermann’s gull,36.6,-121.9,true,wildlife-12,Wildlife,Region,manual,false,true,,60,Larus heermanni
+wildlife-13.jpg,"Monterey, California",United States,,California sea lion,36.6,-121.9,true,wildlife-13,Wildlife,Region,manual,false,true,,61,Zalophus californianus
+wildlife-14.jpg,"Pinnacles National Park, California",United States,,California condor,36.49,-121.19,true,wildlife-14,Wildlife,Park,manual,false,true,,62,Gymnogyps californianus
+wildlife-15.jpeg,"Kailua-Kona, Hawaii",United States,,Gold dust day gecko,19.6642,-156.0089,true,wildlife-15,Wildlife,City,manual,false,true,,63,Phelsuma laticauda
+wildlife-16.jpeg,"Dillon Reservoir, Colorado",United States,,Golden-mantled ground squirrel,39.61,-106.06,true,wildlife-16,Wildlife,Region,manual,false,true,,64,Callospermophilus lateralis
+wildlife-17.jpeg,Kuala Lumpur,Malaysia,,Long-tailed macaque,3.16,101.71,true,wildlife-17,Wildlife,City,manual,false,true,,65,Macaca fascicularis
+wildlife-18.jpeg,San Juan,Puerto Rico,,Zenaida dove,18.4,-66.06,true,wildlife-18,Wildlife,City,manual,false,true,,66,Zenaida aurita
+wildlife-19.jpeg,Kyoto,Japan,,Grey heron,35.01,135.77,true,wildlife-19,Wildlife,City,manual,false,true,,67,Ardea cinerea
+wildlife-20.jpeg,Takayama,Japan,,Grey heron,36.143325,137.258088,true,wildlife-20,Wildlife,City,manual,false,true,,68,Ardea cinerea
+wildlife-21.jpg,Nara,Japan,,Sika deer,34.68,135.8,true,wildlife-21,Wildlife,City,manual,false,true,,69,Cervus nippon
+wildlife-22.jpeg,Uji,Japan,,Cormorant and grey heron,34.89044,135.80325,true,wildlife-22,Wildlife,City,manual,false,true,,70,Phalacrocorax sp. / Ardea cinerea
+wildlife-25.jpg,"Katoomba, New South Wales",Australia,,Sulphur-crested cockatoo,-25.27,133.78,true,wildlife-25,Wildlife,Country,manual,false,true,,73,Cacatua galerita
+wildlife-26.jpg,"Sydney, New South Wales",Australia,,Rainbow lorikeet,-33.766,150.884,true,wildlife-26,Wildlife,Park,manual,false,true,,74,Trichoglossus moluccanus
+wildlife-27.jpeg,"Katoomba, New South Wales",Australia,,Australian magpie,-33.71,150.31,true,wildlife-27,Wildlife,Region,manual,false,true,,75,Gymnorhina tibicen
+wildlife-28.jpeg,"Blue Mountains National Park, New South Wales",Australia,,Pied currawong,-33.71,150.31,true,wildlife-28,Wildlife,Region,manual,false,true,,76,Strepera graculina
+wildlife-23.jpeg,San Francisco Zoo,United States,,Wildlife · 23,37.733,-122.503,false,wildlife-23,Wildlife,Park,,false,true,,71,
+wildlife-24.jpeg,San Francisco Zoo,United States,,Wildlife · 24,37.733,-122.503,false,wildlife-24,Wildlife,Park,,false,true,,72,
+costa-rica-004.jpg,Arenal,Costa Rica,,Red-eyed tree frog,10.46,-84.70,true,costa-rica-004,Wildlife,Region,manual,false,true,,303,Agalychnis callidryas
+costa-rica-006.jpg,Arenal,Costa Rica,,Crested guan,10.46,-84.70,true,costa-rica-006,Wildlife,Region,manual,false,true,,305,Penelope purpurascens
+costa-rica-007.jpg,Arenal,Costa Rica,,Geoffroy’s spider monkey,10.46,-84.70,true,costa-rica-007,Wildlife,Region,manual,false,true,,306,Ateles geoffroyi
+costa-rica-008.jpg,Arenal,Costa Rica,,Collared aracari,10.46,-84.70,true,costa-rica-008,Wildlife,Region,manual,false,true,,307,Pteroglossus torquatus
+costa-rica-010.jpg,Arenal,Costa Rica,,Black-crested coquette,10.46,-84.70,true,costa-rica-010,Wildlife,Region,manual,false,true,,309,Lophornis helenae
+costa-rica-011.jpg,Arenal,Costa Rica,,White-nosed coati,10.46,-84.70,true,costa-rica-011,Wildlife,Region,manual,false,true,,310,Nasua narica
+costa-rica-013.jpg,Monteverde,Costa Rica,,Great kiskadee,10.30,-84.80,true,costa-rica-013,Wildlife,Region,manual,false,true,,312,Pitangus sulphuratus
+tanzania-003.jpg,Serengeti National Park,Tanzania,,Cheetah,-2.74,34.859,true,tanzania-003,Wildlife,Park,manual,false,true,,1246,Acinonyx jubatus
+tanzania-004.jpeg,Serengeti National Park,Tanzania,,Leopard,-2.74,34.859,true,tanzania-004,Wildlife,Park,manual,false,true,,1247,Panthera pardus
+tanzania-006.jpeg,Serengeti National Park,Tanzania,,Leopard and African bush elephant,-2.74,34.859,true,tanzania-006,Wildlife,Park,manual,false,true,,1249,Panthera pardus / Loxodonta africana
+tanzania-023.jpeg,Mount Kilimanjaro,Tanzania,,White-necked raven,-3.07583,37.35333,true,tanzania-023,Wildlife,Region,visual,false,true,,1266,Corvus albicollis

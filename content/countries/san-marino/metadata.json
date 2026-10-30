@@ -1,0 +1,546 @@
+{
+  "san-marino-001": {
+    "id": "san-marino-001",
+    "src": "assets/photos/countries/san-marino/L1170534-e9e2f92e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 01",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "402bacbf7304d632fb84cbf767fc945e72ac2a3a1143de9ba0df1ff9a15695cc",
+    "_atlasOrder": 1036
+  },
+  "san-marino-002": {
+    "id": "san-marino-002",
+    "src": "assets/photos/countries/san-marino/L1170654-59def6fd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 02",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "2deab6a76e82d4d7db651f6c5bdd316fab826d6a883b81b962eb05dff665b4bb",
+    "_atlasOrder": 1037
+  },
+  "san-marino-003": {
+    "id": "san-marino-003",
+    "src": "assets/photos/countries/san-marino/L1170599-ab69740e-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "San Marino · 03",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "b7e01bfcc97199e1040b0ffb15dec19bb88d7de0d9620f43f9a38324aef93043",
+    "_atlasOrder": 1038
+  },
+  "san-marino-004": {
+    "id": "san-marino-004",
+    "src": "assets/photos/countries/san-marino/L1170661-0aac321e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 04",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "873003d1b4dc7edb5deadf70d6da84129166b79b07523692e417026621eb7959",
+    "_atlasOrder": 1039
+  },
+  "san-marino-005": {
+    "id": "san-marino-005",
+    "src": "assets/photos/countries/san-marino/L1170663-f81bb0ed-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "San Marino · 05",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "9530539d0606560aedc53f44a7d7bdb31b8c1b4db2bcecd269c3f799b16b0cb5",
+    "_atlasOrder": 1040
+  },
+  "san-marino-006": {
+    "id": "san-marino-006",
+    "src": "assets/photos/countries/san-marino/L1170689-ddc8edbc-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "San Marino · 06",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "bf54fb487213501072a7921c985a33820db6f7a342fd4243ef7526badc512f9c",
+    "_atlasOrder": 1041
+  },
+  "san-marino-007": {
+    "id": "san-marino-007",
+    "src": "assets/photos/countries/san-marino/L1170703-677d7ae0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 07",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "5759954129345576fff96eeb9a4731888b7773d9b1dd6a5c92d02cd4ec0649ee",
+    "_atlasOrder": 1042
+  },
+  "san-marino-008": {
+    "id": "san-marino-008",
+    "src": "assets/photos/countries/san-marino/L1170634-340fbe03-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 08",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "7871d98773c1bccbcf0e47892bff65c4c8761adc55b18fa511a8c9c412e3e805",
+    "_atlasOrder": 1043
+  },
+  "san-marino-009": {
+    "id": "san-marino-009",
+    "src": "assets/photos/countries/san-marino/L1170628-c6b83cf0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 09",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "940669eedece69996b5d1093f7cc6e4d0d1030f2273dbb3693b1bcb5fa9cdd25",
+    "_atlasOrder": 1044
+  },
+  "san-marino-010": {
+    "id": "san-marino-010",
+    "src": "assets/photos/countries/san-marino/L1170554-e36b61a1-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 10",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "4bea180dcb069b7b467e783d174452f38aa6006167f8f377254c0d88fc3d71cf",
+    "_atlasOrder": 1045
+  },
+  "san-marino-011": {
+    "id": "san-marino-011",
+    "src": "assets/photos/countries/san-marino/L1170547-11dce352-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 11",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "0c3297b72980dd0457cc5a3e3cd2ac26b2cc4f492c293042e100706b3d1ba9c4",
+    "_atlasOrder": 1046
+  },
+  "san-marino-012": {
+    "id": "san-marino-012",
+    "src": "assets/photos/countries/san-marino/L1170542-92129735-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "San Marino · 12",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "d40ae8b326097a3637ab2f66e408bdfd3c284a7a023a0ddb6ef3d18109d9d248",
+    "_atlasOrder": 1047
+  },
+  "san-marino-013": {
+    "id": "san-marino-013",
+    "src": "assets/photos/countries/san-marino/L1170576-222e98e6-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 13",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "8ed3c38d5781ef728d0fb54978788a601acf7e5ca1e3240f7edca64ca2b14ca6",
+    "_atlasOrder": 1048
+  },
+  "san-marino-014": {
+    "id": "san-marino-014",
+    "src": "assets/photos/countries/san-marino/L1170533-d0991a15-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 14",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "83b6669a78c21972f83f5214b10b3974a1e3075bf735550522ae138c7a4b3935",
+    "_atlasOrder": 1049
+  },
+  "san-marino-015": {
+    "id": "san-marino-015",
+    "src": "assets/photos/countries/san-marino/L1170529-715c5c05-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "San Marino · 15",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "49d9e9e1bd447e18f679dfe828271b8a2371c86d372adb56c9bde26e80314e5c",
+    "_atlasOrder": 1050
+  },
+  "san-marino-016": {
+    "id": "san-marino-016",
+    "src": "assets/photos/countries/san-marino/L1170521-83ebdef6-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "San Marino · 16",
+    "country": "San Marino",
+    "location": "San Marino",
+    "lat": 43.934338,
+    "lng": 12.448463,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/san-marino/",
+    "albums": [
+      "San Marino"
+    ],
+    "albumOrder": {
+      "San Marino": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.934338,
+      "lng": 12.448463
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3168070"
+    ],
+    "_imageSha256": "6341ca83ea6e44e829d0ca8f6e37538dd8a904e329c5c72c0998046466989404",
+    "_atlasOrder": 1051
+  }
+}

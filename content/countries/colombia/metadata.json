@@ -1,0 +1,1124 @@
+{
+  "colombia-001": {
+    "id": "colombia-001",
+    "src": "assets/photos/countries/colombia/283A5990-009b797c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 01",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "333660394c57cf8146c0ff8d1100402d29650e429e615ee1dbd0887f6d35ef8f",
+    "_atlasOrder": 267
+  },
+  "colombia-002": {
+    "id": "colombia-002",
+    "src": "assets/photos/countries/colombia/283A6026-f22cfb8f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 02",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "06fbcf333fd833f609640ce0aeda854f9787a2348a1ba7e389bb92e69790a677",
+    "_atlasOrder": 268
+  },
+  "colombia-003": {
+    "id": "colombia-003",
+    "src": "assets/photos/countries/colombia/283A5994-53e9bd9f-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 03",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "fee15fd662d70d15a7450070a6f5d7e3c0c0405d1a7d4dbc952c104e2e2aeaf7",
+    "_atlasOrder": 269
+  },
+  "colombia-004": {
+    "id": "colombia-004",
+    "src": "assets/photos/countries/colombia/283A6057-a15e3f6c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 04",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "ae122b441f6b17e20d1b62914502bc68fe0fa1fc15be5d97ebf35128809954d0",
+    "_atlasOrder": 270
+  },
+  "colombia-005": {
+    "id": "colombia-005",
+    "src": "assets/photos/countries/colombia/283A6116-116230bf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 05",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "b4902e3d16857d0b7624954adab44c36c1fa638b97cb6403d4ad7a88e5306a23",
+    "_atlasOrder": 271
+  },
+  "colombia-006": {
+    "id": "colombia-006",
+    "src": "assets/photos/countries/colombia/283A6148-e3d5b24c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 06",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "b62b508d511772f5888cead66bf4f995984c443991b1dabff54661f091fdeb9b",
+    "_atlasOrder": 272
+  },
+  "colombia-007": {
+    "id": "colombia-007",
+    "src": "assets/photos/countries/colombia/283A6160-685d5bad-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Colombia · 07",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "e3b303d69a4a942d9771aebb2d7b718fa3f069919cc74274ed354c28004a10e7",
+    "_atlasOrder": 273
+  },
+  "colombia-008": {
+    "id": "colombia-008",
+    "src": "assets/photos/countries/colombia/283A6181-df2cc7da-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 08",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "0a9038b74634de4d3bdddac44b4bc4acdd30fac210ee92a45213f52894564869",
+    "_atlasOrder": 274
+  },
+  "colombia-009": {
+    "id": "colombia-009",
+    "src": "assets/photos/countries/colombia/283A6238-2d9b4529-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 09",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "99dec8004a1cc9df82cf6eff628e0de9297e735bf610c079d207a64384bdacb1",
+    "_atlasOrder": 275
+  },
+  "colombia-010": {
+    "id": "colombia-010",
+    "src": "assets/photos/countries/colombia/283A6273-8c5e0339-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 10",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "788a4b56162fb62c7152aa347d8338f1e44a53147178aadd98b4926806d3fae5",
+    "_atlasOrder": 276
+  },
+  "colombia-011": {
+    "id": "colombia-011",
+    "src": "assets/photos/countries/colombia/283A6324-1-7ee981ca-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 11",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "3167382f9857c751c8f6361f902dab64e1e144af3885666c88889fe9cbd01007",
+    "_atlasOrder": 277
+  },
+  "colombia-012": {
+    "id": "colombia-012",
+    "src": "assets/photos/countries/colombia/283A6350-ced58e19-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 12",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "12a9968984b74699bb0b3709c603180a4b190e1df4a5ec35322050a306e09b46",
+    "_atlasOrder": 278
+  },
+  "colombia-013": {
+    "id": "colombia-013",
+    "src": "assets/photos/countries/colombia/283A6330-46e8170d-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 13",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "d4e2b8396c70532fd7904517bd835baf04c9c9b82503e4df4e4021110058349c",
+    "_atlasOrder": 279
+  },
+  "colombia-014": {
+    "id": "colombia-014",
+    "src": "assets/photos/countries/colombia/283A6374-b45f95fe-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 14",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "4136373788f4fdcaffff83a3098586d941bb8200ebb90f6c4453e54890f93b5c",
+    "_atlasOrder": 280
+  },
+  "colombia-015": {
+    "id": "colombia-015",
+    "src": "assets/photos/countries/colombia/283A6423-918cc8af-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 15",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "9cb98503e0ebf4c2a4bba78cc3bbf967a42867b6e72fc7f00ac2d55cae9ce49d",
+    "_atlasOrder": 281
+  },
+  "colombia-016": {
+    "id": "colombia-016",
+    "src": "assets/photos/countries/colombia/283A6461-633b4a5c-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Colombia · 16",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "6bb219bd2b913af2963fdd82d1579a62f81fd21ece42171623b6b3d0f74e3c35",
+    "_atlasOrder": 282
+  },
+  "colombia-017": {
+    "id": "colombia-017",
+    "src": "assets/photos/countries/colombia/283A6402-d44ad62b-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 17",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "ca5119c513ae9ce07a5822d0b7838d302bc47195b59a31b64c1a1827ff4fee55",
+    "_atlasOrder": 283
+  },
+  "colombia-018": {
+    "id": "colombia-018",
+    "src": "assets/photos/countries/colombia/283A6468-26fd54d8-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 18",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "7b99b411ad5f6b4095b9d586cb293104cbd758058de39cac813d25d797fc67c1",
+    "_atlasOrder": 284
+  },
+  "colombia-019": {
+    "id": "colombia-019",
+    "src": "assets/photos/countries/colombia/283A6516-46150668-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 19",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "775f618f85118aa10c2c963ec8c8ebb2fdb834005f0b97763be3c058843a1ac9",
+    "_atlasOrder": 285
+  },
+  "colombia-020": {
+    "id": "colombia-020",
+    "src": "assets/photos/countries/colombia/283A6656-51370213-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 20",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 19
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "3c69dd2df0451e0edf2d969c6e78f2c459f037f8a999c04ab777745c5505850b",
+    "_atlasOrder": 286
+  },
+  "colombia-021": {
+    "id": "colombia-021",
+    "src": "assets/photos/countries/colombia/283A6566_1-a38080e0-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 21",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 20
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "d20496e302c4149d74c618b5e06c94223ad762f38d9dd4884f6b395730198d36",
+    "_atlasOrder": 287
+  },
+  "colombia-022": {
+    "id": "colombia-022",
+    "src": "assets/photos/countries/colombia/283A6659-0245c6f0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 22",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "570eaeb11050305a73cc3c5fd6bb0b89f20d54e036f86113b56bee8a55e857e3",
+    "_atlasOrder": 288
+  },
+  "colombia-023": {
+    "id": "colombia-023",
+    "src": "assets/photos/countries/colombia/283A6695-f0f24403-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 23",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "e5515aa408785f6558e646f6a8133707faa25d5868c959cf1d0f00230fba9aa8",
+    "_atlasOrder": 289
+  },
+  "colombia-024": {
+    "id": "colombia-024",
+    "src": "assets/photos/countries/colombia/283A6673-40ce4bd0-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 24",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 23
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "d208c57d42248bcfef731feb2d609f767bd041d6fde084a3cc61eb41b76aa464",
+    "_atlasOrder": 290
+  },
+  "colombia-025": {
+    "id": "colombia-025",
+    "src": "assets/photos/countries/colombia/283A6756-f43f0d3f-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 25",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 24
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "c8f2773b1e667f0d4e44c373c2a78322c621de5576dd9f5ce16c21ca1b6c054b",
+    "_atlasOrder": 291
+  },
+  "colombia-026": {
+    "id": "colombia-026",
+    "src": "assets/photos/countries/colombia/283A6696-434e9148-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 26",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "9a38fa87f2068d73431c25967fb054db630594d9ae0bd17025277fd6eae0996f",
+    "_atlasOrder": 292
+  },
+  "colombia-027": {
+    "id": "colombia-027",
+    "src": "assets/photos/countries/colombia/283A6841-b1f913bb-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 27",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 26
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "142b9f16e58511f43a88df6dd1d9eccef79b878aee5b83362020f1e5b44302b6",
+    "_atlasOrder": 293
+  },
+  "colombia-028": {
+    "id": "colombia-028",
+    "src": "assets/photos/countries/colombia/283A6856-103c55ab-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 28",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 27
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "0209dd029f72c7772c8061353f80b36a444c8ab544f09529e37767e4e317837b",
+    "_atlasOrder": 294
+  },
+  "colombia-029": {
+    "id": "colombia-029",
+    "src": "assets/photos/countries/colombia/283A6873-e28bd758-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 29",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 28
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "fcced150d864163a90396b79dc005f079ca6ff401f637fb7122d6b7be5b06bca",
+    "_atlasOrder": 295
+  },
+  "colombia-030": {
+    "id": "colombia-030",
+    "src": "assets/photos/countries/colombia/283A6860-52b7d88b-1000.jpg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 30",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 29
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "12ef202f63041d296e2680c4b6677f3d933eb62779b6b1e61ef4979b2558015d",
+    "_atlasOrder": 296
+  },
+  "colombia-031": {
+    "id": "colombia-031",
+    "src": "assets/photos/countries/colombia/283A6920-af478e9b-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Colombia · 31",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 30
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "cbfbda2e42d06108cbaeaa8f1f34b3fa781a16aa93e2e810ad70359b65bbc792",
+    "_atlasOrder": 297
+  },
+  "colombia-032": {
+    "id": "colombia-032",
+    "src": "assets/photos/countries/colombia/283A6957-0e82c88b-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 32",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 31
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "1a41cf9d26a0198b6e45284ee7d4aaca1b70ecdb0b5fc1474af96cb39343c49a",
+    "_atlasOrder": 298
+  },
+  "colombia-033": {
+    "id": "colombia-033",
+    "src": "assets/photos/countries/colombia/283A6985-fc354a78-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Colombia · 33",
+    "country": "Colombia",
+    "location": "Cartagena",
+    "lat": 10.42427,
+    "lng": -75.550472,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/new-page/",
+    "albums": [
+      "Colombia"
+    ],
+    "albumOrder": {
+      "Colombia": 32
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 10.42427,
+      "lng": -75.550472
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/3687238"
+    ],
+    "_imageSha256": "92721e4b56f88691f2f81b847780a9ff0a08ac26395d838732a36006be90b9a1",
+    "_atlasOrder": 299
+  }
+}

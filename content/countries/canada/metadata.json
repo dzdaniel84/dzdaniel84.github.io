@@ -1,0 +1,1983 @@
+{
+  "canada-001": {
+    "id": "canada-001",
+    "src": "assets/photos/countries/canada/283A7048-baa2b762-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Canada · 01",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "20e04c7d07be63e4ef4c0be20aa5308da733faba9a291e681036ef47b6200576",
+    "_atlasOrder": 207
+  },
+  "canada-002": {
+    "id": "canada-002",
+    "src": "assets/photos/countries/canada/283A7065-48153591-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 02",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "18c62fa71c79ad7166d1e9a8bb8c3b88eb181f4325824a686b0b9d256f1c85b0",
+    "_atlasOrder": 208
+  },
+  "canada-003": {
+    "id": "canada-003",
+    "src": "assets/photos/countries/canada/283A7657-1f9001f3-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 03",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "f88ac49f9e5678a736921ef6cf42c30ca623567d35ce7cf4c04b2f1d4692b8f5",
+    "_atlasOrder": 209
+  },
+  "canada-004": {
+    "id": "canada-004",
+    "src": "assets/photos/countries/canada/283A7641-ed278300-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 04",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "ce7f570adba9c807bc69730530d32617d0c2dd280b9466361dd9eb9538b58c77",
+    "_atlasOrder": 210
+  },
+  "canada-005": {
+    "id": "canada-005",
+    "src": "assets/photos/countries/canada/283A7711-4ce2c510-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 05",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "2f44b3eeb22f5e2f11ad65fa9266a7234db6423a9b245f534b54034918da50f1",
+    "_atlasOrder": 211
+  },
+  "canada-006": {
+    "id": "canada-006",
+    "src": "assets/photos/countries/canada/283A7681-be5547e3-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 06",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "b20f12c8501bee0180197b8def1f5595c30027329fe79759f9649ab32274771d",
+    "_atlasOrder": 212
+  },
+  "canada-007": {
+    "id": "canada-007",
+    "src": "assets/photos/countries/canada/283A7691-080cf3b0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 07",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "a801a32b6914db77ae8730838021e82fa767d1a75dfdfbf7867099e8b3f36110",
+    "_atlasOrder": 213
+  },
+  "canada-008": {
+    "id": "canada-008",
+    "src": "assets/photos/countries/canada/283A7549-fabb7143-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 08",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "2772dd8490bc4fd5095fb8d150c3aa48c1896c4fcff577f2dd77998bc991bd88",
+    "_atlasOrder": 214
+  },
+  "canada-009": {
+    "id": "canada-009",
+    "src": "assets/photos/countries/canada/283A7030-5b7e3753-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 09",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "689f6bbf078dea4d44315a4ff5faf8c8f632a7fb835834c9a3ed5399ba1a5bba",
+    "_atlasOrder": 215
+  },
+  "canada-010": {
+    "id": "canada-010",
+    "src": "assets/photos/countries/canada/283A7572-a9c9b5a0-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 10",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "50cbc44c109a0913f95a273ac396d7cef11237a9f79f8e755c2f618de74576c5",
+    "_atlasOrder": 216
+  },
+  "canada-011": {
+    "id": "canada-011",
+    "src": "assets/photos/countries/canada/283A2416-7ead6a02-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 11",
+    "country": "Canada",
+    "location": "Whistler",
+    "lat": 50.116003,
+    "lng": -122.959425,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 50.116003,
+      "lng": -122.959425
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6180144"
+    ],
+    "_imageSha256": "0074cae77ed2a8efde5f47c0b2ad50b658986945be73e99ed312e695415feed8",
+    "_atlasOrder": 217
+  },
+  "canada-012": {
+    "id": "canada-012",
+    "src": "assets/photos/countries/canada/283A6982-be7296ef-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 12",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "005d835cf1644f2e560d03196580fb6518f8f0e5caeb0ef2faa6a9094e4fb00a",
+    "_atlasOrder": 218
+  },
+  "canada-013": {
+    "id": "canada-013",
+    "src": "assets/photos/countries/canada/283A7039-4cc5141c-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 13",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "4b11797559426dee0b5402f1b7e845ad39303b6cbb8aad29ce03d2bcb6d095e7",
+    "_atlasOrder": 219
+  },
+  "canada-014": {
+    "id": "canada-014",
+    "src": "assets/photos/countries/canada/283A7396-fcf91bcf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 14",
+    "country": "Canada",
+    "location": "Horseshoe Bay",
+    "lat": 49.37405,
+    "lng": -123.27244,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Ferry-terminal pier and Howe Sound setting visually identified; approximate terminal location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 13
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/9255345"
+    ],
+    "_imageSha256": "67083f4e5923acd859eca79cefb6cc663bed886dcfd6520aba7bd245e0f3c871",
+    "_atlasOrder": 220
+  },
+  "canada-015": {
+    "id": "canada-015",
+    "src": "assets/photos/countries/canada/283A7404-0e4e993c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 15",
+    "country": "Canada",
+    "location": "Howe Sound",
+    "lat": 49.5,
+    "lng": -123.31667,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 14
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Howe_Sound"
+    ],
+    "_imageSha256": "fe737ff4fff3d09917308795102aa03c5f102a0a49d8b677b309b2d5f846bf64",
+    "_atlasOrder": 221
+  },
+  "canada-016": {
+    "id": "canada-016",
+    "src": "assets/photos/countries/canada/283A7491-af8bdf2c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 16",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "e3d9e894b081e932083ccbd546b6e2552e6fd8c56910ac10ed57c36d4e5b927a",
+    "_atlasOrder": 222
+  },
+  "canada-017": {
+    "id": "canada-017",
+    "src": "assets/photos/countries/canada/283A7558-5d3c5ddf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 17",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "be3e1c443993687e457e1da7e3358b49455f62058528ee8c6c9f73dc44b83941",
+    "_atlasOrder": 223
+  },
+  "canada-018": {
+    "id": "canada-018",
+    "src": "assets/photos/countries/canada/283A8807-f126f8cd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 18",
+    "country": "Canada",
+    "location": "Victoria",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 17
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6174041"
+    ],
+    "_imageSha256": "6d3ee99e21de243cd3652339f89b7485d31baeadd06fe54d99e8268eae652e3d",
+    "_atlasOrder": 224
+  },
+  "canada-019": {
+    "id": "canada-019",
+    "src": "assets/photos/countries/canada/283A7554-03917a3e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 19",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "8fe837563b0fa7271613d5833ecf9617b539b5f7a4d209f2038f6dfe26a8ec1f",
+    "_atlasOrder": 225
+  },
+  "canada-020": {
+    "id": "canada-020",
+    "src": "assets/photos/countries/canada/283A7211-e2087780-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 20",
+    "country": "Canada",
+    "location": "Squamish",
+    "lat": 49.69925,
+    "lng": -123.15631,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 19
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6154636"
+    ],
+    "_imageSha256": "27811a0d3f5c191add272d41b44cdac53fec5040adef267a7c9342b097e5c9b6",
+    "_atlasOrder": 226
+  },
+  "canada-021": {
+    "id": "canada-021",
+    "src": "assets/photos/countries/canada/283A8679-10bff573-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 21",
+    "country": "Canada",
+    "location": "Victoria",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 20
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6174041"
+    ],
+    "_imageSha256": "c0cfe8e41293cd84dfdca140a2649a27774b2371632a1df60f2085a8da2940ca",
+    "_atlasOrder": 227
+  },
+  "canada-022": {
+    "id": "canada-022",
+    "src": "assets/photos/countries/canada/283A7120-b17ab363-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 22",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 21
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "186d1d345a36998e91ec685e6acd34d12a010b06567e05c5fe9b31ff6ea07ee8",
+    "_atlasOrder": 228
+  },
+  "canada-023": {
+    "id": "canada-023",
+    "src": "assets/photos/countries/canada/283A7627-43cd3190-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 23",
+    "country": "Canada",
+    "location": "Vancouver",
+    "lat": 49.284972,
+    "lng": -123.113111,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 22
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 49.284972,
+      "lng": -123.113111
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13513181"
+    ],
+    "_imageSha256": "f54e7d1f710b87c5d1b5d42fdc4197d6ef504358480b058305374bcbfa990b49",
+    "_atlasOrder": 229
+  },
+  "canada-024": {
+    "id": "canada-024",
+    "src": "assets/photos/countries/canada/283A7367-b73e0afd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 24",
+    "country": "Canada",
+    "location": "Howe Sound",
+    "lat": 49.5,
+    "lng": -123.31667,
+    "coordinatePrecision": "Landmark",
+    "locationStatus": "located",
+    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 23
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://en.wikipedia.org/wiki/Howe_Sound"
+    ],
+    "_imageSha256": "73dd00a94b2b8a5eb61d19242e3a42925a0311d579bbd96ea0d9a3ff9779caee",
+    "_atlasOrder": 230
+  },
+  "canada-025": {
+    "id": "canada-025",
+    "src": "assets/photos/countries/canada/283A8369-4589880e-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 25",
+    "country": "Canada",
+    "location": "Victoria",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 24
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6174041"
+    ],
+    "_imageSha256": "1518fb9e2123d670b9cf3e4a1091ddd99d8d73aabc5608168561c1327fcb1caa",
+    "_atlasOrder": 231
+  },
+  "canada-026": {
+    "id": "canada-026",
+    "src": "assets/photos/countries/canada/283A2368-605ad55f-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Canada · 26",
+    "country": "Canada",
+    "location": "Whistler",
+    "lat": 50.116003,
+    "lng": -122.959425,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 25
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 50.116003,
+      "lng": -122.959425
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6180144"
+    ],
+    "_imageSha256": "de416ee2e9438fbc1df2aa06283a29ae91a5f62a4e7dcd9c6f0988790f05210f",
+    "_atlasOrder": 232
+  },
+  "canada-027": {
+    "id": "canada-027",
+    "src": "assets/photos/countries/canada/283A8436-25f096a8-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 27",
+    "country": "Canada",
+    "location": "Canada",
+    "lat": 56.13,
+    "lng": -106.35,
+    "coordinatePrecision": "Country",
+    "locationStatus": "located",
+    "locationEvidence": "Country known from the published album; no usable GPS or confidently recognizable site. More precise location remains unconfirmed.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 26
+    },
+    "albumSources": {},
+    "locationMethod": "country",
+    "locationConfidence": "country-only",
+    "_imageSha256": "1faa2ca5256d5ecb74e1a5d4477b7a5473f3fb5b9cbb54028a9f5fbeabfe547e",
+    "_atlasOrder": 233
+  },
+  "canada-028": {
+    "id": "canada-028",
+    "src": "assets/photos/countries/canada/283A8687-92810adf-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 28",
+    "country": "Canada",
+    "location": "Victoria",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 27
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6174041"
+    ],
+    "_imageSha256": "b333cd9857fa422f838cb64fc6bde270bb227c04b70bf51b8154cb4a4e34e5a4",
+    "_atlasOrder": 234
+  },
+  "canada-029": {
+    "id": "canada-029",
+    "src": "assets/photos/countries/canada/283A8723-6036882c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 29",
+    "country": "Canada",
+    "location": "Victoria",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 28
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6174041"
+    ],
+    "_imageSha256": "049581ae324a3715fb9c3f3ce169aaaa390338d6203ab1a0e18df760e5c569f0",
+    "_atlasOrder": 235
+  },
+  "canada-030": {
+    "id": "canada-030",
+    "src": "assets/photos/countries/canada/283A7186-913e2a4d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 30",
+    "country": "Canada",
+    "location": "Squamish",
+    "lat": 49.69925,
+    "lng": -123.15631,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 29
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6154636"
+    ],
+    "_imageSha256": "da28a4f78e70d805897590a60ce834080427a4476f07835b2d2d24c12d88090d",
+    "_atlasOrder": 236
+  },
+  "canada-031": {
+    "id": "canada-031",
+    "src": "assets/photos/countries/canada/283A8696-264fb63a-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 31",
+    "country": "Canada",
+    "location": "Victoria",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 30
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6174041"
+    ],
+    "_imageSha256": "04f790efe63d3335795e53af8acfb127f42e4652372dbb7b5aa666fd331de094",
+    "_atlasOrder": 237
+  },
+  "canada-032": {
+    "id": "canada-032",
+    "src": "assets/photos/countries/canada/283A8806-0dde77c4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 32",
+    "country": "Canada",
+    "location": "Victoria",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 31
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6174041"
+    ],
+    "_imageSha256": "4db0319d65d522a9bc264e9d47d8e11923da04242f136f721f61adbcf0572ed7",
+    "_atlasOrder": 238
+  },
+  "canada-033": {
+    "id": "canada-033",
+    "src": "assets/photos/countries/canada/283A7295-ac1b31d4-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 33",
+    "country": "Canada",
+    "location": "Squamish",
+    "lat": 49.69925,
+    "lng": -123.15631,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 32
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/6154636"
+    ],
+    "_imageSha256": "902581ac19fc4b83a290c9dd6a14d712a61cb3a0afc4264c14cbf7a8cf60ad28",
+    "_atlasOrder": 239
+  },
+  "canada-034": {
+    "id": "canada-034",
+    "src": "assets/photos/countries/canada/283A1090-e8679fcf-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 34",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 33
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "294fea128a177c250f13100012614af5206544bb580687f7003210cfd50b54d1",
+    "_atlasOrder": 240
+  },
+  "canada-035": {
+    "id": "canada-035",
+    "src": "assets/photos/countries/canada/283A1101-1ad01d3c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 35",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 34
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "67632891c6ad41fc845b322420c52540e1d67cceef24613d595e271f186e490e",
+    "_atlasOrder": 241
+  },
+  "canada-036": {
+    "id": "canada-036",
+    "src": "assets/photos/countries/canada/283A1082-aaec12ef-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 36",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 35
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "4ce0da2c2cdff406499affc09bd766446934e80f4b67e6d7678e3c9dccf49021",
+    "_atlasOrder": 242
+  },
+  "canada-037": {
+    "id": "canada-037",
+    "src": "assets/photos/countries/canada/283A1022-585b901c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 37",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 36
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "86e27ce5a72e43636e4dc8da5110bb19e847c58bbfbfd885230e0780c8709961",
+    "_atlasOrder": 243
+  },
+  "canada-038": {
+    "id": "canada-038",
+    "src": "assets/photos/countries/canada/283A1071-f99ed60c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 38",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 37
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "ad3dfa880475e99b48fb9328c2b7e645c357fb17f2b7356b2c2dce45f9ff6ca9",
+    "_atlasOrder": 244
+  },
+  "canada-039": {
+    "id": "canada-039",
+    "src": "assets/photos/countries/canada/283A0621-0b2954ff-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 39",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 38
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "9ecd1bf441262de325b54d376feee5b4bceb23df669e198362efa50da6e03b9a",
+    "_atlasOrder": 245
+  },
+  "canada-040": {
+    "id": "canada-040",
+    "src": "assets/photos/countries/canada/283A0719-2cd935bc-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 40",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 39
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "92190f30dfba2f61af2c329a48f2176d6b1a9b990611d988edb83f64e50c2666",
+    "_atlasOrder": 246
+  },
+  "canada-041": {
+    "id": "canada-041",
+    "src": "assets/photos/countries/canada/283A1054-de6eb74f-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 41",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 40
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "b3ec45271847ef3cfeb87a461adb04d6d9bb8bcf2c1598120ea4699a9cfd0106",
+    "_atlasOrder": 247
+  },
+  "canada-042": {
+    "id": "canada-042",
+    "src": "assets/photos/countries/canada/283A1172-fbbdea1e-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 42",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 41
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "630159f930d0b9024c6fceea783938b404dec3135ff48dfa9740545c5315b72f",
+    "_atlasOrder": 248
+  },
+  "canada-043": {
+    "id": "canada-043",
+    "src": "assets/photos/countries/canada/283A1099-090a68ed-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 43",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 42
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "6a89a3712677da82b74deac84760940b36d1a691538b98dea45bdadf956a2212",
+    "_atlasOrder": 249
+  },
+  "canada-044": {
+    "id": "canada-044",
+    "src": "assets/photos/countries/canada/283A1171-dec13dbd-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 44",
+    "country": "Canada",
+    "location": "Montréal",
+    "lat": 45.507772,
+    "lng": -73.554462,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 43
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 45.507772,
+      "lng": -73.554462
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/12626122"
+    ],
+    "_imageSha256": "469e1e051dc2216c6204dcb26d42204916a63611e7921433796bc60f4bac958c",
+    "_atlasOrder": 250
+  },
+  "canada-045": {
+    "id": "canada-045",
+    "src": "assets/photos/countries/canada/283A9804-b843be1d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 45",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 44
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "433384ba89065bb3dfe504295b9916c5c6c1a3d86a783774c0b6f87a7a61ef82",
+    "_atlasOrder": 251
+  },
+  "canada-046": {
+    "id": "canada-046",
+    "src": "assets/photos/countries/canada/283A9859-9d90e34c-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 46",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 45
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "3df015630c1113eb2e5d23adb28b8a5614571cbf0a693f9da91e1598ff17b292",
+    "_atlasOrder": 252
+  },
+  "canada-047": {
+    "id": "canada-047",
+    "src": "assets/photos/countries/canada/283A9776-6f2761bf-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 47",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 46
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "9fd57075985203a9f6f7c5e87d59827a40d724bee84a9576775f99ccd44fe801",
+    "_atlasOrder": 253
+  },
+  "canada-048": {
+    "id": "canada-048",
+    "src": "assets/photos/countries/canada/283A9900-d856fdc8-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 48",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 47
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "6a027d50bd5e263311d6f9cb3c38f66ef088c6af6ae0ee1d5d6cd1774789acb7",
+    "_atlasOrder": 254
+  },
+  "canada-049": {
+    "id": "canada-049",
+    "src": "assets/photos/countries/canada/283A9903-2ae17f3b-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 49",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 48
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "8b96ffe922427e172bc9f0c941496dff5b302b678ca409760517d68f6479ce0a",
+    "_atlasOrder": 255
+  },
+  "canada-050": {
+    "id": "canada-050",
+    "src": "assets/photos/countries/canada/283A9928-8b24392b-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 50",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 49
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "c6decf453f7b3fce1a8c904e2d40c3e1a9a2808e496159d4563483db983c91d4",
+    "_atlasOrder": 256
+  },
+  "canada-051": {
+    "id": "canada-051",
+    "src": "assets/photos/countries/canada/283A9933-181dc1cb-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 51",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 50
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "44f6cd34962ae2037d2992b7c8ffaff4563bfe3a53268c2983f2a40700e9d3f1",
+    "_atlasOrder": 257
+  },
+  "canada-052": {
+    "id": "canada-052",
+    "src": "assets/photos/countries/canada/283A9930-eaaa4338-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 52",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 51
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "8e67efdfafd59c880675162b5f93c5bdead129e7d6486dd450f834653fc248fc",
+    "_atlasOrder": 258
+  },
+  "canada-053": {
+    "id": "canada-053",
+    "src": "assets/photos/countries/canada/283A0074-cf791e69-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 53",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 52
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "fdfbb7f19fe7b0f011b85ceb067cd21582559853e74e0307e03db667b14332cc",
+    "_atlasOrder": 259
+  },
+  "canada-054": {
+    "id": "canada-054",
+    "src": "assets/photos/countries/canada/283A9986-3dce9c9a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 54",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 53
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "ab4635947a3b19353748d19868c56f818d26630a7fc3995ff117f425a540a4c5",
+    "_atlasOrder": 260
+  },
+  "canada-055": {
+    "id": "canada-055",
+    "src": "assets/photos/countries/canada/283A0111-8abf00ed-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 55",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 54
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "1382b5975aa7274f3df9a3d212b2ab865ba3800456d8d425576d2582fe67607c",
+    "_atlasOrder": 261
+  },
+  "canada-056": {
+    "id": "canada-056",
+    "src": "assets/photos/countries/canada/283A0134-7808821e-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Canada · 56",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 55
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "6992317cf1632aedef429d7911a1687e27a72e0612c0e10201fe405e69b04f42",
+    "_atlasOrder": 262
+  },
+  "canada-057": {
+    "id": "canada-057",
+    "src": "assets/photos/countries/canada/283A0125-6a481693-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 57",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 56
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "53d71c704d631e8fefea20a4048b99a7d8a5b5606bfbbb3699e89827f144aa8e",
+    "_atlasOrder": 263
+  },
+  "canada-058": {
+    "id": "canada-058",
+    "src": "assets/photos/countries/canada/283A0360-cb8d5083-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 58",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 57
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "f4cba3b3095b3f099fbe3f376f8ca06f224fd64cea9ebcb951994b9721808768",
+    "_atlasOrder": 264
+  },
+  "canada-059": {
+    "id": "canada-059",
+    "src": "assets/photos/countries/canada/283A0260-393ad270-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Canada · 59",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 58
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "7191a14d7f247a6425b1f54e4dbeda94b2554fe31f16510e21ca4431ba1424ce",
+    "_atlasOrder": 265
+  },
+  "canada-060": {
+    "id": "canada-060",
+    "src": "assets/photos/countries/canada/283A0504-8906dda3-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Canada · 60",
+    "country": "Canada",
+    "location": "Québec City",
+    "lat": 46.813562,
+    "lng": -71.22413,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/canada/",
+    "albums": [
+      "Canada"
+    ],
+    "albumOrder": {
+      "Canada": 59
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 46.813562,
+      "lng": -71.22413
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/6325494"
+    ],
+    "_imageSha256": "24c6ebbf2493fff91371027473aea49b013a58cb0206b4b9cc8207eb868c40e8",
+    "_atlasOrder": 266
+  }
+}

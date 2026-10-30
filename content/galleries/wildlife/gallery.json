@@ -1,0 +1,11 @@
+{
+  "title": "Wildlife",
+  "category": "Wildlife",
+  "label": "A TOUR THROUGH THE ANIMAL KINGDOM",
+  "description": "Wildlife are one of my favorite subjects to photograph, though they can also be quite elusive.",
+  "page": "wildlife.html",
+  "cover": "wildlife-01.jpeg",
+  "featured": true,
+  "featured_order": 3,
+  "template": "templates/migrated/wildlife.html"
+}

@@ -1,0 +1,39 @@
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,city
+world-landmarks-01.jpeg,Venice,Italy,,Grand Canal,45.437197,12.328937,true,world-landmarks-01,World Landmarks,City,gps,false,true,,102,Venice
+world-landmarks-02.jpeg,New York,United States,,Empire State Building,40.71,-74.01,true,world-landmarks-02,World Landmarks,City,,false,true,,103,New York
+world-landmarks-03.jpeg,Sagrada Família,Spain,,Sagrada Família,41.40369,2.17433,true,world-landmarks-03,World Landmarks,Landmark,visual,false,true,,104,Barcelona
+world-landmarks-04.jpeg,Arches National Park,United States,,Delicate Arch,38.73,-109.56,true,world-landmarks-04,World Landmarks,Park,,false,true,,105,Arches National Park
+world-landmarks-05.jpeg,Yellowstone National Park,United States,,Old Faithful,44.57,-110.59,true,world-landmarks-05,World Landmarks,Park,,false,true,,106,Yellowstone National Park
+world-landmarks-06.jpeg,Big Sur,United States,,Bixby Creek Bridge,36.27,-121.81,true,world-landmarks-06,World Landmarks,Region,,false,true,,107,Big Sur
+world-landmarks-07.jpeg,Kyoto,Japan,,Fushimi Inari,35.01,135.77,true,world-landmarks-07,World Landmarks,City,,false,true,,108,Kyoto
+world-landmarks-08.jpeg,Vienna,Austria,,Belvedere Palace,48.21,16.37,true,world-landmarks-08,World Landmarks,City,,false,true,,109,Vienna
+world-landmarks-09.jpeg,Uji,Japan,,Byōdō-in,34.88435,135.799797,true,world-landmarks-09,World Landmarks,City,gps,false,true,,110,Uji
+world-landmarks-10.jpeg,Seattle,United States,,Pike Place Market,47.61,-122.33,true,world-landmarks-10,World Landmarks,City,,false,true,,111,Seattle
+world-landmarks-11.jpeg,Chicago,United States,,Cloud Gate,41.88,-87.63,true,world-landmarks-11,World Landmarks,City,,false,true,,112,Chicago
+world-landmarks-12.jpeg,Vatican City,Vatican City,,St. Peter’s Basilica,41.9,12.45,true,world-landmarks-12,World Landmarks,City,,false,true,,113,Vatican City
+world-landmarks-13.jpeg,Ephesus,Turkey,,Library of Celsus,37.94,27.34,true,world-landmarks-13,World Landmarks,Region,,false,true,,114,Ephesus
+world-landmarks-14.jpeg,Rome,Italy,,Roman Forum,41.89273,12.48337,true,world-landmarks-14,World Landmarks,City,gps,false,true,,115,Rome
+world-landmarks-15.jpg,"Oia, Santorini",Greece,,Blue Domes of Oia,36.463028,25.378287,true,world-landmarks-15,World Landmarks,City,gps,false,true,,116,Santorini
+world-landmarks-16.jpeg,Venice,Italy,,Grand Canal at dusk,45.437197,12.328937,true,world-landmarks-16,World Landmarks,City,gps,false,true,,117,Venice
+world-landmarks-17.jpeg,Kyoto,Japan,,Kiyomizu-dera,35.011697,135.768162,true,world-landmarks-17,World Landmarks,City,gps,false,true,,118,Kyoto
+world-landmarks-18.jpeg,Venice,Italy,,St. Mark’s Campanile,45.44,12.33,true,world-landmarks-18,World Landmarks,City,,false,true,,119,Venice
+world-landmarks-19.jpeg,Florence Cathedral,Italy,,Florence Cathedral,43.77306,11.25694,true,world-landmarks-19,World Landmarks,Landmark,visual,false,true,,120,Florence
+world-landmarks-20.jpeg,Seattle,United States,,Space Needle,47.61,-122.33,true,world-landmarks-20,World Landmarks,City,,false,true,,121,Seattle
+world-landmarks-21.jpeg,Paris,France,,Eiffel Tower,48.86,2.35,true,world-landmarks-21,World Landmarks,City,,false,true,,122,Paris
+world-landmarks-22.jpeg,Tokyo Tower,Japan,,Tokyo Tower,35.65861,139.74556,true,world-landmarks-22,World Landmarks,Landmark,visual,false,true,,123,Tokyo
+world-landmarks-23.jpeg,Florence,Italy,,David,43.77,11.25,true,world-landmarks-23,World Landmarks,City,,false,true,,124,Florence
+world-landmarks-24.jpeg,Himeji,Japan,,Himeji Castle,34.836167,134.692563,true,world-landmarks-24,World Landmarks,City,gps,false,true,,125,Himeji
+world-landmarks-25.jpeg,St. Louis,United States,,Gateway Arch,38.63,-90.2,true,world-landmarks-25,World Landmarks,City,,false,true,,126,St. Louis
+world-landmarks-26.jpeg,New York,United States,,Manhattan Bridge,40.71,-74.01,true,world-landmarks-26,World Landmarks,City,,false,true,,127,New York
+world-landmarks-27.jpeg,Kinkaku-ji,Japan,,Kinkaku-ji,35.0395,135.7285,true,world-landmarks-27,World Landmarks,Landmark,visual,false,true,,128,Kyoto
+world-landmarks-28.jpeg,Chichén Itzá,Mexico,,El Castillo,20.68,-88.57,true,world-landmarks-28,World Landmarks,Region,,false,true,,129,Chichén Itzá
+world-landmarks-29.jpeg,Tokyo,Japan,,Sensō-ji,35.68,139.76,true,world-landmarks-29,World Landmarks,City,,false,true,,130,Tokyo
+world-landmarks-30.jpeg,Milan,Italy,,Milan Cathedral,45.467175,9.189663,true,world-landmarks-30,World Landmarks,City,gps,false,true,,131,Milan
+world-landmarks-31.jpeg,Istanbul,Turkey,,Hagia Sophia,41.01,28.98,true,world-landmarks-31,World Landmarks,City,,false,true,,132,Istanbul
+world-landmarks-32.jpeg,Sydney Opera House,Australia,,Sydney Opera House,-33.85681,151.21514,true,world-landmarks-32,World Landmarks,Landmark,visual,false,true,,133,Sydney
+world-landmarks-33.jpeg,Singapore,Singapore,,Marina Bay Sands,1.35,103.82,true,world-landmarks-33,World Landmarks,City,,false,true,,134,Singapore
+world-landmarks-34.jpeg,San Francisco,United States,,Golden Gate Bridge,37.77,-122.42,true,world-landmarks-34,World Landmarks,City,,false,true,,135,San Francisco
+world-landmarks-35.jpeg,Palace of Westminster,United Kingdom,,Palace of Westminster,51.49917,-0.12472,true,world-landmarks-35,World Landmarks,Landmark,visual,false,true,,136,London
+world-landmarks-36.jpeg,Paris,France,,The Louvre,48.86,2.35,true,world-landmarks-36,World Landmarks,City,,false,true,,137,Paris
+world-landmarks-37.jpeg,Rome,Italy,,The Colosseum,41.9,12.5,true,world-landmarks-37,World Landmarks,City,,false,true,,138,Rome
+world-landmarks-38.jpeg,Athens,Greece,,The Parthenon,37.98,23.73,true,world-landmarks-38,World Landmarks,City,,false,true,,139,Athens

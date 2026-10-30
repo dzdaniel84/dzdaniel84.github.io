@@ -1,0 +1,11 @@
+{
+  "title": "Metros",
+  "category": "Metros",
+  "label": "PUBLIC TRANSIT AROUND THE WORLD",
+  "description": "Whenever I visit a city, I find immense joy in exploring the local metro system.",
+  "page": "metros.html",
+  "cover": "metro-the-loop-cover.jpeg",
+  "featured": true,
+  "featured_order": 1,
+  "template": "templates/migrated/metros.html"
+}

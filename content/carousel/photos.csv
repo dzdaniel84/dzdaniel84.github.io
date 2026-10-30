@@ -1,0 +1,13 @@
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order
+home-01.jpg,Romsdalen,Norway,,A river winding through a mountain valley,,,true,home-01,Slideshow,,,false,false,home-01-fallback.jpeg,1384
+home-02.jpg,Cappadocia,Turkey,,Hot-air balloons above rock formations,,,true,home-02,Slideshow,,,false,false,home-02-fallback.jpeg,1385
+home-03.jpg,Tokyo,Japan,,The city after dark,,,true,home-03,Slideshow,,,false,false,home-03-fallback.jpeg,1386
+home-04.jpg,Lisbon,Portugal,,A yellow tram between pastel buildings,,,true,home-04,Slideshow,,,false,false,home-04-fallback.jpeg,1387
+home-05.jpg,Chicago,United States,,Railway tracks converging downtown,,,true,home-05,Slideshow,,,false,false,home-05-fallback.jpeg,1388
+home-06.jpg,Mexico City,Mexico,,A staircase beneath stained-glass windows,,,true,home-06,Slideshow,,,false,false,home-06-fallback.jpeg,1389
+home-07.jpg,Romsdalen,Norway,,Green fields beneath the mountains,,,true,home-07,Slideshow,,,false,false,home-07-fallback.jpeg,1390
+home-08.jpg,"Bryce Canyon National Park, Utah",United States,,Snow over the hoodoos,,,true,home-08,Slideshow,,,false,false,home-08-fallback.jpeg,1391
+home-09.jpg,"Yosemite National Park, California",United States,,Mountain peaks above the clouds,,,true,home-09,Slideshow,,,false,false,home-09-fallback.jpg,1392
+home-10.jpg,Barcelona,Spain,,Looking up through a courtyard,,,true,home-10,Slideshow,,,false,false,home-10-fallback.jpeg,1393
+home-11.jpg,London,United Kingdom,,The city in the evening light,,,true,home-11,Slideshow,,,false,false,home-11-fallback.jpeg,1394
+home-12.jpg,Nafplio,Greece,,Colorful buildings beneath a blue sky,,,true,home-12,Slideshow,,,false,false,home-12-fallback.jpeg,1395

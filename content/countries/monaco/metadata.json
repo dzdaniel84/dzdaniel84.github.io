@@ -1,0 +1,648 @@
+{
+  "monaco-001": {
+    "id": "monaco-001",
+    "src": "assets/photos/countries/monaco/L1140386-9ab94f5a-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 01",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 0
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "809ae689fc044a076b814e60c65684d2add78af071363e96a15e4aad2d17382a",
+    "_atlasOrder": 849
+  },
+  "monaco-002": {
+    "id": "monaco-002",
+    "src": "assets/photos/countries/monaco/L1140395-680ecda9-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 02",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 1
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "87c72ad9bbf697305cebd09322f16a4b316740278e303ddf5399f4a3eeee1b57",
+    "_atlasOrder": 850
+  },
+  "monaco-003": {
+    "id": "monaco-003",
+    "src": "assets/photos/countries/monaco/L1140335-df7f51de-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 03",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 2
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "9208696f7473ae4d196d717fdf87341da0665fa95ffa488d0f8845263c2f28aa",
+    "_atlasOrder": 851
+  },
+  "monaco-004": {
+    "id": "monaco-004",
+    "src": "assets/photos/countries/monaco/L1140400-2dc8d32d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 04",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 3
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "39624c3410d2398a7d7ce21dbad70d21e6a12f220d0e508ce34ab8c05943c066",
+    "_atlasOrder": 852
+  },
+  "monaco-005": {
+    "id": "monaco-005",
+    "src": "assets/photos/countries/monaco/L1140410-8c0d953d-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 05",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 4
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "94ad7953df9786f5b821900cdf5ece51701822f3b06305918a8469cc01960fd0",
+    "_atlasOrder": 853
+  },
+  "monaco-006": {
+    "id": "monaco-006",
+    "src": "assets/photos/countries/monaco/L1140473-7eba17ce-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Monaco · 06",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 5
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "3fd019501b7cfedc825d1b6cc4621e5ef523c3e1398fc7011da258782e2950b0",
+    "_atlasOrder": 854
+  },
+  "monaco-007": {
+    "id": "monaco-007",
+    "src": "assets/photos/countries/monaco/L1140388-84faed53-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 07",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 6
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "cb6fedbd8efe8b326f677a9fa9816f5e2bf1d2a2464e6e1e93a68be010e06cc6",
+    "_atlasOrder": 855
+  },
+  "monaco-008": {
+    "id": "monaco-008",
+    "src": "assets/photos/countries/monaco/L1140300-764d6fa0-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Monaco · 08",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 7
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "74caafa5c67a906bce584b698112713b40e6adb3c98cdee900084e7b78e0cbd0",
+    "_atlasOrder": 856
+  },
+  "monaco-009": {
+    "id": "monaco-009",
+    "src": "assets/photos/countries/monaco/L1140298-c6716073-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Monaco · 09",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 8
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "11a654b3e5d417a8a9b9ebe24cc5f74d9a49e13915ddad771e1048e035ff0fc5",
+    "_atlasOrder": 857
+  },
+  "monaco-010": {
+    "id": "monaco-010",
+    "src": "assets/photos/countries/monaco/L1140355-34c6e280-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Monaco · 10",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 9
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "ac954b999a4bdeffbda1e5682f581fe42a82c23db0083e3a14ed234f8ee60932",
+    "_atlasOrder": 858
+  },
+  "monaco-011": {
+    "id": "monaco-011",
+    "src": "assets/photos/countries/monaco/L1140351-9503a490-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Monaco · 11",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 10
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "bc9f4f5bc582ba3f0bfb4d73e18c76cb54b52b142f4410d5a8aabbe02dae53a0",
+    "_atlasOrder": 859
+  },
+  "monaco-012": {
+    "id": "monaco-012",
+    "src": "assets/photos/countries/monaco/L1140238-67b42663-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 12",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 11
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "b73b3d8783f915677ed8cb8586fd4d12882c9106fed329d65a97950462713b5b",
+    "_atlasOrder": 860
+  },
+  "monaco-013": {
+    "id": "monaco-013",
+    "src": "assets/photos/countries/monaco/L1140345-0e2ba094-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 13",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 12
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "48665331da6627cbcea22c2285636faa27f927d9fc6c884d2dbdf40e01274f82",
+    "_atlasOrder": 861
+  },
+  "monaco-014": {
+    "id": "monaco-014",
+    "src": "assets/photos/countries/monaco/L1140279-8b89f287-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Monaco · 14",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 13
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "7e49e6a0d6d4abcf2545c3ceca576e74129b473b79d55bfe52987ae9bbfdf4e7",
+    "_atlasOrder": 862
+  },
+  "monaco-015": {
+    "id": "monaco-015",
+    "src": "assets/photos/countries/monaco/L1140196-793e7074-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 15",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 14
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "a256ce8866b0add405ce936a52ecf35786e006e4af181c77f75229a0f5994411",
+    "_atlasOrder": 863
+  },
+  "monaco-016": {
+    "id": "monaco-016",
+    "src": "assets/photos/countries/monaco/L1140190-d8fb3664-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 16",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 15
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "82401ec91a623659a546e8a329b4420d682490c02c1af3724c50390ac3a4d902",
+    "_atlasOrder": 864
+  },
+  "monaco-017": {
+    "id": "monaco-017",
+    "src": "assets/photos/countries/monaco/L1140161-2a4cb497-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 17",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 16
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "d596517cb344d3a7b22c93a020ab881f640123d02cece93c0335e05b2725d041",
+    "_atlasOrder": 865
+  },
+  "monaco-018": {
+    "id": "monaco-018",
+    "src": "assets/photos/countries/monaco/L1140157-9a70bb44-1000.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "title": "Monaco · 18",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 17
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "af89a7c55187bde8f18a5e88a708bb0b027aa2984f3577064a4ef20c12250a95",
+    "_atlasOrder": 866
+  },
+  "monaco-019": {
+    "id": "monaco-019",
+    "src": "assets/photos/countries/monaco/L1140186-031be161-1000.jpeg",
+    "width": 1000,
+    "height": 667,
+    "title": "Monaco · 19",
+    "country": "Monaco",
+    "location": "Monaco-Ville",
+    "lat": 43.731433,
+    "lng": 7.422205,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/monaco/",
+    "albums": [
+      "Monaco"
+    ],
+    "albumOrder": {
+      "Monaco": 18
+    },
+    "albumSources": {},
+    "embeddedLocation": {
+      "lat": 43.731433,
+      "lng": 7.422205
+    },
+    "locationMethod": "gps",
+    "locationConfidence": "metadata",
+    "locationSources": [
+      "https://www.geonames.org/13527008"
+    ],
+    "_imageSha256": "8932f7e07be3ff06bce9b5e8e1978c60649bc21587a1dcdb58743388bd523e7e",
+    "_atlasOrder": 867
+  }
+}
