@@ -442,18 +442,19 @@ function drawMapPoints(){
   const clustered=group.length>1,first=group[0],x=group.reduce((n,p)=>n+p.x,0)/group.length,y=group.reduce((n,p)=>n+p.y,0)/group.length;
   const list=group.flatMap(p=>p.photos),countries=[...new Set(list.map(p=>p.country))];
   const label=clustered?(countries.length===1?countries[0]+': ':'')+group.length+' places, '+list.length+' photographs. Zoom to explore.':first.name+', '+list.length+' photographs';
-  const g=document.createElementNS(surface.namespaceURI,'g');g.setAttribute('class','map-point'+(clustered?' map-cluster':'')+(place===first.name&&!clustered?' selected':''));
+  const g=document.createElementNS(surface.namespaceURI,'g');g.setAttribute('class','map-point'+(list.length>1?' map-cluster':'')+(place===first.name&&!clustered?' selected':''));
   g.dataset.x=x;g.dataset.y=y;
   if(clustered)g.dataset.cluster=group.map(p=>p.name).join('|');else g.dataset.location=first.name;
   g.setAttribute('transform',`translate(${x},${y}) scale(${1/pixelScale})`);
   g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-label',label);g.setAttribute('aria-pressed',String(!clustered&&place===first.name));
   const hit=document.createElementNS(surface.namespaceURI,'circle');hit.setAttribute('r','19');hit.setAttribute('class','point-hit');g.append(hit);
-  const circle=document.createElementNS(surface.namespaceURI,'circle');circle.setAttribute('r',clustered?'12':place===first.name?'7':'5');g.append(circle);
+  const circle=document.createElementNS(surface.namespaceURI,'circle');circle.setAttribute('r',list.length>1?'12':place===first.name?'7':'5');g.append(circle);
   const title=document.createElementNS(surface.namespaceURI,'title');title.textContent=clustered?label:first.name+' · approximate '+(first.photos[0].coordinatePrecision||'city').toLowerCase()+' position';g.append(title);
-  if(clustered){
+  if(list.length>1){
    const text=document.createElementNS(surface.namespaceURI,'text');text.setAttribute('class','map-cluster-count');text.setAttribute('text-anchor','middle');text.setAttribute('dy','.35em');text.textContent=String(list.length);g.append(text);
-  }else if(place===first.name){
-   const text=document.createElementNS(surface.namespaceURI,'text');text.setAttribute('y','-13');text.setAttribute('text-anchor','middle');text.textContent=first.name;g.append(text);
+  }
+  if(!clustered&&place===first.name){
+   const text=document.createElementNS(surface.namespaceURI,'text');text.setAttribute('y',list.length>1?'-19':'-13');text.setAttribute('text-anchor','middle');text.textContent=first.name;g.append(text);
   }
   function select(){
    if(clustered){
@@ -697,10 +698,11 @@ function initVectorAtlas(){
    clearTimeout(readyTimer);vectorReady=true;container.setAttribute('aria-hidden','true');
    vectorMap.addSource('photographs',{type:'geojson',data:vectorData(),cluster:true,clusterMaxZoom:13,clusterRadius:45,clusterProperties:{photos:['+',['get','count']]}});
    vectorMap.addLayer({id:'place-clusters',type:'circle',source:'photographs',filter:['has','point_count'],paint:{'circle-color':'#d2b27b','circle-radius':['step',['get','photos'],17,50,21,200,26],'circle-stroke-color':'#eed6aa','circle-stroke-opacity':.22,'circle-stroke-width':5}});
-   vectorMap.addLayer({id:'place-counts',type:'symbol',source:'photographs',filter:['has','point_count'],layout:{'text-field':['to-string',['get','photos']],'text-font':['Noto Sans Regular'],'text-size':11},paint:{'text-color':'#14202a'}});
+   vectorMap.addLayer({id:'place-counts',type:'symbol',source:'photographs',filter:['has','point_count'],layout:{'text-field':['to-string',['get','photos']],'text-font':['Noto Sans Regular'],'text-size':11,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#14202a'}});
    vectorMap.addLayer({id:'place-hits',type:'circle',source:'photographs',filter:['!',['has','point_count']],paint:{'circle-radius':19,'circle-color':'#d2b27b','circle-opacity':0}});
-   vectorMap.addLayer({id:'place-points',type:'circle',source:'photographs',filter:['!',['has','point_count']],paint:{'circle-radius':6,'circle-color':'#e7c68b','circle-stroke-color':'#15232d','circle-stroke-width':2}});
-   vectorMap.addLayer({id:'selected-location',type:'circle',source:'photographs',filter:['==',['get','location'],place||''],paint:{'circle-radius':10,'circle-color':'#edcc8d','circle-stroke-color':'#fff4dd','circle-stroke-width':2}});
+   vectorMap.addLayer({id:'place-points',type:'circle',source:'photographs',filter:['!',['has','point_count']],paint:{'circle-radius':['case',['>', ['get','count'],1],14,6],'circle-color':'#e7c68b','circle-stroke-color':'#15232d','circle-stroke-width':2}});
+   vectorMap.addLayer({id:'selected-location',type:'circle',source:'photographs',filter:['==',['get','location'],place||''],paint:{'circle-radius':['case',['>', ['get','count'],1],17,10],'circle-color':'#edcc8d','circle-stroke-color':'#fff4dd','circle-stroke-width':2}});
+   vectorMap.addLayer({id:'place-photo-counts',type:'symbol',source:'photographs',filter:['all',['!',['has','point_count']],['>',['get','count'],1]],layout:{'text-field':['to-string',['get','count']],'text-font':['Noto Sans Regular'],'text-size':11,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#14202a'}});
    vectorMap.addLayer({id:'place-labels',type:'symbol',source:'photographs',filter:['!',['has','point_count']],minzoom:5,layout:{'text-field':['get','location'],'text-font':['Noto Sans Regular'],'text-size':11,'text-offset':[0,1.5],'text-anchor':'top','text-max-width':15},paint:{'text-color':'#d7e0df','text-halo-color':'#111b24','text-halo-width':1.5}});
    vectorMap.on('click','place-clusters',event=>selectFeature(event.features?.[0]));
    vectorMap.on('click','place-hits',event=>selectFeature(event.features?.[0]));
