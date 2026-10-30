@@ -100,7 +100,7 @@ function renderStories(){
  stories.forEach((s,i)=>{
   const p=catalogPhotos.find(p=>p.id===s.photo)||catalogPhotos.find(p=>p.category===s.category)||catalogPhotos[i+1]||catalogPhotos[0];if(!p)return;
   const b=document.createElement('a');b.className='story';b.href=s.page;b.setAttribute('aria-label',`Explore ${s.category} photographs`);
-  b.innerHTML=`<div class="story-img"><img ${thumbnailAttrs(p,sizes)} alt="${esc(photoAlt(p))}" loading="${directory&&i===0?'eager':'lazy'}"></div><div class="story-meta"><span>${esc(s.label)}</span><span>0${i+1} ↗</span></div><h3>${esc(s.displayTitle||s.title)}</h3><p>${esc(s.description)}</p>`;
+  b.innerHTML=`<div class="story-img"><img ${thumbnailAttrs(p,sizes)} alt="${esc(photoAlt(p))}" loading="${directory&&i===0?'eager':'lazy'}"></div><div class="story-meta"><span>${esc(s.label)}</span><span aria-hidden="true">↗</span></div><h3>${esc(s.displayTitle||s.title)}</h3><p>${esc(s.description)}</p>`;
   $('#journal-stories').append(b);
  });
  if($('#photography-status'))$('#photography-status').hidden=true;
