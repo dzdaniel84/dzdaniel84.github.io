@@ -1,77 +1,77 @@
-﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order
-sweden-001.jpeg,Stockholm,Sweden,,Sweden · 01,59.32938,18.06871,true,sweden-001,Country Albums,City,visual,false,true,,1148
-sweden-002.jpeg,Stockholm,Sweden,,Sweden · 02,59.32938,18.06871,true,sweden-002,Country Albums,City,visual,false,true,,1149
-sweden-003.jpeg,Stockholm,Sweden,,Sweden · 03,59.32938,18.06871,true,sweden-003,Country Albums,City,visual,false,true,,1150
-sweden-004.jpeg,Stockholm,Sweden,,Sweden · 04,59.32938,18.06871,true,sweden-004,Country Albums,City,visual,false,true,,1151
-sweden-005.jpeg,Stockholm,Sweden,,Sweden · 05,59.32938,18.06871,true,sweden-005,Country Albums,City,visual,false,true,,1152
-sweden-006.jpeg,Stockholm,Sweden,,Sweden · 06,59.32938,18.06871,true,sweden-006,Country Albums,City,visual,false,true,,1153
-sweden-007.jpeg,Stockholm,Sweden,,Sweden · 07,59.32938,18.06871,true,sweden-007,Country Albums,City,visual,false,true,,1154
-sweden-008.jpeg,Stockholm,Sweden,,Sweden · 08,59.32938,18.06871,true,sweden-008,Country Albums,City,visual,false,true,,1155
-sweden-009.jpeg,Stockholm,Sweden,,Sweden · 09,59.32938,18.06871,true,sweden-009,Country Albums,City,visual,false,true,,1156
-sweden-010.jpeg,Stockholm,Sweden,,Sweden · 10,59.32938,18.06871,true,sweden-010,Country Albums,City,visual,false,true,,1157
-sweden-011.jpeg,Stockholm,Sweden,,Sweden · 11,59.32938,18.06871,true,sweden-011,Country Albums,City,visual,false,true,,1158
-sweden-012.jpeg,Stockholm,Sweden,,Sweden · 12,59.32938,18.06871,true,sweden-012,Country Albums,City,visual,false,true,,1159
-sweden-013.jpeg,Stockholm,Sweden,,Sweden · 13,59.32938,18.06871,true,sweden-013,Country Albums,City,visual,false,true,,1160
-sweden-014.jpeg,Stockholm,Sweden,,Sweden · 14,59.32938,18.06871,true,sweden-014,Country Albums,City,visual,false,true,,1161
-sweden-015.jpeg,Stockholm,Sweden,,Sweden · 15,59.32938,18.06871,true,sweden-015,Country Albums,City,visual,false,true,,1162
-sweden-016.jpeg,Stockholm,Sweden,,Sweden · 16,59.32938,18.06871,true,sweden-016,Country Albums,City,visual,false,true,,1163
-sweden-017.jpeg,Stockholm,Sweden,,Sweden · 17,59.32938,18.06871,true,sweden-017,Country Albums,City,visual,false,true,,1164
-sweden-018.jpeg,Stockholm,Sweden,,Sweden · 18,59.32938,18.06871,true,sweden-018,Country Albums,City,visual,false,true,,1165
-sweden-019.jpeg,Rådhuset Station,Sweden,,Rådhuset Station,59.33014,18.0419,true,sweden-019,Country Albums,Landmark,visual,false,true,,1166
-sweden-020.jpeg,Kungsträdgården Station,Sweden,,Kungsträdgården Station,59.33021,18.06857,true,sweden-020,Country Albums,Landmark,visual,false,true,,1167
-sweden-021.jpeg,Stockholm,Sweden,,Sweden · 21,59.32938,18.06871,true,sweden-021,Country Albums,City,visual,false,true,,1168
-sweden-022.jpeg,Stockholm,Sweden,,Sweden · 22,59.32938,18.06871,true,sweden-022,Country Albums,City,visual,false,true,,1169
-sweden-023.jpeg,Vasa Museum,Sweden,,Sweden · 23,59.32774,18.09139,true,sweden-023,Country Albums,Landmark,visual,false,true,,1170
-sweden-024.jpeg,Vasa Museum,Sweden,,Sweden · 24,59.32774,18.09139,true,sweden-024,Country Albums,Landmark,visual,false,true,,1171
-sweden-025.jpeg,Stockholm,Sweden,,Sweden · 25,59.32938,18.06871,true,sweden-025,Country Albums,City,visual,false,true,,1172
-sweden-026.jpeg,Stockholm,Sweden,,Sweden · 26,59.32938,18.06871,true,sweden-026,Country Albums,City,visual,false,true,,1173
-sweden-027.jpeg,Stockholm,Sweden,,Sweden · 27,59.32938,18.06871,true,sweden-027,Country Albums,City,visual,false,true,,1174
-sweden-028.jpeg,Stockholm,Sweden,,Sweden · 28,59.32938,18.06871,true,sweden-028,Country Albums,City,visual,false,true,,1175
-sweden-029.jpeg,Stockholm,Sweden,,Sweden · 29,59.32938,18.06871,true,sweden-029,Country Albums,City,visual,false,true,,1176
-sweden-030.jpg,T-Centralen Station,Sweden,,T-Centralen Station,59.33236,18.06296,true,sweden-030,Country Albums,Landmark,visual,false,true,sweden-030-fallback.jpeg,1177
-sweden-031.jpeg,Stockholm,Sweden,,Sweden · 31,59.32938,18.06871,true,sweden-031,Country Albums,City,visual,false,true,,1178
-sweden-032.jpeg,Stockholm,Sweden,,Sweden · 32,59.32938,18.06871,true,sweden-032,Country Albums,City,visual,false,true,,1179
-sweden-033.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 33,59.32694,18.07167,true,sweden-033,Country Albums,Landmark,visual,false,true,,1180
-sweden-034.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 34,59.32694,18.07167,true,sweden-034,Country Albums,Landmark,visual,false,true,,1181
-sweden-035.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 35,59.32694,18.07167,true,sweden-035,Country Albums,Landmark,visual,false,true,,1182
-sweden-036.jpeg,Stockholm,Sweden,,Sweden · 36,59.32938,18.06871,true,sweden-036,Country Albums,City,visual,false,true,,1183
-sweden-037.jpeg,Stockholm,Sweden,,Sweden · 37,59.32938,18.06871,true,sweden-037,Country Albums,City,visual,false,true,,1184
-sweden-038.jpeg,Stockholm,Sweden,,Sweden · 38,59.32938,18.06871,true,sweden-038,Country Albums,City,visual,false,true,,1185
-sweden-039.jpeg,Stockholm,Sweden,,Sweden · 39,59.32938,18.06871,true,sweden-039,Country Albums,City,visual,false,true,,1186
-sweden-040.jpeg,Stockholm,Sweden,,Sweden · 40,59.32938,18.06871,true,sweden-040,Country Albums,City,visual,false,true,,1187
-sweden-041.jpeg,Stockholm,Sweden,,Sweden · 41,59.32938,18.06871,true,sweden-041,Country Albums,City,visual,false,true,,1188
-sweden-042.jpeg,Stockholm City Hall,Sweden,,Sweden · 42,59.3275,18.0547,true,sweden-042,Country Albums,Landmark,visual,false,true,,1189
-sweden-043.jpeg,Stockholm,Sweden,,Sweden · 43,59.32938,18.06871,true,sweden-043,Country Albums,City,visual,false,true,,1190
-sweden-044.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 44,59.32694,18.07167,true,sweden-044,Country Albums,Landmark,visual,false,true,,1191
-sweden-045.jpeg,Stockholm,Sweden,,Sweden · 45,59.32938,18.06871,true,sweden-045,Country Albums,City,visual,false,true,,1192
-sweden-046.jpeg,Stockholm,Sweden,,Sweden · 46,59.32938,18.06871,true,sweden-046,Country Albums,City,visual,false,true,,1193
-sweden-047.jpeg,Stockholm,Sweden,,Sweden · 47,59.32938,18.06871,true,sweden-047,Country Albums,City,visual,false,true,,1194
-sweden-048.jpeg,Stockholm,Sweden,,Sweden · 48,59.32938,18.06871,true,sweden-048,Country Albums,City,visual,false,true,,1195
-sweden-049.jpeg,Stockholm,Sweden,,Sweden · 49,59.32938,18.06871,true,sweden-049,Country Albums,City,visual,false,true,,1196
-sweden-050.jpeg,Stockholm,Sweden,,Sweden · 50,59.32938,18.06871,true,sweden-050,Country Albums,City,visual,false,true,,1197
-sweden-051.jpeg,Stockholm,Sweden,,Sweden · 51,59.32938,18.06871,true,sweden-051,Country Albums,City,visual,false,true,,1198
-sweden-052.jpeg,Stockholm,Sweden,,Sweden · 52,59.32938,18.06871,true,sweden-052,Country Albums,City,visual,false,true,,1199
-sweden-053.jpeg,Stockholm,Sweden,,Sweden · 53,59.32938,18.06871,true,sweden-053,Country Albums,City,visual,false,true,,1200
-sweden-054.jpeg,Stockholm,Sweden,,Sweden · 54,59.32938,18.06871,true,sweden-054,Country Albums,City,visual,false,true,,1201
-sweden-055.jpeg,Stockholm,Sweden,,Sweden · 55,59.32938,18.06871,true,sweden-055,Country Albums,City,visual,false,true,,1202
-sweden-056.jpeg,Stockholm,Sweden,,Sweden · 56,59.32938,18.06871,true,sweden-056,Country Albums,City,visual,false,true,,1203
-sweden-057.jpeg,Stockholm,Sweden,,Sweden · 57,59.32938,18.06871,true,sweden-057,Country Albums,City,visual,false,true,,1204
-sweden-058.jpeg,Stockholm,Sweden,,Sweden · 58,59.32938,18.06871,true,sweden-058,Country Albums,City,visual,false,true,,1205
-sweden-059.jpeg,Stockholm,Sweden,,Sweden · 59,59.32938,18.06871,true,sweden-059,Country Albums,City,visual,false,true,,1206
-sweden-060.jpeg,Stockholm,Sweden,,Sweden · 60,59.32938,18.06871,true,sweden-060,Country Albums,City,visual,false,true,,1207
-sweden-061.jpeg,Stockholm,Sweden,,Sweden · 61,59.32938,18.06871,true,sweden-061,Country Albums,City,visual,false,true,,1208
-sweden-062.jpeg,Stockholm,Sweden,,Sweden · 62,59.32938,18.06871,true,sweden-062,Country Albums,City,visual,false,true,,1209
-sweden-063.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 63,59.32694,18.07167,true,sweden-063,Country Albums,Landmark,visual,false,true,,1210
-sweden-064.jpeg,Stockholm,Sweden,,Sweden · 64,59.32938,18.06871,true,sweden-064,Country Albums,City,visual,false,true,,1211
-sweden-065.jpeg,Stockholm,Sweden,,Sweden · 65,59.32938,18.06871,true,sweden-065,Country Albums,City,visual,false,true,,1212
-sweden-066.jpeg,Stockholm,Sweden,,Sweden · 66,59.32938,18.06871,true,sweden-066,Country Albums,City,visual,false,true,,1213
-sweden-067.jpeg,Stockholm,Sweden,,Sweden · 67,59.32938,18.06871,true,sweden-067,Country Albums,City,visual,false,true,,1214
-sweden-068.jpeg,Stockholm,Sweden,,Sweden · 68,59.32938,18.06871,true,sweden-068,Country Albums,City,visual,false,true,,1215
-sweden-069.jpeg,Stockholm,Sweden,,Sweden · 69,59.32938,18.06871,true,sweden-069,Country Albums,City,visual,false,true,,1216
-sweden-070.jpeg,Stockholm,Sweden,,Sweden · 70,59.32938,18.06871,true,sweden-070,Country Albums,City,visual,false,true,,1217
-sweden-071.jpeg,Stockholm,Sweden,,Sweden · 71,59.32938,18.06871,true,sweden-071,Country Albums,City,visual,false,true,,1218
-sweden-072.jpeg,Stockholm,Sweden,,Sweden · 72,59.32938,18.06871,true,sweden-072,Country Albums,City,visual,false,true,,1219
-sweden-073.jpeg,Stockholm,Sweden,,Sweden · 73,59.32938,18.06871,true,sweden-073,Country Albums,City,visual,false,true,,1220
-sweden-074.jpeg,Stockholm,Sweden,,Sweden · 74,59.32938,18.06871,true,sweden-074,Country Albums,City,visual,false,true,,1221
-sweden-075.jpeg,Stockholm,Sweden,,Sweden · 75,59.32938,18.06871,true,sweden-075,Country Albums,City,visual,false,true,,1222
-sweden-076.jpeg,Stockholm,Sweden,,Sweden · 76,59.32938,18.06871,true,sweden-076,Country Albums,City,visual,false,true,,1223
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,country_sequence
+sweden-001.jpeg,Stockholm,Sweden,,Sweden · 01,59.32938,18.06871,true,sweden-001,Country Albums,City,visual,false,true,,1148,true
+sweden-002.jpeg,Stockholm,Sweden,,Sweden · 02,59.32938,18.06871,true,sweden-002,Country Albums,City,visual,false,true,,1149,true
+sweden-003.jpeg,Stockholm,Sweden,,Sweden · 03,59.32938,18.06871,true,sweden-003,Country Albums,City,visual,false,true,,1150,true
+sweden-004.jpeg,Stockholm,Sweden,,Sweden · 04,59.32938,18.06871,true,sweden-004,Country Albums,City,visual,false,true,,1151,true
+sweden-005.jpeg,Stockholm,Sweden,,Sweden · 05,59.32938,18.06871,true,sweden-005,Country Albums,City,visual,false,true,,1152,true
+sweden-006.jpeg,Stockholm,Sweden,,Sweden · 06,59.32938,18.06871,false,sweden-006,Country Albums,City,visual,false,true,,1153,false
+sweden-007.jpeg,Stockholm,Sweden,,Sweden · 07,59.32938,18.06871,false,sweden-007,Country Albums,City,visual,false,true,,1154,false
+sweden-008.jpeg,Stockholm,Sweden,,Sweden · 08,59.32938,18.06871,true,sweden-008,Country Albums,City,visual,false,true,,1155,true
+sweden-009.jpeg,Stockholm,Sweden,,Sweden · 09,59.32938,18.06871,false,sweden-009,Country Albums,City,visual,false,true,,1156,false
+sweden-010.jpeg,Stockholm,Sweden,,Sweden · 10,59.32938,18.06871,false,sweden-010,Country Albums,City,visual,false,true,,1157,false
+sweden-011.jpeg,Stockholm,Sweden,,Sweden · 11,59.32938,18.06871,true,sweden-011,Country Albums,City,visual,false,true,,1158,true
+sweden-012.jpeg,Stockholm,Sweden,,Sweden · 12,59.32938,18.06871,false,sweden-012,Country Albums,City,visual,false,true,,1159,false
+sweden-013.jpeg,Stockholm,Sweden,,Sweden · 13,59.32938,18.06871,false,sweden-013,Country Albums,City,visual,false,true,,1160,false
+sweden-014.jpeg,Stockholm,Sweden,,Sweden · 14,59.32938,18.06871,true,sweden-014,Country Albums,City,visual,false,true,,1161,true
+sweden-015.jpeg,Stockholm,Sweden,,Sweden · 15,59.32938,18.06871,false,sweden-015,Country Albums,City,visual,false,true,,1162,false
+sweden-016.jpeg,Stockholm,Sweden,,Sweden · 16,59.32938,18.06871,false,sweden-016,Country Albums,City,visual,false,true,,1163,false
+sweden-017.jpeg,Stockholm,Sweden,,Sweden · 17,59.32938,18.06871,false,sweden-017,Country Albums,City,visual,false,true,,1164,false
+sweden-018.jpeg,Stockholm,Sweden,,Sweden · 18,59.32938,18.06871,true,sweden-018,Country Albums,City,visual,false,true,,1165,true
+sweden-019.jpeg,Rådhuset Station,Sweden,,Rådhuset Station,59.33014,18.0419,true,sweden-019,Country Albums,Landmark,visual,false,true,,1166,true
+sweden-020.jpeg,Kungsträdgården Station,Sweden,,Kungsträdgården Station,59.33021,18.06857,true,sweden-020,Country Albums,Landmark,visual,false,true,,1167,true
+sweden-021.jpeg,Stockholm,Sweden,,Sweden · 21,59.32938,18.06871,false,sweden-021,Country Albums,City,visual,false,true,,1168,false
+sweden-022.jpeg,Stockholm,Sweden,,Sweden · 22,59.32938,18.06871,true,sweden-022,Country Albums,City,visual,false,true,,1169,true
+sweden-023.jpeg,Vasa Museum,Sweden,,Sweden · 23,59.32774,18.09139,false,sweden-023,Country Albums,Landmark,visual,false,true,,1170,false
+sweden-024.jpeg,Vasa Museum,Sweden,,Sweden · 24,59.32774,18.09139,true,sweden-024,Country Albums,Landmark,visual,false,true,,1171,true
+sweden-025.jpeg,Stockholm,Sweden,,Sweden · 25,59.32938,18.06871,false,sweden-025,Country Albums,City,visual,false,true,,1172,false
+sweden-026.jpeg,Stockholm,Sweden,,Sweden · 26,59.32938,18.06871,true,sweden-026,Country Albums,City,visual,false,true,,1173,true
+sweden-027.jpeg,Stockholm,Sweden,,Sweden · 27,59.32938,18.06871,false,sweden-027,Country Albums,City,visual,false,true,,1174,false
+sweden-028.jpeg,Stockholm,Sweden,,Sweden · 28,59.32938,18.06871,false,sweden-028,Country Albums,City,visual,false,true,,1175,false
+sweden-029.jpeg,Stockholm,Sweden,,Sweden · 29,59.32938,18.06871,true,sweden-029,Country Albums,City,visual,false,true,,1176,true
+sweden-030.jpg,T-Centralen Station,Sweden,,T-Centralen Station,59.33236,18.06296,true,sweden-030,Country Albums,Landmark,visual,false,true,sweden-030-fallback.jpeg,1177,true
+sweden-031.jpeg,Stockholm,Sweden,,Sweden · 31,59.32938,18.06871,false,sweden-031,Country Albums,City,visual,false,true,,1178,false
+sweden-032.jpeg,Stockholm,Sweden,,Sweden · 32,59.32938,18.06871,true,sweden-032,Country Albums,City,visual,false,true,,1179,true
+sweden-033.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 33,59.32694,18.07167,false,sweden-033,Country Albums,Landmark,visual,false,true,,1180,false
+sweden-034.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 34,59.32694,18.07167,false,sweden-034,Country Albums,Landmark,visual,false,true,,1181,false
+sweden-035.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 35,59.32694,18.07167,true,sweden-035,Country Albums,Landmark,visual,false,true,,1182,true
+sweden-036.jpeg,Stockholm,Sweden,,Sweden · 36,59.32938,18.06871,false,sweden-036,Country Albums,City,visual,false,true,,1183,false
+sweden-037.jpeg,Stockholm,Sweden,,Sweden · 37,59.32938,18.06871,false,sweden-037,Country Albums,City,visual,false,true,,1184,false
+sweden-038.jpeg,Stockholm,Sweden,,Sweden · 38,59.32938,18.06871,true,sweden-038,Country Albums,City,visual,false,true,,1185,true
+sweden-039.jpeg,Stockholm,Sweden,,Sweden · 39,59.32938,18.06871,false,sweden-039,Country Albums,City,visual,false,true,,1186,false
+sweden-040.jpeg,Stockholm,Sweden,,Sweden · 40,59.32938,18.06871,true,sweden-040,Country Albums,City,visual,false,true,,1187,true
+sweden-041.jpeg,Stockholm,Sweden,,Sweden · 41,59.32938,18.06871,false,sweden-041,Country Albums,City,visual,false,true,,1188,false
+sweden-042.jpeg,Stockholm City Hall,Sweden,,Sweden · 42,59.3275,18.0547,true,sweden-042,Country Albums,Landmark,visual,false,true,,1189,true
+sweden-043.jpeg,Stockholm,Sweden,,Sweden · 43,59.32938,18.06871,false,sweden-043,Country Albums,City,visual,false,true,,1190,false
+sweden-044.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 44,59.32694,18.07167,true,sweden-044,Country Albums,Landmark,visual,false,true,,1191,true
+sweden-045.jpeg,Stockholm,Sweden,,Sweden · 45,59.32938,18.06871,false,sweden-045,Country Albums,City,visual,false,true,,1192,false
+sweden-046.jpeg,Stockholm,Sweden,,Sweden · 46,59.32938,18.06871,false,sweden-046,Country Albums,City,visual,false,true,,1193,false
+sweden-047.jpeg,Stockholm,Sweden,,Sweden · 47,59.32938,18.06871,false,sweden-047,Country Albums,City,visual,false,true,,1194,false
+sweden-048.jpeg,Stockholm,Sweden,,Sweden · 48,59.32938,18.06871,true,sweden-048,Country Albums,City,visual,false,true,,1195,true
+sweden-049.jpeg,Stockholm,Sweden,,Sweden · 49,59.32938,18.06871,false,sweden-049,Country Albums,City,visual,false,true,,1196,false
+sweden-050.jpeg,Stockholm,Sweden,,Sweden · 50,59.32938,18.06871,false,sweden-050,Country Albums,City,visual,false,true,,1197,false
+sweden-051.jpeg,Stockholm,Sweden,,Sweden · 51,59.32938,18.06871,false,sweden-051,Country Albums,City,visual,false,true,,1198,false
+sweden-052.jpeg,Stockholm,Sweden,,Sweden · 52,59.32938,18.06871,false,sweden-052,Country Albums,City,visual,false,true,,1199,false
+sweden-053.jpeg,Stockholm,Sweden,,Sweden · 53,59.32938,18.06871,false,sweden-053,Country Albums,City,visual,false,true,,1200,false
+sweden-054.jpeg,Stockholm,Sweden,,Sweden · 54,59.32938,18.06871,false,sweden-054,Country Albums,City,visual,false,true,,1201,false
+sweden-055.jpeg,Stockholm,Sweden,,Sweden · 55,59.32938,18.06871,false,sweden-055,Country Albums,City,visual,false,true,,1202,false
+sweden-056.jpeg,Stockholm,Sweden,,Sweden · 56,59.32938,18.06871,false,sweden-056,Country Albums,City,visual,false,true,,1203,false
+sweden-057.jpeg,Stockholm,Sweden,,Sweden · 57,59.32938,18.06871,true,sweden-057,Country Albums,City,visual,false,true,,1204,true
+sweden-058.jpeg,Stockholm,Sweden,,Sweden · 58,59.32938,18.06871,false,sweden-058,Country Albums,City,visual,false,true,,1205,false
+sweden-059.jpeg,Stockholm,Sweden,,Sweden · 59,59.32938,18.06871,false,sweden-059,Country Albums,City,visual,false,true,,1206,false
+sweden-060.jpeg,Stockholm,Sweden,,Sweden · 60,59.32938,18.06871,false,sweden-060,Country Albums,City,visual,false,true,,1207,false
+sweden-061.jpeg,Stockholm,Sweden,,Sweden · 61,59.32938,18.06871,true,sweden-061,Country Albums,City,visual,false,true,,1208,true
+sweden-062.jpeg,Stockholm,Sweden,,Sweden · 62,59.32938,18.06871,false,sweden-062,Country Albums,City,visual,false,true,,1209,false
+sweden-063.jpeg,Stockholm Royal Palace,Sweden,,Sweden · 63,59.32694,18.07167,false,sweden-063,Country Albums,Landmark,visual,false,true,,1210,false
+sweden-064.jpeg,Stockholm,Sweden,,Sweden · 64,59.32938,18.06871,false,sweden-064,Country Albums,City,visual,false,true,,1211,false
+sweden-065.jpeg,Stockholm,Sweden,,Sweden · 65,59.32938,18.06871,true,sweden-065,Country Albums,City,visual,false,true,,1212,true
+sweden-066.jpeg,Stockholm,Sweden,,Sweden · 66,59.32938,18.06871,false,sweden-066,Country Albums,City,visual,false,true,,1213,false
+sweden-067.jpeg,Stockholm,Sweden,,Sweden · 67,59.32938,18.06871,false,sweden-067,Country Albums,City,visual,false,true,,1214,false
+sweden-068.jpeg,Stockholm,Sweden,,Sweden · 68,59.32938,18.06871,false,sweden-068,Country Albums,City,visual,false,true,,1215,false
+sweden-069.jpeg,Stockholm,Sweden,,Sweden · 69,59.32938,18.06871,true,sweden-069,Country Albums,City,visual,false,true,,1216,true
+sweden-070.jpeg,Stockholm,Sweden,,Sweden · 70,59.32938,18.06871,true,sweden-070,Country Albums,City,visual,false,true,,1217,true
+sweden-071.jpeg,Stockholm,Sweden,,Sweden · 71,59.32938,18.06871,false,sweden-071,Country Albums,City,visual,false,true,,1218,false
+sweden-072.jpeg,Stockholm,Sweden,,Sweden · 72,59.32938,18.06871,false,sweden-072,Country Albums,City,visual,false,true,,1219,false
+sweden-073.jpeg,Stockholm,Sweden,,Sweden · 73,59.32938,18.06871,false,sweden-073,Country Albums,City,visual,false,true,,1220,false
+sweden-074.jpeg,Stockholm,Sweden,,Sweden · 74,59.32938,18.06871,true,sweden-074,Country Albums,City,visual,false,true,,1221,true
+sweden-075.jpeg,Stockholm,Sweden,,Sweden · 75,59.32938,18.06871,false,sweden-075,Country Albums,City,visual,false,true,,1222,false
+sweden-076.jpeg,Stockholm,Sweden,,Sweden · 76,59.32938,18.06871,true,sweden-076,Country Albums,City,visual,false,true,,1223,true

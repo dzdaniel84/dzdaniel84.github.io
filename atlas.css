@@ -158,8 +158,8 @@
 @media(min-width:651px){.atlas-immersive .outline-controls{bottom:28px}}
 @media(prefers-reduced-motion:reduce){.atlas-immersive #world-map,.atlas-immersive #detailed-map{transition:none}}
 
-/* Quiet map attribution beneath the category selector. */
-.atlas-immersive .atlas-source{font-size:9px;line-height:1.7;text-align:center;margin:14px auto 0;padding-bottom:0}
+/* Quiet map attribution at the bottom of the page. */
+.atlas-immersive .atlas-source{font-size:9px;line-height:1.7;text-align:center;margin:24px auto 36px;padding-bottom:0}
 .atlas-immersive .country-directory{padding-top:112px}
 .atlas-immersive .country-directory .section-heading h2{margin-top:0}
 @media(max-width:650px){.atlas-immersive .atlas-source{font-size:8px;line-height:1.7;margin-top:12px}.atlas-immersive .country-directory{padding-top:80px}}

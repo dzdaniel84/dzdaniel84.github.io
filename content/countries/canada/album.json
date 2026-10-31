@@ -2,5 +2,90 @@
   "name": "Canada",
   "page": "country-canada.html",
   "cover": "canada-054.jpeg",
-  "cover_position": "38% 53%"
+  "cover_position": "38% 53%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Vancouver",
+        "photoIds": [
+          "canada-001",
+          "canada-002",
+          "canada-003",
+          "canada-004",
+          "canada-005",
+          "canada-006",
+          "canada-007",
+          "canada-008",
+          "canada-009",
+          "canada-010",
+          "canada-011",
+          "canada-012",
+          "canada-013",
+          "canada-014",
+          "canada-015",
+          "canada-016",
+          "canada-017",
+          "canada-019",
+          "canada-020",
+          "canada-022",
+          "canada-023",
+          "canada-024",
+          "canada-026",
+          "canada-030",
+          "canada-033"
+        ]
+      },
+      {
+        "title": "Victoria",
+        "photoIds": [
+          "canada-018",
+          "canada-021",
+          "canada-025",
+          "canada-027",
+          "canada-028",
+          "canada-029",
+          "canada-031",
+          "canada-032"
+        ]
+      },
+      {
+        "title": "Quebec City",
+        "photoIds": [
+          "canada-045",
+          "canada-046",
+          "canada-047",
+          "canada-048",
+          "canada-049",
+          "canada-050",
+          "canada-051",
+          "canada-052",
+          "canada-053",
+          "canada-054",
+          "canada-055",
+          "canada-056",
+          "canada-057",
+          "canada-058",
+          "canada-059",
+          "canada-060"
+        ]
+      },
+      {
+        "title": "Montreal",
+        "photoIds": [
+          "canada-034",
+          "canada-035",
+          "canada-036",
+          "canada-037",
+          "canada-038",
+          "canada-039",
+          "canada-040",
+          "canada-041",
+          "canada-042",
+          "canada-043",
+          "canada-044"
+        ]
+      }
+    ]
+  }
 }

@@ -2,5 +2,109 @@
   "name": "Italy",
   "page": "country-italy.html",
   "cover": "world-landmarks-14.jpeg",
-  "cover_position": "2% 50%"
+  "cover_position": "2% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Venice",
+        "photoIds": [
+          "world-landmarks-16",
+          "italy-003",
+          "italy-004",
+          "italy-005",
+          "italy-006",
+          "italy-020",
+          "italy-021",
+          "italy-023",
+          "italy-024",
+          "italy-025",
+          "italy-026",
+          "italy-027",
+          "italy-028",
+          "world-landmarks-01",
+          "italy-030",
+          "italy-031",
+          "italy-032",
+          "italy-033",
+          "italy-046",
+          "italy-048",
+          "italy-049",
+          "italy-050",
+          "italy-051",
+          "italy-052",
+          "italy-053",
+          "italy-054",
+          "italy-055"
+        ]
+      },
+      {
+        "title": "Bologna",
+        "photoIds": [
+          "italy-022",
+          "italy-034",
+          "italy-056",
+          "italy-057",
+          "italy-058",
+          "italy-059"
+        ]
+      },
+      {
+        "title": "Rome",
+        "photoIds": [
+          "italy-007",
+          "italy-040",
+          "italy-042",
+          "italy-043",
+          "italy-044",
+          "world-landmarks-14",
+          "italy-067",
+          "italy-068"
+        ]
+      },
+      {
+        "title": "Florence",
+        "photoIds": [
+          "italy-035",
+          "italy-036",
+          "italy-037",
+          "italy-038",
+          "italy-039",
+          "world-landmarks-19",
+          "italy-060",
+          "italy-061",
+          "italy-062",
+          "italy-063",
+          "italy-064",
+          "italy-065",
+          "italy-066"
+        ]
+      },
+      {
+        "title": "Milan",
+        "photoIds": [
+          "italy-001",
+          "italy-009",
+          "italy-010",
+          "italy-011",
+          "italy-012",
+          "italy-013",
+          "italy-014",
+          "world-landmarks-30",
+          "italy-016",
+          "italy-017",
+          "italy-018",
+          "italy-019",
+          "italy-047",
+          "italy-069"
+        ]
+      },
+      {
+        "title": "Ventimiglia",
+        "photoIds": [
+          "italy-008"
+        ]
+      }
+    ]
+  }
 }

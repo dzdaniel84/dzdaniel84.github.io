@@ -674,3 +674,6 @@ html[data-theme="light"] :is([data-category="Metros"],[data-category="Airports"]
 }
 
 .hide-photo-captions .tile-caption{display:none}
+
+.collection-editorial .hide-photo-captions .tile-caption,
+.hide-photo-captions .filmstrip-drawer button>span{display:none}

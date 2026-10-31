@@ -1,6 +1,6 @@
 ﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order
 greece-001.jpeg,Athens,Greece,,Greece · 01,37.976722,23.726258,true,greece-001,Country Albums,City,gps,false,true,,391
-greece-002.jpeg,Greece,Greece,,Greece · 02,39.07,21.82,true,greece-002,Country Albums,Country,country,false,true,,392
+greece-002.jpeg,Athens,Greece,,Greece · 02,37.9838,23.7275,true,greece-002,Country Albums,City,manual,false,true,,392
 greece-003.jpeg,Athens,Greece,,Greece · 03,37.976722,23.726258,true,greece-003,Country Albums,City,gps,false,true,,393
 greece-004.jpeg,Parthenon,Greece,,Greece · 04,37.9715,23.7266,true,greece-004,Country Albums,Landmark,visual,false,true,,394
 greece-005.jpeg,Meteora,Greece,,Greece · 05,39.716828,21.629847,true,greece-005,Country Albums,City,gps,false,true,,395
@@ -8,7 +8,7 @@ greece-006.jpeg,Meteora,Greece,,Greece · 06,39.716828,21.629847,true,greece-006
 greece-007.jpeg,Athens,Greece,,Greece · 07,37.976722,23.726258,true,greece-007,Country Albums,City,gps,false,true,,397
 greece-008.jpeg,Athens,Greece,,Greece · 08,37.976722,23.726258,true,greece-008,Country Albums,City,gps,false,true,,398
 greece-009.jpeg,Chania,Greece,,Greece · 09,35.513667,24.020547,true,greece-009,Country Albums,City,gps,false,true,,399
-greece-010.jpeg,Greece,Greece,,Greece · 10,39.07,21.82,true,greece-010,Country Albums,Country,country,false,true,,400
+greece-010.jpeg,"Kissamos, Crete",Greece,,Greece · 10,35.4946,23.654,true,greece-010,Country Albums,City,manual,false,true,,400
 greece-011.jpeg,Athens,Greece,,Greece · 11,37.976722,23.726258,true,greece-011,Country Albums,City,gps,false,true,,401
 greece-012.jpeg,Nafplio,Greece,,Greece · 12,37.567055,22.797103,true,greece-012,Country Albums,City,gps,false,true,,402
 greece-013.jpeg,"Falasarna, Crete",Greece,,Greece · 13,35.485612,23.605833,true,greece-013,Country Albums,City,gps,false,true,,403

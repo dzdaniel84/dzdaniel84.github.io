@@ -2,5 +2,87 @@
   "name": "Greece",
   "page": "country-greece.html",
   "cover": "world-landmarks-15.jpg",
-  "cover_position": "25% 55%"
+  "cover_position": "25% 55%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Athens",
+        "photoIds": [
+          "greece-001",
+          "greece-002",
+          "greece-003",
+          "greece-004",
+          "greece-007",
+          "greece-008",
+          "greece-011",
+          "greece-015",
+          "greece-016",
+          "greece-017",
+          "greece-018",
+          "greece-019",
+          "greece-020",
+          "greece-026",
+          "greece-027",
+          "greece-028",
+          "greece-029",
+          "greece-030",
+          "greece-031",
+          "greece-033",
+          "greece-034",
+          "greece-036",
+          "greece-037"
+        ]
+      },
+      {
+        "title": "Nafplio",
+        "photoIds": [
+          "greece-012",
+          "greece-014",
+          "greece-021",
+          "greece-022",
+          "greece-023",
+          "greece-024",
+          "greece-025",
+          "greece-052"
+        ]
+      },
+      {
+        "title": "Meteora",
+        "photoIds": [
+          "greece-005",
+          "greece-006",
+          "greece-032",
+          "greece-035"
+        ]
+      },
+      {
+        "title": "Santorini",
+        "photoIds": [
+          "greece-038",
+          "greece-039",
+          "greece-040",
+          "greece-041",
+          "world-landmarks-15",
+          "greece-043",
+          "greece-044",
+          "greece-045",
+          "greece-046"
+        ]
+      },
+      {
+        "title": "Crete",
+        "photoIds": [
+          "greece-009",
+          "greece-010",
+          "greece-013",
+          "greece-047",
+          "greece-048",
+          "greece-049",
+          "greece-050",
+          "greece-051"
+        ]
+      }
+    ]
+  }
 }

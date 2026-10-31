@@ -2,5 +2,56 @@
   "name": "France",
   "page": "country-france.html",
   "cover": "france-018.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Nice",
+        "photoIds": [
+          "france-001",
+          "france-007",
+          "france-008",
+          "france-009",
+          "france-013",
+          "france-014",
+          "france-016",
+          "france-020",
+          "france-026",
+          "france-027",
+          "france-029",
+          "france-033",
+          "france-034",
+          "france-035",
+          "france-036"
+        ]
+      },
+      {
+        "title": "Paris",
+        "photoIds": [
+          "france-002",
+          "france-003",
+          "france-004",
+          "france-005",
+          "france-006",
+          "france-010",
+          "france-011",
+          "france-012",
+          "france-015",
+          "france-017",
+          "france-018",
+          "france-019",
+          "france-021",
+          "france-022",
+          "france-023",
+          "france-024",
+          "france-025",
+          "france-028",
+          "france-030",
+          "france-031",
+          "france-032"
+        ]
+      }
+    ]
+  }
 }

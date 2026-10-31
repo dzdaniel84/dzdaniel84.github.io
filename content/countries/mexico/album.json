@@ -2,5 +2,72 @@
   "name": "Mexico",
   "page": "country-mexico.html",
   "cover": "mexico-117.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Mexico City",
+        "photoIds": [
+          "mexico-001",
+          "mexico-003",
+          "mexico-006",
+          "mexico-007",
+          "mexico-010",
+          "mexico-012",
+          "mexico-014",
+          "mexico-015",
+          "mexico-027",
+          "mexico-030",
+          "mexico-033",
+          "mexico-034",
+          "mexico-035",
+          "mexico-046",
+          "mexico-048",
+          "mexico-051",
+          "mexico-054",
+          "mexico-055",
+          "mexico-057",
+          "mexico-059",
+          "mexico-061",
+          "mexico-065",
+          "mexico-067",
+          "mexico-076",
+          "mexico-081",
+          "mexico-082",
+          "mexico-097",
+          "mexico-098",
+          "mexico-099",
+          "mexico-101",
+          "mexico-103",
+          "mexico-105",
+          "mexico-106",
+          "mexico-108",
+          "mexico-109",
+          "mexico-112",
+          "mexico-113",
+          "mexico-116",
+          "mexico-117"
+        ]
+      },
+      {
+        "title": "Taxco",
+        "photoIds": [
+          "mexico-016",
+          "mexico-018",
+          "mexico-019",
+          "mexico-020",
+          "mexico-023",
+          "mexico-026",
+          "mexico-088",
+          "mexico-089",
+          "mexico-090",
+          "mexico-091",
+          "mexico-093",
+          "mexico-094",
+          "mexico-096"
+        ]
+      }
+    ]
+  }
 }

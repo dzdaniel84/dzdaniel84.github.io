@@ -96,7 +96,8 @@ $('#lightbox').addEventListener('keydown',e=>{
  if(inRail)$('#lightbox-thumbnails').children[current]?.focus({preventScroll:true});
 });
 function renderStories(){
- const stories=featuredGalleries,directory=!!$('#journal-stories').dataset.directory;
+ const directory=!!$('#journal-stories').dataset.directory;
+ const stories=featuredGalleries.filter(g=>directory||g.category!=='Burning Man');
  const sizes=directory?'(max-width:650px) 100vw, 60vw':'(max-width:650px) calc(100vw - 36px), (max-width:1000px) calc((100vw - 84px) / 2), calc((100vw - 160px) / 3)';
  $('#journal-stories').innerHTML='';
  stories.forEach((s,i)=>{
@@ -134,16 +135,18 @@ function renderCollection(){
  });
 }
 function renderAlbumChapters(container,list,presentation){
- container.className='album-chapters';
+ container.classList.remove('collection-grid');
+ container.classList.add('album-chapters');
  container.closest('body').classList.add('chaptered-album','collection-editorial');
  const byId=new Map(list.map(p=>[p.id,p]));
  const choose=ids=>ids.map(id=>byId.get(id)).filter(Boolean);
- const nav=document.createElement('nav');nav.className='album-chapter-nav';nav.setAttribute('aria-label','Japan locations');
+ const albumName=container.dataset.album||'Album',anchorPrefix=albumName.toLowerCase().replace(/[^a-z0-9]+/g,'-');
+ const nav=document.createElement('nav');nav.className='album-chapter-nav';nav.setAttribute('aria-label',albumName+' locations');
  const highlights=choose(presentation.highlights);
  const definitions=[];
- if(highlights.length)definitions.push({title:'A few favorites',anchor:'japan-highlights',list:highlights,highlights:true});
+ if(highlights.length)definitions.push({title:'A few favorites',anchor:anchorPrefix+'-highlights',list:highlights,highlights:true});
  presentation.chapters.forEach((chapter,i)=>{
-  const photos=choose(chapter.photoIds);if(photos.length)definitions.push({title:chapter.title,anchor:'japan-chapter-'+(i+1),list:photos});
+  const photos=choose(chapter.photoIds);if(photos.length)definitions.push({title:chapter.title,anchor:anchorPrefix+'-chapter-'+(i+1),list:photos});
  });
  const observer='IntersectionObserver' in window?new IntersectionObserver(entries=>{
   for(const entry of entries)if(entry.isIntersecting){mounts.get(entry.target)?.();observer.unobserve(entry.target);}
@@ -702,6 +705,7 @@ async function init(){
  if(mapSurface){
   const filterGroup=$('.filters');
   for(const name of new Set(photos.flatMap(p=>[p.category,...(p.collections||[])]))){
+   if(name==="Country Albums"||name==="Burning Man")continue;
    if([...filterGroup.querySelectorAll('[data-category]')].some(b=>b.dataset.category===name))continue;
    const button=document.createElement('button');button.type='button';button.dataset.category=name;button.textContent=name;button.setAttribute('aria-pressed','false');button.onclick=()=>{category=name;showWorldOverview();};filterGroup.append(button);
   }

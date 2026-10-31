@@ -133,6 +133,24 @@ class ContentSyncTests(unittest.TestCase):
         self.assertEqual(photos['country-only']['albums'], ['France'])
         self.assertEqual(self.data()['countryAlbums'][0]['photoIds'], ['country-only'])
 
+    def test_country_sequence_exclusion_preserves_map_photo(self):
+        folder = self.root / 'content/countries/france'
+        folder.mkdir(parents=True)
+        self.photo(folder, 'selected.png')
+        self.photo(folder, 'map-only.png')
+        self.csv(folder, [
+            dict(filename='selected.png', id='selected', location='Paris', country='France'),
+            dict(filename='map-only.png', id='map-only', location='Paris', country='France',
+                 country_sequence='false'),
+        ], ['filename', 'id', 'location', 'country', 'country_sequence'])
+        sync(self.root)
+        data = self.data()
+        self.assertEqual(data['countryAlbums'][0]['photoIds'], ['selected'])
+        photos = {p['id']: p for p in data['photos']}
+        self.assertTrue(photos['map-only']['atlas'])
+        self.assertEqual(photos['map-only']['albums'], [])
+        self.assertTrue((self.root / photos['map-only']['src']).is_file())
+
     def test_country_chapters_preserve_all_photos_and_allow_highlight_overlap(self):
         presentation = album_presentation({
             'highlights': ['tokyo', 'kyoto'],
