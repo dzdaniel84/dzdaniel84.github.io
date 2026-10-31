@@ -908,5 +908,35 @@
     ],
     "_imageSha256": "4abfb14f9bb6efdca9635b2493efb7bd49c35695ca13470ed3fe168648bdca0a",
     "_atlasOrder": 1223
+  },
+  "sweden-045": {
+    "id": "sweden-045",
+    "src": "assets/photos/countries/sweden/283A4876-a8b1ee1e-1000.jpeg",
+    "width": 1000,
+    "height": 1499,
+    "title": "Sweden · 45",
+    "country": "Sweden",
+    "location": "Stockholm",
+    "lat": 59.32938,
+    "lng": 18.06871,
+    "coordinatePrecision": "City",
+    "locationStatus": "located",
+    "locationEvidence": "City inferred from visible architecture, streetscape and recognizable landmarks in the photograph.",
+    "category": "Country Albums",
+    "sourcePage": "https://www.daniel-zhang.me/sweden/",
+    "albums": [
+      "Sweden"
+    ],
+    "albumOrder": {
+      "Sweden": 44
+    },
+    "albumSources": {},
+    "locationMethod": "visual",
+    "locationConfidence": "inferred",
+    "locationSources": [
+      "https://www.geonames.org/2673730"
+    ],
+    "_imageSha256": "a89618c8baec2a5fdac9dd83b3209edebdd0a3f87a490b6979c1a5fcaf1e143c",
+    "_atlasOrder": 1192
   }
 }
