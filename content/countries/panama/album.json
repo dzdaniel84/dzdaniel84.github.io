@@ -2,5 +2,6 @@
   "name": "Panama",
   "page": "country-panama.html",
   "cover": "panama-002.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true
 }

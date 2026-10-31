@@ -2,5 +2,6 @@
   "name": "Hong Kong",
   "page": "country-hong-kong.html",
   "cover": "hong-kong-018.jpeg",
-  "cover_position": "48% 91%"
+  "cover_position": "48% 91%",
+  "hide_captions": true
 }

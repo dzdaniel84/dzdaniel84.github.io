@@ -10,7 +10,7 @@ import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
-from sync_content import ContentError, image_size, sync
+from sync_content import ContentError, album_presentation, image_size, sync
 
 
 class ContentSyncTests(unittest.TestCase):
@@ -108,6 +108,52 @@ class ContentSyncTests(unittest.TestCase):
         self.assertEqual(data['galleries'][0]['photo'], 'cover')
         self.assertIn('The Loop, Chicago', (self.root / 'gallery-metros.html').read_text())
         self.assertTrue((self.root / cover['thumbnailSrc']).is_file())
+
+    def test_gallery_sequence_exclusion_preserves_atlas_and_optional_country_album(self):
+        folder = self.folder('metros')
+        for name in ('station.png', 'map-only.png', 'country-only.png'):
+            self.photo(folder, name)
+        fields = ['filename', 'id', 'location', 'country', 'gallery_sequence', 'country_album']
+        self.csv(folder, [
+            dict(filename='station.png', id='station', location='Paris', country='France', country_album='false'),
+            dict(filename='map-only.png', id='map-only', location='Paris', country='France',
+                 gallery_sequence='false', country_album='false'),
+            dict(filename='country-only.png', id='country-only', location='Paris', country='France',
+                 gallery_sequence='false', country_album='true'),
+        ], fields)
+        (folder / 'gallery.json').write_text('{"title":"Metros","category":"Metros"}')
+        sync(self.root)
+        photos = {p['id']: p for p in self.data()['photos']}
+        self.assertEqual(photos['station']['collections'], ['Metros'])
+        for identity in ('map-only', 'country-only'):
+            self.assertEqual(photos[identity]['collections'], [])
+            self.assertTrue(photos[identity]['atlas'])
+            self.assertFalse(photos[identity]['coverOnly'])
+        self.assertEqual(photos['map-only']['albums'], [])
+        self.assertEqual(photos['country-only']['albums'], ['France'])
+        self.assertEqual(self.data()['countryAlbums'][0]['photoIds'], ['country-only'])
+
+    def test_country_chapters_preserve_all_photos_and_allow_highlight_overlap(self):
+        presentation = album_presentation({
+            'highlights': ['tokyo', 'kyoto'],
+            'chapters': [{'title': 'Tokyo', 'photoIds': ['tokyo']},
+                         {'title': 'Kyoto', 'photoIds': ['kyoto']}]
+        }, ['tokyo', 'kyoto', 'new-photo'])
+        self.assertEqual(presentation['highlights'], ['tokyo', 'kyoto'])
+        self.assertEqual(presentation['chapters'][-1], {
+            'title': 'Other moments', 'photoIds': ['new-photo']})
+        self.assertEqual([p for c in presentation['chapters'] for p in c['photoIds']],
+                         ['tokyo', 'kyoto', 'new-photo'])
+
+    def test_country_chapters_reject_missing_or_duplicate_memberships(self):
+        for config in [
+            {'highlights': ['outside'], 'chapters': [{'title': 'Tokyo', 'photoIds': ['tokyo']}]},
+            {'chapters': [{'title': 'Tokyo', 'photoIds': ['tokyo', 'tokyo']}]},
+            {'chapters': [{'title': 'Tokyo', 'photoIds': ['tokyo']},
+                          {'title': 'Kyoto', 'photoIds': ['tokyo']}]},
+        ]:
+            with self.assertRaises(ContentError):
+                album_presentation(config, ['tokyo'])
 
     def test_bad_csv_preserves_last_valid_output(self):
         folder = self.folder()

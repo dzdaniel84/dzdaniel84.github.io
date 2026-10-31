@@ -2,5 +2,6 @@
   "name": "Colombia",
   "page": "country-colombia.html",
   "cover": "colombia-032.jpeg",
-  "cover_position": "52% 86%"
+  "cover_position": "52% 86%",
+  "hide_captions": true
 }

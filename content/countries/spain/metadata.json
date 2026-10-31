@@ -781,41 +781,6 @@
     "_imageSha256": "42d65b39f3d35bd7019016e527f0625cff15b11bd4542bba721431fb43a3aeef",
     "_atlasOrder": 1145
   },
-  "world-landmarks-03": {
-    "id": "world-landmarks-03",
-    "src": "assets/photos/world-landmarks/L1200604-c616d042-1000.jpeg",
-    "width": 1000,
-    "height": 1500,
-    "title": "Sagrada Família",
-    "location": "Sagrada Família",
-    "country": "Spain",
-    "category": "World Landmarks",
-    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
-    "cover": false,
-    "lat": 41.40369,
-    "lng": 2.17433,
-    "coordinatePrecision": "Landmark",
-    "locationStatus": "located",
-    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
-    "albums": [
-      "Spain"
-    ],
-    "albumOrder": {
-      "Spain": 23
-    },
-    "albumSources": {},
-    "embeddedLocation": {
-      "lat": 41.38268,
-      "lng": 2.177025
-    },
-    "locationMethod": "visual",
-    "locationConfidence": "inferred",
-    "locationSources": [
-      "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
-    ],
-    "_imageSha256": "dac185584e37a6c3084bd0b4c7d7580444aab8c35cf45c7714bf21bd6b70a428",
-    "_atlasOrder": 104
-  },
   "spain-025": {
     "id": "spain-025",
     "src": "assets/photos/countries/spain/L1200936-ec5bd508-1000.jpeg",

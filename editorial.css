@@ -94,7 +94,7 @@ footer>span{font-size:10px;letter-spacing:.3px}
 .collection-editorial .collection-intro{max-width:none;display:grid;grid-template-columns:1fr 1.05fr;gap:25px 100px;padding:70px 0 75px}
 .collection-editorial .collection-intro>.eyebrow{display:none}
 .collection-editorial .collection-intro h2{font:400 clamp(28px,3.1vw,44px)/1.18 var(--display);letter-spacing:-.7px;grid-row:1/5;max-width:520px}
-.collection-editorial .collection-intro p{font-size:13px;line-height:1.95;max-width:580px}
+.collection-editorial .collection-intro p{font-size:13px;line-height:1.95;max-width:580px;grid-column:2}
 .collection-editorial .collection-intro>p+p{margin-top:0}
 .collection-editorial .collection-count{font-size:10px;letter-spacing:.7px;padding-bottom:40px}
 .collection-editorial .collection-grid{display:grid;columns:unset;grid-template-columns:repeat(12,minmax(0,1fr));gap:65px 40px;align-items:start}
@@ -173,7 +173,6 @@ dialog::backdrop{background:#121712}
  .country-cards{gap:30px 15px}.country-card-body>span{font-size:23px}.country-card small{font-size:8px}
 }
 @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none}.story img,.story .story-img:after,nav a:after,.carousel-dots button{transition:none}.hero-image img{animation:none}}
-
 .collection-toolbar{display:flex;justify-content:space-between;gap:20px;align-items:center;border-top:1px solid var(--line);margin-bottom:35px;padding:15px 0}
 .collection-editorial .collection-toolbar .collection-count{border:0;padding:0;margin:0;font-size:10px}
 .collection-view{display:flex;gap:4px;border:1px solid var(--line);padding:3px}
@@ -634,14 +633,44 @@ img,.hero-image,.collection-cover-media,.gallery-photo,.preview-open{-webkit-use
 }
 
 /* Square print mats follow the site theme without cropping photographs. */
-:is([data-category="Metros"],[data-category="Airports"]).is-filmstrip{--mat-color:#1c252d}
-html[data-theme="light"] :is([data-category="Metros"],[data-category="Airports"]).is-filmstrip{--mat-color:#f2efe7}
-:is([data-category="Metros"],[data-category="Airports"]) .filmstrip-controls{flex-wrap:wrap;gap:12px}
-.collection-editorial :is([data-category="Metros"],[data-category="Airports"]) .filmstrip-track .filmstrip-slide{flex:0 0 min(82%,64svh,720px);width:auto}
+:is([data-category="Metros"],[data-category="Airports"],.album-chapter-photos).is-filmstrip{--mat-color:#1c252d}
+html[data-theme="light"] :is([data-category="Metros"],[data-category="Airports"],.album-chapter-photos).is-filmstrip{--mat-color:#f2efe7}
+:is([data-category="Metros"],[data-category="Airports"],.album-chapter-photos) .filmstrip-controls{flex-wrap:wrap;gap:12px}
+.collection-editorial :is([data-category="Metros"],[data-category="Airports"],.album-chapter-photos) .filmstrip-track .filmstrip-slide{flex:0 0 min(82%,64svh,720px);width:auto}
 .filmstrip-mat{display:grid;place-items:center;width:100%;aspect-ratio:1;padding:clamp(12px,2vw,28px);background:var(--mat-color)}
-.collection-editorial :is([data-category="Metros"],[data-category="Airports"]) .filmstrip-track .filmstrip-mat img{width:100%;height:100%;max-width:100%;max-height:100%;min-height:0;object-fit:contain;aspect-ratio:auto}
+.collection-editorial :is([data-category="Metros"],[data-category="Airports"],.album-chapter-photos) .filmstrip-track .filmstrip-mat img{width:100%;height:100%;max-width:100%;max-height:100%;min-height:0;object-fit:contain;aspect-ratio:auto}
 @media(max-width:650px){
- .collection-editorial :is([data-category="Metros"],[data-category="Airports"]) .filmstrip-track .filmstrip-slide{flex-basis:92%}
- :is([data-category="Metros"],[data-category="Airports"]) .filmstrip-arrows{margin-left:auto}
+ .collection-editorial :is([data-category="Metros"],[data-category="Airports"],.album-chapter-photos) .filmstrip-track .filmstrip-slide{flex-basis:92%}
+ :is([data-category="Metros"],[data-category="Airports"],.album-chapter-photos) .filmstrip-arrows{margin-left:auto}
  .filmstrip-mat{padding:14px}
 }
+
+/* Country albums: a short introduction, followed by independent place chapters. */
+.chaptered-album .collection-intro{display:block;padding:48px 0 32px}
+.chaptered-album .collection-intro h1{margin:0 0 16px;font-size:clamp(48px,7vw,88px);letter-spacing:-2px}
+.chaptered-album .collection-intro>p{max-width:680px}
+.album-chapters{min-width:0}
+.album-chapter-nav{position:sticky;top:0;z-index:12;display:flex;gap:25px;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;padding:20px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--paper);margin-bottom:32px}
+.album-chapter-nav::-webkit-scrollbar{display:none}
+.album-chapter-nav a{flex:0 0 auto;font-size:12px;line-height:1.5;color:var(--muted);text-decoration:none;padding:6px 0}
+.album-chapter-nav a:hover,.album-chapter-nav a:focus-visible{color:var(--ink)}
+.album-chapter{scroll-margin-top:100px;padding:30px 0 52px;border-bottom:1px solid var(--line);min-width:0}
+.album-chapter h2{font-size:clamp(26px,3vw,42px);font-weight:500;letter-spacing:-.6px;margin:0 0 18px}
+.album-chapter-intro{font-size:13px;line-height:1.8;color:var(--muted);margin:0 0 22px}
+.album-chapter-photos:not(.is-mounted){min-height:min(760px,calc(64svh + 160px))}
+.album-chapters .filmstrip-browse{font-size:11px}
+.album-small-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.album-small-gallery .gallery-photo{margin:0;min-width:0}
+.album-small-gallery img{width:100%;height:clamp(240px,42svh,440px);object-fit:contain;background:var(--surface)}
+.album-small-gallery .tile-caption{display:flex;justify-content:space-between;gap:12px;margin-top:12px;font-size:11px}
+@media(max-width:760px){
+ .chaptered-album .collection-intro{padding:30px 0 20px}
+ .chaptered-album .collection-intro h1{letter-spacing:-1px}
+ .album-chapter-nav{gap:22px;padding:12px 0;margin-bottom:18px}
+ .album-chapter{scroll-margin-top:85px;padding:24px 0 32px}
+ .album-chapter-intro{font-size:12px}
+ .album-small-gallery{grid-template-columns:1fr;gap:24px}
+ .album-small-gallery img{height:auto;max-height:60svh}
+}
+
+.hide-photo-captions .tile-caption{display:none}

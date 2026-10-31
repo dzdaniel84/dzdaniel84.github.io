@@ -3919,39 +3919,5 @@
     ],
     "_imageSha256": "b610f0f8a9bd167dbf4518f97b00298c213005bcc2524fbde94141b5aa10d615",
     "_atlasOrder": 847
-  },
-  "mexico-119": {
-    "id": "mexico-119",
-    "src": "assets/photos/countries/mexico/IMG_4303-06cc4cf1-1000.jpeg",
-    "width": 1000,
-    "height": 667,
-    "title": "Mexico · 119",
-    "country": "Mexico",
-    "location": "Mexico City",
-    "lat": 19.430105,
-    "lng": -99.133608,
-    "coordinatePrecision": "City",
-    "locationStatus": "located",
-    "locationEvidence": "Embedded GPS coordinate; repeated city-level tagging is retained as an approximate city position, not an exact shooting location.",
-    "category": "Country Albums",
-    "sourcePage": "https://www.daniel-zhang.me/mexico-city/",
-    "albums": [
-      "Mexico"
-    ],
-    "albumOrder": {
-      "Mexico": 118
-    },
-    "albumSources": {},
-    "embeddedLocation": {
-      "lat": 19.430105,
-      "lng": -99.133608
-    },
-    "locationMethod": "gps",
-    "locationConfidence": "metadata",
-    "locationSources": [
-      "https://www.geonames.org/3530597"
-    ],
-    "_imageSha256": "ae71a0b77b7d0510a1452708b0da771694a8ae9ff7abe60d8dc195edd562ec66",
-    "_atlasOrder": 848
   }
 }

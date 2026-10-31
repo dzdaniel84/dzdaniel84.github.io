@@ -103,25 +103,6 @@
     "_imageSha256": "54b21c9250bed6e565597e5e9afd1b78d10dcbefae16231320ff7f231fcb78ca",
     "_atlasOrder": 53
   },
-  "wildlife-06": {
-    "id": "wildlife-06",
-    "src": "assets/photos/wildlife/283A6763-6d7000a5-1000.jpeg",
-    "width": 1000,
-    "height": 667,
-    "title": "Wildlife · 06",
-    "location": "Yosemite National Park",
-    "country": "United States",
-    "category": "Wildlife",
-    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
-    "cover": false,
-    "lat": 37.75,
-    "lng": -119.6,
-    "coordinatePrecision": "Park",
-    "locationStatus": "located",
-    "locationEvidence": "Embedded GPS metadata; generalized to the named region.",
-    "_imageSha256": "c82c0060311bd3871b263135dd61de0b286ed2c86ebd8c6d4a77a292fd4c879e",
-    "_atlasOrder": 54
-  },
   "wildlife-07": {
     "id": "wildlife-07",
     "src": "assets/photos/wildlife/283A3510-ccb546b5-1000.jpeg",
@@ -187,25 +168,6 @@
     "locationEvidence": "Embedded GPS metadata; generalized to the named region.",
     "_imageSha256": "21d5d4b97f7f615da76c8596faf3daf2d39b5a1df33f039feaecbe66f666b8ad",
     "_atlasOrder": 57
-  },
-  "wildlife-10": {
-    "id": "wildlife-10",
-    "src": "assets/photos/wildlife/283A8953-e9661be4-1000.jpg",
-    "width": 1000,
-    "height": 667,
-    "title": "Wildlife · 10",
-    "location": "Monterey Peninsula",
-    "country": "United States",
-    "category": "Wildlife",
-    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
-    "cover": false,
-    "lat": 36.6,
-    "lng": -121.9,
-    "coordinatePrecision": "Region",
-    "locationStatus": "located",
-    "locationEvidence": "Embedded GPS metadata; generalized to the named region.",
-    "_imageSha256": "fb63adaab657861da22fe517986aa027fa7af63e45f42e464ae36b1aab93a9fa",
-    "_atlasOrder": 58
   },
   "wildlife-11": {
     "id": "wildlife-11",
@@ -355,25 +317,6 @@
     ],
     "_imageSha256": "2eea30d807320084b22f6ca129ff125f7afc11c742b8fb65cfed832ef7a1cf7d",
     "_atlasOrder": 65
-  },
-  "wildlife-18": {
-    "id": "wildlife-18",
-    "src": "assets/photos/wildlife/283A9456-ee2b8840-1000.jpeg",
-    "width": 1000,
-    "height": 667,
-    "title": "Wildlife · 18",
-    "location": "San Juan",
-    "country": "Puerto Rico",
-    "category": "Wildlife",
-    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
-    "cover": false,
-    "lat": 18.4,
-    "lng": -66.06,
-    "coordinatePrecision": "City",
-    "locationStatus": "located",
-    "locationEvidence": "Embedded GPS metadata; generalized to the named region.",
-    "_imageSha256": "1b5a76babb29a92f911ef478e50c86e3d826bbc3ea66beba3a5e871f9ad4dde3",
-    "_atlasOrder": 66
   },
   "wildlife-19": {
     "id": "wildlife-19",
@@ -567,25 +510,6 @@
     "locationEvidence": "Location supplied by Daniel; coordinates generalized to named place.",
     "_imageSha256": "88b8df5a3e7277c9bc7b76a25f6b668eecc882196fd234242e0cab9274b50394",
     "_atlasOrder": 75
-  },
-  "wildlife-28": {
-    "id": "wildlife-28",
-    "src": "assets/photos/wildlife/283A7131-Enhanced-NR-2df803d4-1000.jpeg",
-    "width": 1000,
-    "height": 667,
-    "title": "Wildlife · 28",
-    "location": "Katoomba",
-    "country": "Australia",
-    "category": "Wildlife",
-    "sourcePage": "https://www.daniel-zhang.me/wildlife/",
-    "cover": false,
-    "lat": -33.71,
-    "lng": 150.31,
-    "coordinatePrecision": "Region",
-    "locationStatus": "located",
-    "locationEvidence": "Location supplied by Daniel; coordinates generalized to named place.",
-    "_imageSha256": "4b9a95222684753e6dd73d2b8ca69b5dd35e1e81b2ceb249eb657af0c98ab1d1",
-    "_atlasOrder": 76
   },
   "wildlife-23": {
     "id": "wildlife-23",

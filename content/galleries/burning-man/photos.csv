@@ -1,14 +1,14 @@
 ﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order
 burning-man-01.jpeg,Black Rock Desert,United States,,Burning Man · 01,40.79,-119.21,true,burning-man-01,Burning Man,Region,,false,true,,77
-burning-man-02.jpeg,Black Rock Desert,United States,,Burning Man · 02,40.79,-119.21,true,burning-man-02,Burning Man,Region,,false,true,,78
+burning-man-02.jpeg,Black Rock Desert,United States,,Burning Man · 02,40.79,-119.21,false,burning-man-02,Burning Man,Region,,false,true,,78
 burning-man-03.jpeg,Black Rock Desert,United States,,Burning Man · 03,40.79,-119.21,true,burning-man-03,Burning Man,Region,,false,true,,79
 burning-man-04.jpeg,Black Rock Desert,United States,,Burning Man · 04,40.79,-119.21,true,burning-man-04,Burning Man,Region,,false,true,,80
 burning-man-05.jpeg,Black Rock Desert,United States,,Burning Man · 05,40.79,-119.21,true,burning-man-05,Burning Man,Region,,false,true,,81
-burning-man-06.jpeg,Black Rock Desert,United States,,Burning Man · 06,40.79,-119.21,true,burning-man-06,Burning Man,Region,,false,true,,82
+burning-man-06.jpeg,Black Rock Desert,United States,,Burning Man · 06,40.79,-119.21,false,burning-man-06,Burning Man,Region,,false,true,,82
 burning-man-07.jpeg,Black Rock Desert,United States,,Burning Man · 07,40.79,-119.21,true,burning-man-07,Burning Man,Region,,false,true,,83
 burning-man-08.jpeg,Black Rock Desert,United States,,Burning Man · 08,40.79,-119.21,true,burning-man-08,Burning Man,Region,,false,true,,84
 burning-man-09.jpeg,Black Rock Desert,United States,,Burning Man · 09,40.79,-119.21,true,burning-man-09,Burning Man,Region,,false,true,,85
-burning-man-10.jpeg,Black Rock Desert,United States,,Burning Man · 10,40.79,-119.21,true,burning-man-10,Burning Man,Region,,false,true,,86
+burning-man-10.jpeg,Black Rock Desert,United States,,Burning Man · 10,40.79,-119.21,false,burning-man-10,Burning Man,Region,,false,true,,86
 burning-man-11.jpeg,Black Rock Desert,United States,,Burning Man · 11,40.79,-119.21,true,burning-man-11,Burning Man,Region,,false,true,,87
 burning-man-12.jpeg,Black Rock Desert,United States,,Burning Man · 12,40.79,-119.21,true,burning-man-12,Burning Man,Region,,false,true,,88
 burning-man-13.jpeg,Black Rock Desert,United States,,Burning Man · 13,40.79,-119.21,true,burning-man-13,Burning Man,Region,,false,true,,89
@@ -19,8 +19,8 @@ burning-man-17.jpeg,Black Rock Desert,United States,,Burning Man · 17,40.79,-11
 burning-man-18.jpeg,Black Rock Desert,United States,,Burning Man · 18,40.79,-119.21,true,burning-man-18,Burning Man,Region,,false,true,,94
 burning-man-19.jpeg,Black Rock Desert,United States,,Burning Man · 19,40.79,-119.21,true,burning-man-19,Burning Man,Region,,false,true,,95
 burning-man-20.jpeg,Black Rock Desert,United States,,Burning Man · 20,40.79,-119.21,true,burning-man-20,Burning Man,Region,,false,true,,96
-burning-man-21.jpeg,Black Rock Desert,United States,,Burning Man · 21,40.79,-119.21,true,burning-man-21,Burning Man,Region,,false,true,,97
+burning-man-21.jpeg,Black Rock Desert,United States,,Burning Man · 21,40.79,-119.21,false,burning-man-21,Burning Man,Region,,false,true,,97
 burning-man-22.jpeg,Black Rock Desert,United States,,Burning Man · 22,40.79,-119.21,true,burning-man-22,Burning Man,Region,,false,true,,98
 burning-man-23.jpeg,Black Rock Desert,United States,,Burning Man · 23,40.79,-119.21,true,burning-man-23,Burning Man,Region,,false,true,,99
-burning-man-24.jpeg,Black Rock Desert,United States,,Burning Man · 24,40.79,-119.21,true,burning-man-24,Burning Man,Region,,false,true,,100
+burning-man-24.jpeg,Black Rock Desert,United States,,Burning Man · 24,40.79,-119.21,false,burning-man-24,Burning Man,Region,,false,true,,100
 burning-man-25.jpeg,Black Rock Desert,United States,,Burning Man · 25,40.79,-119.21,true,burning-man-25,Burning Man,Region,,false,true,,101

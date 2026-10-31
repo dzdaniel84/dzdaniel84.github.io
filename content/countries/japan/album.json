@@ -2,5 +2,171 @@
   "name": "Japan",
   "page": "country-japan.html",
   "cover": "japan-050.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "presentation": {
+    "highlights": [
+      "japan-050",
+      "japan-081",
+      "japan-002",
+      "japan-067",
+      "japan-118",
+      "japan-098",
+      "world-landmarks-24",
+      "japan-132"
+    ],
+    "chapters": [
+      {
+        "title": "Tokyo",
+        "photoIds": [
+          "japan-060",
+          "japan-062",
+          "japan-063",
+          "japan-064",
+          "japan-075",
+          "japan-077",
+          "japan-078",
+          "japan-079",
+          "japan-080",
+          "japan-081",
+          "japan-082",
+          "japan-083",
+          "japan-084",
+          "japan-085",
+          "japan-099",
+          "japan-100",
+          "japan-101",
+          "japan-104",
+          "world-landmarks-22",
+          "japan-106",
+          "japan-107",
+          "japan-108",
+          "japan-114",
+          "japan-116",
+          "japan-117",
+          "japan-119",
+          "japan-120",
+          "japan-121",
+          "japan-122",
+          "japan-123",
+          "japan-124",
+          "japan-125",
+          "japan-128",
+          "japan-134",
+          "japan-135"
+        ]
+      },
+      {
+        "title": "Kyoto, Uji & Nara",
+        "photoIds": [
+          "wildlife-21",
+          "japan-004",
+          "japan-006",
+          "wildlife-01",
+          "world-landmarks-17",
+          "japan-031",
+          "japan-033",
+          "japan-034",
+          "japan-035",
+          "japan-036",
+          "world-landmarks-27",
+          "japan-038",
+          "japan-039",
+          "japan-040",
+          "japan-041",
+          "japan-048",
+          "japan-049",
+          "japan-050",
+          "japan-054",
+          "wildlife-22",
+          "japan-059",
+          "japan-061",
+          "japan-088",
+          "japan-089",
+          "japan-090",
+          "japan-091",
+          "japan-092",
+          "japan-093",
+          "world-landmarks-09",
+          "japan-098",
+          "wildlife-19",
+          "japan-126",
+          "japan-127"
+        ]
+      },
+      {
+        "title": "Kanazawa",
+        "photoIds": [
+          "japan-008",
+          "japan-010",
+          "japan-014",
+          "japan-016",
+          "japan-017",
+          "japan-018",
+          "japan-067",
+          "japan-068",
+          "japan-071",
+          "japan-072",
+          "japan-074",
+          "japan-076",
+          "japan-111",
+          "japan-115",
+          "japan-118"
+        ]
+      },
+      {
+        "title": "Takayama",
+        "photoIds": [
+          "japan-001",
+          "japan-002",
+          "japan-012",
+          "japan-019",
+          "japan-020",
+          "japan-022",
+          "japan-023",
+          "japan-024",
+          "japan-025",
+          "wildlife-20",
+          "japan-027",
+          "japan-028",
+          "japan-029",
+          "japan-030",
+          "japan-032",
+          "japan-109",
+          "japan-110",
+          "japan-113"
+        ]
+      },
+      {
+        "title": "Himeji",
+        "photoIds": [
+          "japan-005",
+          "world-landmarks-24",
+          "japan-044",
+          "japan-045",
+          "japan-047"
+        ]
+      },
+      {
+        "title": "Yokohama",
+        "photoIds": [
+          "japan-011",
+          "japan-013",
+          "japan-065",
+          "japan-102",
+          "japan-103"
+        ]
+      },
+      {
+        "title": "Kamakura",
+        "photoIds": [
+          "japan-086",
+          "japan-087",
+          "japan-129",
+          "japan-131",
+          "japan-132",
+          "japan-133"
+        ]
+      }
+    ]
+  }
 }

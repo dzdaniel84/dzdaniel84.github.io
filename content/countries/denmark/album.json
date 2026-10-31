@@ -2,5 +2,6 @@
   "name": "Denmark",
   "page": "country-denmark.html",
   "cover": "denmark-001.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true
 }

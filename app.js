@@ -1,6 +1,7 @@
 'use strict';
 const $ = s => document.querySelector(s);
 let featuredGalleries = [], countryAlbums = [];
+const inCollection = (p,name) => Array.isArray(p.collections) ? p.collections.includes(name) : p.category === name;
 const matchesCategory = p => category === 'All' || (category === 'Country Albums' ? !!p.albums?.length : (p.category === category || p.collections?.includes(category)));
 let catalogPhotos = [], photos = [], category = 'All', place = null, lightboxPhotos = [], current = 0;
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -30,7 +31,7 @@ for(const type of ['contextmenu','dragstart']){
 }
 document.querySelectorAll('img').forEach(image=>{image.draggable=false;});
 const photoTitle = p => / · \d+$/.test(p.title)?(p.location||p.country||p.title):p.title;
-const photoPlace = p => {if(p.category==='Airports'||p.collections?.includes('Airports'))return p.country;if((p.category==='National Parks'||p.collections?.includes('National Parks'))&&p.state)return p.state;if(p.category==='World Landmarks'||p.collections?.includes('World Landmarks'))return [p.city||p.location,p.country].filter(Boolean).join(', ');if(p.city)return p.city;const title=photoTitle(p),where=p.location===title?p.country:p.location;return where===title?'':where;};
+const photoPlace = p => {if(p.category==='Airports'||p.collections?.includes('Airports'))return p.country;if((p.category==='National Parks'||p.collections?.includes('National Parks'))&&p.state)return p.state;if(p.category==='World Landmarks'||p.collections?.includes('World Landmarks'))return [p.city||p.location,p.country].filter(Boolean).join(', ');if(p.city)return p.city===photoTitle(p)?p.country:p.city;const title=photoTitle(p),where=p.location===title?p.country:p.location;return where===title?'':where;};
 const isWildlife = p => p.category==='Wildlife'||p.collections?.includes('Wildlife');
 const wildlifeCountry = p => p.country;
 const wildlifePlace = p => '<span class="wildlife-place-name">'+esc(p.location)+'</span><small class="wildlife-country">'+esc(wildlifeCountry(p))+'</small>';
@@ -108,7 +109,7 @@ function renderStories(){
 }
 function renderCollection(){
  const container=$('#collection-grid');if(!container)return;
- const list=catalogPhotos.filter(p=>!p.coverOnly&&(container.dataset.album ? p.albums?.includes(container.dataset.album) : (p.category===container.dataset.category||p.collections?.includes(container.dataset.category))));
+ const list=catalogPhotos.filter(p=>!p.coverOnly&&(container.dataset.album ? p.albums?.includes(container.dataset.album) : inCollection(p,container.dataset.category)));
  if(container.dataset.category)list.sort((a,b)=>(a.collectionOrder?.[container.dataset.category]??1e12)-(b.collectionOrder?.[container.dataset.category]??1e12));
  if(container.dataset.album)list.sort((a,b)=>a.albumOrder[container.dataset.album]-b.albumOrder[container.dataset.album]);
  if($('#collection-cover-open')&&list[0]){$('#collection-cover-open').onclick=()=>{const cover=catalogPhotos.find(p=>p.id===container.dataset.cover)||list[0];openPhoto(cover,cover.coverOnly?[cover]:list);};}
@@ -121,6 +122,9 @@ function renderCollection(){
   if(caption&&cover)caption.textContent=[cover.location,cover.state].filter(Boolean).join(', ');
  }
  container.replaceChildren();
+ const album=countryAlbums.find(a=>a.name===container.dataset.album);
+ container.classList.toggle('hide-photo-captions',!!album?.hideCaptions);
+ if(album?.presentation){renderAlbumChapters(container,list,album.presentation);return;}
  if(container.dataset.layout==='filmstrip'){renderFilmstrip(container,list);return;}
  list.forEach(p=>{
   const button=document.createElement('button');button.className='gallery-photo'+((p.displayHeight||p.height)>(p.displayWidth||p.width)?' portrait':' landscape')+(container.dataset.editorial&&p.width>p.height&&(p.largeSrc||p.width>=1000)&&(list.indexOf(p)===0||list.indexOf(p)%5===2)?' spread':'');
@@ -129,10 +133,62 @@ function renderCollection(){
   button.onclick=()=>openPhoto(p,list);container.append(button);
  });
 }
-function renderFilmstrip(container,list){
+function renderAlbumChapters(container,list,presentation){
+ container.className='album-chapters';
+ container.closest('body').classList.add('chaptered-album','collection-editorial');
+ const byId=new Map(list.map(p=>[p.id,p]));
+ const choose=ids=>ids.map(id=>byId.get(id)).filter(Boolean);
+ const nav=document.createElement('nav');nav.className='album-chapter-nav';nav.setAttribute('aria-label','Japan locations');
+ const highlights=choose(presentation.highlights);
+ const definitions=[];
+ if(highlights.length)definitions.push({title:'A few favorites',anchor:'japan-highlights',list:highlights,highlights:true});
+ presentation.chapters.forEach((chapter,i)=>{
+  const photos=choose(chapter.photoIds);if(photos.length)definitions.push({title:chapter.title,anchor:'japan-chapter-'+(i+1),list:photos});
+ });
+ const observer='IntersectionObserver' in window?new IntersectionObserver(entries=>{
+  for(const entry of entries)if(entry.isIntersecting){mounts.get(entry.target)?.();observer.unobserve(entry.target);}
+ },{rootMargin:'400px 0px'}):null;
+ const mounts=new Map();
+ for(const chapter of definitions){
+  const link=document.createElement('a');link.href=location.pathname+location.search+'#'+chapter.anchor;link.dataset.chapter=chapter.anchor;link.textContent=chapter.highlights?'Highlights':chapter.title;nav.append(link);
+ }
+ container.append(nav);
+ for(const chapter of definitions){
+  const section=document.createElement('section');section.id=chapter.anchor;section.className='album-chapter';section.setAttribute('aria-labelledby',chapter.anchor+'-title');
+  const heading=document.createElement('h2');heading.id=chapter.anchor+'-title';heading.textContent=chapter.title;section.append(heading);
+  if(chapter.highlights){
+   const intro=document.createElement('p');intro.className='album-chapter-intro';intro.textContent='A short selection to start. Explore the full collection by place below.';section.append(intro);
+  }
+  const gallery=document.createElement('div');gallery.id=chapter.anchor+'-photos';gallery.className='album-chapter-photos';section.append(gallery);
+  let mounted=false;
+  const mount=()=>{
+   if(mounted)return;mounted=true;
+   gallery.classList.add('is-mounted');
+   if(chapter.list.length>=4){renderFilmstrip(gallery,chapter.list,{title:chapter.title,lazy:!chapter.highlights,matted:true});return;}
+   gallery.classList.add('album-small-gallery');
+   for(const p of chapter.list){
+    const button=document.createElement('button');button.className='gallery-photo';button.setAttribute('aria-label','Open '+photoAlt(p));
+    button.innerHTML='<img '+thumbnailAttrs(p,'(max-width:760px) 90vw, 45vw')+' alt="'+esc(photoAlt(p))+'" width="'+p.width+'" height="'+p.height+'" loading="lazy">'+photoCaption(p);
+    button.onclick=()=>openPhoto(p,chapter.list);gallery.append(button);
+   }
+  };
+  mounts.set(section,mount);container.append(section);
+  if(chapter.highlights||!observer)mount();else observer.observe(section);
+ }
+ // Anchor jumps also work before an offscreen chapter has mounted.
+ nav.querySelectorAll('a').forEach(link=>link.addEventListener('click',()=>{
+  const target=container.querySelector('#'+link.dataset.chapter);mounts.get(target)?.();
+ }));
+ const requested=definitions.find(chapter=>'#'+chapter.anchor===location.hash);
+ if(requested){
+  const section=container.querySelector('#'+requested.anchor);mounts.get(section)?.();
+  requestAnimationFrame(()=>section.scrollIntoView({block:'start',behavior:'instant'}));
+ }
+}
+function renderFilmstrip(container,list,options={}){
  if(!list.length)return;
  container.classList.add('is-filmstrip');
- const isAirport=container.dataset.category==='Airports',matted=isAirport||container.dataset.category==='Metros';
+ const isAirport=container.dataset.category==='Airports',matted=options.matted||isAirport||container.dataset.category==='Metros';
  container.innerHTML='<div class="filmstrip-controls"><button class="filmstrip-browse" aria-expanded="true" aria-controls="filmstrip-drawer">Browse cities <span aria-hidden="true">−</span></button><div class="filmstrip-arrows"><button aria-label="Previous city" aria-controls="filmstrip-track">←</button><button aria-label="Next city" aria-controls="filmstrip-track">→</button></div></div><div id="filmstrip-drawer" class="filmstrip-drawer" role="group" aria-label="Jump to a city"></div><div id="filmstrip-track" class="filmstrip-track" role="region" aria-label="Cityscapes filmstrip" tabindex="0" aria-describedby="filmstrip-help"></div><p id="filmstrip-help" class="sr-only">Swipe or scroll horizontally to explore this looping gallery. Use the left and right arrow keys to change photographs, or Home and End to jump to the first and last. Select a photograph to open fullscreen.</p><p class="sr-only filmstrip-status" role="status" aria-live="polite"></p>';
  if(matted){
   container.querySelector('.filmstrip-browse').firstChild.textContent=isAirport?'Browse airports ':'Browse stations ';
@@ -142,6 +198,23 @@ function renderFilmstrip(container,list){
   container.querySelector('[aria-label="Next city"]').setAttribute('aria-label',isAirport?'Next airport':'Next station');
   container.querySelector('#filmstrip-help').textContent='Swipe or scroll horizontally to explore this looping gallery. Use the left and right arrow keys to change photographs, or Home and End to jump to the first and last. Select a photograph to open fullscreen.';
  }
+ if(options.title){
+  container.querySelector('.filmstrip-browse').firstChild.textContent='Browse photographs ';
+  container.querySelector('.filmstrip-track').setAttribute('aria-label',options.title+' photographs');
+  container.querySelector('.filmstrip-drawer').setAttribute('aria-label','Jump to a photograph in '+options.title);
+  const arrows=container.querySelectorAll('.filmstrip-arrows button');
+  arrows[0].setAttribute('aria-label','Previous photograph in '+options.title);
+  arrows[1].setAttribute('aria-label','Next photograph in '+options.title);
+ }
+ // A country page can contain several independent filmstrips.
+ const ids=new Map();
+ container.querySelectorAll('[id]').forEach(node=>{const old=node.id;node.id=container.id+'-'+old;ids.set(old,node.id);});
+ container.querySelectorAll('[aria-controls],[aria-describedby]').forEach(node=>{
+  for(const attr of ['aria-controls','aria-describedby']){
+   const value=node.getAttribute(attr);
+   if(value)node.setAttribute(attr,value.split(' ').map(id=>ids.get(id)||id).join(' '));
+  }
+ });
  const track=container.querySelector('.filmstrip-track'),drawer=container.querySelector('.filmstrip-drawer');
  const browse=container.querySelector('.filmstrip-browse'),[previous,next]=container.querySelectorAll('.filmstrip-arrows button');
  const status=container.querySelector('.filmstrip-status');
@@ -193,7 +266,7 @@ function renderFilmstrip(container,list){
    slide.style.setProperty('--photo-ratio',String((p.displayWidth||p.width)/(p.displayHeight||p.height)));
    slide.setAttribute('aria-label','Open '+photoAlt(p));
    if(!canonical){slide.setAttribute('aria-hidden','true');slide.tabIndex=-1;}
-   slide.innerHTML='<img src="'+esc(photoSrc(p))+'" alt="'+esc(photoAlt(p))+'" width="'+(p.displayWidth||p.width)+'" height="'+(p.displayHeight||p.height)+'" loading="'+(canonical&&i===0?'eager':'lazy')+'" decoding="async" draggable="false"><span class="tile-caption"><span>'+esc(photoTitle(p))+'</span><span>'+esc(photoPlace(p))+'</span></span>';
+   slide.innerHTML='<img src="'+esc(photoSrc(p))+'" alt="'+esc(photoAlt(p))+'" width="'+(p.displayWidth||p.width)+'" height="'+(p.displayHeight||p.height)+'" loading="'+(canonical&&i===0&&!options.lazy?'eager':'lazy')+'" decoding="async" draggable="false"><span class="tile-caption"><span>'+esc(photoTitle(p))+'</span><span>'+esc(photoPlace(p))+'</span></span>';
    if(matted){
     const mat=document.createElement('span');mat.className='filmstrip-mat';
     slide.querySelector('img').before(mat);mat.append(slide.querySelector('img'));

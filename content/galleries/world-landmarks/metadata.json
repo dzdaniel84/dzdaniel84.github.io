@@ -34,60 +34,6 @@
     "_imageSha256": "e81eb2233f22df74529f3a228b21dfe3c3cf5cdc347e3e5dc61b287e93b9befc",
     "_atlasOrder": 102
   },
-  "world-landmarks-02": {
-    "id": "world-landmarks-02",
-    "src": "assets/photos/world-landmarks/L1040924-34a152b1-1000.jpeg",
-    "width": 1000,
-    "height": 1499,
-    "title": "Empire State Building",
-    "location": "New York",
-    "country": "United States",
-    "category": "World Landmarks",
-    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
-    "cover": false,
-    "lat": 40.71,
-    "lng": -74.01,
-    "coordinatePrecision": "City",
-    "locationStatus": "located",
-    "locationEvidence": "Recognizable landmark, corroborated by embedded GPS metadata.",
-    "_imageSha256": "fa26d8166cf6a7a1b3c0f36f83d995fa5ea181e46fb64274bba3aa65e91ca771",
-    "_atlasOrder": 103
-  },
-  "world-landmarks-03": {
-    "id": "world-landmarks-03",
-    "src": "assets/photos/world-landmarks/L1200604-c616d042-1000.jpeg",
-    "width": 1000,
-    "height": 1500,
-    "title": "Sagrada Família",
-    "location": "Sagrada Família",
-    "country": "Spain",
-    "category": "World Landmarks",
-    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
-    "cover": false,
-    "lat": 41.40369,
-    "lng": 2.17433,
-    "coordinatePrecision": "Landmark",
-    "locationStatus": "located",
-    "locationEvidence": "Recognizable landmark visually identified; pin is the approximate landmark position, not an exact camera position.",
-    "albums": [
-      "Spain"
-    ],
-    "albumOrder": {
-      "Spain": 23
-    },
-    "albumSources": {},
-    "embeddedLocation": {
-      "lat": 41.38268,
-      "lng": 2.177025
-    },
-    "locationMethod": "visual",
-    "locationConfidence": "inferred",
-    "locationSources": [
-      "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
-    ],
-    "_imageSha256": "dac185584e37a6c3084bd0b4c7d7580444aab8c35cf45c7714bf21bd6b70a428",
-    "_atlasOrder": 104
-  },
   "world-landmarks-04": {
     "id": "world-landmarks-04",
     "src": "assets/photos/world-landmarks/L1410469-d134d439-1000.jpeg",
@@ -217,44 +163,6 @@
     ],
     "_imageSha256": "773fa0bb0c4e25de64dedbe90c73241d407e3e87a28110b933dc966b980ddaec",
     "_atlasOrder": 110
-  },
-  "world-landmarks-10": {
-    "id": "world-landmarks-10",
-    "src": "assets/photos/world-landmarks/L1170473-198cff68-1000.jpeg",
-    "width": 1000,
-    "height": 667,
-    "title": "Pike Place Market",
-    "location": "Seattle",
-    "country": "United States",
-    "category": "World Landmarks",
-    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
-    "cover": false,
-    "lat": 47.61,
-    "lng": -122.33,
-    "coordinatePrecision": "City",
-    "locationStatus": "located",
-    "locationEvidence": "Visual identification of recognizable landmark; approximate city or park position.",
-    "_imageSha256": "ba53e0e1d3cb78e9fa0f5af3de8db36dd29de9c50f891ad5b9af3cd9daedd290",
-    "_atlasOrder": 111
-  },
-  "world-landmarks-11": {
-    "id": "world-landmarks-11",
-    "src": "assets/photos/world-landmarks/L1200070-eb3b7d9b-1000.jpeg",
-    "width": 1000,
-    "height": 667,
-    "title": "Cloud Gate",
-    "location": "Chicago",
-    "country": "United States",
-    "category": "World Landmarks",
-    "sourcePage": "https://www.daniel-zhang.me/world-landmarks/",
-    "cover": false,
-    "lat": 41.88,
-    "lng": -87.63,
-    "coordinatePrecision": "City",
-    "locationStatus": "located",
-    "locationEvidence": "Visual identification of recognizable landmark; approximate city or park position.",
-    "_imageSha256": "5f0fc7926a92d53a62b78698c5aa99384f5394acb3b4932aa109e135ec00af17",
-    "_atlasOrder": 112
   },
   "world-landmarks-12": {
     "id": "world-landmarks-12",

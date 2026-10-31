@@ -1,8 +1,8 @@
 ﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order
 283A6721.jpg,Mexico City,Mexico,,A courtyard in the historic center,19.43,-99.13,true,283A6721,Museums,City-level,,false,true,,3
-L1060593.jpg,New York,United States,,The Guggenheim spiral,40.71,-74.01,true,L1060593,Museums,City-level,,false,true,,4
-L1070431.jpg,New York,United States,,A view from the Whitney,40.71,-74.01,true,L1070431,Museums,City-level,,false,true,,5
-L1070847.jpg,New York,United States,,A sunlit atrium,40.71,-74.01,true,L1070847,Museums,City-level,,false,true,,7
-L1070850.jpg,New York,United States,,A room of stories,40.71,-74.01,true,L1070850,Museums,City-level,,false,true,,8
-L1190597.jpg,Chicago,United States,,A different kind of staircase,41.88,-87.63,true,L1190597,Museums,City-level,,false,true,,10
+L1060593.jpg,New York,United States,,The Guggenheim spiral,40.71,-74.01,true,L1060593,Museums,City-level,,true,true,,4
+L1070431.jpg,New York,United States,,A view from the Whitney,40.71,-74.01,true,L1070431,Museums,City-level,,true,true,,5
+L1070847.jpg,New York,United States,,A sunlit atrium,40.71,-74.01,true,L1070847,Museums,City-level,,true,true,,7
+L1070850.jpg,New York,United States,,A room of stories,40.71,-74.01,true,L1070850,Museums,City-level,,true,true,,8
+L1190597.jpg,Chicago,United States,,A different kind of staircase,41.88,-87.63,true,L1190597,Museums,City-level,,true,true,,10
 A1045095.jpg,São Paulo,Brazil,,Museu de Arte de São Paulo,-23.55,-46.63,true,A1045095,Museums,City-level,,false,true,,23

@@ -303,25 +303,6 @@
     "_imageSha256": "a475b8b2f041d37ab76eaf75a0e669c8bbd2574ca76c0b3f3741a460957a1949",
     "_atlasOrder": 39
   },
-  "national-parks-17": {
-    "id": "national-parks-17",
-    "src": "assets/photos/national-parks/L1220348-af5117c9-1000.jpeg",
-    "width": 1000,
-    "height": 667,
-    "title": "National Parks · 17",
-    "location": "Death Valley National Park",
-    "country": "United States",
-    "category": "National Parks",
-    "sourcePage": "https://www.daniel-zhang.me/national-parks/",
-    "cover": false,
-    "lat": 36.42,
-    "lng": -117.07,
-    "coordinatePrecision": "Park",
-    "locationStatus": "located",
-    "locationEvidence": "Embedded GPS metadata and visual park identification.",
-    "_imageSha256": "383b0e616f954822d1d4858bb220a85d2ecc860aaa787d3eed5c8e2b7540f983",
-    "_atlasOrder": 40
-  },
   "national-parks-18": {
     "id": "national-parks-18",
     "src": "assets/photos/national-parks/283A9485-0e9451d9-1000.jpeg",

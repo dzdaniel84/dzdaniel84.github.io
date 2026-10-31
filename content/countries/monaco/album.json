@@ -2,5 +2,6 @@
   "name": "Monaco",
   "page": "country-monaco.html",
   "cover": "monaco-016.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true
 }

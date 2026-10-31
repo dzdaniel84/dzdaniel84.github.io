@@ -1,26 +1,34 @@
-﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,state
-national-parks-01.jpeg,Yosemite National Park,United States,,National Parks · 01,37.75,-119.6,true,national-parks-01,National Parks,Park,,false,true,,24,California
-national-parks-02.jpeg,Saguaro National Park,United States,,National Parks · 02,32.25,-111.16,true,national-parks-02,National Parks,Park,,false,true,,25,Arizona
-national-parks-03.jpeg,Joshua Tree National Park,United States,,National Parks · 03,33.87,-115.9,true,national-parks-03,National Parks,Park,,false,true,,26,California
-national-parks-04.jpeg,Channel Islands National Park,United States,,National Parks · 04,34.01,-119.73,true,national-parks-04,National Parks,Park,,false,true,,27,California
-national-parks-05.jpeg,Saguaro National Park,United States,,National Parks · 05,32.25,-111.16,true,national-parks-05,National Parks,Park,,false,true,,28,Arizona
-national-parks-06.jpeg,Sequoia National Park,United States,,National Parks · 06,36.56,-118.77,true,national-parks-06,National Parks,Park,,false,true,,29,California
-national-parks-07.jpeg,Pinnacles National Park,United States,,National Parks · 07,36.49,-121.19,true,national-parks-07,National Parks,Park,,false,true,,30,California
-national-parks-08.jpeg,Zion National Park,United States,,National Parks · 08,37.3,-113.0,true,national-parks-08,National Parks,Park,,false,true,,31,Utah
-national-parks-09.jpeg,Zion National Park,United States,,National Parks · 09,37.3,-113.0,true,national-parks-09,National Parks,Park,,false,true,,32,Utah
-national-parks-10.jpeg,Bryce Canyon National Park,United States,,National Parks · 10,37.59,-112.18,true,national-parks-10,National Parks,Park,,false,true,,33,Utah
-national-parks-11.jpeg,Bryce Canyon National Park,United States,,National Parks · 11,37.59,-112.18,true,national-parks-11,National Parks,Park,,false,true,,34,Utah
-national-parks-12.jpeg,Capitol Reef National Park,United States,,National Parks · 12,38.04,-111.15,true,national-parks-12,National Parks,Park,,false,true,,35,Utah
-national-parks-13.jpeg,Capitol Reef National Park,United States,,National Parks · 13,38.04,-111.15,true,national-parks-13,National Parks,Park,,false,true,,36,Utah
-national-parks-14.jpeg,Arches National Park,United States,,National Parks · 14,38.73,-109.56,true,national-parks-14,National Parks,Park,,false,true,,37,Utah
-national-parks-15.jpeg,Yosemite National Park,United States,,National Parks · 15,37.75,-119.6,true,national-parks-15,National Parks,Park,,false,true,,38,California
-national-parks-16.jpeg,Canyonlands National Park,United States,,National Parks · 16,38.25,-109.88,true,national-parks-16,National Parks,Park,,false,true,,39,Utah
-national-parks-17.jpeg,Death Valley National Park,United States,,National Parks · 17,36.42,-117.07,true,national-parks-17,National Parks,Park,,false,true,,40,California
-national-parks-18.jpeg,Death Valley National Park,United States,,National Parks · 18,36.42,-117.07,true,national-parks-18,National Parks,Park,,false,true,,41,California
-national-parks-19.jpg,Yosemite National Park,United States,,National Parks · 19,37.75,-119.6,true,national-parks-19,National Parks,Park,,false,true,,42,California
-national-parks-20.jpeg,Mount Rainier National Park,United States,,National Parks · 20,46.85,-121.76,true,national-parks-20,National Parks,Park,,false,true,,43,Washington
-national-parks-21.jpeg,Rocky Mountain National Park,United States,,National Parks · 21,40.36,-105.7,true,national-parks-21,National Parks,Park,,false,true,,44,Colorado
-national-parks-22.jpeg,Rocky Mountain National Park,United States,,National Parks · 22,40.36,-105.7,true,national-parks-22,National Parks,Park,,false,true,,45,Colorado
-national-parks-23.jpeg,Yellowstone National Park,United States,,National Parks · 23,44.57,-110.59,true,national-parks-23,National Parks,Park,,false,true,,46,Wyoming
-national-parks-24.jpeg,Sequoia National Park,United States,,National Parks · 24,36.56,-118.77,true,national-parks-24,National Parks,Park,,false,true,,47,California
-national-parks-25.jpeg,Petrified Forest National Park,United States,,National Parks · 25,34.9,-109.8,true,national-parks-25,National Parks,Park,manual,false,true,,48,Arizona
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,state,gallery_sequence
+national-parks-01.jpeg,Yosemite National Park,United States,,National Parks · 01,37.75,-119.6,true,national-parks-01,National Parks,Park,,true,true,,24,California,
+national-parks-02.jpeg,Saguaro National Park,United States,,National Parks · 02,32.25,-111.16,true,national-parks-02,National Parks,Park,,true,true,,25,Arizona,
+national-parks-03.jpeg,Joshua Tree National Park,United States,,National Parks · 03,33.87,-115.9,true,national-parks-03,National Parks,Park,,true,true,,26,California,
+national-parks-04.jpeg,Channel Islands National Park,United States,,National Parks · 04,34.01,-119.73,true,national-parks-04,National Parks,Park,,true,true,,27,California,false
+national-parks-05.jpeg,Saguaro National Park,United States,,National Parks · 05,32.25,-111.16,true,national-parks-05,National Parks,Park,,true,true,,28,Arizona,false
+national-parks-06.jpeg,Sequoia National Park,United States,,National Parks · 06,36.56,-118.77,true,national-parks-06,National Parks,Park,,true,true,,29,California,
+national-parks-07.jpeg,Pinnacles National Park,United States,,National Parks · 07,36.49,-121.19,true,national-parks-07,National Parks,Park,,true,true,,30,California,
+national-parks-08.jpeg,Zion National Park,United States,,National Parks · 08,37.3,-113.0,true,national-parks-08,National Parks,Park,,true,true,,31,Utah,
+national-parks-09.jpeg,Zion National Park,United States,,National Parks · 09,37.3,-113.0,true,national-parks-09,National Parks,Park,,true,true,,32,Utah,
+national-parks-10.jpeg,Bryce Canyon National Park,United States,,National Parks · 10,37.59,-112.18,true,national-parks-10,National Parks,Park,,true,true,,33,Utah,
+national-parks-11.jpeg,Bryce Canyon National Park,United States,,National Parks · 11,37.59,-112.18,true,national-parks-11,National Parks,Park,,true,true,,34,Utah,
+national-parks-12.jpeg,Capitol Reef National Park,United States,,National Parks · 12,38.04,-111.15,true,national-parks-12,National Parks,Park,,true,true,,35,Utah,
+national-parks-13.jpeg,Capitol Reef National Park,United States,,National Parks · 13,38.04,-111.15,true,national-parks-13,National Parks,Park,,true,true,,36,Utah,
+national-parks-14.jpeg,Arches National Park,United States,,National Parks · 14,38.73,-109.56,true,national-parks-14,National Parks,Park,,true,true,,37,Utah,
+national-parks-15.jpeg,Yosemite National Park,United States,,National Parks · 15,37.75,-119.6,true,national-parks-15,National Parks,Park,,true,true,,38,California,
+national-parks-16.jpeg,Canyonlands National Park,United States,,National Parks · 16,38.25,-109.88,true,national-parks-16,National Parks,Park,,true,true,,39,Utah,
+national-parks-17.jpeg,Death Valley National Park,United States,,National Parks · 17,36.42,-117.07,false,national-parks-17,National Parks,Park,,false,true,,40,California,
+national-parks-18.jpeg,Death Valley National Park,United States,,National Parks · 18,36.42,-117.07,true,national-parks-18,National Parks,Park,,true,true,,41,California,
+national-parks-19.jpg,Yosemite National Park,United States,,National Parks · 19,37.75,-119.6,true,national-parks-19,National Parks,Park,,true,true,,42,California,
+national-parks-20.jpeg,Mount Rainier National Park,United States,,National Parks · 20,46.85,-121.76,true,national-parks-20,National Parks,Park,,true,true,,43,Washington,
+national-parks-21.jpeg,Rocky Mountain National Park,United States,,National Parks · 21,40.36,-105.7,true,national-parks-21,National Parks,Park,,true,true,,44,Colorado,
+national-parks-22.jpeg,Rocky Mountain National Park,United States,,National Parks · 22,40.36,-105.7,true,national-parks-22,National Parks,Park,,true,true,,45,Colorado,
+national-parks-23.jpeg,Yellowstone National Park,United States,,National Parks · 23,44.57,-110.59,true,national-parks-23,National Parks,Park,,true,true,,46,Wyoming,
+national-parks-24.jpeg,Sequoia National Park,United States,,National Parks · 24,36.56,-118.77,true,national-parks-24,National Parks,Park,,true,true,,47,California,
+national-parks-25.jpeg,Petrified Forest National Park,United States,,National Parks · 25,34.9,-109.8,true,national-parks-25,National Parks,Park,manual,true,true,,48,Arizona,
+national-parks-26.jpeg,Glacier National Park,United States,,Glacier National Park,48.7,-113.72,true,national-parks-26,National Parks,Park,manual,true,true,,,Montana,
+national-parks-27.jpeg,Glacier National Park,United States,,Glacier National Park,48.617558,-113.7604,true,national-parks-27,National Parks,Landmark,gps,true,true,,,Montana,
+national-parks-28.jpeg,Haleakalā National Park,United States,,Haleakalā National Park,20.709928,-156.252986,true,national-parks-28,National Parks,Landmark,gps,true,true,,,Hawaii,
+national-parks-29.jpeg,Haleakalā National Park,United States,,Haleakalā National Park,20.661989,-156.045481,true,national-parks-29,National Parks,Landmark,gps,true,true,,,Hawaii,
+national-parks-30.jpeg,Mesa Verde National Park,United States,,Mesa Verde National Park,37.23905,-108.462414,true,national-parks-30,National Parks,Landmark,gps,true,true,,,Colorado,
+national-parks-31.jpeg,Black Canyon of the Gunnison National Park,United States,,Black Canyon of the Gunnison National Park,38.571614,-107.727272,true,national-parks-31,National Parks,Landmark,gps,true,true,,,Colorado,
+national-parks-32.jpeg,Redwood National Park,United States,,Redwood National Park,41.21,-124.0,true,national-parks-32,National Parks,Park,manual,true,true,,,California,
+national-parks-33.jpeg,Redwood National Park,United States,,Redwood National Park,41.21,-124.0,true,national-parks-33,National Parks,Park,manual,true,true,,,California,
