@@ -30,7 +30,7 @@ for(const type of ['contextmenu','dragstart']){
 }
 document.querySelectorAll('img').forEach(image=>{image.draggable=false;});
 const photoTitle = p => / · \d+$/.test(p.title)?(p.location||p.country||p.title):p.title;
-const photoPlace = p => {if((p.category==='National Parks'||p.collections?.includes('National Parks'))&&p.state)return p.state;if(p.category==='World Landmarks'||p.collections?.includes('World Landmarks'))return [p.city||p.location,p.country].filter(Boolean).join(', ');if(p.city)return p.city;const title=photoTitle(p),where=p.location===title?p.country:p.location;return where===title?'':where;};
+const photoPlace = p => {if(p.category==='Airports'||p.collections?.includes('Airports'))return p.country;if((p.category==='National Parks'||p.collections?.includes('National Parks'))&&p.state)return p.state;if(p.category==='World Landmarks'||p.collections?.includes('World Landmarks'))return [p.city||p.location,p.country].filter(Boolean).join(', ');if(p.city)return p.city;const title=photoTitle(p),where=p.location===title?p.country:p.location;return where===title?'':where;};
 const isWildlife = p => p.category==='Wildlife'||p.collections?.includes('Wildlife');
 const wildlifeCountry = p => p.country;
 const wildlifePlace = p => '<span class="wildlife-place-name">'+esc(p.location)+'</span><small class="wildlife-country">'+esc(wildlifeCountry(p))+'</small>';
@@ -78,6 +78,7 @@ function showPhoto(){
  scientific.textContent=p.scientificName||'';scientific.hidden=!isWildlife(p)||!p.scientificName;
  const location=$('#lightbox-location');location.classList.toggle('wildlife-place',isWildlife(p));
  if(isWildlife(p))location.innerHTML=wildlifePlace(p);
+ else if(p.category==='Airports')location.textContent=p.country;
  else if(p.category==='National Parks'&&p.state)location.textContent=p.state;
  else location.textContent=[p.city || p.location || (p.category==='Slideshow'?'From Daniel’s collection':'Location to confirm'),p.country].filter(Boolean).join(' · ');
  $('#lightbox-counter').textContent=`${String(current+1).padStart(2,'0')} / ${lightboxPhotos.length}`;
@@ -131,13 +132,14 @@ function renderCollection(){
 function renderFilmstrip(container,list){
  if(!list.length)return;
  container.classList.add('is-filmstrip');
+ const isAirport=container.dataset.category==='Airports',matted=isAirport||container.dataset.category==='Metros';
  container.innerHTML='<div class="filmstrip-controls"><button class="filmstrip-browse" aria-expanded="true" aria-controls="filmstrip-drawer">Browse cities <span aria-hidden="true">−</span></button><div class="filmstrip-arrows"><button aria-label="Previous city" aria-controls="filmstrip-track">←</button><button aria-label="Next city" aria-controls="filmstrip-track">→</button></div></div><div id="filmstrip-drawer" class="filmstrip-drawer" role="group" aria-label="Jump to a city"></div><div id="filmstrip-track" class="filmstrip-track" role="region" aria-label="Cityscapes filmstrip" tabindex="0" aria-describedby="filmstrip-help"></div><p id="filmstrip-help" class="sr-only">Swipe or scroll horizontally to explore this looping gallery. Use the left and right arrow keys to change photographs, or Home and End to jump to the first and last. Select a photograph to open fullscreen.</p><p class="sr-only filmstrip-status" role="status" aria-live="polite"></p>';
- if(container.dataset.category==='Metros'){
-  container.querySelector('.filmstrip-browse').firstChild.textContent='Browse stations ';
-  container.querySelector('.filmstrip-track').setAttribute('aria-label','Metros filmstrip');
-  container.querySelector('.filmstrip-drawer').setAttribute('aria-label','Jump to a station');
-  container.querySelector('[aria-label="Previous city"]').setAttribute('aria-label','Previous station');
-  container.querySelector('[aria-label="Next city"]').setAttribute('aria-label','Next station');
+ if(matted){
+  container.querySelector('.filmstrip-browse').firstChild.textContent=isAirport?'Browse airports ':'Browse stations ';
+  container.querySelector('.filmstrip-track').setAttribute('aria-label',container.dataset.category+' filmstrip');
+  container.querySelector('.filmstrip-drawer').setAttribute('aria-label',isAirport?'Jump to an airport':'Jump to a station');
+  container.querySelector('[aria-label="Previous city"]').setAttribute('aria-label',isAirport?'Previous airport':'Previous station');
+  container.querySelector('[aria-label="Next city"]').setAttribute('aria-label',isAirport?'Next airport':'Next station');
   container.querySelector('#filmstrip-help').textContent='Swipe or scroll horizontally to explore this looping gallery. Use the left and right arrow keys to change photographs, or Home and End to jump to the first and last. Select a photograph to open fullscreen.';
  }
  const track=container.querySelector('.filmstrip-track'),drawer=container.querySelector('.filmstrip-drawer');
@@ -192,7 +194,7 @@ function renderFilmstrip(container,list){
    slide.setAttribute('aria-label','Open '+photoAlt(p));
    if(!canonical){slide.setAttribute('aria-hidden','true');slide.tabIndex=-1;}
    slide.innerHTML='<img src="'+esc(photoSrc(p))+'" alt="'+esc(photoAlt(p))+'" width="'+(p.displayWidth||p.width)+'" height="'+(p.displayHeight||p.height)+'" loading="'+(canonical&&i===0?'eager':'lazy')+'" decoding="async" draggable="false"><span class="tile-caption"><span>'+esc(photoTitle(p))+'</span><span>'+esc(photoPlace(p))+'</span></span>';
-   if(container.dataset.category==='Metros'){
+   if(matted){
     const mat=document.createElement('span');mat.className='filmstrip-mat';
     slide.querySelector('img').before(mat);mat.append(slide.querySelector('img'));
    }

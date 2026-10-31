@@ -1,0 +1,11 @@
+{
+  "title": "Airports",
+  "category": "Airports",
+  "label": "AIRPORTS AROUND THE WORLD",
+  "description": "Airport terminals and architecture from my travels.",
+  "page": "airports.html",
+  "cover": "airport-01-ord.jpeg",
+  "featured": true,
+  "featured_order": 1.5,
+  "template": "templates/airports.html"
+}

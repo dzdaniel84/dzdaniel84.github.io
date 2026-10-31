@@ -634,14 +634,14 @@ img,.hero-image,.collection-cover-media,.gallery-photo,.preview-open{-webkit-use
 }
 
 /* Square print mats follow the site theme without cropping photographs. */
-[data-category="Metros"].is-filmstrip{--mat-color:#1c252d}
-html[data-theme="light"] [data-category="Metros"].is-filmstrip{--mat-color:#f2efe7}
-[data-category="Metros"] .filmstrip-controls{flex-wrap:wrap;gap:12px}
-.collection-editorial [data-category="Metros"] .filmstrip-track .filmstrip-slide{flex:0 0 min(82%,64svh,720px);width:auto}
+:is([data-category="Metros"],[data-category="Airports"]).is-filmstrip{--mat-color:#1c252d}
+html[data-theme="light"] :is([data-category="Metros"],[data-category="Airports"]).is-filmstrip{--mat-color:#f2efe7}
+:is([data-category="Metros"],[data-category="Airports"]) .filmstrip-controls{flex-wrap:wrap;gap:12px}
+.collection-editorial :is([data-category="Metros"],[data-category="Airports"]) .filmstrip-track .filmstrip-slide{flex:0 0 min(82%,64svh,720px);width:auto}
 .filmstrip-mat{display:grid;place-items:center;width:100%;aspect-ratio:1;padding:clamp(12px,2vw,28px);background:var(--mat-color)}
-.collection-editorial [data-category="Metros"] .filmstrip-track .filmstrip-mat img{width:100%;height:100%;max-width:100%;max-height:100%;min-height:0;object-fit:contain;aspect-ratio:auto}
+.collection-editorial :is([data-category="Metros"],[data-category="Airports"]) .filmstrip-track .filmstrip-mat img{width:100%;height:100%;max-width:100%;max-height:100%;min-height:0;object-fit:contain;aspect-ratio:auto}
 @media(max-width:650px){
- .collection-editorial [data-category="Metros"] .filmstrip-track .filmstrip-slide{flex-basis:92%}
- [data-category="Metros"] .filmstrip-arrows{margin-left:auto}
+ .collection-editorial :is([data-category="Metros"],[data-category="Airports"]) .filmstrip-track .filmstrip-slide{flex-basis:92%}
+ :is([data-category="Metros"],[data-category="Airports"]) .filmstrip-arrows{margin-left:auto}
  .filmstrip-mat{padding:14px}
 }

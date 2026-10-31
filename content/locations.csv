@@ -1,6 +1,8 @@
 ﻿location,country,latitude,longitude,coordinate_precision
 "21st Century Museum of Contemporary Art, Kanazawa",Japan,36.56083,136.65806,Landmark
+Adolfo Suárez Madrid-Barajas Airport (MAD),Spain,40.493407,-3.572249,Airport
 Aeropuerto T4 Station,Spain,40.4918,-3.5933,Landmark
+Amsterdam Airport Schiphol (AMS),Netherlands,52.308601,4.76389,Airport
 Antalya,Turkey,36.88772,30.702742,City
 Antwerp,Belgium,51.22047,4.40026,City
 Antwerpen-Centraal railway station,Belgium,51.21722,4.42111,Landmark
@@ -37,6 +39,7 @@ Casa de los Azulejos,Mexico,19.43422,-99.14021,Landmark
 Chania,Greece,35.513667,24.020547,City
 Channel Islands National Park,United States,34.01,-119.73,Park
 Chicago,United States,41.88,-87.63,City-level
+Chicago O'Hare International Airport (ORD),United States,41.9786,-87.9048,Airport
 Chichén Itzá,Mexico,20.68,-88.57,Region
 "Choi Hung, Hong Kong",Hong Kong,22.33462,114.205563,City
 Copenhagen,Denmark,55.67594,12.56553,City
@@ -56,13 +59,17 @@ Fountain of Wealth,Singapore,1.29478,103.85881,Landmark
 Galleria dell'Accademia,Italy,43.7769,11.2589,Landmark
 Gaularfjellet,Norway,61.41352,6.52901,Region
 Ghent,Belgium,51.05,3.71667,City
+Glacier Park International Airport (FCA),United States,48.310501,-114.255997,Airport
+Grand Junction Regional Airport (GJT),United States,39.126663,-108.529387,Airport
 Greece,Greece,39.07,21.82,Country
 "Göreme, Cappadocia",Turkey,38.643447,34.828403,City
 Hamad International Airport,Qatar,25.27306,51.60806,Landmark
+Hamad International Airport (DOH),Qatar,25.273056,51.608056,Airport
 Hardanger Bridge,Norway,60.47848,6.83033,Landmark
 Haugastøl,Norway,60.51202,7.86314,Region
 Hawaiʻi Island,United States,19.7,-155.1,Region
 Heian Shrine,Japan,35.01667,135.78222,Landmark
+Helsinki Airport (HEL),Finland,60.318363,24.963341,Airport
 Himeji,Japan,34.836167,134.692563,City
 Hong Kong,Hong Kong,22.280853,114.169945,City
 Horseshoe Bay,Canada,49.37405,-123.27244,Landmark
@@ -71,6 +78,7 @@ Howe Sound,Canada,49.5,-123.31667,Landmark
 "Hyde Park, Sydney",Australia,-33.87333,151.21139,Landmark
 Hōkan-ji (Yasaka Pagoda),Japan,34.99859,135.77919,Landmark
 Istanbul,Turkey,41.01,28.98,City
+Istanbul Airport (IST),Turkey,41.274874,28.732136,Airport
 Izmir,Turkey,38.419505,27.129347,City
 Japan,Japan,36.2,138.25,Country
 Josephsburg,Germany,48.1268,11.6342,Landmark
@@ -95,7 +103,9 @@ Lisbon,Portugal,38.712478,-9.137797,City
 Loen,Norway,61.8715,6.8459,Region
 London,United Kingdom,51.50853,-0.12574,City
 London Bridge / The Shard,United Kingdom,51.50449,-0.08691,Landmark
+London Heathrow Airport (LHR),United Kingdom,51.470748,-0.459909,Airport
 Longshan Temple (Taipei),Taiwan,25.03722,121.49944,Landmark
+Louis Armstrong New Orleans International Airport (MSY),United States,29.993401,-90.264673,Airport
 Louvre,France,48.8611,2.3358,Landmark
 Luxembourg City,Luxembourg,49.60982,6.13268,City
 Macau,Macau,22.20056,113.54611,City
@@ -152,6 +162,7 @@ Sagrada Família,Spain,41.40369,2.17433,Landmark
 Saguaro National Park,United States,32.25,-111.16,Park
 Salzburg,Austria,47.804453,13.043942,City
 San Francisco,United States,37.77,-122.42,City
+San Francisco International Airport (SFO),United States,37.619806,-122.374821,Airport
 San Francisco Zoo,United States,37.733,-122.503,Park
 San José,Costa Rica,9.932497,-84.071475,City
 San Juan,Puerto Rico,18.4,-66.06,City
@@ -206,6 +217,7 @@ Vienna,Austria,48.21,16.37,City
 Vijzelgracht Station,Netherlands,52.362,4.8903,Landmark
 Voss,Norway,60.62869,6.41474,Region
 Vøringsfossen,Norway,60.42689,7.25114,Landmark
+Washington Dulles International Airport (IAD),United States,38.9445,-77.455803,Airport
 West 4th Street Station,United States,40.7323,-74.0005,Landmark
 Westminster Abbey,United Kingdom,51.49944,-0.1275,Landmark
 Whistler,Canada,50.116003,-122.959425,City
@@ -214,4 +226,5 @@ Yokohama,Japan,35.44212,139.648153,City
 Yosemite National Park,United States,37.75,-119.6,Park
 Zanzibar,Tanzania,-6.16176,39.19128,Region
 Zion National Park,United States,37.3,-113.0,Park
+Zurich Airport (ZRH),Switzerland,47.458056,8.548056,Airport
 Ålesund,Norway,62.47225,6.15492,City
