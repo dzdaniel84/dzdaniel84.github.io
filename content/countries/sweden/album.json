@@ -3,5 +3,45 @@
   "page": "country-sweden.html",
   "cover": "sweden-045.jpeg",
   "cover_position": "48% 21%",
-  "hide_captions": true
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Stockholm",
+        "photoIds": [
+          "sweden-001",
+          "sweden-002",
+          "sweden-003",
+          "sweden-004",
+          "sweden-005",
+          "sweden-008",
+          "sweden-011",
+          "sweden-014",
+          "sweden-018",
+          "sweden-019",
+          "sweden-020",
+          "sweden-022",
+          "sweden-024",
+          "sweden-026",
+          "sweden-029",
+          "sweden-030",
+          "sweden-032",
+          "sweden-035",
+          "sweden-038",
+          "sweden-040",
+          "sweden-042",
+          "sweden-044",
+          "sweden-045",
+          "sweden-048",
+          "sweden-057",
+          "sweden-061",
+          "sweden-065",
+          "sweden-069",
+          "sweden-070",
+          "sweden-074",
+          "sweden-076"
+        ]
+      }
+    ]
+  }
 }

@@ -2,5 +2,112 @@
   "name": "United Kingdom",
   "page": "country-united-kingdom.html",
   "cover": "united-kingdom-017.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "London",
+        "photoIds": [
+          "united-kingdom-002",
+          "united-kingdom-004",
+          "united-kingdom-005",
+          "united-kingdom-006",
+          "united-kingdom-007",
+          "united-kingdom-008",
+          "united-kingdom-009",
+          "united-kingdom-011",
+          "united-kingdom-015",
+          "united-kingdom-016",
+          "united-kingdom-017",
+          "united-kingdom-018",
+          "united-kingdom-019",
+          "world-landmarks-35",
+          "united-kingdom-022",
+          "united-kingdom-027",
+          "united-kingdom-030",
+          "united-kingdom-033",
+          "united-kingdom-035",
+          "united-kingdom-037",
+          "united-kingdom-038",
+          "united-kingdom-039",
+          "united-kingdom-040",
+          "united-kingdom-042",
+          "united-kingdom-044"
+        ]
+      },
+      {
+        "title": "Bath",
+        "photoIds": [
+          "united-kingdom-bath-001",
+          "united-kingdom-bath-002",
+          "united-kingdom-bath-003",
+          "united-kingdom-bath-004",
+          "united-kingdom-bath-005",
+          "united-kingdom-bath-006",
+          "united-kingdom-bath-007",
+          "united-kingdom-bath-008"
+        ]
+      },
+      {
+        "title": "Harrogate",
+        "photoIds": [
+          "united-kingdom-harrogate-001",
+          "united-kingdom-harrogate-002",
+          "united-kingdom-harrogate-003",
+          "united-kingdom-harrogate-004",
+          "united-kingdom-harrogate-005"
+        ]
+      },
+      {
+        "title": "Oxford",
+        "photoIds": [
+          "united-kingdom-oxford-001",
+          "united-kingdom-oxford-002",
+          "united-kingdom-oxford-003",
+          "united-kingdom-oxford-004",
+          "united-kingdom-oxford-005",
+          "united-kingdom-oxford-006",
+          "united-kingdom-oxford-007",
+          "united-kingdom-oxford-008",
+          "united-kingdom-oxford-009"
+        ]
+      },
+      {
+        "title": "Cambridge",
+        "photoIds": [
+          "united-kingdom-cambridge-001",
+          "united-kingdom-cambridge-002",
+          "united-kingdom-cambridge-003",
+          "united-kingdom-cambridge-004",
+          "united-kingdom-cambridge-005",
+          "united-kingdom-cambridge-006"
+        ]
+      },
+      {
+        "title": "Leeds",
+        "photoIds": [
+          "united-kingdom-leeds-001",
+          "united-kingdom-leeds-002",
+          "united-kingdom-leeds-003",
+          "united-kingdom-leeds-004",
+          "united-kingdom-leeds-005",
+          "united-kingdom-leeds-006"
+        ]
+      },
+      {
+        "title": "York",
+        "photoIds": [
+          "united-kingdom-york-001",
+          "united-kingdom-york-002",
+          "united-kingdom-york-003",
+          "united-kingdom-york-004",
+          "united-kingdom-york-005",
+          "united-kingdom-york-006",
+          "united-kingdom-york-007",
+          "united-kingdom-york-008"
+        ]
+      }
+    ]
+  }
 }

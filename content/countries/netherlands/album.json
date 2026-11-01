@@ -1,0 +1,58 @@
+{
+  "name": "Netherlands",
+  "page": "country-netherlands.html",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Amsterdam",
+        "photoIds": [
+          "netherlands-amsterdam-001",
+          "netherlands-amsterdam-002",
+          "netherlands-amsterdam-003",
+          "netherlands-amsterdam-004",
+          "netherlands-amsterdam-005",
+          "netherlands-amsterdam-006",
+          "netherlands-amsterdam-007",
+          "netherlands-amsterdam-008",
+          "netherlands-amsterdam-009",
+          "netherlands-amsterdam-010",
+          "netherlands-amsterdam-011",
+          "netherlands-amsterdam-012"
+        ]
+      },
+      {
+        "title": "Utrecht",
+        "photoIds": [
+          "netherlands-utrecht-001",
+          "netherlands-utrecht-002",
+          "netherlands-utrecht-003",
+          "netherlands-utrecht-004",
+          "netherlands-utrecht-005",
+          "netherlands-utrecht-006",
+          "netherlands-utrecht-007",
+          "netherlands-utrecht-008",
+          "netherlands-utrecht-009",
+          "netherlands-utrecht-010"
+        ]
+      },
+      {
+        "title": "The Hague",
+        "photoIds": [
+          "netherlands-the-hague-001",
+          "netherlands-the-hague-002",
+          "netherlands-the-hague-003",
+          "netherlands-the-hague-004",
+          "netherlands-the-hague-005",
+          "netherlands-the-hague-006",
+          "netherlands-the-hague-007",
+          "netherlands-the-hague-008",
+          "netherlands-the-hague-009",
+          "netherlands-the-hague-010",
+          "netherlands-the-hague-011"
+        ]
+      }
+    ]
+  },
+  "cover": "netherlands-amsterdam-001.jpeg"
+}

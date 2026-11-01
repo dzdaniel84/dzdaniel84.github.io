@@ -2,5 +2,64 @@
   "name": "Australia",
   "page": "country-australia.html",
   "cover": "world-landmarks-32.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Sydney",
+        "photoIds": [
+          "australia-003",
+          "australia-005",
+          "australia-006",
+          "australia-007",
+          "australia-008",
+          "australia-009",
+          "australia-010",
+          "australia-011",
+          "australia-015",
+          "australia-017",
+          "world-landmarks-32",
+          "australia-019",
+          "australia-020",
+          "australia-021",
+          "australia-022",
+          "australia-023",
+          "australia-026",
+          "australia-028",
+          "australia-029",
+          "australia-030",
+          "australia-031",
+          "australia-035",
+          "wildlife-08"
+        ]
+      },
+      {
+        "title": "Melbourne",
+        "photoIds": [
+          "australia-002",
+          "australia-016",
+          "australia-027",
+          "australia-032",
+          "australia-034",
+          "australia-036",
+          "australia-037",
+          "australia-039"
+        ]
+      },
+      {
+        "title": "Blue Mountains",
+        "photoIds": [
+          "australia-001",
+          "australia-004",
+          "australia-012",
+          "australia-013",
+          "australia-014",
+          "wildlife-25",
+          "australia-025",
+          "australia-033"
+        ]
+      }
+    ]
+  }
 }

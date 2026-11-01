@@ -1,6 +1,6 @@
 ﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,gallery_sequence
 airport-01-ord.jpeg,Chicago O'Hare International Airport (ORD),United States,,Chicago O'Hare International Airport (ORD),41.9786,-87.9048,true,airport-01,Airports,Airport,manual,true,true,
-airport-02-ist.jpeg,Istanbul Airport (IST),Turkey,,Istanbul Airport (IST),41.274874,28.732136,true,airport-02,Airports,Airport,manual,false,true,false
+airport-02-ist.jpeg,Istanbul Airport (IST),Turkey,,Istanbul Airport (IST),41.274874,28.732136,false,airport-02,Airports,Airport,manual,false,false,false
 airport-03-msy.jpeg,Louis Armstrong New Orleans International Airport (MSY),United States,,Louis Armstrong New Orleans International Airport (MSY),29.993401,-90.264673,true,airport-03,Airports,Airport,manual,true,true,
 airport-04-iad-windows.jpeg,Washington Dulles International Airport (IAD),United States,,Washington Dulles International Airport (IAD),38.9445,-77.455803,true,airport-04,Airports,Airport,manual,true,true,
 airport-05-fca.jpeg,Glacier Park International Airport (FCA),United States,,Glacier Park International Airport (FCA),48.310501,-114.255997,true,airport-05,Airports,Airport,manual,true,true,

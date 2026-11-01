@@ -2,5 +2,55 @@
   "name": "Tanzania",
   "page": "country-tanzania.html",
   "cover": "tanzania-006.jpeg",
-  "cover_position": "50% 25%"
+  "cover_position": "50% 25%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Zanzibar",
+        "photoIds": [
+          "tanzania-008",
+          "tanzania-009",
+          "tanzania-010",
+          "tanzania-011",
+          "tanzania-012",
+          "tanzania-013",
+          "tanzania-014",
+          "tanzania-015",
+          "tanzania-016",
+          "tanzania-017",
+          "tanzania-018",
+          "tanzania-019"
+        ]
+      },
+      {
+        "title": "Kilimanjaro",
+        "photoIds": [
+          "tanzania-020",
+          "tanzania-022",
+          "tanzania-023",
+          "tanzania-024"
+        ]
+      },
+      {
+        "title": "Serengeti",
+        "photoIds": [
+          "tanzania-001",
+          "tanzania-002",
+          "tanzania-003",
+          "tanzania-004",
+          "tanzania-005",
+          "tanzania-006",
+          "tanzania-007",
+          "tanzania-025"
+        ]
+      },
+      {
+        "title": "Dar es Salaam",
+        "photoIds": [
+          "tanzania-021"
+        ]
+      }
+    ]
+  }
 }

@@ -2,5 +2,130 @@
   "name": "Turkey",
   "page": "country-turkey.html",
   "cover": "turkey-020.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Istanbul",
+        "photoIds": [
+          "cityscapes-10",
+          "world-landmarks-31",
+          "turkey-istanbul-001",
+          "turkey-istanbul-002",
+          "turkey-istanbul-003",
+          "turkey-istanbul-004",
+          "turkey-istanbul-005",
+          "turkey-istanbul-006",
+          "turkey-istanbul-007",
+          "turkey-istanbul-008",
+          "turkey-istanbul-009",
+          "turkey-istanbul-010",
+          "turkey-istanbul-011",
+          "turkey-istanbul-012",
+          "turkey-istanbul-013",
+          "turkey-istanbul-014",
+          "turkey-istanbul-015"
+        ]
+      },
+      {
+        "title": "Antalya",
+        "photoIds": [
+          "turkey-001",
+          "turkey-006",
+          "turkey-008",
+          "turkey-009",
+          "turkey-010",
+          "turkey-011",
+          "turkey-021",
+          "turkey-022",
+          "turkey-023",
+          "turkey-024",
+          "turkey-025",
+          "turkey-026",
+          "turkey-027",
+          "turkey-028",
+          "turkey-029",
+          "turkey-030",
+          "turkey-031",
+          "turkey-032",
+          "turkey-049",
+          "turkey-050",
+          "turkey-051",
+          "turkey-052",
+          "turkey-053",
+          "turkey-054",
+          "turkey-055",
+          "turkey-056",
+          "turkey-057",
+          "turkey-058",
+          "turkey-059",
+          "turkey-060",
+          "turkey-061",
+          "turkey-062",
+          "turkey-063",
+          "turkey-064"
+        ]
+      },
+      {
+        "title": "Cappadocia",
+        "photoIds": [
+          "turkey-002",
+          "turkey-003",
+          "turkey-004",
+          "turkey-005",
+          "turkey-007",
+          "turkey-013",
+          "turkey-015",
+          "turkey-016",
+          "turkey-017",
+          "turkey-018",
+          "turkey-019",
+          "turkey-020",
+          "turkey-035",
+          "turkey-036",
+          "turkey-037",
+          "turkey-038",
+          "turkey-039",
+          "turkey-040",
+          "turkey-041",
+          "turkey-042",
+          "turkey-043",
+          "turkey-044",
+          "turkey-045",
+          "turkey-046",
+          "turkey-047",
+          "turkey-048",
+          "turkey-071"
+        ]
+      },
+      {
+        "title": "Ankara",
+        "photoIds": [
+          "cityscapes-20"
+        ]
+      },
+      {
+        "title": "Pamukkale",
+        "photoIds": [
+          "turkey-012",
+          "turkey-065",
+          "turkey-066",
+          "turkey-067",
+          "turkey-070"
+        ]
+      },
+      {
+        "title": "Izmir",
+        "photoIds": [
+          "turkey-014",
+          "turkey-033",
+          "turkey-034",
+          "turkey-068",
+          "turkey-069",
+          "world-landmarks-13"
+        ]
+      }
+    ]
+  }
 }

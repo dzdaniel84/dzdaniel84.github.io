@@ -1,46 +1,88 @@
-﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order
-united-kingdom-001.jpeg,Palace of Westminster,United Kingdom,,United Kingdom · 01,51.49917,-0.12472,true,united-kingdom-001,Country Albums,Landmark,visual,false,true,,1340
-united-kingdom-002.jpeg,London,United Kingdom,,United Kingdom · 02,51.50853,-0.12574,true,united-kingdom-002,Country Albums,City,visual,false,true,,1341
-united-kingdom-003.jpeg,London,United Kingdom,,United Kingdom · 03,51.50853,-0.12574,true,united-kingdom-003,Country Albums,City,visual,false,true,,1342
-united-kingdom-004.jpeg,London,United Kingdom,,United Kingdom · 04,51.50853,-0.12574,true,united-kingdom-004,Country Albums,City,visual,false,true,,1343
-united-kingdom-005.jpeg,St Paul's Cathedral,United Kingdom,,United Kingdom · 05,51.5138,-0.0983,true,united-kingdom-005,Country Albums,Landmark,visual,false,true,,1344
-united-kingdom-006.jpeg,Palace of Westminster,United Kingdom,,United Kingdom · 06,51.49917,-0.12472,true,united-kingdom-006,Country Albums,Landmark,visual,false,true,,1345
-united-kingdom-007.jpeg,London,United Kingdom,,United Kingdom · 07,51.50853,-0.12574,true,united-kingdom-007,Country Albums,City,visual,false,true,,1346
-united-kingdom-008.jpeg,London,United Kingdom,,United Kingdom · 08,51.50853,-0.12574,true,united-kingdom-008,Country Albums,City,visual,false,true,,1347
-united-kingdom-009.jpeg,London,United Kingdom,,United Kingdom · 09,51.50853,-0.12574,true,united-kingdom-009,Country Albums,City,visual,false,true,,1348
-united-kingdom-010.jpeg,London,United Kingdom,,United Kingdom · 10,51.50853,-0.12574,true,united-kingdom-010,Country Albums,City,visual,false,true,,1349
-united-kingdom-011.jpeg,London,United Kingdom,,United Kingdom · 11,51.50853,-0.12574,true,united-kingdom-011,Country Albums,City,visual,false,true,,1350
-united-kingdom-012.jpeg,London,United Kingdom,,United Kingdom · 12,51.50853,-0.12574,true,united-kingdom-012,Country Albums,City,visual,false,true,,1351
-united-kingdom-013.jpeg,London,United Kingdom,,United Kingdom · 13,51.50853,-0.12574,true,united-kingdom-013,Country Albums,City,visual,false,true,,1352
-united-kingdom-014.jpeg,London,United Kingdom,,United Kingdom · 14,51.50853,-0.12574,true,united-kingdom-014,Country Albums,City,visual,false,true,,1353
-united-kingdom-015.jpeg,Tower Bridge,United Kingdom,,United Kingdom · 15,51.5056,-0.0753,true,united-kingdom-015,Country Albums,Landmark,visual,false,true,,1354
-united-kingdom-016.jpeg,London Bridge / The Shard,United Kingdom,,United Kingdom · 16,51.50449,-0.08691,true,united-kingdom-016,Country Albums,Landmark,visual,false,true,,1355
-united-kingdom-017.jpeg,St Paul's Cathedral,United Kingdom,,United Kingdom · 17,51.5138,-0.0983,true,united-kingdom-017,Country Albums,Landmark,visual,false,true,,1356
-united-kingdom-018.jpeg,London,United Kingdom,,United Kingdom · 18,51.50853,-0.12574,true,united-kingdom-018,Country Albums,City,visual,false,true,,1357
-united-kingdom-019.jpeg,London,United Kingdom,,United Kingdom · 19,51.50853,-0.12574,true,united-kingdom-019,Country Albums,City,visual,false,true,,1358
-united-kingdom-020.jpeg,London,United Kingdom,,United Kingdom · 20,51.50853,-0.12574,true,united-kingdom-020,Country Albums,City,visual,false,true,,1359
-world-landmarks-35.jpeg,Palace of Westminster,United Kingdom,,Palace of Westminster,51.49917,-0.12472,true,world-landmarks-35,World Landmarks,Landmark,visual,false,true,,136
-united-kingdom-022.jpeg,Palace of Westminster,United Kingdom,,United Kingdom · 22,51.49917,-0.12472,true,united-kingdom-022,Country Albums,Landmark,visual,false,true,,1360
-united-kingdom-023.jpeg,Palace of Westminster,United Kingdom,,United Kingdom · 23,51.49917,-0.12472,true,united-kingdom-023,Country Albums,Landmark,visual,false,true,,1361
-united-kingdom-024.jpeg,London,United Kingdom,,United Kingdom · 24,51.50853,-0.12574,true,united-kingdom-024,Country Albums,City,visual,false,true,,1362
-united-kingdom-025.jpeg,London,United Kingdom,,United Kingdom · 25,51.50853,-0.12574,true,united-kingdom-025,Country Albums,City,visual,false,true,,1363
-united-kingdom-026.jpeg,London,United Kingdom,,United Kingdom · 26,51.50853,-0.12574,true,united-kingdom-026,Country Albums,City,visual,false,true,,1364
-united-kingdom-027.jpeg,St Paul's Cathedral,United Kingdom,,United Kingdom · 27,51.5138,-0.0983,true,united-kingdom-027,Country Albums,Landmark,visual,false,true,,1365
-united-kingdom-028.jpeg,London,United Kingdom,,United Kingdom · 28,51.50853,-0.12574,true,united-kingdom-028,Country Albums,City,visual,false,true,,1366
-united-kingdom-029.jpeg,London,United Kingdom,,United Kingdom · 29,51.50853,-0.12574,true,united-kingdom-029,Country Albums,City,visual,false,true,,1367
-united-kingdom-030.jpeg,London Bridge / The Shard,United Kingdom,,United Kingdom · 30,51.50449,-0.08691,true,united-kingdom-030,Country Albums,Landmark,visual,false,true,,1368
-united-kingdom-031.jpeg,St Paul's Cathedral,United Kingdom,,United Kingdom · 31,51.5138,-0.0983,true,united-kingdom-031,Country Albums,Landmark,visual,false,true,,1369
-united-kingdom-032.jpeg,British Museum,United Kingdom,,United Kingdom · 32,51.5194,-0.1269,true,united-kingdom-032,Country Albums,Landmark,visual,false,true,,1370
-united-kingdom-033.jpeg,London,United Kingdom,,United Kingdom · 33,51.50853,-0.12574,true,united-kingdom-033,Country Albums,City,visual,false,true,,1371
-united-kingdom-034.jpeg,Westminster Abbey,United Kingdom,,United Kingdom · 34,51.49944,-0.1275,true,united-kingdom-034,Country Albums,Landmark,visual,false,true,,1372
-united-kingdom-035.jpeg,London,United Kingdom,,United Kingdom · 35,51.50853,-0.12574,true,united-kingdom-035,Country Albums,City,visual,false,true,,1373
-united-kingdom-036.jpeg,London,United Kingdom,,United Kingdom · 36,51.50853,-0.12574,true,united-kingdom-036,Country Albums,City,visual,false,true,,1374
-united-kingdom-037.jpeg,London,United Kingdom,,United Kingdom · 37,51.50853,-0.12574,true,united-kingdom-037,Country Albums,City,visual,false,true,,1375
-united-kingdom-038.jpeg,London,United Kingdom,,United Kingdom · 38,51.50853,-0.12574,true,united-kingdom-038,Country Albums,City,visual,false,true,,1376
-united-kingdom-039.jpeg,London,United Kingdom,,United Kingdom · 39,51.50853,-0.12574,true,united-kingdom-039,Country Albums,City,visual,false,true,,1377
-united-kingdom-040.jpeg,London,United Kingdom,,United Kingdom · 40,51.50853,-0.12574,true,united-kingdom-040,Country Albums,City,visual,false,true,,1378
-united-kingdom-041.jpeg,London,United Kingdom,,United Kingdom · 41,51.50853,-0.12574,true,united-kingdom-041,Country Albums,City,visual,false,true,,1379
-united-kingdom-042.jpeg,"The Gherkin, London",United Kingdom,,United Kingdom · 42,51.51444,-0.08028,true,united-kingdom-042,Country Albums,Landmark,visual,false,true,,1380
-united-kingdom-043.jpeg,London,United Kingdom,,United Kingdom · 43,51.50853,-0.12574,true,united-kingdom-043,Country Albums,City,visual,false,true,,1381
-united-kingdom-044.jpeg,London,United Kingdom,,United Kingdom · 44,51.50853,-0.12574,true,united-kingdom-044,Country Albums,City,visual,false,true,,1382
-united-kingdom-045.jpeg,London,United Kingdom,,United Kingdom · 45,51.50853,-0.12574,true,united-kingdom-045,Country Albums,City,visual,false,true,,1383
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,country_sequence
+united-kingdom-001.jpeg,Palace of Westminster,United Kingdom,,United Kingdom · 01,51.49917,-0.12472,false,united-kingdom-001,Country Albums,Landmark,visual,false,false,,1340,false
+united-kingdom-002.jpeg,London,United Kingdom,,United Kingdom · 02,51.50853,-0.12574,true,united-kingdom-002,Country Albums,City,visual,false,true,,1341,true
+united-kingdom-003.jpeg,London,United Kingdom,,United Kingdom · 03,51.50853,-0.12574,false,united-kingdom-003,Country Albums,City,visual,false,false,,1342,false
+united-kingdom-004.jpeg,London,United Kingdom,,United Kingdom · 04,51.50853,-0.12574,true,united-kingdom-004,Country Albums,City,visual,false,true,,1343,true
+united-kingdom-005.jpeg,St Paul's Cathedral,United Kingdom,,United Kingdom · 05,51.5138,-0.0983,true,united-kingdom-005,Country Albums,Landmark,visual,false,true,,1344,true
+united-kingdom-006.jpeg,Palace of Westminster,United Kingdom,,United Kingdom · 06,51.49917,-0.12472,true,united-kingdom-006,Country Albums,Landmark,visual,false,true,,1345,true
+united-kingdom-007.jpeg,London,United Kingdom,,United Kingdom · 07,51.50853,-0.12574,true,united-kingdom-007,Country Albums,City,visual,false,true,,1346,true
+united-kingdom-008.jpeg,London,United Kingdom,,United Kingdom · 08,51.50853,-0.12574,true,united-kingdom-008,Country Albums,City,visual,false,true,,1347,true
+united-kingdom-009.jpeg,London,United Kingdom,,United Kingdom · 09,51.50853,-0.12574,true,united-kingdom-009,Country Albums,City,visual,false,true,,1348,true
+united-kingdom-010.jpeg,London,United Kingdom,,United Kingdom · 10,51.50853,-0.12574,false,united-kingdom-010,Country Albums,City,visual,false,false,,1349,false
+united-kingdom-011.jpeg,London,United Kingdom,,United Kingdom · 11,51.50853,-0.12574,true,united-kingdom-011,Country Albums,City,visual,false,true,,1350,true
+united-kingdom-012.jpeg,London,United Kingdom,,United Kingdom · 12,51.50853,-0.12574,false,united-kingdom-012,Country Albums,City,visual,false,false,,1351,false
+united-kingdom-013.jpeg,London,United Kingdom,,United Kingdom · 13,51.50853,-0.12574,false,united-kingdom-013,Country Albums,City,visual,false,false,,1352,false
+united-kingdom-014.jpeg,London,United Kingdom,,United Kingdom · 14,51.50853,-0.12574,false,united-kingdom-014,Country Albums,City,visual,false,false,,1353,false
+united-kingdom-015.jpeg,Tower Bridge,United Kingdom,,United Kingdom · 15,51.5056,-0.0753,true,united-kingdom-015,Country Albums,Landmark,visual,false,true,,1354,true
+united-kingdom-016.jpeg,London Bridge / The Shard,United Kingdom,,United Kingdom · 16,51.50449,-0.08691,true,united-kingdom-016,Country Albums,Landmark,visual,false,true,,1355,true
+united-kingdom-017.jpeg,St Paul's Cathedral,United Kingdom,,United Kingdom · 17,51.5138,-0.0983,true,united-kingdom-017,Country Albums,Landmark,visual,false,true,,1356,true
+united-kingdom-018.jpeg,London,United Kingdom,,United Kingdom · 18,51.50853,-0.12574,true,united-kingdom-018,Country Albums,City,visual,false,true,,1357,true
+united-kingdom-019.jpeg,London,United Kingdom,,United Kingdom · 19,51.50853,-0.12574,true,united-kingdom-019,Country Albums,City,visual,false,true,,1358,true
+united-kingdom-020.jpeg,London,United Kingdom,,United Kingdom · 20,51.50853,-0.12574,false,united-kingdom-020,Country Albums,City,visual,false,false,,1359,false
+world-landmarks-35.jpeg,Palace of Westminster,United Kingdom,,Palace of Westminster,51.49917,-0.12472,true,world-landmarks-35,World Landmarks,Landmark,visual,false,true,,136,true
+united-kingdom-022.jpeg,Palace of Westminster,United Kingdom,,United Kingdom · 22,51.49917,-0.12472,true,united-kingdom-022,Country Albums,Landmark,visual,false,true,,1360,true
+united-kingdom-023.jpeg,Palace of Westminster,United Kingdom,,United Kingdom · 23,51.49917,-0.12472,false,united-kingdom-023,Country Albums,Landmark,visual,false,false,,1361,false
+united-kingdom-024.jpeg,London,United Kingdom,,United Kingdom · 24,51.50853,-0.12574,false,united-kingdom-024,Country Albums,City,visual,false,false,,1362,false
+united-kingdom-025.jpeg,London,United Kingdom,,United Kingdom · 25,51.50853,-0.12574,false,united-kingdom-025,Country Albums,City,visual,false,false,,1363,false
+united-kingdom-026.jpeg,London,United Kingdom,,United Kingdom · 26,51.50853,-0.12574,false,united-kingdom-026,Country Albums,City,visual,false,false,,1364,false
+united-kingdom-027.jpeg,St Paul's Cathedral,United Kingdom,,United Kingdom · 27,51.5138,-0.0983,true,united-kingdom-027,Country Albums,Landmark,visual,false,true,,1365,true
+united-kingdom-028.jpeg,London,United Kingdom,,United Kingdom · 28,51.50853,-0.12574,false,united-kingdom-028,Country Albums,City,visual,false,false,,1366,false
+united-kingdom-029.jpeg,London,United Kingdom,,United Kingdom · 29,51.50853,-0.12574,false,united-kingdom-029,Country Albums,City,visual,false,false,,1367,false
+united-kingdom-030.jpeg,London Bridge / The Shard,United Kingdom,,United Kingdom · 30,51.50449,-0.08691,true,united-kingdom-030,Country Albums,Landmark,visual,false,true,,1368,true
+united-kingdom-031.jpeg,St Paul's Cathedral,United Kingdom,,United Kingdom · 31,51.5138,-0.0983,false,united-kingdom-031,Country Albums,Landmark,visual,false,false,,1369,false
+united-kingdom-032.jpeg,British Museum,United Kingdom,,United Kingdom · 32,51.5194,-0.1269,false,united-kingdom-032,Country Albums,Landmark,visual,false,false,,1370,false
+united-kingdom-033.jpeg,London,United Kingdom,,United Kingdom · 33,51.50853,-0.12574,true,united-kingdom-033,Country Albums,City,visual,false,true,,1371,true
+united-kingdom-034.jpeg,Westminster Abbey,United Kingdom,,United Kingdom · 34,51.49944,-0.1275,false,united-kingdom-034,Country Albums,Landmark,visual,false,false,,1372,false
+united-kingdom-035.jpeg,London,United Kingdom,,United Kingdom · 35,51.50853,-0.12574,true,united-kingdom-035,Country Albums,City,visual,false,true,,1373,true
+united-kingdom-036.jpeg,London,United Kingdom,,United Kingdom · 36,51.50853,-0.12574,false,united-kingdom-036,Country Albums,City,visual,false,false,,1374,false
+united-kingdom-037.jpeg,London,United Kingdom,,United Kingdom · 37,51.50853,-0.12574,true,united-kingdom-037,Country Albums,City,visual,false,true,,1375,true
+united-kingdom-038.jpeg,London,United Kingdom,,United Kingdom · 38,51.50853,-0.12574,true,united-kingdom-038,Country Albums,City,visual,false,true,,1376,true
+united-kingdom-039.jpeg,London,United Kingdom,,United Kingdom · 39,51.50853,-0.12574,true,united-kingdom-039,Country Albums,City,visual,false,true,,1377,true
+united-kingdom-040.jpeg,London,United Kingdom,,United Kingdom · 40,51.50853,-0.12574,true,united-kingdom-040,Country Albums,City,visual,false,true,,1378,true
+united-kingdom-041.jpeg,London,United Kingdom,,United Kingdom · 41,51.50853,-0.12574,false,united-kingdom-041,Country Albums,City,visual,false,false,,1379,false
+united-kingdom-042.jpeg,"The Gherkin, London",United Kingdom,,United Kingdom · 42,51.51444,-0.08028,true,united-kingdom-042,Country Albums,Landmark,visual,false,true,,1380,true
+united-kingdom-043.jpeg,London,United Kingdom,,United Kingdom · 43,51.50853,-0.12574,false,united-kingdom-043,Country Albums,City,visual,false,false,,1381,false
+united-kingdom-044.jpeg,London,United Kingdom,,United Kingdom · 44,51.50853,-0.12574,true,united-kingdom-044,Country Albums,City,visual,false,true,,1382,true
+united-kingdom-045.jpeg,London,United Kingdom,,United Kingdom · 45,51.50853,-0.12574,false,united-kingdom-045,Country Albums,City,visual,false,false,,1383,false
+united-kingdom-bath-001.jpeg,Bath,United Kingdom,Pulteney Bridge at blue hour,Pulteney Bridge at blue hour,51.378889,-2.360411,true,united-kingdom-bath-001,Country Albums,City,gps,true,true,,,true
+united-kingdom-bath-002.jpeg,Bath,United Kingdom,Pub lights after dark,Pub lights after dark,51.3811,-2.359,true,united-kingdom-bath-002,Country Albums,City,visual,true,true,,,true
+united-kingdom-bath-003.jpeg,Bath,United Kingdom,Flowers outside the shop,Flowers outside the shop,51.378889,-2.360411,true,united-kingdom-bath-003,Country Albums,City,gps,true,true,,,true
+united-kingdom-bath-004.jpeg,Bath,United Kingdom,Roman Baths interior,Roman Baths interior,51.378889,-2.360411,true,united-kingdom-bath-004,Country Albums,City,gps,true,true,,,true
+united-kingdom-bath-005.jpeg,Bath,United Kingdom,The Great Bath,The Great Bath,51.378889,-2.360411,true,united-kingdom-bath-005,Country Albums,City,gps,true,true,,,true
+united-kingdom-bath-006.jpeg,Bath,United Kingdom,Bath Abbey vaults,Bath Abbey vaults,51.378889,-2.360411,true,united-kingdom-bath-006,Country Albums,City,gps,true,true,,,true
+united-kingdom-bath-007.jpeg,Bath,United Kingdom,Pulteney Bridge and the weir,Pulteney Bridge and the weir,51.3811,-2.359,true,united-kingdom-bath-007,Country Albums,City,visual,true,true,,,true
+united-kingdom-bath-008.jpeg,Bath,United Kingdom,Royal Crescent,Royal Crescent,51.378889,-2.360411,true,united-kingdom-bath-008,Country Albums,City,gps,true,true,,,true
+united-kingdom-harrogate-001.jpeg,Harrogate,United Kingdom,The well rotunda,The well rotunda,53.799661,-1.549789,true,united-kingdom-harrogate-001,Country Albums,City,gps,true,true,,,true
+united-kingdom-harrogate-002.jpeg,Harrogate,United Kingdom,A shop-lined alley,A shop-lined alley,53.799661,-1.549789,true,united-kingdom-harrogate-002,Country Albums,City,gps,true,true,,,true
+united-kingdom-harrogate-003.jpeg,Harrogate,United Kingdom,Light through the trees,Light through the trees,53.799661,-1.549789,true,united-kingdom-harrogate-003,Country Albums,City,gps,true,true,,,true
+united-kingdom-harrogate-004.jpeg,Harrogate,United Kingdom,A vintage car in Harrogate,A vintage car in Harrogate,53.799661,-1.549789,true,united-kingdom-harrogate-004,Country Albums,City,gps,true,true,,,true
+united-kingdom-harrogate-005.jpeg,Harrogate,United Kingdom,Royal Hall,Royal Hall,53.799661,-1.549789,true,united-kingdom-harrogate-005,Country Albums,City,gps,true,true,,,true
+united-kingdom-oxford-001.jpeg,Oxford,United Kingdom,Natural History Museum,Natural History Museum,51.758689,-1.255597,true,united-kingdom-oxford-001,Country Albums,City,gps,true,true,,,true
+united-kingdom-oxford-002.jpeg,Oxford,United Kingdom,Light through a colonnade,Light through a colonnade,51.7515,-1.257361,true,united-kingdom-oxford-002,Country Albums,City,gps,true,true,,,true
+united-kingdom-oxford-003.jpeg,Oxford,United Kingdom,College beside the river,College beside the river,51.7515,-1.257361,true,united-kingdom-oxford-003,Country Albums,City,gps,true,true,,,true
+united-kingdom-oxford-004.jpeg,Oxford,United Kingdom,Radcliffe Camera through the arch,Radcliffe Camera through the arch,51.7515,-1.257361,true,united-kingdom-oxford-004,Country Albums,City,gps,true,true,,,true
+united-kingdom-oxford-005.jpeg,Oxford,United Kingdom,Oxford at blue hour,Oxford at blue hour,51.7515,-1.257361,true,united-kingdom-oxford-005,Country Albums,City,gps,true,true,,,true
+united-kingdom-oxford-006.jpeg,Oxford,United Kingdom,Divinity School vaults,Divinity School vaults,51.7515,-1.257361,true,united-kingdom-oxford-006,Country Albums,City,gps,true,true,,,true
+united-kingdom-oxford-007.jpeg,Oxford,United Kingdom,College dining hall,College dining hall,51.7515,-1.257361,true,united-kingdom-oxford-007,Country Albums,City,gps,true,true,,,true
+united-kingdom-oxford-008.jpeg,Oxford,United Kingdom,Museum staircase,Museum staircase,51.7515,-1.257361,true,united-kingdom-oxford-008,Country Albums,City,gps,true,true,,,true
+united-kingdom-oxford-009.jpeg,Oxford,United Kingdom,Golden light on High Street,Golden light on High Street,51.7515,-1.257361,true,united-kingdom-oxford-009,Country Albums,City,gps,true,true,,,true
+united-kingdom-cambridge-001.jpeg,Cambridge,United Kingdom,Warm windows after dark,Warm windows after dark,52.207389,0.121758,true,united-kingdom-cambridge-001,Country Albums,City,gps,true,true,,,true
+united-kingdom-cambridge-002.jpeg,Cambridge,United Kingdom,A cobbled street at night,A cobbled street at night,52.207389,0.121758,true,united-kingdom-cambridge-002,Country Albums,City,gps,true,true,,,true
+united-kingdom-cambridge-003.jpeg,Cambridge,United Kingdom,Cambridge shopfronts,Cambridge shopfronts,52.2053,0.1218,true,united-kingdom-cambridge-003,Country Albums,City,visual,true,true,,,true
+united-kingdom-cambridge-004.jpeg,Cambridge,United Kingdom,Evening on Kings Parade,Evening on Kings Parade,52.202311,0.124603,true,united-kingdom-cambridge-004,Country Albums,City,gps,true,true,,,true
+united-kingdom-cambridge-005.jpeg,Cambridge,United Kingdom,Bridge over the Cam,Bridge over the Cam,52.2053,0.1218,true,united-kingdom-cambridge-005,Country Albums,City,visual,true,true,,,true
+united-kingdom-cambridge-006.jpeg,Cambridge,United Kingdom,Kings College Chapel,Kings College Chapel,52.202311,0.124603,true,united-kingdom-cambridge-006,Country Albums,City,gps,true,true,,,true
+united-kingdom-leeds-001.jpeg,Leeds,United Kingdom,Kirkgate Market,Kirkgate Market,53.799661,-1.549789,true,united-kingdom-leeds-001,Country Albums,City,gps,true,true,,,true
+united-kingdom-leeds-002.jpeg,Leeds,United Kingdom,Ribbons at the market,Ribbons at the market,53.799661,-1.549789,true,united-kingdom-leeds-002,Country Albums,City,gps,true,true,,,true
+united-kingdom-leeds-003.jpeg,Leeds,United Kingdom,Corn Exchange,Corn Exchange,53.799661,-1.549789,true,united-kingdom-leeds-003,Country Albums,City,gps,true,true,,,true
+united-kingdom-leeds-004.jpeg,Leeds,United Kingdom,An arcade ceiling,An arcade ceiling,53.799661,-1.549789,true,united-kingdom-leeds-004,Country Albums,City,gps,true,true,,,true
+united-kingdom-leeds-005.jpeg,Leeds,United Kingdom,A red-brick corner,A red-brick corner,53.799661,-1.549789,true,united-kingdom-leeds-005,Country Albums,City,gps,true,true,,,true
+united-kingdom-leeds-006.jpeg,Leeds,United Kingdom,Modern facade,Modern facade,53.799661,-1.549789,true,united-kingdom-leeds-006,Country Albums,City,gps,true,true,,,true
+united-kingdom-york-001.jpeg,York,United Kingdom,A street toward the Minster,A street toward the Minster,53.959,-1.0815,true,united-kingdom-york-001,Country Albums,City,visual,true,true,,,true
+united-kingdom-york-002.jpeg,York,United Kingdom,The wizard shop,The wizard shop,53.959,-1.0815,true,united-kingdom-york-002,Country Albums,City,visual,true,true,,,true
+united-kingdom-york-003.jpeg,York,United Kingdom,A small shop on the corner,A small shop on the corner,53.959,-1.0815,true,united-kingdom-york-003,Country Albums,City,visual,true,true,,,true
+united-kingdom-york-004.jpeg,York,United Kingdom,York Minster in monochrome,York Minster in monochrome,53.958864,-1.089583,true,united-kingdom-york-004,Country Albums,City,gps,true,true,,,true
+united-kingdom-york-005.jpeg,York,United Kingdom,Timber beams inside the hall,Timber beams inside the hall,53.959,-1.0815,true,united-kingdom-york-005,Country Albums,City,visual,true,true,,,true
+united-kingdom-york-006.jpeg,York,United Kingdom,York at blue hour,York at blue hour,53.959,-1.0815,true,united-kingdom-york-006,Country Albums,City,visual,true,true,,,true
+united-kingdom-york-007.jpeg,York,United Kingdom,York station after dark,York station after dark,53.958864,-1.089583,true,united-kingdom-york-007,Country Albums,City,gps,true,true,,,true
+united-kingdom-york-008.jpeg,York,United Kingdom,York in golden light,York in golden light,53.965036,-1.088639,true,united-kingdom-york-008,Country Albums,City,gps,true,true,,,true

@@ -109,7 +109,7 @@ class ContentSyncTests(unittest.TestCase):
         self.assertIn('The Loop, Chicago', (self.root / 'gallery-metros.html').read_text())
         self.assertTrue((self.root / cover['thumbnailSrc']).is_file())
 
-    def test_gallery_sequence_exclusion_preserves_atlas_and_optional_country_album(self):
+    def test_atlas_keeps_gallery_or_country_membership_only(self):
         folder = self.folder('metros')
         for name in ('station.png', 'map-only.png', 'country-only.png'):
             self.photo(folder, name)
@@ -125,15 +125,16 @@ class ContentSyncTests(unittest.TestCase):
         sync(self.root)
         photos = {p['id']: p for p in self.data()['photos']}
         self.assertEqual(photos['station']['collections'], ['Metros'])
+        self.assertTrue(photos['station']['atlas'])
         for identity in ('map-only', 'country-only'):
             self.assertEqual(photos[identity]['collections'], [])
-            self.assertTrue(photos[identity]['atlas'])
+            self.assertEqual(photos[identity]['atlas'], identity == 'country-only')
             self.assertFalse(photos[identity]['coverOnly'])
         self.assertEqual(photos['map-only']['albums'], [])
         self.assertEqual(photos['country-only']['albums'], ['France'])
         self.assertEqual(self.data()['countryAlbums'][0]['photoIds'], ['country-only'])
 
-    def test_country_sequence_exclusion_preserves_map_photo(self):
+    def test_country_sequence_exclusion_hides_unshowcased_map_photo(self):
         folder = self.root / 'content/countries/france'
         folder.mkdir(parents=True)
         self.photo(folder, 'selected.png')
@@ -147,7 +148,7 @@ class ContentSyncTests(unittest.TestCase):
         data = self.data()
         self.assertEqual(data['countryAlbums'][0]['photoIds'], ['selected'])
         photos = {p['id']: p for p in data['photos']}
-        self.assertTrue(photos['map-only']['atlas'])
+        self.assertFalse(photos['map-only']['atlas'])
         self.assertEqual(photos['map-only']['albums'], [])
         self.assertTrue((self.root / photos['map-only']['src']).is_file())
 

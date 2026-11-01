@@ -1,0 +1,29 @@
+{
+  "name": "Ireland",
+  "page": "country-ireland.html",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Dublin",
+        "photoIds": [
+          "ireland-dublin-001",
+          "ireland-dublin-002",
+          "ireland-dublin-003",
+          "ireland-dublin-004",
+          "ireland-dublin-005",
+          "ireland-dublin-006",
+          "ireland-dublin-007",
+          "ireland-dublin-008",
+          "ireland-dublin-009",
+          "ireland-dublin-010",
+          "ireland-dublin-011",
+          "ireland-dublin-012",
+          "ireland-dublin-013",
+          "ireland-dublin-014"
+        ]
+      }
+    ]
+  },
+  "cover": "ireland-dublin-007.jpeg"
+}

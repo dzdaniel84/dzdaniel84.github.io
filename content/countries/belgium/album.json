@@ -2,5 +2,77 @@
   "name": "Belgium",
   "page": "country-belgium.html",
   "cover": "belgium-017.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Bruges",
+        "photoIds": [
+          "belgium-001",
+          "belgium-008",
+          "belgium-009",
+          "belgium-010",
+          "belgium-bruges-001",
+          "belgium-bruges-002",
+          "belgium-bruges-003",
+          "belgium-bruges-004",
+          "belgium-bruges-005",
+          "belgium-bruges-006",
+          "belgium-bruges-007",
+          "belgium-bruges-008"
+        ]
+      },
+      {
+        "title": "Antwerp",
+        "photoIds": [
+          "belgium-017",
+          "belgium-018",
+          "belgium-019",
+          "belgium-antwerp-001",
+          "belgium-antwerp-002",
+          "belgium-antwerp-003",
+          "belgium-antwerp-004",
+          "belgium-antwerp-005",
+          "belgium-antwerp-006",
+          "belgium-antwerp-007",
+          "belgium-antwerp-008"
+        ]
+      },
+      {
+        "title": "Ghent",
+        "photoIds": [
+          "belgium-002",
+          "belgium-004",
+          "belgium-007",
+          "belgium-011",
+          "belgium-012",
+          "belgium-013",
+          "belgium-014",
+          "belgium-015",
+          "belgium-ghent-001",
+          "belgium-ghent-002",
+          "belgium-ghent-003",
+          "belgium-ghent-004",
+          "belgium-ghent-005",
+          "belgium-ghent-006"
+        ]
+      },
+      {
+        "title": "Brussels",
+        "photoIds": [
+          "belgium-003",
+          "belgium-005",
+          "belgium-006",
+          "belgium-016",
+          "belgium-brussels-001",
+          "belgium-brussels-002",
+          "belgium-brussels-003",
+          "belgium-brussels-004",
+          "belgium-brussels-005",
+          "belgium-brussels-006"
+        ]
+      }
+    ]
+  }
 }

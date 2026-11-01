@@ -1,72 +1,87 @@
-﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order
-turkey-001.jpeg,Antalya,Turkey,,Turkey · 01,36.88772,30.702742,true,turkey-001,Country Albums,City,gps,false,true,,1269
-turkey-002.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 02,38.643447,34.828403,true,turkey-002,Country Albums,City,gps,false,true,,1270
-turkey-003.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 03,38.643447,34.828403,true,turkey-003,Country Albums,City,gps,false,true,,1271
-turkey-004.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 04,38.643447,34.828403,true,turkey-004,Country Albums,City,gps,false,true,,1272
-turkey-005.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 05,38.643447,34.828403,true,turkey-005,Country Albums,City,gps,false,true,,1273
-turkey-006.jpeg,Antalya,Turkey,,Turkey · 06,36.88772,30.702742,true,turkey-006,Country Albums,City,gps,false,true,,1274
-turkey-007.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 07,38.643447,34.828403,true,turkey-007,Country Albums,City,gps,false,true,,1275
-turkey-008.jpeg,Antalya,Turkey,,Turkey · 08,36.88772,30.702742,true,turkey-008,Country Albums,City,gps,false,true,,1276
-turkey-009.jpeg,Antalya,Turkey,,Turkey · 09,36.88772,30.702742,true,turkey-009,Country Albums,City,gps,false,true,,1277
-turkey-010.jpeg,Antalya,Turkey,,Turkey · 10,36.88772,30.702742,true,turkey-010,Country Albums,City,gps,false,true,,1278
-turkey-011.jpeg,Antalya,Turkey,,Turkey · 11,36.88772,30.702742,true,turkey-011,Country Albums,City,gps,false,true,,1279
-turkey-012.jpeg,Pamukkale,Turkey,,Turkey · 12,37.920417,29.116025,true,turkey-012,Country Albums,City,gps,false,true,,1280
-turkey-013.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 13,38.643447,34.828403,true,turkey-013,Country Albums,City,gps,false,true,,1281
-turkey-014.jpeg,Izmir,Turkey,,Turkey · 14,38.419505,27.129347,true,turkey-014,Country Albums,City,gps,false,true,,1282
-turkey-015.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 15,38.643447,34.828403,true,turkey-015,Country Albums,City,gps,false,true,,1283
-turkey-016.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 16,38.643447,34.828403,true,turkey-016,Country Albums,City,gps,false,true,,1284
-turkey-017.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 17,38.643447,34.828403,true,turkey-017,Country Albums,City,gps,false,true,,1285
-turkey-018.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 18,38.643447,34.828403,true,turkey-018,Country Albums,City,gps,false,true,,1286
-turkey-019.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 19,38.643447,34.828403,true,turkey-019,Country Albums,City,gps,false,true,,1287
-turkey-020.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 20,38.643447,34.828403,true,turkey-020,Country Albums,City,gps,false,true,,1288
-turkey-021.jpeg,Antalya,Turkey,,Turkey · 21,36.88772,30.702742,true,turkey-021,Country Albums,City,gps,false,true,,1289
-turkey-022.jpeg,Antalya,Turkey,,Turkey · 22,36.88772,30.702742,true,turkey-022,Country Albums,City,gps,false,true,,1290
-turkey-023.jpeg,Antalya,Turkey,,Turkey · 23,36.88772,30.702742,true,turkey-023,Country Albums,City,gps,false,true,,1291
-turkey-024.jpeg,Antalya,Turkey,,Turkey · 24,36.88772,30.702742,true,turkey-024,Country Albums,City,gps,false,true,,1292
-turkey-025.jpeg,Antalya,Turkey,,Turkey · 25,36.88772,30.702742,true,turkey-025,Country Albums,City,gps,false,true,,1293
-turkey-026.jpeg,Antalya,Turkey,,Turkey · 26,36.88772,30.702742,true,turkey-026,Country Albums,City,gps,false,true,,1294
-turkey-027.jpeg,Antalya,Turkey,,Turkey · 27,36.88772,30.702742,true,turkey-027,Country Albums,City,gps,false,true,,1295
-turkey-028.jpeg,Antalya,Turkey,,Turkey · 28,36.88772,30.702742,true,turkey-028,Country Albums,City,gps,false,true,,1296
-turkey-029.jpeg,Antalya,Turkey,,Turkey · 29,36.88772,30.702742,true,turkey-029,Country Albums,City,gps,false,true,,1297
-turkey-030.jpeg,Antalya,Turkey,,Turkey · 30,36.88772,30.702742,true,turkey-030,Country Albums,City,gps,false,true,,1298
-turkey-031.jpeg,Antalya,Turkey,,Turkey · 31,36.88772,30.702742,true,turkey-031,Country Albums,City,gps,false,true,,1299
-turkey-032.jpeg,Antalya,Turkey,,Turkey · 32,36.88772,30.702742,true,turkey-032,Country Albums,City,gps,false,true,,1300
-turkey-033.jpeg,Izmir,Turkey,,Turkey · 33,38.419505,27.129347,true,turkey-033,Country Albums,City,gps,false,true,,1301
-turkey-034.jpeg,Izmir,Turkey,,Turkey · 34,38.419505,27.129347,true,turkey-034,Country Albums,City,gps,false,true,,1302
-turkey-035.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 35,38.643447,34.828403,true,turkey-035,Country Albums,City,gps,false,true,,1303
-turkey-036.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 36,38.643447,34.828403,true,turkey-036,Country Albums,City,gps,false,true,,1304
-turkey-037.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 37,38.643447,34.828403,true,turkey-037,Country Albums,City,gps,false,true,,1305
-turkey-038.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 38,38.643447,34.828403,true,turkey-038,Country Albums,City,gps,false,true,,1306
-turkey-039.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 39,38.643447,34.828403,true,turkey-039,Country Albums,City,gps,false,true,,1307
-turkey-040.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 40,38.643447,34.828403,true,turkey-040,Country Albums,City,gps,false,true,,1308
-turkey-041.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 41,38.643447,34.828403,true,turkey-041,Country Albums,City,gps,false,true,,1309
-turkey-042.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 42,38.643447,34.828403,true,turkey-042,Country Albums,City,gps,false,true,,1310
-turkey-043.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 43,38.643447,34.828403,true,turkey-043,Country Albums,City,gps,false,true,,1311
-turkey-044.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 44,38.643447,34.828403,true,turkey-044,Country Albums,City,gps,false,true,,1312
-turkey-045.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 45,38.643447,34.828403,true,turkey-045,Country Albums,City,gps,false,true,,1313
-turkey-046.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 46,38.643447,34.828403,true,turkey-046,Country Albums,City,gps,false,true,,1314
-turkey-047.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 47,38.643447,34.828403,true,turkey-047,Country Albums,City,gps,false,true,,1315
-turkey-048.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 48,38.643447,34.828403,true,turkey-048,Country Albums,City,gps,false,true,,1316
-turkey-049.jpeg,Antalya,Turkey,,Turkey · 49,36.88772,30.702742,true,turkey-049,Country Albums,City,gps,false,true,,1317
-turkey-050.jpeg,Antalya,Turkey,,Turkey · 50,36.88772,30.702742,true,turkey-050,Country Albums,City,gps,false,true,,1318
-turkey-051.jpeg,Antalya,Turkey,,Turkey · 51,36.88772,30.702742,true,turkey-051,Country Albums,City,gps,false,true,,1319
-turkey-052.jpeg,Antalya,Turkey,,Turkey · 52,36.88772,30.702742,true,turkey-052,Country Albums,City,gps,false,true,,1320
-turkey-053.jpeg,Antalya,Turkey,,Turkey · 53,36.88772,30.702742,true,turkey-053,Country Albums,City,gps,false,true,,1321
-turkey-054.jpeg,Antalya,Turkey,,Turkey · 54,36.88772,30.702742,true,turkey-054,Country Albums,City,gps,false,true,,1322
-turkey-055.jpeg,Antalya,Turkey,,Turkey · 55,36.88772,30.702742,true,turkey-055,Country Albums,City,gps,false,true,,1323
-turkey-056.jpeg,Antalya,Turkey,,Turkey · 56,36.88772,30.702742,true,turkey-056,Country Albums,City,gps,false,true,,1324
-turkey-057.jpeg,Antalya,Turkey,,Turkey · 57,36.88772,30.702742,true,turkey-057,Country Albums,City,gps,false,true,,1325
-turkey-058.jpeg,Antalya,Turkey,,Turkey · 58,36.88772,30.702742,true,turkey-058,Country Albums,City,gps,false,true,,1326
-turkey-059.jpeg,Antalya,Turkey,,Turkey · 59,36.88772,30.702742,true,turkey-059,Country Albums,City,gps,false,true,,1327
-turkey-060.jpeg,Antalya,Turkey,,Turkey · 60,36.88772,30.702742,true,turkey-060,Country Albums,City,gps,false,true,,1328
-turkey-061.jpeg,Antalya,Turkey,,Turkey · 61,36.88772,30.702742,true,turkey-061,Country Albums,City,gps,false,true,,1329
-turkey-062.jpeg,Antalya,Turkey,,Turkey · 62,36.88772,30.702742,true,turkey-062,Country Albums,City,gps,false,true,,1330
-turkey-063.jpeg,Antalya,Turkey,,Turkey · 63,36.88772,30.702742,true,turkey-063,Country Albums,City,gps,false,true,,1331
-turkey-064.jpeg,Antalya,Turkey,,Turkey · 64,36.88772,30.702742,true,turkey-064,Country Albums,City,gps,false,true,,1332
-turkey-065.jpeg,Pamukkale,Turkey,,Turkey · 65,37.920417,29.116025,true,turkey-065,Country Albums,City,gps,false,true,,1333
-turkey-066.jpeg,Pamukkale,Turkey,,Turkey · 66,37.920417,29.116025,true,turkey-066,Country Albums,City,gps,false,true,,1334
-turkey-067.jpeg,Pamukkale,Turkey,,Turkey · 67,37.920417,29.116025,true,turkey-067,Country Albums,City,gps,false,true,,1335
-turkey-068.jpeg,Izmir,Turkey,,Turkey · 68,38.419505,27.129347,true,turkey-068,Country Albums,City,gps,false,true,,1336
-turkey-069.jpeg,Izmir,Turkey,,Turkey · 69,38.419505,27.129347,true,turkey-069,Country Albums,City,gps,false,true,,1337
-turkey-070.jpeg,Pamukkale,Turkey,,Turkey · 70,37.920417,29.116025,true,turkey-070,Country Albums,City,gps,false,true,,1338
-turkey-071.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 71,38.643447,34.828403,true,turkey-071,Country Albums,City,gps,false,true,,1339
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,country_sequence
+turkey-001.jpeg,Antalya,Turkey,,Turkey · 01,36.88772,30.702742,true,turkey-001,Country Albums,City,gps,false,true,,1269,
+turkey-002.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 02,38.643447,34.828403,true,turkey-002,Country Albums,City,gps,false,true,,1270,
+turkey-003.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 03,38.643447,34.828403,true,turkey-003,Country Albums,City,gps,false,true,,1271,
+turkey-004.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 04,38.643447,34.828403,true,turkey-004,Country Albums,City,gps,false,true,,1272,
+turkey-005.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 05,38.643447,34.828403,true,turkey-005,Country Albums,City,gps,false,true,,1273,
+turkey-006.jpeg,Antalya,Turkey,,Turkey · 06,36.88772,30.702742,true,turkey-006,Country Albums,City,gps,false,true,,1274,
+turkey-007.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 07,38.643447,34.828403,true,turkey-007,Country Albums,City,gps,false,true,,1275,
+turkey-008.jpeg,Antalya,Turkey,,Turkey · 08,36.88772,30.702742,true,turkey-008,Country Albums,City,gps,false,true,,1276,
+turkey-009.jpeg,Antalya,Turkey,,Turkey · 09,36.88772,30.702742,true,turkey-009,Country Albums,City,gps,false,true,,1277,
+turkey-010.jpeg,Antalya,Turkey,,Turkey · 10,36.88772,30.702742,true,turkey-010,Country Albums,City,gps,false,true,,1278,
+turkey-011.jpeg,Antalya,Turkey,,Turkey · 11,36.88772,30.702742,true,turkey-011,Country Albums,City,gps,false,true,,1279,
+turkey-012.jpeg,Pamukkale,Turkey,,Turkey · 12,37.920417,29.116025,true,turkey-012,Country Albums,City,gps,false,true,,1280,
+turkey-013.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 13,38.643447,34.828403,true,turkey-013,Country Albums,City,gps,false,true,,1281,
+turkey-014.jpeg,Izmir,Turkey,,Turkey · 14,38.419505,27.129347,true,turkey-014,Country Albums,City,gps,false,true,,1282,
+turkey-015.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 15,38.643447,34.828403,true,turkey-015,Country Albums,City,gps,false,true,,1283,
+turkey-016.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 16,38.643447,34.828403,true,turkey-016,Country Albums,City,gps,false,true,,1284,
+turkey-017.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 17,38.643447,34.828403,true,turkey-017,Country Albums,City,gps,false,true,,1285,
+turkey-018.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 18,38.643447,34.828403,true,turkey-018,Country Albums,City,gps,false,true,,1286,
+turkey-019.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 19,38.643447,34.828403,true,turkey-019,Country Albums,City,gps,false,true,,1287,
+turkey-020.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 20,38.643447,34.828403,true,turkey-020,Country Albums,City,gps,false,true,,1288,
+turkey-021.jpeg,Antalya,Turkey,,Turkey · 21,36.88772,30.702742,true,turkey-021,Country Albums,City,gps,false,true,,1289,
+turkey-022.jpeg,Antalya,Turkey,,Turkey · 22,36.88772,30.702742,true,turkey-022,Country Albums,City,gps,false,true,,1290,
+turkey-023.jpeg,Antalya,Turkey,,Turkey · 23,36.88772,30.702742,true,turkey-023,Country Albums,City,gps,false,true,,1291,
+turkey-024.jpeg,Antalya,Turkey,,Turkey · 24,36.88772,30.702742,true,turkey-024,Country Albums,City,gps,false,true,,1292,
+turkey-025.jpeg,Antalya,Turkey,,Turkey · 25,36.88772,30.702742,true,turkey-025,Country Albums,City,gps,false,true,,1293,
+turkey-026.jpeg,Antalya,Turkey,,Turkey · 26,36.88772,30.702742,true,turkey-026,Country Albums,City,gps,false,true,,1294,
+turkey-027.jpeg,Antalya,Turkey,,Turkey · 27,36.88772,30.702742,true,turkey-027,Country Albums,City,gps,false,true,,1295,
+turkey-028.jpeg,Antalya,Turkey,,Turkey · 28,36.88772,30.702742,true,turkey-028,Country Albums,City,gps,false,true,,1296,
+turkey-029.jpeg,Antalya,Turkey,,Turkey · 29,36.88772,30.702742,true,turkey-029,Country Albums,City,gps,false,true,,1297,
+turkey-030.jpeg,Antalya,Turkey,,Turkey · 30,36.88772,30.702742,true,turkey-030,Country Albums,City,gps,false,true,,1298,
+turkey-031.jpeg,Antalya,Turkey,,Turkey · 31,36.88772,30.702742,true,turkey-031,Country Albums,City,gps,false,true,,1299,
+turkey-032.jpeg,Antalya,Turkey,,Turkey · 32,36.88772,30.702742,true,turkey-032,Country Albums,City,gps,false,true,,1300,
+turkey-033.jpeg,Izmir,Turkey,,Turkey · 33,38.419505,27.129347,true,turkey-033,Country Albums,City,gps,false,true,,1301,
+turkey-034.jpeg,Izmir,Turkey,,Turkey · 34,38.419505,27.129347,true,turkey-034,Country Albums,City,gps,false,true,,1302,
+turkey-035.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 35,38.643447,34.828403,true,turkey-035,Country Albums,City,gps,false,true,,1303,
+turkey-036.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 36,38.643447,34.828403,true,turkey-036,Country Albums,City,gps,false,true,,1304,
+turkey-037.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 37,38.643447,34.828403,true,turkey-037,Country Albums,City,gps,false,true,,1305,
+turkey-038.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 38,38.643447,34.828403,true,turkey-038,Country Albums,City,gps,false,true,,1306,
+turkey-039.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 39,38.643447,34.828403,true,turkey-039,Country Albums,City,gps,false,true,,1307,
+turkey-040.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 40,38.643447,34.828403,true,turkey-040,Country Albums,City,gps,false,true,,1308,
+turkey-041.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 41,38.643447,34.828403,true,turkey-041,Country Albums,City,gps,false,true,,1309,
+turkey-042.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 42,38.643447,34.828403,true,turkey-042,Country Albums,City,gps,false,true,,1310,
+turkey-043.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 43,38.643447,34.828403,true,turkey-043,Country Albums,City,gps,false,true,,1311,
+turkey-044.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 44,38.643447,34.828403,true,turkey-044,Country Albums,City,gps,false,true,,1312,
+turkey-045.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 45,38.643447,34.828403,true,turkey-045,Country Albums,City,gps,false,true,,1313,
+turkey-046.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 46,38.643447,34.828403,true,turkey-046,Country Albums,City,gps,false,true,,1314,
+turkey-047.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 47,38.643447,34.828403,true,turkey-047,Country Albums,City,gps,false,true,,1315,
+turkey-048.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 48,38.643447,34.828403,true,turkey-048,Country Albums,City,gps,false,true,,1316,
+turkey-049.jpeg,Antalya,Turkey,,Turkey · 49,36.88772,30.702742,true,turkey-049,Country Albums,City,gps,false,true,,1317,
+turkey-050.jpeg,Antalya,Turkey,,Turkey · 50,36.88772,30.702742,true,turkey-050,Country Albums,City,gps,false,true,,1318,
+turkey-051.jpeg,Antalya,Turkey,,Turkey · 51,36.88772,30.702742,true,turkey-051,Country Albums,City,gps,false,true,,1319,
+turkey-052.jpeg,Antalya,Turkey,,Turkey · 52,36.88772,30.702742,true,turkey-052,Country Albums,City,gps,false,true,,1320,
+turkey-053.jpeg,Antalya,Turkey,,Turkey · 53,36.88772,30.702742,true,turkey-053,Country Albums,City,gps,false,true,,1321,
+turkey-054.jpeg,Antalya,Turkey,,Turkey · 54,36.88772,30.702742,true,turkey-054,Country Albums,City,gps,false,true,,1322,
+turkey-055.jpeg,Antalya,Turkey,,Turkey · 55,36.88772,30.702742,true,turkey-055,Country Albums,City,gps,false,true,,1323,
+turkey-056.jpeg,Antalya,Turkey,,Turkey · 56,36.88772,30.702742,true,turkey-056,Country Albums,City,gps,false,true,,1324,
+turkey-057.jpeg,Antalya,Turkey,,Turkey · 57,36.88772,30.702742,true,turkey-057,Country Albums,City,gps,false,true,,1325,
+turkey-058.jpeg,Antalya,Turkey,,Turkey · 58,36.88772,30.702742,true,turkey-058,Country Albums,City,gps,false,true,,1326,
+turkey-059.jpeg,Antalya,Turkey,,Turkey · 59,36.88772,30.702742,true,turkey-059,Country Albums,City,gps,false,true,,1327,
+turkey-060.jpeg,Antalya,Turkey,,Turkey · 60,36.88772,30.702742,true,turkey-060,Country Albums,City,gps,false,true,,1328,
+turkey-061.jpeg,Antalya,Turkey,,Turkey · 61,36.88772,30.702742,true,turkey-061,Country Albums,City,gps,false,true,,1329,
+turkey-062.jpeg,Antalya,Turkey,,Turkey · 62,36.88772,30.702742,true,turkey-062,Country Albums,City,gps,false,true,,1330,
+turkey-063.jpeg,Antalya,Turkey,,Turkey · 63,36.88772,30.702742,true,turkey-063,Country Albums,City,gps,false,true,,1331,
+turkey-064.jpeg,Antalya,Turkey,,Turkey · 64,36.88772,30.702742,true,turkey-064,Country Albums,City,gps,false,true,,1332,
+turkey-065.jpeg,Pamukkale,Turkey,,Turkey · 65,37.920417,29.116025,true,turkey-065,Country Albums,City,gps,false,true,,1333,
+turkey-066.jpeg,Pamukkale,Turkey,,Turkey · 66,37.920417,29.116025,true,turkey-066,Country Albums,City,gps,false,true,,1334,
+turkey-067.jpeg,Pamukkale,Turkey,,Turkey · 67,37.920417,29.116025,true,turkey-067,Country Albums,City,gps,false,true,,1335,
+turkey-068.jpeg,Izmir,Turkey,,Turkey · 68,38.419505,27.129347,true,turkey-068,Country Albums,City,gps,false,true,,1336,
+turkey-069.jpeg,Izmir,Turkey,,Turkey · 69,38.419505,27.129347,true,turkey-069,Country Albums,City,gps,false,true,,1337,
+turkey-070.jpeg,Pamukkale,Turkey,,Turkey · 70,37.920417,29.116025,true,turkey-070,Country Albums,City,gps,false,true,,1338,
+turkey-071.jpeg,"Göreme, Cappadocia",Turkey,,Turkey · 71,38.643447,34.828403,true,turkey-071,Country Albums,City,gps,false,true,,1339,
+turkey-istanbul-001.jpeg,Istanbul,Turkey,A yellow taxi in the old streets,A yellow taxi in the old streets,41.01309722222222,28.975725,true,turkey-istanbul-001,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-002.jpeg,Istanbul,Turkey,A blue car beneath the greenery,A blue car beneath the greenery,41.01309722222222,28.975725,true,turkey-istanbul-002,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-003.jpeg,Istanbul,Turkey,A tram through Sultanahmet,A tram through Sultanahmet,41.01309722222222,28.975725,true,turkey-istanbul-003,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-004.jpeg,Istanbul,Turkey,Under the arches of the bazaar,Under the arches of the bazaar,41.01309722222222,28.975725,true,turkey-istanbul-004,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-005.jpeg,Istanbul,Turkey,Inside Hagia Sophia,Inside Hagia Sophia,41.01309722222222,28.975725,true,turkey-istanbul-005,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-006.jpeg,Istanbul,Turkey,Looking up into the Blue Mosque,Looking up into the Blue Mosque,41.01309722222222,28.975725,true,turkey-istanbul-006,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-007.jpeg,Istanbul,Turkey,Patterns across a mosque dome,Patterns across a mosque dome,41.01309722222222,28.975725,true,turkey-istanbul-007,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-008.jpeg,Istanbul,Turkey,Galata Tower above the trees,Galata Tower above the trees,41.01309722222222,28.975725,true,turkey-istanbul-008,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-009.jpeg,Istanbul,Turkey,The stairway inside Galata Tower,The stairway inside Galata Tower,41.01309722222222,28.975725,true,turkey-istanbul-009,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-010.jpeg,Istanbul,Turkey,Fishing from Galata Bridge,Fishing from Galata Bridge,41.01309722222222,28.975725,true,turkey-istanbul-010,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-011.jpeg,Istanbul,Turkey,Through the market streets,Through the market streets,41.01309722222222,28.975725,true,turkey-istanbul-011,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-012.jpeg,Istanbul,Turkey,A yellow boat passing Ortaköy,A yellow boat passing Ortaköy,41.01309722222222,28.975725,true,turkey-istanbul-012,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-013.jpeg,Istanbul,Turkey,Rumeli Fortress from the Bosphorus,Rumeli Fortress from the Bosphorus,41.01309722222222,28.975725,true,turkey-istanbul-013,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-014.jpeg,Istanbul,Turkey,Dolmabahçe Palace from the water,Dolmabahçe Palace from the water,41.01309722222222,28.975725,true,turkey-istanbul-014,Country Albums,City,gps,true,true,,,true
+turkey-istanbul-015.jpeg,Istanbul,Turkey,An evening on the streets,An evening on the streets,41.01309722222222,28.975725,true,turkey-istanbul-015,Country Albums,City,gps,true,true,,,true

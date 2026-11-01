@@ -11,7 +11,7 @@ world-landmarks-09.jpeg,Uji,Japan,,Byōdō-in,34.88435,135.799797,true,world-lan
 world-landmarks-10.jpeg,Seattle,United States,,Pike Place Market,47.61,-122.33,false,world-landmarks-10,World Landmarks,City,,false,true,,111,Seattle
 world-landmarks-11.jpeg,Chicago,United States,,Cloud Gate,41.88,-87.63,false,world-landmarks-11,World Landmarks,City,,false,true,,112,Chicago
 world-landmarks-12.jpeg,Vatican City,Vatican City,,St. Peter’s Basilica,41.9,12.45,true,world-landmarks-12,World Landmarks,City,,false,true,,113,Vatican City
-world-landmarks-13.jpeg,Ephesus,Turkey,,Library of Celsus,37.94,27.34,true,world-landmarks-13,World Landmarks,Region,,false,true,,114,Ephesus
+world-landmarks-13.jpeg,Ephesus,Turkey,,Library of Celsus,37.94,27.34,true,world-landmarks-13,World Landmarks,Region,,true,true,,114,Ephesus
 world-landmarks-14.jpeg,Rome,Italy,,Roman Forum,41.89273,12.48337,true,world-landmarks-14,World Landmarks,City,gps,false,true,,115,Rome
 world-landmarks-15.jpg,"Oia, Santorini",Greece,,Blue Domes of Oia,36.463028,25.378287,true,world-landmarks-15,World Landmarks,City,gps,false,true,,116,Santorini
 world-landmarks-16.jpeg,Venice,Italy,,Grand Canal at dusk,45.437197,12.328937,true,world-landmarks-16,World Landmarks,City,gps,false,true,,117,Venice
@@ -29,7 +29,7 @@ world-landmarks-27.jpeg,Kinkaku-ji,Japan,,Kinkaku-ji,35.0395,135.7285,true,world
 world-landmarks-28.jpeg,Chichén Itzá,Mexico,,El Castillo,20.68,-88.57,true,world-landmarks-28,World Landmarks,Region,,false,true,,129,Chichén Itzá
 world-landmarks-29.jpeg,Tokyo,Japan,,Sensō-ji,35.68,139.76,true,world-landmarks-29,World Landmarks,City,,false,true,,130,Tokyo
 world-landmarks-30.jpeg,Milan,Italy,,Milan Cathedral,45.467175,9.189663,true,world-landmarks-30,World Landmarks,City,gps,false,true,,131,Milan
-world-landmarks-31.jpeg,Istanbul,Turkey,,Hagia Sophia,41.01,28.98,true,world-landmarks-31,World Landmarks,City,,false,true,,132,Istanbul
+world-landmarks-31.jpeg,Istanbul,Turkey,,Hagia Sophia,41.01,28.98,true,world-landmarks-31,World Landmarks,City,,true,true,,132,Istanbul
 world-landmarks-32.jpeg,Sydney Opera House,Australia,,Sydney Opera House,-33.85681,151.21514,true,world-landmarks-32,World Landmarks,Landmark,visual,false,true,,133,Sydney
 world-landmarks-33.jpeg,Singapore,Singapore,,Marina Bay Sands,1.35,103.82,true,world-landmarks-33,World Landmarks,City,,false,true,,134,Singapore
 world-landmarks-34.jpeg,San Francisco,United States,,Golden Gate Bridge,37.77,-122.42,true,world-landmarks-34,World Landmarks,City,,true,true,,135,San Francisco

@@ -2,5 +2,32 @@
   "name": "Austria",
   "page": "country-austria.html",
   "cover": "austria-004.jpeg",
-  "cover_position": "63% 50%"
+  "cover_position": "63% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Salzburg",
+        "photoIds": [
+          "austria-001",
+          "austria-002",
+          "austria-007",
+          "austria-008",
+          "austria-009",
+          "austria-010",
+          "austria-011"
+        ]
+      },
+      {
+        "title": "Vienna",
+        "photoIds": [
+          "austria-003",
+          "austria-004",
+          "austria-005",
+          "austria-006",
+          "austria-012"
+        ]
+      }
+    ]
+  }
 }

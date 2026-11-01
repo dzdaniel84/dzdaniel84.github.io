@@ -2,5 +2,54 @@
   "name": "Singapore",
   "page": "country-singapore.html",
   "cover": "album-cover.jpg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Singapore",
+        "photoIds": [
+          "singapore-001",
+          "singapore-006",
+          "singapore-008",
+          "singapore-009",
+          "singapore-012",
+          "singapore-013",
+          "singapore-017",
+          "singapore-018",
+          "singapore-019",
+          "singapore-020",
+          "singapore-021",
+          "singapore-023",
+          "singapore-024",
+          "singapore-025",
+          "singapore-027",
+          "singapore-030",
+          "singapore-031",
+          "singapore-033",
+          "singapore-034",
+          "singapore-035",
+          "singapore-039",
+          "singapore-040",
+          "singapore-041",
+          "singapore-044",
+          "singapore-045",
+          "singapore-046",
+          "singapore-047",
+          "singapore-048",
+          "singapore-053",
+          "singapore-054",
+          "singapore-055",
+          "singapore-056",
+          "singapore-057",
+          "singapore-059",
+          "singapore-061",
+          "singapore-063",
+          "singapore-066",
+          "singapore-068",
+          "singapore-070"
+        ]
+      }
+    ]
+  }
 }

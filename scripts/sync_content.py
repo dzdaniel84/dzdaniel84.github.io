@@ -497,6 +497,8 @@ def sync(root=ROOT):
         if profile and 'presentation' in profile['config']:
             album['presentation'] = album_presentation(profile['config']['presentation'], album['photoIds'])
     for photo in resolved.values():
+        # The atlas showcases the same curated photographs as the albums and galleries.
+        photo['atlas'] = photo['atlas'] and bool(photo['albums'] or photo['collections'])
         if photo['atlas'] and ('lat' not in photo or not photo.get('location')):
             warnings.append(f'{photo["id"]}: no pin yet; add coordinates or a known location/country.')
     try:

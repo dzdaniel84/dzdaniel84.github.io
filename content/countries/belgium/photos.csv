@@ -1,20 +1,48 @@
-﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order
-belgium-001.jpeg,Bruges,Belgium,,Belgium · 01,51.20892,3.22424,true,belgium-001,Country Albums,City,visual,false,true,,188
-belgium-002.jpeg,Ghent,Belgium,,Belgium · 02,51.05,3.71667,true,belgium-002,Country Albums,City,visual,false,true,,189
-belgium-003.jpeg,Brussels,Belgium,,Belgium · 03,50.85045,4.34878,true,belgium-003,Country Albums,City,visual,false,true,,190
-belgium-004.jpeg,Ghent,Belgium,,Belgium · 04,51.05,3.71667,true,belgium-004,Country Albums,City,visual,false,true,,191
-belgium-005.jpeg,Brussels,Belgium,,Belgium · 05,50.85045,4.34878,true,belgium-005,Country Albums,City,visual,false,true,,192
-belgium-006.jpeg,Brussels,Belgium,,Belgium · 06,50.85045,4.34878,true,belgium-006,Country Albums,City,visual,false,true,,193
-belgium-007.jpeg,Ghent,Belgium,,Belgium · 07,51.05,3.71667,true,belgium-007,Country Albums,City,visual,false,true,,194
-belgium-008.jpeg,Belfry of Bruges,Belgium,,Belgium · 08,51.20833,3.22472,true,belgium-008,Country Albums,Landmark,visual,false,true,,195
-belgium-009.jpeg,Bruges,Belgium,,Belgium · 09,51.20892,3.22424,true,belgium-009,Country Albums,City,visual,false,true,,196
-belgium-010.jpeg,Belfry of Bruges,Belgium,,Belgium · 10,51.20833,3.22472,true,belgium-010,Country Albums,Landmark,visual,false,true,,197
-belgium-011.jpeg,Ghent,Belgium,,Belgium · 11,51.05,3.71667,true,belgium-011,Country Albums,City,visual,false,true,,198
-belgium-012.jpeg,Ghent,Belgium,,Belgium · 12,51.05,3.71667,true,belgium-012,Country Albums,City,visual,false,true,,199
-belgium-013.jpeg,Ghent,Belgium,,Belgium · 13,51.05,3.71667,true,belgium-013,Country Albums,City,visual,false,true,,200
-belgium-014.jpeg,Ghent,Belgium,,Belgium · 14,51.05,3.71667,true,belgium-014,Country Albums,City,visual,false,true,,201
-belgium-015.jpeg,Ghent,Belgium,,Belgium · 15,51.05,3.71667,true,belgium-015,Country Albums,City,visual,false,true,,202
-belgium-016.jpeg,Brussels,Belgium,,Belgium · 16,50.85045,4.34878,true,belgium-016,Country Albums,City,visual,false,true,,203
-belgium-017.jpeg,Antwerp,Belgium,,Belgium · 17,51.22047,4.40026,true,belgium-017,Country Albums,City,visual,false,true,,204
-belgium-018.jpeg,Antwerp,Belgium,,Belgium · 18,51.22047,4.40026,true,belgium-018,Country Albums,City,visual,false,true,,205
-belgium-019.jpeg,Antwerpen-Centraal railway station,Belgium,,Belgium · 19,51.21722,4.42111,true,belgium-019,Country Albums,Landmark,visual,false,true,,206
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,country_sequence
+belgium-001.jpeg,Bruges,Belgium,,Belgium · 01,51.20892,3.22424,true,belgium-001,Country Albums,City,visual,false,true,,188,
+belgium-002.jpeg,Ghent,Belgium,,Belgium · 02,51.05,3.71667,true,belgium-002,Country Albums,City,visual,false,true,,189,
+belgium-003.jpeg,Brussels,Belgium,,Belgium · 03,50.85045,4.34878,true,belgium-003,Country Albums,City,visual,false,true,,190,
+belgium-004.jpeg,Ghent,Belgium,,Belgium · 04,51.05,3.71667,true,belgium-004,Country Albums,City,visual,false,true,,191,
+belgium-005.jpeg,Brussels,Belgium,,Belgium · 05,50.85045,4.34878,true,belgium-005,Country Albums,City,visual,false,true,,192,
+belgium-006.jpeg,Brussels,Belgium,,Belgium · 06,50.85045,4.34878,true,belgium-006,Country Albums,City,visual,false,true,,193,
+belgium-007.jpeg,Ghent,Belgium,,Belgium · 07,51.05,3.71667,true,belgium-007,Country Albums,City,visual,false,true,,194,
+belgium-008.jpeg,Belfry of Bruges,Belgium,,Belgium · 08,51.20833,3.22472,true,belgium-008,Country Albums,Landmark,visual,false,true,,195,
+belgium-009.jpeg,Bruges,Belgium,,Belgium · 09,51.20892,3.22424,true,belgium-009,Country Albums,City,visual,false,true,,196,
+belgium-010.jpeg,Belfry of Bruges,Belgium,,Belgium · 10,51.20833,3.22472,true,belgium-010,Country Albums,Landmark,visual,false,true,,197,
+belgium-011.jpeg,Ghent,Belgium,,Belgium · 11,51.05,3.71667,true,belgium-011,Country Albums,City,visual,false,true,,198,
+belgium-012.jpeg,Ghent,Belgium,,Belgium · 12,51.05,3.71667,true,belgium-012,Country Albums,City,visual,false,true,,199,
+belgium-013.jpeg,Ghent,Belgium,,Belgium · 13,51.05,3.71667,true,belgium-013,Country Albums,City,visual,false,true,,200,
+belgium-014.jpeg,Ghent,Belgium,,Belgium · 14,51.05,3.71667,true,belgium-014,Country Albums,City,visual,false,true,,201,
+belgium-015.jpeg,Ghent,Belgium,,Belgium · 15,51.05,3.71667,true,belgium-015,Country Albums,City,visual,false,true,,202,
+belgium-016.jpeg,Brussels,Belgium,,Belgium · 16,50.85045,4.34878,true,belgium-016,Country Albums,City,visual,false,true,,203,
+belgium-017.jpeg,Antwerp,Belgium,,Belgium · 17,51.22047,4.40026,true,belgium-017,Country Albums,City,visual,false,true,,204,
+belgium-018.jpeg,Antwerp,Belgium,,Belgium · 18,51.22047,4.40026,true,belgium-018,Country Albums,City,visual,false,true,,205,
+belgium-019.jpeg,Antwerpen-Centraal railway station,Belgium,,Belgium · 19,51.21722,4.42111,true,belgium-019,Country Albums,Landmark,visual,false,true,,206,
+belgium-brussels-001.jpeg,Brussels,Belgium,Flags above a narrow street,Flags above a narrow street,50.846380555555555,4.351394444444445,true,belgium-brussels-001,Country Albums,City,gps,true,true,,,true
+belgium-brussels-002.jpeg,Brussels,Belgium,Looking up at Poechenellekelder,Looking up at Poechenellekelder,50.846380555555555,4.351394444444445,true,belgium-brussels-002,Country Albums,City,gps,true,true,,,true
+belgium-brussels-003.jpeg,Brussels,Belgium,Gilded facades of the Grand Place,Gilded facades of the Grand Place,50.846380555555555,4.351394444444445,true,belgium-brussels-003,Country Albums,City,gps,true,true,,,true
+belgium-brussels-004.jpeg,Brussels,Belgium,Through the Royal Galleries,Through the Royal Galleries,50.846380555555555,4.351394444444445,true,belgium-brussels-004,Country Albums,City,gps,true,true,,,true
+belgium-brussels-005.jpeg,Brussels,Belgium,Brussels from above,Brussels from above,50.846380555555555,4.351394444444445,true,belgium-brussels-005,Country Albums,City,gps,true,true,,,true
+belgium-brussels-006.jpeg,Brussels,Belgium,An escalator into the museum,An escalator into the museum,50.846380555555555,4.351394444444445,true,belgium-brussels-006,Country Albums,City,gps,true,true,,,true
+belgium-ghent-001.jpeg,Ghent,Belgium,The geometry of the church vaults,The geometry of the church vaults,51.054230555555556,3.7267972222222223,true,belgium-ghent-001,Country Albums,City,gps,true,true,,,true
+belgium-ghent-002.jpeg,Ghent,Belgium,Light across the old timbered hall,Light across the old timbered hall,51.054230555555556,3.7267972222222223,true,belgium-ghent-002,Country Albums,City,gps,true,true,,,true
+belgium-ghent-003.jpeg,Ghent,Belgium,A stepped gable against blue sky,A stepped gable against blue sky,51.054230555555556,3.7267972222222223,true,belgium-ghent-003,Country Albums,City,gps,true,true,,,true
+belgium-ghent-004.jpeg,Ghent,Belgium,A quiet corner after sunset,A quiet corner after sunset,51.054230555555556,3.7267972222222223,true,belgium-ghent-004,Country Albums,City,gps,true,true,,,true
+belgium-ghent-005.jpeg,Ghent,Belgium,Gravensteen beside the canal,Gravensteen beside the canal,51.054230555555556,3.7267972222222223,true,belgium-ghent-005,Country Albums,City,gps,true,true,,,true
+belgium-ghent-006.jpeg,Ghent,Belgium,Brick facades reflected at dusk,Brick facades reflected at dusk,51.054230555555556,3.7267972222222223,true,belgium-ghent-006,Country Albums,City,gps,true,true,,,true
+belgium-bruges-001.jpeg,Bruges,Belgium,Bruges at blue hour,Bruges at blue hour,51.20888055555555,3.223775,true,belgium-bruges-001,Country Albums,City,gps,true,true,,,true
+belgium-bruges-002.jpeg,Bruges,Belgium,A bicycle beneath the lit windows,A bicycle beneath the lit windows,51.20888055555555,3.223775,true,belgium-bruges-002,Country Albums,City,gps,true,true,,,true
+belgium-bruges-003.jpeg,Bruges,Belgium,Warm light along a quiet street,Warm light along a quiet street,51.20888055555555,3.223775,true,belgium-bruges-003,Country Albums,City,gps,true,true,,,true
+belgium-bruges-004.jpeg,Bruges,Belgium,Stained glass beneath the vaults,Stained glass beneath the vaults,51.20888055555555,3.223775,true,belgium-bruges-004,Country Albums,City,gps,true,true,,,true
+belgium-bruges-005.jpeg,Bruges,Belgium,A chandelier above the staircase,A chandelier above the staircase,51.20888055555555,3.223775,true,belgium-bruges-005,Country Albums,City,gps,true,true,,,true
+belgium-bruges-006.jpeg,Bruges,Belgium,The Gothic Hall,The Gothic Hall,51.20888055555555,3.223775,true,belgium-bruges-006,Country Albums,City,gps,true,true,,,true
+belgium-bruges-007.jpeg,Bruges,Belgium,A carriage crossing the square,A carriage crossing the square,51.20888055555555,3.223775,true,belgium-bruges-007,Country Albums,City,gps,true,true,,,true
+belgium-bruges-008.jpeg,Bruges,Belgium,Flowers around the doorway,Flowers around the doorway,51.20888055555555,3.223775,true,belgium-bruges-008,Country Albums,City,gps,true,true,,,true
+belgium-antwerp-001.jpeg,Antwerp,Belgium,Looking up inside Antwerp Central,Looking up inside Antwerp Central,51.22138611111111,4.400166666666666,true,belgium-antwerp-001,Country Albums,City,gps,true,true,,,true
+belgium-antwerp-002.jpeg,Antwerp,Belgium,Light and stained glass beneath the arches,Light and stained glass beneath the arches,51.22138611111111,4.400166666666666,true,belgium-antwerp-002,Country Albums,City,gps,true,true,,,true
+belgium-antwerp-003.jpeg,Antwerp,Belgium,Flowers along a narrow street,Flowers along a narrow street,51.22138611111111,4.400166666666666,true,belgium-antwerp-003,Country Albums,City,gps,true,true,,,true
+belgium-antwerp-004.jpeg,Antwerp,Belgium,A room of portraits,A room of portraits,51.22138611111111,4.400166666666666,true,belgium-antwerp-004,Country Albums,City,gps,true,true,,,true
+belgium-antwerp-005.jpeg,Antwerp,Belgium,Shelves at the Plantin-Moretus Museum,Shelves at the Plantin-Moretus Museum,51.22138611111111,4.400166666666666,true,belgium-antwerp-005,Country Albums,City,gps,true,true,,,true
+belgium-antwerp-006.jpeg,Antwerp,Belgium,A corner building at blue hour,A corner building at blue hour,51.22138611111111,4.400166666666666,true,belgium-antwerp-006,Country Albums,City,gps,true,true,,,true
+belgium-antwerp-007.jpeg,Antwerp,Belgium,Colour along the museum escalator,Colour along the museum escalator,51.22138611111111,4.400166666666666,true,belgium-antwerp-007,Country Albums,City,gps,true,true,,,true
+belgium-antwerp-008.jpeg,Antwerp,Belgium,Paintings and sculpture in the gallery,Paintings and sculpture in the gallery,51.22138611111111,4.400166666666666,true,belgium-antwerp-008,Country Albums,City,gps,true,true,,,true
