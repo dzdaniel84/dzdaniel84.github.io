@@ -23,3 +23,12 @@ test('national parks map filter includes the requested international parks',()=>
  assert.equal(matches({category:'Country Albums',collections:[],location:'Sydney'}),false);
  assert.equal(matches({category:'National Parks',location:'Yosemite'}),true);
 });
+
+test('chapter anchors use readable place names',()=>{
+ const declaration=source.split('\n').find(line=>line.startsWith('const chapterAnchor ='));
+ const anchor=vm.runInNewContext(declaration+'\nchapterAnchor;');
+ assert.equal(anchor('Salzburg'),'salzburg');
+ assert.equal(anchor('Blue Mountains'),'blue-mountains');
+ assert.equal(anchor('Québec City'),'quebec-city');
+ assert.equal(anchor('Kyoto & Uji'),'kyoto-and-uji');
+});

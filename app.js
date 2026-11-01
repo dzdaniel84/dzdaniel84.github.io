@@ -134,6 +134,7 @@ function renderCollection(){
   button.onclick=()=>openPhoto(p,list);container.append(button);
  });
 }
+const chapterAnchor = title => title.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/&/g,' and ').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 function renderAlbumChapters(container,list,presentation){
  container.classList.remove('collection-grid');
  container.classList.add('album-chapters');
@@ -143,10 +144,11 @@ function renderAlbumChapters(container,list,presentation){
  const albumName=container.dataset.album||'Album',anchorPrefix=albumName.toLowerCase().replace(/[^a-z0-9]+/g,'-');
  const nav=document.createElement('nav');nav.className='album-chapter-nav';nav.setAttribute('aria-label',albumName+' locations');
  const highlights=choose(presentation.highlights);
- const definitions=[];
- if(highlights.length)definitions.push({title:'A few favorites',anchor:anchorPrefix+'-highlights',list:highlights,highlights:true});
+ const definitions=[],usedAnchors=new Set(['main','collection-grid']);
+ const uniqueAnchor=title=>{const base=chapterAnchor(title)||'chapter';let anchor=base,n=2;while(usedAnchors.has(anchor))anchor=base+'-'+n++;usedAnchors.add(anchor);return anchor;};
+ if(highlights.length)definitions.push({title:'A few favorites',anchor:uniqueAnchor('Highlights'),legacyAnchor:anchorPrefix+'-highlights',list:highlights,highlights:true});
  presentation.chapters.forEach((chapter,i)=>{
-  const photos=choose(chapter.photoIds);if(photos.length)definitions.push({title:chapter.title,anchor:anchorPrefix+'-chapter-'+(i+1),list:photos});
+  const photos=choose(chapter.photoIds);if(photos.length)definitions.push({title:chapter.title,anchor:uniqueAnchor(chapter.title),legacyAnchor:anchorPrefix+'-chapter-'+(i+1),list:photos});
  });
  const observer='IntersectionObserver' in window?new IntersectionObserver(entries=>{
   for(const entry of entries)if(entry.isIntersecting){mounts.get(entry.target)?.();observer.unobserve(entry.target);}
@@ -182,8 +184,9 @@ function renderAlbumChapters(container,list,presentation){
  nav.querySelectorAll('a').forEach(link=>link.addEventListener('click',()=>{
   const target=container.querySelector('#'+link.dataset.chapter);mounts.get(target)?.();
  }));
- const requested=definitions.find(chapter=>'#'+chapter.anchor===location.hash);
+ const requested=definitions.find(chapter=>'#'+chapter.anchor===location.hash||'#'+chapter.legacyAnchor===location.hash);
  if(requested){
+  if(location.hash!=='#'+requested.anchor)history.replaceState(null,'',location.pathname+location.search+'#'+requested.anchor);
   const section=container.querySelector('#'+requested.anchor);mounts.get(section)?.();
   requestAnimationFrame(()=>section.scrollIntoView({block:'start',behavior:'instant'}));
  }
