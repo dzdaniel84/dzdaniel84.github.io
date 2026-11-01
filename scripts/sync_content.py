@@ -433,6 +433,9 @@ def sync(root=ROOT):
         template = root / profile['config'].get('template', default_template)
         if not template.resolve().is_relative_to((root / 'templates').resolve()):
             raise ContentError(f'{profile["folder"]}: template must stay in templates/')
+        if 'country' in values:
+            values = dict(values, country_title=profile['config'].get('display_name', values['country']),
+                          country_intro=profile['config'].get('intro', f"Photographs from my travels in {values['country']}."))
         pages[name] = Template(template.read_text()).substitute(
             {key: html.escape(str(value), quote=True) for key, value in values.items()})
 
