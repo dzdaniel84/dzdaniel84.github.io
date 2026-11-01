@@ -2,5 +2,180 @@
   "name": "United States",
   "page": "country-united-states.html",
   "cover": "national-parks-11.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "New York City",
+        "photoIds": [
+          "united-states-new-york-city-001",
+          "united-states-new-york-city-002",
+          "L1060593",
+          "united-states-new-york-city-003",
+          "united-states-new-york-city-004",
+          "L1070431",
+          "united-states-new-york-city-005",
+          "united-states-new-york-city-006",
+          "L1070811",
+          "united-states-new-york-city-007",
+          "united-states-new-york-city-008",
+          "L1070847",
+          "united-states-new-york-city-009",
+          "united-states-new-york-city-010",
+          "L1070850",
+          "world-landmarks-26",
+          "cityscapes-05",
+          "metro-west-4th-street"
+        ]
+      },
+      {
+        "title": "Chicago",
+        "photoIds": [
+          "united-states-chicago-001",
+          "united-states-chicago-002",
+          "L1190597",
+          "united-states-chicago-003",
+          "united-states-chicago-004",
+          "L1370853",
+          "united-states-chicago-005",
+          "united-states-chicago-006",
+          "airport-01",
+          "united-states-chicago-007",
+          "united-states-chicago-008",
+          "cityscapes-01",
+          "united-states-chicago-009",
+          "united-states-chicago-010"
+        ]
+      },
+      {
+        "title": "New Orleans",
+        "photoIds": [
+          "united-states-new-orleans-001",
+          "united-states-new-orleans-002",
+          "airport-03",
+          "united-states-new-orleans-003",
+          "united-states-new-orleans-004",
+          "united-states-new-orleans-005",
+          "united-states-new-orleans-006",
+          "united-states-new-orleans-007",
+          "united-states-new-orleans-008",
+          "united-states-new-orleans-009",
+          "united-states-new-orleans-010",
+          "united-states-new-orleans-011",
+          "united-states-new-orleans-012"
+        ]
+      },
+      {
+        "title": "San Francisco",
+        "photoIds": [
+          "united-states-san-francisco-001",
+          "united-states-san-francisco-002",
+          "world-landmarks-34",
+          "united-states-san-francisco-003",
+          "united-states-san-francisco-004",
+          "airport-19",
+          "united-states-san-francisco-005",
+          "united-states-san-francisco-006",
+          "united-states-san-francisco-007",
+          "united-states-san-francisco-008",
+          "united-states-san-francisco-009",
+          "united-states-san-francisco-010",
+          "united-states-san-francisco-011",
+          "united-states-san-francisco-012"
+        ]
+      },
+      {
+        "title": "Seattle",
+        "photoIds": [
+          "united-states-seattle-001",
+          "united-states-seattle-002",
+          "world-landmarks-20",
+          "united-states-seattle-003",
+          "united-states-seattle-004",
+          "cityscapes-03",
+          "united-states-seattle-005",
+          "united-states-seattle-006",
+          "united-states-seattle-007",
+          "united-states-seattle-008",
+          "united-states-seattle-009"
+        ]
+      },
+      {
+        "title": "Portland",
+        "photoIds": [
+          "united-states-portland-001",
+          "united-states-portland-002",
+          "united-states-portland-003",
+          "united-states-portland-004",
+          "united-states-portland-005",
+          "united-states-portland-006",
+          "united-states-portland-007",
+          "united-states-portland-008",
+          "united-states-portland-009",
+          "united-states-portland-010"
+        ]
+      },
+      {
+        "title": "Los Angeles",
+        "photoIds": [
+          "united-states-los-angeles-001",
+          "united-states-los-angeles-002",
+          "united-states-los-angeles-003",
+          "united-states-los-angeles-004",
+          "united-states-los-angeles-005",
+          "united-states-los-angeles-006",
+          "united-states-los-angeles-007",
+          "united-states-los-angeles-008",
+          "united-states-los-angeles-009",
+          "united-states-los-angeles-010"
+        ]
+      },
+      {
+        "title": "San Diego",
+        "photoIds": [
+          "united-states-san-diego-001",
+          "united-states-san-diego-002",
+          "united-states-san-diego-003",
+          "united-states-san-diego-004",
+          "united-states-san-diego-005",
+          "united-states-san-diego-006",
+          "united-states-san-diego-007",
+          "united-states-san-diego-008"
+        ]
+      },
+      {
+        "title": "Boston",
+        "photoIds": [
+          "united-states-boston-001",
+          "united-states-boston-002",
+          "united-states-boston-003",
+          "united-states-boston-004",
+          "united-states-boston-005",
+          "united-states-boston-006",
+          "united-states-boston-007",
+          "united-states-boston-008",
+          "united-states-boston-009",
+          "united-states-boston-010",
+          "united-states-boston-011"
+        ]
+      },
+      {
+        "title": "Honolulu",
+        "photoIds": [
+          "united-states-honolulu-001",
+          "united-states-honolulu-002",
+          "cityscapes-19",
+          "united-states-honolulu-003",
+          "united-states-honolulu-004",
+          "united-states-honolulu-005",
+          "united-states-honolulu-006",
+          "united-states-honolulu-007",
+          "united-states-honolulu-008",
+          "united-states-honolulu-009"
+        ]
+      }
+    ]
+  },
+  "intro": "Photographs from my travels in the United States."
 }

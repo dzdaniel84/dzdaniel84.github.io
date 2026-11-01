@@ -1,20 +1,20 @@
 ﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,scientific_name
 wildlife-01.jpeg,Kyoto,Japan,,Swallowtail butterfly,35.01,135.77,true,wildlife-01,Wildlife,City,manual,false,true,,49,Papilio sp.
-wildlife-02.jpg,"Bair Island, California",United States,,Anna’s hummingbird,37.5,-122.22,true,wildlife-02,Wildlife,Region,manual,true,true,,50,Calypte anna
-wildlife-03.jpg,"Kawaihae, Hawaii",United States,,Thin-shelled rock crab,20.03528,-155.82833,true,wildlife-03,Wildlife,Region,manual,true,true,,51,Grapsus tenuicrustatus
-wildlife-04.jpg,"Honokohau Beach, Hawaii",United States,,Hawaiian monk seal,19.6787,-156.022,true,wildlife-04,Wildlife,Region,manual,true,true,,52,Neomonachus schauinslandi
-wildlife-05.jpeg,"Point Reyes, California",United States,,Common raven,38.07,-122.81,true,wildlife-05,Wildlife,Region,manual,true,true,,53,Corvus corax
+wildlife-02.jpg,"Bair Island, California",United States,,Anna’s hummingbird,37.5,-122.22,true,wildlife-02,Wildlife,Region,manual,false,true,,50,Calypte anna
+wildlife-03.jpg,"Kawaihae, Hawaii",United States,,Thin-shelled rock crab,20.03528,-155.82833,true,wildlife-03,Wildlife,Region,manual,false,true,,51,Grapsus tenuicrustatus
+wildlife-04.jpg,"Honokohau Beach, Hawaii",United States,,Hawaiian monk seal,19.6787,-156.022,true,wildlife-04,Wildlife,Region,manual,false,true,,52,Neomonachus schauinslandi
+wildlife-05.jpeg,"Point Reyes, California",United States,,Common raven,38.07,-122.81,true,wildlife-05,Wildlife,Region,manual,false,true,,53,Corvus corax
 wildlife-06.jpeg,"Yosemite National Park, California",United States,,Steller’s jay,37.75,-119.6,false,wildlife-06,Wildlife,Park,manual,false,true,,54,Cyanocitta stelleri
-wildlife-07.jpeg,"Point Reyes, California",United States,,Tule elk,38.07,-122.81,true,wildlife-07,Wildlife,Region,manual,true,true,,55,Cervus canadensis nannodes
+wildlife-07.jpeg,"Point Reyes, California",United States,,Tule elk,38.07,-122.81,true,wildlife-07,Wildlife,Region,manual,false,true,,55,Cervus canadensis nannodes
 wildlife-08.jpeg,"Bondi Beach, New South Wales",Australia,,Little pied cormorant,-33.89111,151.27417,true,wildlife-08,Wildlife,Region,manual,false,true,,56,Microcarbo melanoleucos
-wildlife-09.jpg,"Carmel-by-the-Sea, California",United States,,Heermann’s gull,36.555,-121.923,true,wildlife-09,Wildlife,City,manual,true,true,,57,Larus heermanni
+wildlife-09.jpg,"Carmel-by-the-Sea, California",United States,,Heermann’s gull,36.555,-121.923,true,wildlife-09,Wildlife,City,manual,false,true,,57,Larus heermanni
 wildlife-10.jpg,"Pacific Grove, California",United States,,Surfbird,36.62,-121.916,false,wildlife-10,Wildlife,City,manual,false,true,,58,Calidris virgata
-wildlife-11.jpg,"Pacific Grove, California",United States,,Harbor seal,36.62,-121.916,true,wildlife-11,Wildlife,City,manual,true,true,,59,Phoca vitulina
-wildlife-12.jpg,"Monterey, California",United States,,Heermann’s gull,36.6,-121.9,true,wildlife-12,Wildlife,Region,manual,true,true,,60,Larus heermanni
-wildlife-13.jpg,"Monterey, California",United States,,California sea lion,36.6,-121.9,true,wildlife-13,Wildlife,Region,manual,true,true,,61,Zalophus californianus
-wildlife-14.jpg,"Pinnacles National Park, California",United States,,California condor,36.49,-121.19,true,wildlife-14,Wildlife,Park,manual,true,true,,62,Gymnogyps californianus
-wildlife-15.jpeg,"Kailua-Kona, Hawaii",United States,,Gold dust day gecko,19.6642,-156.0089,true,wildlife-15,Wildlife,City,manual,true,true,,63,Phelsuma laticauda
-wildlife-16.jpeg,"Dillon Reservoir, Colorado",United States,,Golden-mantled ground squirrel,39.61,-106.06,true,wildlife-16,Wildlife,Region,manual,true,true,,64,Callospermophilus lateralis
+wildlife-11.jpg,"Pacific Grove, California",United States,,Harbor seal,36.62,-121.916,true,wildlife-11,Wildlife,City,manual,false,true,,59,Phoca vitulina
+wildlife-12.jpg,"Monterey, California",United States,,Heermann’s gull,36.6,-121.9,true,wildlife-12,Wildlife,Region,manual,false,true,,60,Larus heermanni
+wildlife-13.jpg,"Monterey, California",United States,,California sea lion,36.6,-121.9,true,wildlife-13,Wildlife,Region,manual,false,true,,61,Zalophus californianus
+wildlife-14.jpg,"Pinnacles National Park, California",United States,,California condor,36.49,-121.19,true,wildlife-14,Wildlife,Park,manual,false,true,,62,Gymnogyps californianus
+wildlife-15.jpeg,"Kailua-Kona, Hawaii",United States,,Gold dust day gecko,19.6642,-156.0089,true,wildlife-15,Wildlife,City,manual,false,true,,63,Phelsuma laticauda
+wildlife-16.jpeg,"Dillon Reservoir, Colorado",United States,,Golden-mantled ground squirrel,39.61,-106.06,true,wildlife-16,Wildlife,Region,manual,false,true,,64,Callospermophilus lateralis
 wildlife-17.jpeg,Kuala Lumpur,Malaysia,,Long-tailed macaque,3.16,101.71,true,wildlife-17,Wildlife,City,manual,false,true,,65,Macaca fascicularis
 wildlife-18.jpeg,San Juan,Puerto Rico,,Zenaida dove,18.4,-66.06,false,wildlife-18,Wildlife,City,manual,false,true,,66,Zenaida aurita
 wildlife-19.jpeg,Kyoto,Japan,,Grey heron,35.01,135.77,true,wildlife-19,Wildlife,City,manual,false,true,,67,Ardea cinerea
