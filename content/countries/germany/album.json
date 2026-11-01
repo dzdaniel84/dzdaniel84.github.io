@@ -1,0 +1,109 @@
+{
+  "name": "Germany",
+  "page": "country-germany.html",
+  "cover": "germany-nuremberg-001.jpeg",
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Munich",
+        "photoIds": [
+          "germany-munich-001",
+          "germany-munich-002",
+          "germany-munich-003",
+          "germany-munich-004",
+          "germany-munich-005",
+          "germany-munich-006",
+          "germany-munich-007",
+          "germany-munich-008",
+          "germany-munich-009",
+          "germany-munich-010",
+          "germany-munich-011",
+          "germany-munich-012",
+          "germany-munich-013",
+          "germany-munich-014",
+          "germany-munich-015",
+          "germany-munich-016",
+          "cityscapes-munich",
+          "metro-josephsburg"
+        ]
+      },
+      {
+        "title": "Berlin",
+        "photoIds": [
+          "germany-berlin-001",
+          "germany-berlin-002",
+          "germany-berlin-003",
+          "germany-berlin-004",
+          "germany-berlin-005",
+          "germany-berlin-006",
+          "germany-berlin-007",
+          "germany-berlin-008",
+          "germany-berlin-009",
+          "germany-berlin-010",
+          "germany-berlin-011",
+          "germany-berlin-012",
+          "germany-berlin-013",
+          "germany-berlin-014",
+          "germany-berlin-015",
+          "germany-berlin-016",
+          "germany-berlin-017",
+          "germany-berlin-018",
+          "cityscapes-berlin",
+          "metro-unter-den-linden"
+        ]
+      },
+      {
+        "title": "Augsburg",
+        "photoIds": [
+          "germany-augsburg-001",
+          "germany-augsburg-002",
+          "germany-augsburg-003",
+          "germany-augsburg-004",
+          "germany-augsburg-005",
+          "germany-augsburg-006",
+          "germany-augsburg-007",
+          "germany-augsburg-008",
+          "germany-augsburg-009",
+          "germany-augsburg-010",
+          "germany-augsburg-011",
+          "germany-augsburg-012"
+        ]
+      },
+      {
+        "title": "Trier",
+        "photoIds": [
+          "germany-trier-001",
+          "germany-trier-002",
+          "germany-trier-003",
+          "germany-trier-004",
+          "germany-trier-005",
+          "germany-trier-006",
+          "germany-trier-007",
+          "germany-trier-008",
+          "germany-trier-009",
+          "germany-trier-010",
+          "germany-trier-011",
+          "germany-trier-012",
+          "germany-trier-013",
+          "germany-trier-014",
+          "germany-trier-015",
+          "germany-trier-016",
+          "germany-trier-017"
+        ]
+      },
+      {
+        "title": "Nuremberg",
+        "photoIds": [
+          "germany-nuremberg-001",
+          "germany-nuremberg-002",
+          "germany-nuremberg-003",
+          "germany-nuremberg-004",
+          "germany-nuremberg-005",
+          "germany-nuremberg-006"
+        ]
+      }
+    ]
+  }
+}

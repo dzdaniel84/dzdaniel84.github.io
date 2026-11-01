@@ -1,26 +1,62 @@
-﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,scientific_name
-tanzania-001.jpeg,Serengeti National Park,Tanzania,,Tanzania · 01,-2.74,34.859,true,tanzania-001,Country Albums,Park,manual,false,true,,1244,
-tanzania-002.jpeg,Serengeti National Park,Tanzania,,Tanzania · 02,-2.74,34.859,true,tanzania-002,Country Albums,Park,manual,false,true,,1245,
-tanzania-003.jpg,Serengeti National Park,Tanzania,,Cheetah,-2.74,34.859,true,tanzania-003,Country Albums,Park,manual,false,true,,1246,Acinonyx jubatus
-tanzania-004.jpeg,Serengeti National Park,Tanzania,,Leopard,-2.74,34.859,true,tanzania-004,Country Albums,Park,manual,false,true,,1247,Panthera pardus
-tanzania-005.jpeg,Serengeti National Park,Tanzania,,Tanzania · 05,-2.74,34.859,true,tanzania-005,Country Albums,Park,manual,false,true,,1248,
-tanzania-006.jpeg,Serengeti National Park,Tanzania,,Leopard and African bush elephant,-2.74,34.859,true,tanzania-006,Country Albums,Park,manual,false,true,,1249,Panthera pardus / Loxodonta africana
-tanzania-007.jpg,Serengeti National Park,Tanzania,,Tanzania · 07,-2.74,34.859,true,tanzania-007,Country Albums,Park,manual,false,true,,1250,
-tanzania-008.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 08,-6.1624,39.1913,true,tanzania-008,Country Albums,Landmark,visual,false,true,,1251,
-tanzania-009.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 09,-6.1624,39.1913,true,tanzania-009,Country Albums,Landmark,visual,false,true,,1252,
-tanzania-010.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 10,-6.1624,39.1913,true,tanzania-010,Country Albums,Landmark,visual,false,true,,1253,
-tanzania-011.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 11,-6.1624,39.1913,true,tanzania-011,Country Albums,Landmark,visual,false,true,,1254,
-tanzania-012.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 12,-6.1624,39.1913,true,tanzania-012,Country Albums,Landmark,visual,false,true,,1255,
-tanzania-013.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 13,-6.1624,39.1913,true,tanzania-013,Country Albums,Landmark,visual,false,true,,1256,
-tanzania-014.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 14,-6.1624,39.1913,true,tanzania-014,Country Albums,Landmark,visual,false,true,,1257,
-tanzania-015.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 15,-6.1624,39.1913,true,tanzania-015,Country Albums,Landmark,visual,false,true,,1258,
-tanzania-016.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 16,-6.1624,39.1913,true,tanzania-016,Country Albums,Landmark,visual,false,true,,1259,
-tanzania-017.jpeg,Zanzibar,Tanzania,,Tanzania · 17,-6.16176,39.19128,true,tanzania-017,Country Albums,Region,visual,false,true,,1260,
-tanzania-018.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 18,-6.1624,39.1913,true,tanzania-018,Country Albums,Landmark,visual,false,true,,1261,
-tanzania-019.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 19,-6.1624,39.1913,true,tanzania-019,Country Albums,Landmark,visual,false,true,,1262,
-tanzania-020.jpeg,Mount Kilimanjaro,Tanzania,,Tanzania · 20,-3.07583,37.35333,true,tanzania-020,Country Albums,Region,manual,false,true,,1263,
-tanzania-021.jpeg,Dar es Salaam,Tanzania,,Tanzania · 21,-6.8161,39.2804,true,tanzania-021,Country Albums,City,manual,false,true,,1264,
-tanzania-022.jpeg,Mount Kilimanjaro,Tanzania,,Tanzania · 22,-3.07583,37.35333,true,tanzania-022,Country Albums,Region,visual,false,true,,1265,
-tanzania-023.jpeg,Mount Kilimanjaro,Tanzania,,White-necked raven,-3.07583,37.35333,true,tanzania-023,Country Albums,Region,visual,false,true,,1266,Corvus albicollis
-tanzania-024.jpeg,Mount Kilimanjaro,Tanzania,,Tanzania · 24,-3.07583,37.35333,true,tanzania-024,Country Albums,Region,visual,false,true,,1267,
-tanzania-025.jpeg,Serengeti National Park,Tanzania,,Tanzania · 25,-2.74,34.859,true,tanzania-025,Country Albums,Park,manual,false,true,,1268,
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,scientific_name,city,country_sequence
+tanzania-001.jpeg,Serengeti National Park,Tanzania,,Tanzania · 01,-2.74,34.859,true,tanzania-001,Country Albums,Park,manual,false,true,,1244,,,
+tanzania-002.jpeg,Serengeti National Park,Tanzania,,Tanzania · 02,-2.74,34.859,true,tanzania-002,Country Albums,Park,manual,false,true,,1245,,,
+tanzania-003.jpg,Serengeti National Park,Tanzania,,Cheetah,-2.74,34.859,true,tanzania-003,Country Albums,Park,manual,false,true,,1246,Acinonyx jubatus,,
+tanzania-004.jpeg,Serengeti National Park,Tanzania,,Leopard,-2.74,34.859,true,tanzania-004,Country Albums,Park,manual,false,true,,1247,Panthera pardus,,
+tanzania-005.jpeg,Serengeti National Park,Tanzania,,Tanzania · 05,-2.74,34.859,true,tanzania-005,Country Albums,Park,manual,false,true,,1248,,,
+tanzania-006.jpeg,Serengeti National Park,Tanzania,,Leopard and African bush elephant,-2.74,34.859,true,tanzania-006,Country Albums,Park,manual,false,true,,1249,Panthera pardus / Loxodonta africana,,
+tanzania-007.jpg,Serengeti National Park,Tanzania,,Tanzania · 07,-2.74,34.859,true,tanzania-007,Country Albums,Park,manual,false,true,,1250,,,
+tanzania-008.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 08,-6.1624,39.1913,true,tanzania-008,Country Albums,Landmark,visual,false,true,,1251,,,
+tanzania-009.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 09,-6.1624,39.1913,true,tanzania-009,Country Albums,Landmark,visual,false,true,,1252,,,
+tanzania-010.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 10,-6.1624,39.1913,true,tanzania-010,Country Albums,Landmark,visual,false,true,,1253,,,
+tanzania-011.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 11,-6.1624,39.1913,true,tanzania-011,Country Albums,Landmark,visual,false,true,,1254,,,
+tanzania-012.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 12,-6.1624,39.1913,true,tanzania-012,Country Albums,Landmark,visual,false,true,,1255,,,
+tanzania-013.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 13,-6.1624,39.1913,true,tanzania-013,Country Albums,Landmark,visual,false,true,,1256,,,
+tanzania-014.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 14,-6.1624,39.1913,true,tanzania-014,Country Albums,Landmark,visual,false,true,,1257,,,
+tanzania-015.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 15,-6.1624,39.1913,true,tanzania-015,Country Albums,Landmark,visual,false,true,,1258,,,
+tanzania-016.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 16,-6.1624,39.1913,true,tanzania-016,Country Albums,Landmark,visual,false,true,,1259,,,
+tanzania-017.jpeg,Zanzibar,Tanzania,,Tanzania · 17,-6.16176,39.19128,true,tanzania-017,Country Albums,Region,visual,false,true,,1260,,,
+tanzania-018.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 18,-6.1624,39.1913,true,tanzania-018,Country Albums,Landmark,visual,false,true,,1261,,,
+tanzania-019.jpeg,"Stone Town, Zanzibar",Tanzania,,Tanzania · 19,-6.1624,39.1913,true,tanzania-019,Country Albums,Landmark,visual,false,true,,1262,,,
+tanzania-020.jpeg,Mount Kilimanjaro,Tanzania,,Tanzania · 20,-3.07583,37.35333,true,tanzania-020,Country Albums,Region,manual,false,true,,1263,,,
+tanzania-021.jpeg,Dar es Salaam,Tanzania,,Tanzania · 21,-6.8161,39.2804,true,tanzania-021,Country Albums,City,manual,false,true,,1264,,,
+tanzania-022.jpeg,Mount Kilimanjaro,Tanzania,,Tanzania · 22,-3.07583,37.35333,true,tanzania-022,Country Albums,Region,visual,false,true,,1265,,,
+tanzania-023.jpeg,Mount Kilimanjaro,Tanzania,,White-necked raven,-3.07583,37.35333,true,tanzania-023,Country Albums,Region,visual,false,true,,1266,Corvus albicollis,,
+tanzania-024.jpeg,Mount Kilimanjaro,Tanzania,,Tanzania · 24,-3.07583,37.35333,true,tanzania-024,Country Albums,Region,visual,false,true,,1267,,,
+tanzania-025.jpeg,Serengeti National Park,Tanzania,,Tanzania · 25,-2.74,34.859,true,tanzania-025,Country Albums,Park,manual,false,true,,1268,,,
+tanzania-kilimanjaro-001.jpeg,Mount Kilimanjaro,Tanzania,Kilimanjaro beyond the moorland,Kilimanjaro beyond the moorland,-3.067742,37.327511,true,tanzania-kilimanjaro-001,Country Albums,Park,gps,true,true,,,,,true
+tanzania-kilimanjaro-002.jpeg,Mount Kilimanjaro,Tanzania,A porter on the trail,A porter on the trail,-3.0674,37.3556,true,tanzania-kilimanjaro-002,Country Albums,Park,visual,true,true,,,,,true
+tanzania-kilimanjaro-003.jpeg,Mount Kilimanjaro,Tanzania,Walking towards the mountain,Walking towards the mountain,-3.0674,37.3556,true,tanzania-kilimanjaro-003,Country Albums,Park,visual,true,true,,,,,true
+tanzania-kilimanjaro-004.jpeg,Mount Kilimanjaro,Tanzania,The trail beneath low clouds,The trail beneath low clouds,-3.0674,37.3556,true,tanzania-kilimanjaro-004,Country Albums,Park,visual,true,true,,,,,true
+tanzania-kilimanjaro-005.jpeg,Mount Kilimanjaro,Tanzania,A misty mountain valley,A misty mountain valley,-3.067742,37.327511,true,tanzania-kilimanjaro-005,Country Albums,Park,gps,true,true,,,,,true
+tanzania-kilimanjaro-006.jpeg,Mount Kilimanjaro,Tanzania,Light across the slopes,Light across the slopes,-3.067742,37.327511,true,tanzania-kilimanjaro-006,Country Albums,Park,gps,true,true,,,,,true
+tanzania-kilimanjaro-007.jpeg,Mount Kilimanjaro,Tanzania,Clouds around the summit,Clouds around the summit,-3.067742,37.327511,true,tanzania-kilimanjaro-007,Country Albums,Park,gps,true,true,,,,,true
+tanzania-kilimanjaro-008.jpeg,Mount Kilimanjaro,Tanzania,Dusk on the mountain trail,Dusk on the mountain trail,-3.067742,37.327511,true,tanzania-kilimanjaro-008,Country Albums,Park,gps,true,true,,,,,true
+tanzania-kilimanjaro-009.jpeg,Mount Kilimanjaro,Tanzania,Giant groundsels on the mountainside,Giant groundsels on the mountainside,-3.067742,37.327511,true,tanzania-kilimanjaro-009,Country Albums,Park,gps,true,true,,,,,true
+tanzania-kilimanjaro-010.jpeg,Mount Kilimanjaro,Tanzania,Silhouettes beneath the mountain,Silhouettes beneath the mountain,-3.0674,37.3556,true,tanzania-kilimanjaro-010,Country Albums,Park,visual,true,true,,,,,true
+tanzania-kilimanjaro-011.jpeg,Mount Kilimanjaro,Tanzania,A raven above the moorland,A raven above the moorland,-3.0674,37.3556,true,tanzania-kilimanjaro-011,Country Albums,Park,visual,true,true,,,,,true
+tanzania-kilimanjaro-012.jpeg,Mount Kilimanjaro,Tanzania,Clouds filling the valley,Clouds filling the valley,-3.067742,37.327511,true,tanzania-kilimanjaro-012,Country Albums,Park,gps,true,true,,,,,true
+tanzania-serengeti-001.jpeg,Serengeti National Park,Tanzania,Acacias beneath the evening sky,Acacias beneath the evening sky,-2.3333,34.8333,true,tanzania-serengeti-001,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-002.jpeg,Serengeti National Park,Tanzania,The plains from above,The plains from above,-2.3333,34.8333,true,tanzania-serengeti-002,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-003.jpeg,Serengeti National Park,Tanzania,A bird in flight,A bird in flight,-2.3333,34.8333,true,tanzania-serengeti-003,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-004.jpeg,Serengeti National Park,Tanzania,Giraffes beneath an acacia,Giraffes beneath an acacia,-2.3333,34.8333,true,tanzania-serengeti-004,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-005.jpeg,Serengeti National Park,Tanzania,A dusty safari track,A dusty safari track,-2.3333,34.8333,true,tanzania-serengeti-005,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-006.jpeg,Serengeti National Park,Tanzania,Birds on a bare branch,Birds on a bare branch,-2.3333,34.8333,true,tanzania-serengeti-006,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-007.jpeg,Serengeti National Park,Tanzania,Hippos at the water,Hippos at the water,-2.3333,34.8333,true,tanzania-serengeti-007,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-008.jpeg,Serengeti National Park,Tanzania,A bird perched on a stump,A bird perched on a stump,-2.3333,34.8333,true,tanzania-serengeti-008,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-009.jpeg,Serengeti National Park,Tanzania,A guineafowl in the grass,A guineafowl in the grass,-2.3333,34.8333,true,tanzania-serengeti-009,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-010.jpeg,Serengeti National Park,Tanzania,Colour among the branches,Colour among the branches,-2.3333,34.8333,true,tanzania-serengeti-010,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-011.jpeg,Serengeti National Park,Tanzania,A lion and a zebra on the plains,A lion and a zebra on the plains,-2.3333,34.8333,true,tanzania-serengeti-011,Country Albums,Park,visual,true,true,,,,,true
+tanzania-serengeti-012.jpeg,Serengeti National Park,Tanzania,A glossy starling,A glossy starling,-2.3333,34.8333,true,tanzania-serengeti-012,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-001.jpeg,Ngorongoro Crater,Tanzania,Sunbeams over the crater,Sunbeams over the crater,-3.161,35.587,true,tanzania-ngorongoro-001,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-002.jpeg,Ngorongoro Crater,Tanzania,The crater floor in sunlight,The crater floor in sunlight,-3.161,35.587,true,tanzania-ngorongoro-002,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-003.jpeg,Ngorongoro Crater,Tanzania,An acacia beneath the clouds,An acacia beneath the clouds,-3.161,35.587,true,tanzania-ngorongoro-003,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-004.jpeg,Ngorongoro Crater,Tanzania,Lions crossing the grassland,Lions crossing the grassland,-3.161,35.587,true,tanzania-ngorongoro-004,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-005.jpeg,Ngorongoro Crater,Tanzania,A serval on the move,A serval on the move,-3.161,35.587,true,tanzania-ngorongoro-005,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-006.jpeg,Ngorongoro Crater,Tanzania,Warthogs in the grass,Warthogs in the grass,-3.161,35.587,true,tanzania-ngorongoro-006,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-007.jpeg,Ngorongoro Crater,Tanzania,A crowned crane,A crowned crane,-3.161,35.587,true,tanzania-ngorongoro-007,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-008.jpeg,Ngorongoro Crater,Tanzania,Flamingos on the water,Flamingos on the water,-3.161,35.587,true,tanzania-ngorongoro-008,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-009.jpeg,Ngorongoro Crater,Tanzania,Zebras beneath the crater rim,Zebras beneath the crater rim,-3.161,35.587,true,tanzania-ngorongoro-009,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-010.jpeg,Ngorongoro Crater,Tanzania,A hyena on the crater floor,A hyena on the crater floor,-3.161,35.587,true,tanzania-ngorongoro-010,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-011.jpeg,Ngorongoro Crater,Tanzania,A lilac-breasted roller,A lilac-breasted roller,-3.161,35.587,true,tanzania-ngorongoro-011,Country Albums,Park,visual,true,true,,,,,true
+tanzania-ngorongoro-012.jpeg,Ngorongoro Crater,Tanzania,A zebra in the grassland,A zebra in the grassland,-3.161,35.587,true,tanzania-ngorongoro-012,Country Albums,Park,visual,true,true,,,,,true

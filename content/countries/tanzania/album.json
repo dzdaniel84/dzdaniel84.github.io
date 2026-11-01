@@ -29,7 +29,19 @@
           "tanzania-020",
           "tanzania-022",
           "tanzania-023",
-          "tanzania-024"
+          "tanzania-024",
+          "tanzania-kilimanjaro-001",
+          "tanzania-kilimanjaro-002",
+          "tanzania-kilimanjaro-003",
+          "tanzania-kilimanjaro-004",
+          "tanzania-kilimanjaro-005",
+          "tanzania-kilimanjaro-006",
+          "tanzania-kilimanjaro-007",
+          "tanzania-kilimanjaro-008",
+          "tanzania-kilimanjaro-009",
+          "tanzania-kilimanjaro-010",
+          "tanzania-kilimanjaro-011",
+          "tanzania-kilimanjaro-012"
         ]
       },
       {
@@ -42,7 +54,36 @@
           "tanzania-005",
           "tanzania-006",
           "tanzania-007",
-          "tanzania-025"
+          "tanzania-025",
+          "tanzania-serengeti-001",
+          "tanzania-serengeti-002",
+          "tanzania-serengeti-003",
+          "tanzania-serengeti-004",
+          "tanzania-serengeti-005",
+          "tanzania-serengeti-006",
+          "tanzania-serengeti-007",
+          "tanzania-serengeti-008",
+          "tanzania-serengeti-009",
+          "tanzania-serengeti-010",
+          "tanzania-serengeti-011",
+          "tanzania-serengeti-012"
+        ]
+      },
+      {
+        "title": "Ngorongoro",
+        "photoIds": [
+          "tanzania-ngorongoro-001",
+          "tanzania-ngorongoro-002",
+          "tanzania-ngorongoro-003",
+          "tanzania-ngorongoro-004",
+          "tanzania-ngorongoro-005",
+          "tanzania-ngorongoro-006",
+          "tanzania-ngorongoro-007",
+          "tanzania-ngorongoro-008",
+          "tanzania-ngorongoro-009",
+          "tanzania-ngorongoro-010",
+          "tanzania-ngorongoro-011",
+          "tanzania-ngorongoro-012"
         ]
       },
       {
