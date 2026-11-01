@@ -13,3 +13,13 @@ test('map-only photographs stay out of galleries despite retaining their map cat
  assert.ok(source.includes('inCollection(p,container.dataset.category)'));
 });
 
+
+test('national parks map filter includes the requested international parks',()=>{
+ const declaration=source.split('\n').find(line=>line.startsWith('const matchesCategory ='));
+ const matches=vm.runInNewContext("let category='National Parks';\n"+declaration+"\nmatchesCategory;");
+ for(const location of ['Kilimanjaro','Serengeti National Park','Blue Mountains National Park']){
+  assert.equal(matches({category:'Country Albums',collections:[],location}),true);
+ }
+ assert.equal(matches({category:'Country Albums',collections:[],location:'Sydney'}),false);
+ assert.equal(matches({category:'National Parks',location:'Yosemite'}),true);
+});

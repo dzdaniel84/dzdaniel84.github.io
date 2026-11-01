@@ -12,7 +12,7 @@ from urllib.parse import quote, unquote, urljoin, urlsplit
 from xml.etree import ElementTree as ET
 
 from sync_content import ROOT, sync
-from routes import clean_catalog, clean_html, output_path, public_route, redirect_html
+from routes import clean_catalog, clean_html, output_path, public_route, redirect_html, legacy_routes
 
 PAGES = ('index.html', 'about.html', 'photography.html', 'world-albums.html', 'work.html', '404.html')
 RUNTIME = ('theme.js', 'theme.css', 'app.js', 'atlas-overview.js', 'navigation.js', 'about.js', 'fonts.css', 'style.css', 'editorial.css', 'atlas.css')
@@ -223,6 +223,10 @@ def stage_site(root, stage, base_url=None):
             route = public_route('about.html' if name == 'work.html' else name)
             redirect = redirect.replace('rel="canonical" href="' + route + '"', 'rel="canonical" href="' + urljoin(base, route) + '"')
             p.write_text(redirect)
+            for old_route in legacy_routes(name):
+                legacy = stage / old_route.lstrip('/') / 'index.html'
+                legacy.parent.mkdir(parents=True, exist_ok=True)
+                legacy.write_text(redirect)
     namespace = 'http://www.sitemaps.org/schemas/sitemap/0.9'
     ET.register_namespace('', namespace)
     sitemap = ET.Element('{' + namespace + '}urlset')

@@ -6,7 +6,7 @@ import re
 from urllib.parse import urlsplit, urlunsplit
 
 AUTHORED_PAGES = ('index.html', 'about.html', 'photography.html', 'world-albums.html', 'work.html', '404.html')
-ALIASES = {'photography': 'albums', 'world-albums': 'country-albums'}
+ALIASES = {'photography': 'albums'}
 
 
 def public_route(filename):
@@ -16,7 +16,7 @@ def public_route(filename):
         return '/404.html'
     slug = Path(filename).stem
     if slug.startswith('country-'):
-        slug = slug[len('country-'):]
+        return '/world-albums/' + slug[len('country-'):] + '/'
     return '/' + ALIASES.get(slug, slug) + '/'
 
 
@@ -30,7 +30,9 @@ def clean_ref(value, current):
     if parsed.scheme or parsed.netloc:
         return value
     path = parsed.path
-    if not path:
+    if path.rstrip('/') == '/country-albums':
+        path = '/world-albums/'
+    elif not path:
         path = public_route(current)
     elif re.fullmatch(r'/?[a-z0-9-]+\.html', path):
         path = public_route(path.lstrip('/'))
@@ -54,6 +56,14 @@ def clean_catalog(catalog):
         for entry in catalog.get(section, []):
             entry['page'] = clean_ref(entry['page'], 'index.html')
     return catalog
+
+
+def legacy_routes(filename):
+    if filename == 'world-albums.html':
+        return ['/country-albums/']
+    if Path(filename).stem.startswith('country-'):
+        return ['/' + Path(filename).stem[len('country-'):] + '/']
+    return []
 
 
 def redirect_html(filename):
@@ -81,3 +91,7 @@ def write_preview_routes(root, generated_pages):
         target = root / output_path(name)
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(clean_html((root / name).read_text(), name))
+        for old_route in legacy_routes(name):
+            legacy = root / old_route.lstrip('/') / 'index.html'
+            legacy.parent.mkdir(parents=True, exist_ok=True)
+            legacy.write_text(redirect_html(name))

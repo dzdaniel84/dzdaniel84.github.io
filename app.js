@@ -2,7 +2,7 @@
 const $ = s => document.querySelector(s);
 let featuredGalleries = [], countryAlbums = [];
 const inCollection = (p,name) => Array.isArray(p.collections) ? p.collections.includes(name) : p.category === name;
-const matchesCategory = p => category === 'All' || (category === 'Country Albums' ? !!p.albums?.length : (p.category === category || p.collections?.includes(category)));
+const matchesCategory = p => category === 'All' || (category === 'Country Albums' ? !!p.albums?.length : (p.category === category || p.collections?.includes(category) || (category === 'National Parks' && /\b(kilimanjaro|serengeti|blue mountains)\b/i.test([p.location,p.city].filter(Boolean).join(' ')))));
 let catalogPhotos = [], photos = [], category = 'All', place = null, lightboxPhotos = [], current = 0;
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const photoSrc = p => p.largeSrc || p.src;
@@ -709,7 +709,7 @@ async function init(){
   for(const name of new Set(photos.flatMap(p=>[p.category,...(p.collections||[])]))){
    if(name==="Country Albums"||name==="Burning Man")continue;
    if([...filterGroup.querySelectorAll('[data-category]')].some(b=>b.dataset.category===name))continue;
-   const button=document.createElement('button');button.type='button';button.dataset.category=name;button.textContent=name;button.setAttribute('aria-pressed','false');button.onclick=()=>{category=name;showWorldOverview();};filterGroup.append(button);
+   const button=document.createElement('button');button.type='button';button.dataset.category=name;button.textContent=name==='Cities'?'Skylines':name;button.setAttribute('aria-pressed','false');button.onclick=()=>{category=name;showWorldOverview();};filterGroup.append(button);
   }
   overviewMap=AtlasOverview.create(await landResponse.json(),mapSurface);
   atlasProjection=overviewMap.projection;
