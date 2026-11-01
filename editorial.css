@@ -495,8 +495,8 @@ img,.hero-image,.collection-cover-media,.gallery-photo,.preview-open{-webkit-use
 .filmstrip-track.is-dragging *{cursor:grabbing!important}
 .filmstrip-drawer{position:relative;display:flex;gap:12px;overflow-x:auto;overscroll-behavior-x:contain;padding:2px 2px 20px;margin-bottom:8px;scrollbar-width:thin;scrollbar-color:#65727b transparent}
 .filmstrip-drawer[hidden]{display:none}
-.filmstrip-drawer button{flex:0 0 96px;min-width:0;padding:0 0 6px;background:none;border:0;color:var(--muted);text-align:left;font:inherit;font-size:9px;cursor:pointer}
-.filmstrip-drawer img{display:block;width:96px;height:64px;object-fit:cover;margin-bottom:7px;opacity:.55;transition:opacity .2s}
+.filmstrip-drawer button{flex:0 0 calc(64px * var(--preview-ratio,1.5));width:calc(64px * var(--preview-ratio,1.5));min-width:0;overflow-wrap:anywhere;padding:0 0 6px;background:none;border:0;color:var(--muted);text-align:left;font:inherit;font-size:9px;cursor:pointer}
+.filmstrip-drawer img{display:block;width:100%;height:64px;object-fit:contain;margin-bottom:7px;opacity:.55;transition:opacity .2s}
 .filmstrip-drawer button[aria-pressed=true]{color:var(--ink)}
 .filmstrip-drawer button[aria-pressed=true] img,.filmstrip-drawer button:hover img{opacity:1}
 .filmstrip-drawer button[aria-pressed=true] img{outline:1px solid #d8c28e;outline-offset:2px}

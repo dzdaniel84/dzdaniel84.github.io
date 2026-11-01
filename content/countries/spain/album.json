@@ -1,6 +1,69 @@
 {
   "name": "Spain",
   "page": "country-spain.html",
-  "cover": "world-landmarks-03.jpeg",
-  "cover_position": "50% 41%"
+  "cover": "spain-toledo-002.jpeg",
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Barcelona",
+        "photoIds": [
+          "spain-001",
+          "spain-002",
+          "spain-005",
+          "spain-006",
+          "spain-008",
+          "spain-009",
+          "spain-011",
+          "spain-014",
+          "spain-015",
+          "spain-017",
+          "spain-019",
+          "spain-021",
+          "spain-022",
+          "spain-023",
+          "spain-026"
+        ]
+      },
+      {
+        "title": "Madrid",
+        "photoIds": [
+          "spain-madrid-001",
+          "spain-madrid-002",
+          "spain-madrid-003",
+          "spain-madrid-004",
+          "spain-madrid-005",
+          "spain-madrid-006",
+          "spain-madrid-007",
+          "spain-madrid-008",
+          "spain-madrid-009",
+          "spain-madrid-010",
+          "spain-madrid-011",
+          "spain-madrid-012",
+          "spain-madrid-013",
+          "spain-madrid-014",
+          "spain-madrid-015",
+          "spain-madrid-016"
+        ]
+      },
+      {
+        "title": "Toledo",
+        "photoIds": [
+          "spain-toledo-001",
+          "spain-toledo-002",
+          "spain-toledo-003",
+          "spain-toledo-004",
+          "spain-toledo-005",
+          "spain-toledo-006",
+          "spain-toledo-007",
+          "spain-toledo-008",
+          "spain-toledo-009",
+          "spain-toledo-010",
+          "spain-toledo-011",
+          "spain-toledo-012"
+        ]
+      }
+    ]
+  }
 }

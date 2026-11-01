@@ -1,8 +1,8 @@
 {
   "name": "Austria",
   "page": "country-austria.html",
-  "cover": "austria-004.jpeg",
-  "cover_position": "63% 50%",
+  "cover": "austria-vienna-006.jpeg",
+  "cover_position": "50% 50%",
   "hide_captions": true,
   "presentation": {
     "chapters": [
@@ -15,7 +15,10 @@
           "austria-008",
           "austria-009",
           "austria-010",
-          "austria-011"
+          "austria-011",
+          "austria-salzburg-001",
+          "austria-salzburg-002",
+          "austria-salzburg-003"
         ]
       },
       {
@@ -25,7 +28,14 @@
           "austria-004",
           "austria-005",
           "austria-006",
-          "austria-012"
+          "austria-012",
+          "austria-vienna-001",
+          "austria-vienna-002",
+          "austria-vienna-003",
+          "austria-vienna-004",
+          "austria-vienna-005",
+          "austria-vienna-006",
+          "austria-vienna-007"
         ]
       }
     ]

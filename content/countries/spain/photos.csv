@@ -1,27 +1,55 @@
-﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order
-spain-001.jpeg,Barcelona,Spain,,Spain · 01,41.38268,2.177025,true,spain-001,Country Albums,City,gps,false,true,,1123
-spain-002.jpeg,Barcelona,Spain,,Spain · 02,41.38268,2.177025,true,spain-002,Country Albums,City,gps,false,true,,1124
-spain-003.jpeg,Barcelona,Spain,,Spain · 03,41.38268,2.177025,true,spain-003,Country Albums,City,gps,false,true,,1125
-spain-004.jpeg,Barcelona,Spain,,Spain · 04,41.38268,2.177025,true,spain-004,Country Albums,City,gps,false,true,,1126
-spain-005.jpeg,Barcelona,Spain,,Spain · 05,41.38268,2.177025,true,spain-005,Country Albums,City,gps,false,true,,1127
-spain-006.jpeg,Palau Güell,Spain,,Spain · 06,41.37882,2.17439,true,spain-006,Country Albums,Landmark,visual,false,true,,1128
-spain-007.jpg,Barcelona,Spain,,Spain · 07,41.38268,2.177025,true,spain-007,Country Albums,City,gps,false,true,,1129
-spain-008.jpeg,Barcelona,Spain,,Spain · 08,41.38268,2.177025,true,spain-008,Country Albums,City,gps,false,true,,1130
-spain-009.jpeg,Casa Batlló,Spain,,Spain · 09,41.39158,2.16492,true,spain-009,Country Albums,Landmark,visual,false,true,,1131
-spain-010.jpeg,Casa Batlló,Spain,,Spain · 10,41.39158,2.16492,true,spain-010,Country Albums,Landmark,visual,false,true,,1132
-spain-011.jpeg,Barcelona,Spain,,Spain · 11,41.38268,2.177025,true,spain-011,Country Albums,City,gps,false,true,,1133
-spain-012.jpeg,Barcelona,Spain,,Spain · 12,41.38268,2.177025,true,spain-012,Country Albums,City,gps,false,true,,1134
-spain-013.jpeg,Barcelona,Spain,,Spain · 13,41.38268,2.177025,true,spain-013,Country Albums,City,gps,false,true,,1135
-spain-014.jpeg,Barcelona,Spain,,Spain · 14,41.38268,2.177025,true,spain-014,Country Albums,City,gps,false,true,,1136
-spain-015.jpeg,Barcelona,Spain,,Spain · 15,41.38268,2.177025,true,spain-015,Country Albums,City,gps,false,true,,1137
-spain-016.jpeg,Barcelona,Spain,,Spain · 16,41.38268,2.177025,true,spain-016,Country Albums,City,gps,false,true,,1138
-spain-017.jpeg,Barcelona,Spain,,Spain · 17,41.38268,2.177025,true,spain-017,Country Albums,City,gps,false,true,,1139
-spain-018.jpeg,Casa Batlló,Spain,,Spain · 18,41.39158,2.16492,true,spain-018,Country Albums,Landmark,visual,false,true,,1140
-spain-019.jpeg,Casa Milà,Spain,,Spain · 19,41.39528,2.16167,true,spain-019,Country Albums,Landmark,visual,false,true,,1141
-spain-020.jpeg,Barcelona,Spain,,Spain · 20,41.38268,2.177025,true,spain-020,Country Albums,City,gps,false,true,,1142
-spain-021.jpeg,Casa Batlló,Spain,,Spain · 21,41.39158,2.16492,true,spain-021,Country Albums,Landmark,visual,false,true,,1143
-spain-022.jpeg,Casa Batlló,Spain,,Spain · 22,41.39158,2.16492,true,spain-022,Country Albums,Landmark,visual,false,true,,1144
-spain-023.jpeg,Casa Milà,Spain,,Spain · 23,41.39528,2.16167,true,spain-023,Country Albums,Landmark,visual,false,true,,1145
-world-landmarks-03.jpeg,Sagrada Família,Spain,,Sagrada Família,41.40369,2.17433,false,world-landmarks-03,World Landmarks,Landmark,visual,false,true,,104
-spain-025.jpeg,Barcelona,Spain,,Spain · 25,41.38268,2.177025,true,spain-025,Country Albums,City,gps,false,true,,1146
-spain-026.jpeg,Barcelona,Spain,,Spain · 26,41.38268,2.177025,true,spain-026,Country Albums,City,gps,false,true,,1147
+﻿filename,location,country,description,title,latitude,longitude,include,id,category,coordinate_precision,location_method,country_album,atlas,fallback_filename,atlas_order,country_sequence
+spain-001.jpeg,Barcelona,Spain,,Spain · 01,41.38268,2.177025,true,spain-001,Country Albums,City,gps,false,true,,1123,true
+spain-002.jpeg,Barcelona,Spain,,Spain · 02,41.38268,2.177025,true,spain-002,Country Albums,City,gps,false,true,,1124,true
+spain-003.jpeg,Barcelona,Spain,,Spain · 03,41.38268,2.177025,false,spain-003,Country Albums,City,gps,false,false,,1125,false
+spain-004.jpeg,Barcelona,Spain,,Spain · 04,41.38268,2.177025,false,spain-004,Country Albums,City,gps,false,false,,1126,false
+spain-005.jpeg,Barcelona,Spain,,Spain · 05,41.38268,2.177025,true,spain-005,Country Albums,City,gps,false,true,,1127,true
+spain-006.jpeg,Palau Güell,Spain,,Spain · 06,41.37882,2.17439,true,spain-006,Country Albums,Landmark,visual,false,true,,1128,true
+spain-007.jpg,Barcelona,Spain,,Spain · 07,41.38268,2.177025,false,spain-007,Country Albums,City,gps,false,false,,1129,false
+spain-008.jpeg,Barcelona,Spain,,Spain · 08,41.38268,2.177025,true,spain-008,Country Albums,City,gps,false,true,,1130,true
+spain-009.jpeg,Casa Batlló,Spain,,Spain · 09,41.39158,2.16492,true,spain-009,Country Albums,Landmark,visual,false,true,,1131,true
+spain-010.jpeg,Casa Batlló,Spain,,Spain · 10,41.39158,2.16492,false,spain-010,Country Albums,Landmark,visual,false,false,,1132,false
+spain-011.jpeg,Barcelona,Spain,,Spain · 11,41.38268,2.177025,true,spain-011,Country Albums,City,gps,false,true,,1133,true
+spain-012.jpeg,Barcelona,Spain,,Spain · 12,41.38268,2.177025,false,spain-012,Country Albums,City,gps,false,false,,1134,false
+spain-013.jpeg,Barcelona,Spain,,Spain · 13,41.38268,2.177025,false,spain-013,Country Albums,City,gps,false,false,,1135,false
+spain-014.jpeg,Barcelona,Spain,,Spain · 14,41.38268,2.177025,true,spain-014,Country Albums,City,gps,false,true,,1136,true
+spain-015.jpeg,Barcelona,Spain,,Spain · 15,41.38268,2.177025,true,spain-015,Country Albums,City,gps,false,true,,1137,true
+spain-016.jpeg,Barcelona,Spain,,Spain · 16,41.38268,2.177025,false,spain-016,Country Albums,City,gps,false,false,,1138,false
+spain-017.jpeg,Barcelona,Spain,,Spain · 17,41.38268,2.177025,true,spain-017,Country Albums,City,gps,false,true,,1139,true
+spain-018.jpeg,Casa Batlló,Spain,,Spain · 18,41.39158,2.16492,false,spain-018,Country Albums,Landmark,visual,false,false,,1140,false
+spain-019.jpeg,Casa Milà,Spain,,Spain · 19,41.39528,2.16167,true,spain-019,Country Albums,Landmark,visual,false,true,,1141,true
+spain-020.jpeg,Barcelona,Spain,,Spain · 20,41.38268,2.177025,false,spain-020,Country Albums,City,gps,false,false,,1142,false
+spain-021.jpeg,Casa Batlló,Spain,,Spain · 21,41.39158,2.16492,true,spain-021,Country Albums,Landmark,visual,false,true,,1143,true
+spain-022.jpeg,Casa Batlló,Spain,,Spain · 22,41.39158,2.16492,true,spain-022,Country Albums,Landmark,visual,false,true,,1144,true
+spain-023.jpeg,Casa Milà,Spain,,Spain · 23,41.39528,2.16167,true,spain-023,Country Albums,Landmark,visual,false,true,,1145,true
+world-landmarks-03.jpeg,Sagrada Família,Spain,,Sagrada Família,41.40369,2.17433,false,world-landmarks-03,World Landmarks,Landmark,visual,false,true,,104,
+spain-025.jpeg,Barcelona,Spain,,Spain · 25,41.38268,2.177025,false,spain-025,Country Albums,City,gps,false,false,,1146,false
+spain-026.jpeg,Barcelona,Spain,,Spain · 26,41.38268,2.177025,true,spain-026,Country Albums,City,gps,false,true,,1147,true
+spain-madrid-001.jpeg,Madrid,Spain,Looking up along Gran Via,Looking up along Gran Via,40.4168,-3.7038,true,spain-madrid-001,Country Albums,City,visual,true,true,,,true
+spain-madrid-002.jpeg,Madrid,Spain,Rowboat on the lake,Rowboat on the lake,40.4168,-3.7038,true,spain-madrid-002,Country Albums,City,visual,true,true,,,true
+spain-madrid-003.jpeg,Madrid,Spain,Evening on the street,Evening on the street,40.4168,-3.7038,true,spain-madrid-003,Country Albums,City,visual,true,true,,,true
+spain-madrid-004.jpeg,Madrid,Spain,Plaza Mayor after sunset,Plaza Mayor after sunset,40.4168,-3.7038,true,spain-madrid-004,Country Albums,City,visual,true,true,,,true
+spain-madrid-005.jpeg,Madrid,Spain,Three illuminated doorways,Three illuminated doorways,40.4168,-3.7038,true,spain-madrid-005,Country Albums,City,visual,true,true,,,true
+spain-madrid-006.jpeg,Madrid,Spain,The florist,The florist,40.4168,-3.7038,true,spain-madrid-006,Country Albums,City,visual,true,true,,,true
+spain-madrid-007.jpeg,Madrid,Spain,Red staircase and reflections,Red staircase and reflections,40.4168,-3.7038,true,spain-madrid-007,Country Albums,City,visual,true,true,,,true
+spain-madrid-008.jpeg,Madrid,Spain,Palacio de Cibeles atrium,Palacio de Cibeles atrium,40.4168,-3.7038,true,spain-madrid-008,Country Albums,City,visual,true,true,,,true
+spain-madrid-009.jpeg,Madrid,Spain,A street toward the dome,A street toward the dome,40.4168,-3.7038,true,spain-madrid-009,Country Albums,City,visual,true,true,,,true
+spain-madrid-010.jpeg,Madrid,Spain,Royal Palace,Royal Palace,40.4168,-3.7038,true,spain-madrid-010,Country Albums,City,visual,true,true,,,true
+spain-madrid-011.jpeg,Madrid,Spain,Cathedral ceiling,Cathedral ceiling,40.4168,-3.7038,true,spain-madrid-011,Country Albums,City,visual,true,true,,,true
+spain-madrid-012.jpeg,Madrid,Spain,Painted shutters,Painted shutters,40.4168,-3.7038,true,spain-madrid-012,Country Albums,City,visual,true,true,,,true
+spain-madrid-013.jpeg,Madrid,Spain,Light down a narrow street,Light down a narrow street,40.4168,-3.7038,true,spain-madrid-013,Country Albums,City,visual,true,true,,,true
+spain-madrid-014.jpeg,Madrid,Spain,A sculptural staircase,A sculptural staircase,40.4168,-3.7038,true,spain-madrid-014,Country Albums,City,visual,true,true,,,true
+spain-madrid-015.jpeg,Madrid,Spain,Madrid at sunset,Madrid at sunset,40.4168,-3.7038,true,spain-madrid-015,Country Albums,City,visual,true,true,,,true
+spain-madrid-016.jpeg,Madrid,Spain,Train at the platform,Train at the platform,40.4168,-3.7038,true,spain-madrid-016,Country Albums,City,visual,true,true,,,true
+spain-toledo-001.jpeg,Toledo,Spain,Walking toward the cathedral,Walking toward the cathedral,39.8628,-4.0273,true,spain-toledo-001,Country Albums,City,visual,true,true,,,true
+spain-toledo-002.jpeg,Toledo,Spain,Cathedral through the alley,Cathedral through the alley,39.8628,-4.0273,true,spain-toledo-002,Country Albums,City,visual,true,true,,,true
+spain-toledo-003.jpeg,Toledo,Spain,Arches of Santa Maria la Blanca,Arches of Santa Maria la Blanca,39.8628,-4.0273,true,spain-toledo-003,Country Albums,City,visual,true,true,,,true
+spain-toledo-004.jpeg,Toledo,Spain,Around the corner,Around the corner,39.8628,-4.0273,true,spain-toledo-004,Country Albums,City,visual,true,true,,,true
+spain-toledo-005.jpeg,Toledo,Spain,Two figures in the alley,Two figures in the alley,39.8628,-4.0273,true,spain-toledo-005,Country Albums,City,visual,true,true,,,true
+spain-toledo-006.jpeg,Toledo,Spain,A band in the street,A band in the street,39.8628,-4.0273,true,spain-toledo-006,Country Albums,City,visual,true,true,,,true
+spain-toledo-007.jpeg,Toledo,Spain,Cloister arches,Cloister arches,39.8628,-4.0273,true,spain-toledo-007,Country Albums,City,visual,true,true,,,true
+spain-toledo-008.jpeg,Toledo,Spain,Light along the colonnade,Light along the colonnade,39.8628,-4.0273,true,spain-toledo-008,Country Albums,City,visual,true,true,,,true
+spain-toledo-009.jpeg,Toledo,Spain,Light through El Transparente,Light through El Transparente,39.8628,-4.0273,true,spain-toledo-009,Country Albums,City,visual,true,true,,,true
+spain-toledo-010.jpeg,Toledo,Spain,The Tagus beneath the clouds,The Tagus beneath the clouds,39.8628,-4.0273,true,spain-toledo-010,Country Albums,City,visual,true,true,,,true
+spain-toledo-011.jpeg,Toledo,Spain,Toledo at dusk,Toledo at dusk,39.8628,-4.0273,true,spain-toledo-011,Country Albums,City,visual,true,true,,,true
+spain-toledo-012.jpeg,Toledo,Spain,Bridge and city lights,Bridge and city lights,39.8628,-4.0273,true,spain-toledo-012,Country Albums,City,visual,true,true,,,true

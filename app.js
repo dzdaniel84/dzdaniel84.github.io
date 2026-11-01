@@ -281,7 +281,9 @@ function renderFilmstrip(container,list,options={}){
  }
  list.forEach((p,i)=>{
   const thumb=document.createElement('button');thumb.setAttribute('aria-label','Jump to '+photoAlt(p));
-  thumb.innerHTML='<img '+thumbnailAttrs(p,'96px')+' alt="" loading="lazy"><span>'+esc(photoTitle(p))+'</span>';
+  const previewRatio=(p.displayWidth||p.width)/(p.displayHeight||p.height);
+  thumb.style.setProperty('--preview-ratio',previewRatio);
+  thumb.innerHTML='<img '+thumbnailAttrs(p,Math.ceil(64*previewRatio)+'px')+' alt="" width="'+(p.displayWidth||p.width)+'" height="'+(p.displayHeight||p.height)+'" loading="lazy"><span>'+esc(photoTitle(p))+'</span>';
   thumb.onclick=()=>go(i);drawer.append(thumb);thumbs.push(thumb);
  });
  previous.onclick=()=>go(selected-1);next.onclick=()=>go(selected+1);
