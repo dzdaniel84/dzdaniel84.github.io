@@ -31,7 +31,7 @@ class ThumbnailTests(unittest.TestCase):
         Image.effect_noise((1800, 1200), 64).convert('RGB').save(source, quality=92)
         before = source.read_bytes()
         photo, retained = self.build(source)
-        self.assertEqual([(v['width'], v['height']) for v in photo['thumbnailVariants']], [(480, 320), (960, 640)])
+        self.assertEqual([(v['width'], v['height']) for v in photo['thumbnailVariants']], [(240, 160), (960, 640)])
         for variant in photo['thumbnailVariants']:
             target = self.root / variant['src']
             with Image.open(target) as image:
@@ -57,7 +57,7 @@ class ThumbnailTests(unittest.TestCase):
         photo, _ = self.build(source)
         self.assertEqual((photo['displayWidth'], photo['displayHeight']), (800, 1200))
         with Image.open(self.root / photo['thumbnailSrc']) as thumbnail:
-            self.assertEqual(thumbnail.size, (320, 480))
+            self.assertEqual(thumbnail.size, (160, 240))
             self.assertIsNone(thumbnail.getexif().get(274))
         self.assertEqual(source.read_bytes(), before)
 

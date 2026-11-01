@@ -1,0 +1,32 @@
+{
+  "name": "Vatican City",
+  "page": "country-vatican-city.html",
+  "cover": "vatican-city-001.webp",
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Vatican City",
+        "photoIds": [
+          "vatican-city-001",
+          "world-landmarks-12",
+          "vatican-city-002",
+          "vatican-city-003",
+          "vatican-city-004",
+          "vatican-city-005",
+          "vatican-city-006",
+          "vatican-city-007",
+          "vatican-city-008",
+          "vatican-city-009",
+          "vatican-city-010",
+          "vatican-city-011",
+          "vatican-city-012",
+          "vatican-city-013",
+          "vatican-city-014",
+          "vatican-city-015"
+        ]
+      }
+    ]
+  }
+}

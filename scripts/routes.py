@@ -80,6 +80,8 @@ def redirect_html(filename):
 
 
 def write_preview_routes(root, generated_pages):
+    from photo_assets import PhotoAssets
+    assets = PhotoAssets(root)
     names = set(generated_pages) | {name for name in AUTHORED_PAGES if (root / name).is_file()}
     destinations = {}
     for name in names:
@@ -90,7 +92,7 @@ def write_preview_routes(root, generated_pages):
     for name in names:
         target = root / output_path(name)
         target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_text(clean_html((root / name).read_text(), name))
+        target.write_text(assets.rewrite_html(clean_html((root / name).read_text(), name)))
         for old_route in legacy_routes(name):
             legacy = root / old_route.lstrip('/') / 'index.html'
             legacy.parent.mkdir(parents=True, exist_ok=True)

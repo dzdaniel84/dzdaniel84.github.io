@@ -12,6 +12,7 @@ from urllib.parse import quote, unquote, urljoin, urlsplit
 from xml.etree import ElementTree as ET
 
 from sync_content import ROOT, sync
+from photo_assets import PhotoAssets
 from routes import clean_catalog, clean_html, output_path, public_route, redirect_html, legacy_routes
 
 PAGES = ('index.html', 'about.html', 'photography.html', 'world-albums.html', 'work.html', '404.html')
@@ -175,8 +176,9 @@ def validate_artifact(stage):
 
 def stage_site(root, stage, base_url=None):
     config = json.loads((root / 'site.json').read_text())
+    assets = PhotoAssets(root)
     base = site_url(base_url or config['url'])
-    catalog = clean_catalog(json.loads((root / 'generated/content.json').read_text()))
+    catalog = assets.rewrite(clean_catalog(json.loads((root / 'generated/content.json').read_text())))
     if not catalog.get('carousel'):
         raise BuildError('Add at least one included photograph to content/carousel/photos.csv.')
     generated = json.loads((root / 'generated/pages.json').read_text())
@@ -187,7 +189,7 @@ def stage_site(root, stage, base_url=None):
     for name in sorted(pages | set(RUNTIME) | {'cv.pdf', '.nojekyll', 'generated/content.json'}):
         copy_public(root, stage, name)
     for p in sorted((root / 'assets').rglob('*')):
-        if p.is_file() and p.suffix.lower() in ASSET_TYPES:
+        if p.is_file() and p.suffix.lower() in ASSET_TYPES and not assets.hosted(p.relative_to(root)):
             copy_public(root, stage, p.relative_to(root).as_posix())
     images = set(catalog_images(catalog))
     for name in pages:
@@ -196,7 +198,8 @@ def stage_site(root, stage, base_url=None):
             if path is not None:
                 images.add(path)
     for path in sorted(images):
-        copy_public(root, stage, path)
+        if not assets.hosted(path):
+            copy_public(root, stage, path)
     first = catalog['carousel'][0]
     fallback = {'src': first.get('largeSrc') or first['src'],
                 'alt': ', '.join(x for x in (first.get('location'), first.get('country')) if x)}
@@ -214,7 +217,7 @@ def stage_site(root, stage, base_url=None):
             raise BuildError(f'Conflicting public routes: {name}, {destinations[destination]}')
         destinations[destination] = name
         p = stage / name
-        text = add_metadata(p.read_text(), name, config, base, fallback, descriptions.get(name) or descriptions.get(public_route(name)))
+        text = assets.rewrite_html(add_metadata(p.read_text(), name, config, base, fallback, descriptions.get(name) or descriptions.get(public_route(name))))
         target = stage / destination
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(clean_html(text, name))

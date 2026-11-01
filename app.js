@@ -616,13 +616,23 @@ if(mapSurface){
  });
 }
 
+function countryCoverAttrs(photo){
+ // A portrait card displays only part of a landscape source: select enough pixels for that crop.
+ const width=photo.displayWidth||photo.width,height=photo.displayHeight||photo.height;
+ const cropFactor=width&&height?Math.max(1,(width/height)/(2/3)):1;
+ const variants=[...(photo.thumbnailVariants||[])];
+ if(width&&height&&!variants.some(v=>v.src===photoSrc(photo)))variants.push({src:photoSrc(photo),width,height});
+ variants.sort((a,b)=>a.width-b.width);
+ const sizes='(max-width:650px) calc((100vw - 50px) / 2 * '+cropFactor+'), (max-width:900px) calc((100vw - 84px) / 2 * '+cropFactor+'), calc((100vw - 168px) / 3 * '+cropFactor+')';
+ return thumbnailAttrs({...photo,thumbnailVariants:variants},sizes);
+}
 function renderCountryDirectory(){
  const cards=$('#country-cards');if(!cards)return;
  cards.replaceChildren();
  countryAlbums.forEach(a=>{
   const link=document.createElement('a');link.className='country-card';link.href=a.page;
   const cover=catalogPhotos.find(p=>p.id===a.coverPhoto)||{src:a.cover};
-  link.innerHTML='<img '+thumbnailAttrs(cover,'(max-width:650px) calc((100vw - 50px) / 2), (max-width:900px) calc((100vw - 84px) / 2), calc((100vw - 168px) / 3)')+' alt="" loading="lazy"><span class="country-card-body"><span>'+esc(a.name)+'</span><small>'+a.count+' photographs ↗</small></span>';
+  link.innerHTML='<img '+countryCoverAttrs(cover)+' alt="" loading="lazy"><span class="country-card-body"><span>'+esc(a.name)+'</span><small>'+a.count+' photographs ↗</small></span>';
   link.querySelector('img').style.objectPosition=a.coverPosition||'50% 50%';
   cards.append(link);
  });

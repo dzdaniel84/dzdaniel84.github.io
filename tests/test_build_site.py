@@ -52,6 +52,23 @@ class PublicBuildTests(unittest.TestCase):
         output.mkdir()
         return output, stage_site(self.root, output, base)
 
+    def test_r2_build_omits_verified_images_and_rewrites_html_and_social_images(self):
+        key = self.image.relative_to(self.root).as_posix()
+        manifest = dict(objects={key: dict(sha256=hashlib.sha256(self.image.read_bytes()).hexdigest(), bytes=self.image.stat().st_size)}, sources={})
+        (self.root / 'content/photo-assets.json').write_text(json.dumps(manifest))
+        config = json.loads((self.root / 'site.json').read_text())
+        config['image_origin'] = 'https://photos.example.com'
+        (self.root / 'site.json').write_text(json.dumps(config))
+        output, report = self.stage()
+        text = (output / 'about/index.html').read_text()
+        self.assertIn('src="https://photos.example.com/' + self.src + '"', text)
+        self.assertIn('content="https://photos.example.com/' + self.src + '"', text)
+        self.assertFalse((output / key).exists())
+        self.assertFalse((output / 'content/photo-assets.json').exists())
+        catalog = json.loads((output / 'generated/content.json').read_text())
+        self.assertEqual(catalog['photos'][0]['src'], 'https://photos.example.com/' + self.src)
+        self.assertLess(report['bytes'], 100000)
+
     def test_only_runtime_and_referenced_images_are_published(self):
         self.image.chmod(0o600)
         output, report = self.stage()

@@ -47,6 +47,31 @@ class ContentSyncTests(unittest.TestCase):
     def data(self):
         return json.loads((self.root / 'generated/content.json').read_text())
 
+    def test_r2_manifest_builds_gallery_without_local_photos_or_thumbnail_cache(self):
+        folder = self.folder()
+        path = self.photo(folder)
+        self.csv(folder, [dict(filename=path.name, location='Paris', country='France', description='The river')])
+        sync(self.root)
+        original = self.data()['photos'][0]
+        key = path.relative_to(self.root).as_posix()
+        objects = {key: dict(sha256=hashlib.sha256(path.read_bytes()).hexdigest(), bytes=path.stat().st_size)}
+        for variant in original['thumbnailVariants']:
+            thumb = self.root / variant['src']
+            objects[variant['src']] = dict(sha256=hashlib.sha256(thumb.read_bytes()).hexdigest(), bytes=thumb.stat().st_size)
+        entry = dict(sha256=objects[key]['sha256'], width=1, height=1,
+                     thumbnailVariants=original['thumbnailVariants'], displayWidth=1, displayHeight=1)
+        (self.root / 'site.json').write_text(json.dumps(dict(url='https://example.com', image_origin='https://photos.example.com')))
+        (self.root / 'content/photo-assets.json').write_text(json.dumps(dict(objects=objects, sources={key: entry})))
+        path.unlink()
+        shutil.rmtree(self.root / 'generated/thumbnails')
+        sync(self.root)
+        photo = self.data()['photos'][0]
+        self.assertEqual(photo['id'], original['id'])
+        self.assertEqual(photo['src'], 'https://photos.example.com/content/galleries/night-walks/city%20view.png')
+        self.assertTrue(photo['thumbnailSrc'].startswith('https://photos.example.com/generated/thumbnails/'))
+        self.assertEqual(photo['albums'], original['albums'])
+        self.assertIn(photo['src'], (self.root / 'gallery-night-walks.html').read_text())
+
     def test_new_gallery_csv_quoting_pin_country_and_escaped_page(self):
         folder = self.folder()
         self.photo(folder)

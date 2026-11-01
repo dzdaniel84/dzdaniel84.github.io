@@ -32,3 +32,14 @@ test('chapter anchors use readable place names',()=>{
  assert.equal(anchor('Québec City'),'quebec-city');
  assert.equal(anchor('Kyoto & Uji'),'kyoto-and-uji');
 });
+
+test('country covers account for portrait cropping and offer the full-sized source',()=>{
+ const declaration=source.slice(source.indexOf('function countryCoverAttrs('),source.indexOf('function renderCountryDirectory('));
+ const attrs=vm.runInNewContext("const photoSrc=p=>p.src;const thumbnailAttrs=(photo,sizes)=>({photo,sizes});\n"+declaration+"\ncountryCoverAttrs;");
+ const result=attrs({src:'large.jpeg',width:2500,height:1667,thumbnailVariants:[{src:'small.webp',width:960,height:640}]});
+ assert.equal(result.photo.thumbnailVariants.at(-1).src,'large.jpeg');
+ assert.ok(result.sizes.includes('2.249'));
+ assert.equal(result.photo.thumbnailVariants.at(-1).width,2500);
+ const portrait=attrs({src:'portrait.jpeg',width:1000,height:1500,thumbnailVariants:[]});
+ assert.ok(portrait.sizes.includes('* 1)'));
+});

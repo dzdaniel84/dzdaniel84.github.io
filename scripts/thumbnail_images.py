@@ -13,7 +13,7 @@ import sys
 import tempfile
 
 PROJECT = Path(__file__).resolve().parents[1]
-RECIPE = dict(version=1, edges=[480, 960], quality=80, method=4, format='WEBP')
+RECIPE = dict(version=1, edges=[240, 960], quality=80, method=4, format='WEBP')
 RECIPE_KEY = hashlib.sha256(json.dumps(RECIPE, sort_keys=True).encode()).hexdigest()[:8]
 OWNED_FILE = re.compile(r'[a-f0-9]{32}-[a-f0-9]{8}(?:-\d+)?\.(?:json|webp)')
 
