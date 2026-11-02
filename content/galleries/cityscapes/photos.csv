@@ -37,7 +37,7 @@ cityscape-23.jpeg,Athens,Greece,,Athens,37.9838,23.7275,true,cityscapes-23,Citie
 cityscape-24.jpeg,Rome,Italy,,Rome,41.89273,12.48337,true,italy-068,Country Albums,City,gps,false,true,,526.0,,
 cityscape-25.jpeg,Singapore,Singapore,,Singapore,1.304375,103.82458,true,singapore-054,Country Albums,City,gps,false,true,,1105.0,,
 cityscapes-cover.jpeg,New York,United States,,New York,,,true,cityscapes-cover,Cities,,,false,false,,,true,
-cityscape-porto.jpeg,Porto,Portugal,,Porto,41.1442,-8.613144444444444,true,cityscapes-porto,Cities,Viewpoint,gps,false,true,,,,
+cityscape-porto.jpeg,Porto,Portugal,,Porto,41.1442,-8.613144444444444,true,cityscapes-porto,Cities,Viewpoint,gps,true,true,,,,
 cityscape-toledo.jpeg,Toledo,Spain,,Toledo,39.86,-4.03,true,cityscapes-toledo,Cities,City,manual,false,true,,,,
 cityscape-berlin.jpeg,Berlin,Germany,,Berlin,52.520833333333336,13.409419444444445,true,cityscapes-berlin,Cities,Viewpoint,gps,true,true,,,,
 cityscape-munich.jpeg,Munich,Germany,,Munich,48.14,11.58,true,cityscapes-munich,Cities,City,manual,true,true,,,,

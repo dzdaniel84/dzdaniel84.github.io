@@ -2,5 +2,71 @@
   "name": "Portugal",
   "page": "country-portugal.html",
   "cover": "portugal-045.jpeg",
-  "cover_position": "50% 50%"
+  "cover_position": "50% 50%",
+  "hide_captions": true,
+  "presentation": {
+    "chapters": [
+      {
+        "title": "Lisbon",
+        "photoIds": [
+          "portugal-047",
+          "portugal-035",
+          "portugal-014",
+          "portugal-024",
+          "portugal-002",
+          "portugal-032",
+          "portugal-009",
+          "portugal-038",
+          "portugal-022",
+          "portugal-020",
+          "portugal-045",
+          "portugal-001",
+          "portugal-008",
+          "portugal-026",
+          "portugal-028",
+          "portugal-011",
+          "portugal-003",
+          "portugal-lisbon-001",
+          "portugal-lisbon-002",
+          "portugal-lisbon-003",
+          "portugal-lisbon-004",
+          "portugal-lisbon-008",
+          "portugal-lisbon-028",
+          "portugal-lisbon-033",
+          "portugal-lisbon-070",
+          "portugal-lisbon-155",
+          "portugal-lisbon-208",
+          "portugal-lisbon-219",
+          "portugal-lisbon-236",
+          "portugal-lisbon-241",
+          "portugal-lisbon-244",
+          "portugal-lisbon-249",
+          "portugal-lisbon-252",
+          "portugal-lisbon-254",
+          "portugal-lisbon-259"
+        ]
+      },
+      {
+        "title": "Porto",
+        "photoIds": [
+          "cityscapes-porto",
+          "portugal-porto-004",
+          "portugal-porto-006",
+          "portugal-porto-008",
+          "portugal-porto-010",
+          "portugal-porto-013",
+          "portugal-porto-016",
+          "portugal-porto-017",
+          "portugal-porto-018",
+          "portugal-porto-019",
+          "portugal-porto-021",
+          "portugal-porto-022",
+          "portugal-porto-023",
+          "portugal-porto-024",
+          "portugal-porto-026",
+          "portugal-porto-028"
+        ]
+      }
+    ]
+  }
 }
