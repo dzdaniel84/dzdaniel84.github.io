@@ -40,7 +40,8 @@ const photoCaption = p => isWildlife(p)
  : '<span class="tile-caption"><span>'+esc(photoTitle(p))+'</span><span>'+esc(photoPlace(p)||'')+'</span></span>';
 const photoAlt = p => [photoTitle(p),isWildlife(p)?[p.location,wildlifeCountry(p)].filter(Boolean).join(', '):photoPlace(p)].filter(Boolean).join(' — ');
 const hasLocation = p => !!p.location && Number.isFinite(p.lat) && Number.isFinite(p.lng);
-const filtered = () => photos.filter(p => matchesCategory(p) && (!place || (place === '__unlocated__' ? !hasLocation(p) : p.location === place)));
+const atlasPlaceKey = p => JSON.stringify([p.country || '', p.location]);
+const filtered = () => photos.filter(p => matchesCategory(p) && (!place || (place === '__unlocated__' ? !hasLocation(p) : atlasPlaceKey(p) === place)));
 function openPhoto(p, list = photos) {
  lightboxPhotos = list; current = Math.max(0,list.findIndex(x=>x.id===p.id));
  renderLightboxThumbnails();showPhoto();$('#lightbox').showModal();requestAnimationFrame(updateLightboxThumbnails);
@@ -406,11 +407,11 @@ function setMapBounds(bounds){
 }
 window.addEventListener('resize',()=>{if(mapSurface&&!detailActive)setMapBounds(mapBounds)});
 function updateMapCamera(){
- if(vectorReady&&place&&!detailActive){const p=photos.find(p=>p.location===place&&hasLocation(p));if(p)showDetail([p.lng,p.lat],4);}
+ if(vectorReady&&place&&!detailActive){const p=photos.find(p=>atlasPlaceKey(p)===place&&hasLocation(p));if(p)showDetail([p.lng,p.lat],4);}
  if(detailActive){if(vectorCameraPlace!==place){vectorCameraPlace=place;focusVectorMap();}return;}
  if(cameraPlace===place){setMapBounds(mapBounds);return;}
  cameraPlace=place;
- const selected = photos.find(p=>p.location===place && Number.isFinite(p.lat) && Number.isFinite(p.lng));
+ const selected = photos.find(p=>atlasPlaceKey(p)===place && Number.isFinite(p.lat) && Number.isFinite(p.lng));
  const width = selected?.coordinatePrecision==='Landmark'?1.8:selected?.coordinatePrecision==='Park'?18:selected?.coordinatePrecision==='Region'?24:selected?.coordinatePrecision==='Country'?240:6, height = Math.min(550,width*mapViewportAspect()), point=selected?projectAtlas(selected.lng,selected.lat):null;
  const target = selected ? [Math.max(0,Math.min(1080-width,point[0]-width/2)),Math.max(0,Math.min(550-height,point[1]-height/2)),width,height] : [...worldBounds];
  if(target.every((n,i)=>n===mapTarget[i])){setMapBounds(mapBounds);return;}
@@ -499,8 +500,9 @@ mapSurface.addEventListener('keydown',event=>{
 function renderPoints(){
  const groups=new Map();
  photos.filter(p=>matchesCategory(p)&&hasLocation(p)).forEach(p=>{
-  if(!groups.has(p.location))groups.set(p.location,{name:p.location,photos:[],x:0,y:0});
-  const group=groups.get(p.location);group.photos.push(p);const [x,y]=projectAtlas(p.lng,p.lat);group.x+=x;group.y+=y;
+  const key=atlasPlaceKey(p);
+  if(!groups.has(key))groups.set(key,{key,name:p.location,photos:[],x:0,y:0});
+  const group=groups.get(key);group.photos.push(p);const [x,y]=projectAtlas(p.lng,p.lat);group.x+=x;group.y+=y;
  });
  mapPlaces=[...groups.values()].map(g=>({...g,x:g.x/g.photos.length,y:g.y/g.photos.length}));
  mapPointSignature='';drawMapPoints();if(vectorReady)updateVectorPoints();
@@ -511,12 +513,12 @@ function drawMapPoints(){
  const cells=new Map(),selected=[];
  mapPlaces.forEach(p=>{
   if(p.x<mapBounds[0]-cellSize||p.x>mapBounds[0]+mapBounds[2]+cellSize||p.y<mapBounds[1]-cellSize||p.y>mapBounds[1]+mapBounds[3]+cellSize)return;
-  if(p.name===place){selected.push([p]);return;}
+  if((p.key||p.name)===place){selected.push([p]);return;}
   const key=Math.floor(p.x/cellSize)+','+Math.floor(p.y/cellSize);
   if(!cells.has(key))cells.set(key,[]);cells.get(key).push(p);
  });
  const groups=[...cells.values(),...selected];
- const signature=groups.map(g=>g.map(p=>p.name).join('|')).join(';;')+'::'+place;
+ const signature=groups.map(g=>g.map(p=>p.key||p.name).join('|')).join(';;')+'::'+place;
  if(signature===mapPointSignature)return;
  mapPointSignature=signature;
  const focused=document.activeElement?.dataset.location,focusedCluster=document.activeElement?.dataset.cluster;
@@ -525,18 +527,18 @@ function drawMapPoints(){
   const clustered=group.length>1,first=group[0],x=group.reduce((n,p)=>n+p.x,0)/group.length,y=group.reduce((n,p)=>n+p.y,0)/group.length;
   const list=group.flatMap(p=>p.photos),countries=[...new Set(list.map(p=>p.country))];
   const label=clustered?(countries.length===1?countries[0]+': ':'')+group.length+' places, '+list.length+' photographs. Zoom to explore.':first.name+', '+list.length+' photographs';
-  const g=document.createElementNS(surface.namespaceURI,'g');g.setAttribute('class','map-point'+(list.length>1?' map-cluster':'')+(place===first.name&&!clustered?' selected':''));
+  const g=document.createElementNS(surface.namespaceURI,'g');g.setAttribute('class','map-point'+(list.length>1?' map-cluster':'')+(place===(first.key||first.name)&&!clustered?' selected':''));
   g.dataset.x=x;g.dataset.y=y;
   if(clustered)g.dataset.cluster=group.map(p=>p.name).join('|');else g.dataset.location=first.name;
   g.setAttribute('transform',`translate(${x},${y}) scale(${1/pixelScale})`);
-  g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-label',label);g.setAttribute('aria-pressed',String(!clustered&&place===first.name));
+  g.setAttribute('role','button');g.setAttribute('tabindex','0');g.setAttribute('aria-label',label);g.setAttribute('aria-pressed',String(!clustered&&place===(first.key||first.name)));
   const hit=document.createElementNS(surface.namespaceURI,'circle');hit.setAttribute('r','19');hit.setAttribute('class','point-hit');g.append(hit);
-  const circle=document.createElementNS(surface.namespaceURI,'circle');circle.setAttribute('r',list.length>1?'12':place===first.name?'7':'5');g.append(circle);
+  const circle=document.createElementNS(surface.namespaceURI,'circle');circle.setAttribute('r',list.length>1?'12':place===(first.key||first.name)?'7':'5');g.append(circle);
   const title=document.createElementNS(surface.namespaceURI,'title');title.textContent=clustered?label:first.name+' · approximate '+(first.photos[0].coordinatePrecision||'city').toLowerCase()+' position';g.append(title);
   if(list.length>1){
    const text=document.createElementNS(surface.namespaceURI,'text');text.setAttribute('class','map-cluster-count');text.setAttribute('text-anchor','middle');text.setAttribute('dy','.35em');text.textContent=String(list.length);g.append(text);
   }
-  if(!clustered&&place===first.name){
+  if(!clustered&&place===(first.key||first.name)){
    const text=document.createElementNS(surface.namespaceURI,'text');text.setAttribute('y',list.length>1?'-19':'-13');text.setAttribute('text-anchor','middle');text.textContent=first.name;g.append(text);
   }
   function select(){
@@ -549,7 +551,7 @@ function drawMapPoints(){
     const height=Math.min(550,width*mapViewportAspect());
     place=null;cameraPlace=null;render();exploreMap([x-width/2,y-height/2,width,height]);surface.focus();
    }else{
-    cameraPlace=undefined;place=first.name;render();if(!detailActive)[...points.children].find(el=>el.dataset.location===first.name)?.focus();
+    cameraPlace=undefined;place=first.key||first.name;render();if(!detailActive)[...points.children].find(el=>el.dataset.location===first.name)?.focus();
    }
   }
   g.onclick=select;g.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();select();}};points.append(g);
@@ -573,12 +575,12 @@ function renderPreview(list){
  previewIndex=Math.min(previewIndex,list.length-1);
  const p=list[previewIndex];panel.hidden=false;
  const heading=document.createElement('div');heading.className='preview-header';
- heading.innerHTML='<div class="preview-country">'+esc(p.country)+'</div><h2 class="preview-heading">'+esc(place)+'</h2>';
+ heading.innerHTML='<div class="preview-country">'+esc(p.country)+'</div><h2 class="preview-heading">'+esc(p.location)+'</h2>';
  const close=document.createElement('button');close.type='button';close.className='preview-close';close.setAttribute('aria-label','Close photo preview');close.textContent='×';close.onclick=closePlacePreview;heading.append(close);panel.append(heading);
  const open=document.createElement('button');open.type='button';open.className='preview-open';open.setAttribute('aria-label','Open '+photoAlt(p));
  open.innerHTML='<img class="preview-photo" '+thumbnailAttrs(p,'(max-width:650px) calc(100vw - 64px), 292px')+' alt="'+esc(photoAlt(p))+'"><span class="preview-open-label">View photograph ↗</span>';
  open.onclick=()=>openPhoto(p,list);panel.append(open);
- if(photoTitle(p)!==place){const caption=document.createElement('p');caption.className='preview-caption';caption.textContent=photoTitle(p);panel.append(caption);}
+ if(photoTitle(p)!==p.location){const caption=document.createElement('p');caption.className='preview-caption';caption.textContent=photoTitle(p);panel.append(caption);}
  const controls=document.createElement('div');controls.className='preview-navigation';
  function step(delta){
   previewIndex=(previewIndex+delta+list.length)%list.length;renderPreview(list);
@@ -601,7 +603,7 @@ function render(){
  document.querySelectorAll('.filters [data-category]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.category===category)));
  renderPoints();renderPreview(list);updateMapCamera();
  const message=$('#atlas-message');
- if(message)message.textContent=place?place+'. Photo preview available.':category==='All'?'Explore the photographic atlas. Select a marked place to view photographs.':'Map filtered to '+category+'.';
+ if(message)message.textContent=place?(list[0]?.location||'Location')+'. Photo preview available.':category==='All'?'Explore the photographic atlas. Select a marked place to view photographs.':'Map filtered to '+category+'.';
  if(detailActive)requestAnimationFrame(()=>vectorMap.resize());
 }
 document.querySelectorAll('.filters [data-category]').forEach(button=>button.onclick=()=>{category=button.dataset.category;showWorldOverview();});
@@ -735,12 +737,12 @@ async function init(){
 init().catch(error=>{console.error(error);if($('#photography-status'))$('#photography-status').textContent='The galleries could not be loaded. Please reload.';if($('#collection-grid'))$('#collection-grid').textContent='The photographs could not be loaded. Please reload.';if($('#atlas-message')){$('#atlas-message').textContent='The photographs could not be loaded. Please reload.';$('#atlas-message').className='atlas-error';}});
 
 function vectorData(){
- return {type:'FeatureCollection',features:mapPlaces.map((g,i)=>({type:'Feature',id:i,geometry:{type:'Point',coordinates:[g.photos.reduce((n,p)=>n+p.lng,0)/g.photos.length,g.photos.reduce((n,p)=>n+p.lat,0)/g.photos.length]},properties:{location:g.name,count:g.photos.length,country:g.photos[0].country,cover:g.photos[0].thumbnailSrc||photoSrc(g.photos[0])}}))};
+ return {type:'FeatureCollection',features:mapPlaces.map((g,i)=>({type:'Feature',id:i,geometry:{type:'Point',coordinates:[g.photos.reduce((n,p)=>n+p.lng,0)/g.photos.length,g.photos.reduce((n,p)=>n+p.lat,0)/g.photos.length]},properties:{placeKey:g.key,location:g.name,count:g.photos.length,country:g.photos[0].country,cover:g.photos[0].thumbnailSrc||photoSrc(g.photos[0])}}))};
 }
 function updateVectorPoints(){
  if(!vectorReady)return;
  vectorMap.getSource('photographs')?.setData(vectorData());
- vectorMap.setFilter('selected-location',['==',['get','location'],place||'']);
+ vectorMap.setFilter('selected-location',['==',['get','placeKey'],place||'']);
 }
 function atlasCameraPadding(selected=false){
  const mobile=matchMedia('(max-width:650px)').matches,container=$('#detailed-map'),panel=$('#place-preview');
@@ -755,7 +757,7 @@ function fitWorldVectorMap(duration=0){
 function focusVectorMap(){
  if(!vectorReady)return;
  const duration=document.hidden||!document.hasFocus()||matchMedia('(prefers-reduced-motion: reduce)').matches?0:950;
- const selected=photos.find(p=>p.location===place&&hasLocation(p));
+ const selected=photos.find(p=>atlasPlaceKey(p)===place&&hasLocation(p));
  if(selected){
   vectorExplored=true;
   const zoom={Landmark:13,City:10,'City-level':10,Park:8,Region:7,Country:3}[selected.coordinatePrecision]||10;
@@ -779,7 +781,7 @@ function initVectorAtlas(){
     const zoom=await vectorMap.getSource('photographs').getClusterExpansionZoom(feature.properties.cluster_id);
     vectorMap.easeTo({center:feature.geometry.coordinates,zoom:Math.min(17,zoom+.35),padding:atlasCameraPadding(),duration:matchMedia('(prefers-reduced-motion: reduce)').matches?0:700});
    }catch(error){console.warn('Map cluster could not be expanded',error);}
-  }else{place=feature.properties.location;vectorCameraPlace=undefined;cameraPlace=undefined;render();}
+  }else{place=feature.properties.placeKey;vectorCameraPlace=undefined;cameraPlace=undefined;render();}
  }
  try{
   container.hidden=false;
@@ -795,7 +797,7 @@ function initVectorAtlas(){
    vectorMap.addLayer({id:'place-counts',type:'symbol',source:'photographs',filter:['has','point_count'],layout:{'text-field':['to-string',['get','photos']],'text-font':['Noto Sans Regular'],'text-size':11,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#14202a'}});
    vectorMap.addLayer({id:'place-hits',type:'circle',source:'photographs',filter:['!',['has','point_count']],paint:{'circle-radius':19,'circle-color':'#d2b27b','circle-opacity':0}});
    vectorMap.addLayer({id:'place-points',type:'circle',source:'photographs',filter:['!',['has','point_count']],paint:{'circle-radius':['case',['>', ['get','count'],1],14,6],'circle-color':'#e7c68b','circle-stroke-color':'#15232d','circle-stroke-width':2}});
-   vectorMap.addLayer({id:'selected-location',type:'circle',source:'photographs',filter:['==',['get','location'],place||''],paint:{'circle-radius':['case',['>', ['get','count'],1],17,10],'circle-color':'#edcc8d','circle-stroke-color':'#fff4dd','circle-stroke-width':2}});
+   vectorMap.addLayer({id:'selected-location',type:'circle',source:'photographs',filter:['==',['get','placeKey'],place||''],paint:{'circle-radius':['case',['>', ['get','count'],1],17,10],'circle-color':'#edcc8d','circle-stroke-color':'#fff4dd','circle-stroke-width':2}});
    vectorMap.addLayer({id:'place-photo-counts',type:'symbol',source:'photographs',filter:['all',['!',['has','point_count']],['>',['get','count'],1]],layout:{'text-field':['to-string',['get','count']],'text-font':['Noto Sans Regular'],'text-size':11,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#14202a'}});
    vectorMap.addLayer({id:'place-labels',type:'symbol',source:'photographs',filter:['!',['has','point_count']],minzoom:5,layout:{'text-field':['get','location'],'text-font':['Noto Sans Regular'],'text-size':11,'text-offset':[0,1.5],'text-anchor':'top','text-max-width':15},paint:{'text-color':'#d7e0df','text-halo-color':'#111b24','text-halo-width':1.5}});
    vectorMap.on('click','place-clusters',event=>selectFeature(event.features?.[0]));
@@ -822,7 +824,7 @@ function initVectorAtlas(){
    vectorMap.on('dragstart',()=>{vectorExplored=true;});
    vectorMap.on('zoomstart',event=>{if(event.originalEvent)vectorExplored=true;});
    vectorMap.on('moveend',()=>{if(detailActive)$('#reset-map').hidden=!place&&!vectorExplored;});
-   vectorMap.resize();vectorCameraPlace=place;if(place){const p=photos.find(p=>p.location===place&&hasLocation(p));if(p)showDetail([p.lng,p.lat],4);focusVectorMap();}
+   vectorMap.resize();vectorCameraPlace=place;if(place){const p=photos.find(p=>atlasPlaceKey(p)===place&&hasLocation(p));if(p)showDetail([p.lng,p.lat],4);focusVectorMap();}
   });
   vectorMap.on('error',event=>{if(!vectorReady&&event.error?.message?.includes('style'))fallback();});
  }catch(error){fallback();console.warn('Detailed map unavailable; using the outline map.',error);}

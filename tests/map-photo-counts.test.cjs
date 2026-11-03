@@ -5,6 +5,32 @@ const vm=require('node:vm');
 const path=require('node:path');
 const source=fs.readFileSync(path.join(__dirname,'..','app.js'),'utf8');
 
+test('same-name cities in different countries keep separate pins and photo previews',()=>{
+ const photos=[...Array.from({length:6},(_,i)=>({id:'uk-'+i,location:'Cambridge',country:'United Kingdom',lat:52.2053,lng:.1218})),
+  {id:'harvard',location:'Cambridge',country:'United States',lat:42.377,lng:-71.1167}];
+ const context=vm.createContext({photos,place:null,matchesCategory:()=>true,hasLocation:()=>true,
+  projectAtlas:(lng,lat)=>[lng,lat],photoSrc:p=>p.id,drawMapPoints:()=>{},vectorReady:false});
+ vm.runInContext(source.split('\n').filter(l=>l.startsWith('const atlasPlaceKey =')||l.startsWith('const filtered =')).join('\n'),context);
+ const start=source.indexOf('function renderPoints(){'),end=source.indexOf('\nfunction drawMapPoints()',start);
+ vm.runInContext(source.slice(start,end)+'\nrenderPoints();',context);
+ const vectorStart=source.indexOf('function vectorData(){'),vectorEnd=source.indexOf('\nfunction updateVectorPoints()',vectorStart);
+ vm.runInContext(source.slice(vectorStart,vectorEnd),context);
+ const features=vm.runInContext('vectorData().features',context);
+ assert.equal(features.length,2);
+ const uk=features.find(f=>f.properties.country==='United Kingdom');
+ const us=features.find(f=>f.properties.country==='United States');
+ assert.equal(uk.properties.count,6);
+ assert.ok(Math.abs(uk.geometry.coordinates[0]-.1218)<.00001);
+ assert.ok(Math.abs(uk.geometry.coordinates[1]-52.2053)<.00001);
+ assert.equal(us.properties.count,1);
+ assert.equal(us.geometry.coordinates[0],-71.1167);
+ assert.notEqual(uk.properties.placeKey,us.properties.placeKey);
+ context.place=uk.properties.placeKey;
+ assert.equal(vm.runInContext('filtered().length',context),6);
+ context.place=us.properties.placeKey;
+ assert.equal(vm.runInContext('filtered()[0].id',context),'harvard');
+});
+
 test('overview shows photo totals for multi-photo places and clusters, and dots for singles',()=>{
  const element=()=>({attrs:{},dataset:{},children:[],setAttribute(k,v){this.attrs[k]=v;},append(x){this.children.push(x);},replaceChildren(){this.children=[];}});
  const points=element(),surface={namespaceURI:'svg',getScreenCTM:()=>({a:1})};
